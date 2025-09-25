@@ -1,0 +1,885 @@
+[
+  {
+    "no": 5455,
+    "codeType": "KDS",
+    "code": "211000",
+    "fullCode": "10202110",
+    "name": "가시설물 설계 일반사항",
+    "version": "2024",
+    "updateDate": "2024-09-30T08:30:00",
+    "list": [
+      {
+        "no": 5455,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 가시설물을 설계하기 위해 필요한 기술적 사항을 기술함으로써, 가시설물의 안전성을 확보하는 것을 그 목적으로 한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 4,
+        "title": "1.2 적용 범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용 범위</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 5,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 가시설물의 설계 시 일반적이고, 기본적인 요구사항을 규정한 것이다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 6,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 가시설물의 설계는 KDS 11 00 00 또는 KDS 14 20 00 또는 KDS 14 30 00에 따른다. 단, 가시설물별 특성을 고려하여 KDS 21 00 00의 각 하위기준에서 제안한 별도의 설계법을 따를 수 있다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 7,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3) KDS 21 00 00에 규정되어 있지 않은 사항에 대해서는 국토교통부 제정 관련 설계기준 등에 따른다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 8,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(4)",
+        "contents": "<p>(4) 이 기준에서 규정된 사항과 관련 법에서 규정한 사항이 서로 다른 경우에는 상위 기준을 우선 따른다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 9,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 10,
+        "title": "1.3.1 관련 법규",
+        "level": 3,
+        "label": "1.3.1",
+        "contents": "<p>1.3.1 관련 법규</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 11,
+        "title": "1.3.1 관련 법규",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· 방호장치 안전인증 고시</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 12,
+        "title": "1.3.1 관련 법규",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· 방호장치 자율안전기준 고시</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 13,
+        "title": "1.3.2 관련 기준",
+        "level": 3,
+        "label": "1.3.2",
+        "contents": "<p>1.3.2 관련 기준</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 14,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KDS 11 00 00 지반설계기준</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 15,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KDS 14 20 00 콘크리트구조설계(강도설계법)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 16,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KDS 14 30 00 강구조설계(허용응력설계법)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 17,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KDS 17 10 00 내진설계 일반</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 18,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KDS 21 30 00 가설흙막이 설계기준</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 19,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KDS 24 00 00 교량설계기준</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 20,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KDS 41 00 00 건축구조기준</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 21,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KDS 47 00 00 철도설계기준</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 22,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KS F 3020 침엽수 구조용재</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 23,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KS F 3110 콘크리트 거푸집용 합판</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 24,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· 콘크리트 가설 교량용 동바리 설치 지침</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 25,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 26,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 가시설물 : 영구 구조물의 축조를 위하여 임시로 설치하는 시설 또는 구조물</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 27,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 거푸집 널 변형기준 : 콘크리트 표면의 평탄하기 등급에 따라 A급, B급, C급으로 나누며, 상대변형과 절대변형으로 구분함</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 28,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 공사감독자 : 공사계약일반조건 제2조제3호의 공사감독관</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 29,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 설계하중(design load) : 부재 설계 시 적용 가능한 모든 하중과 힘;허용응력설계법에서는 사용하중, 강도설계법 또는 한계상태설계법에서는 계수하중을 의미함</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 30,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 안전율(safety factor) : 부재의 허용응력에 대한 설계하중으로 인한 응력의 비</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 31,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 충실률 : 틈이 있는 구조물에서 실제로 풍압력이 작용하는 수압면적을 외주로 둘러싸이는 면적의 풍향에 직각인 면으로의 투영으로 나눈 값</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 32,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 하중(load) : 구조물 또는 부재에 응력 및 변형을 발생시키는 일체의 작용</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 33,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 허용응력(allowable stress) : 탄성설계에서 재료의 설계기준강도를 안전율로 나눈 것</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 34,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 허용응력설계법 : 탄성이론에 의한 구조해석으로 산정한 부재단면의 응력이 허용응력을 초과하지 않도록 구조부재를 설계하는 방법</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 35,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 36,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 가시설물 설계에 사용되는 기호는 KDS 21 00 00의 각 하위코드의 내용을 따른다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 37,
+        "title": "2. 재료",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 재료</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 38,
+        "title": "2.1 적용 범위",
+        "level": 2,
+        "label": "2.1",
+        "contents": "<p>2.1 적용 범위</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 39,
+        "title": "2.1 적용 범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 가시설물 설계에 필요한 재료의 일반사항에 대하여 적용한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 40,
+        "title": "2.2 일반사항",
+        "level": 2,
+        "label": "2.2",
+        "contents": "<p>2.2 일반사항</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 41,
+        "title": "2.2 일반사항",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 가시설물 설계에 사용되는 재료는 한국산업표준(KS)(이하 ‘한국산업표준’이라고 함) 및 고용노동부 방호장치 안전인증 고시(이하 ‘방호장치 안전인증기준’이라고 함) 및 방호장치 자율안전기준 고시(이하 ‘방호장치 자율안전기준’이라고 함)에 적합하여야 한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 42,
+        "title": "2.2 일반사항",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 가시설물 설계에 사용되는 재료의 허용응력과 부재의 성능은 KDS 21 00 00 각 하위기준에 따른다. 다만, KDS 21 00 00에서 구체적으로 명시하지 않은 재료는 국토교통부 제정 관련 설계기준 및 설계지침 또는 공인시험기관의 시험결과에 따른다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 43,
+        "title": "2.3 목재",
+        "level": 2,
+        "label": "2.3",
+        "contents": "<p>2.3 목재</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 44,
+        "title": "2.3 목재",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 거푸집 널로 사용되는 합판은 KS F 3110에 적합하여야 한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 45,
+        "title": "2.3 목재",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 구조용 목재는 KS F 3020에 적합하여야 한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 46,
+        "title": "2.3 목재",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3) 한국산업표준 이외의 재료는 한국산업표준에 규정된 적합한 시험 및 평가방법에 의하여 적합한 것으로 판단되는 경우에 한하여 사용할 수 있다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 47,
+        "title": "2.4 강재",
+        "level": 2,
+        "label": "2.4",
+        "contents": "<p>2.4 강재</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 48,
+        "title": "2.4 강재",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 구조용 강관 및 강재는 한국산업표준에 적합하여야 한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 49,
+        "title": "2.4 강재",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 한국산업표준 이외의 재료는 한국산업표준에 규정된 적합한 시험 및 평가방법에 의하여 적합한 것으로 판단되는 경우에 한하여 사용할 수 있다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 50,
+        "title": "2.5 알루미늄재",
+        "level": 2,
+        "label": "2.5",
+        "contents": "<p>2.5 알루미늄재</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 51,
+        "title": "2.5 알루미늄재",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 알루미늄 재료는 한국산업표준에 적합하여야 한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 52,
+        "title": "2.5 알루미늄재",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 한국산업표준 이외의 재료는 한국산업표준에 규정된 적합한 시험 및 평가방법에 의하여 적합한 것으로 판단되는 경우에 한하여 사용할 수 있다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 53,
+        "title": "2.6 플라스틱재",
+        "level": 2,
+        "label": "2.6",
+        "contents": "<p>2.6 플라스틱재</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 54,
+        "title": "2.6 플라스틱재",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 플라스틱 재료는 한국산업표준에 적합하여야 한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 55,
+        "title": "2.6 플라스틱재",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 한국산업표준 이외의 재료는 한국산업표준에 규정된 적합한 시험 및 평가방법에 의하여 적합한 것으로 판단되는 경우에 한하여 사용할 수 있다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 56,
+        "title": "2.7 기타 재료",
+        "level": 2,
+        "label": "2.7",
+        "contents": "<p>2.7 기타 재료</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 57,
+        "title": "2.7 기타 재료",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준에서 규정한 재료 이외의 재료는 한국산업표준에 적합하여야 한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 58,
+        "title": "2.7 기타 재료",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 한국산업표준 이외의 재료는 한국산업표준에 규정된 적합한 시험 및 평가방법에 의하여 적합한 것으로 판단되는 경우에 한하여 사용할 수 있다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 59,
+        "title": "3. 설계하중 및 하중조합",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 설계하중 및 하중조합</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 60,
+        "title": "3.1 적용 범위",
+        "level": 2,
+        "label": "3.1",
+        "contents": "<p>3.1 적용 범위</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 61,
+        "title": "3.1 적용 범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 가시설물에 작용하는 각종 설계하중 및 하중조합에 관한 일반적인 사항에 대하여 적용한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 62,
+        "title": "3.2 설계하중",
+        "level": 2,
+        "label": "3.2",
+        "contents": "<p>3.2 설계하중</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 63,
+        "title": "3.2 설계하중",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 가시설물 설계에 적용되는 설계하중은 다음 각 항과 같으며, 가시설물별로 고려하여야 할 하중은 KDS 21 00 00 각 하위기준의 내용을 따른다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 64,
+        "title": "3.2.1 연직하중",
+        "level": 3,
+        "label": "3.2.1",
+        "contents": "<p>3.2.1 연직하중</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 65,
+        "title": "3.2.1 연직하중",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 가시설물의 설계 시 작용되는 연직하중의 종류는 다음과 같다. </p>"
+      },
+      {
+        "no": 5455,
+        "sort": 66,
+        "title": "3.2.1 연직하중",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 고정하중(D)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 67,
+        "title": "3.2.1 연직하중",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 활하중(L)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 68,
+        "title": "3.2.1 연직하중",
+        "level": 6,
+        "label": "가.",
+        "contents": "<p>가. 설계차량하중(<img src=\"data:image/gif;base64,R0lGODlhEAARAPUAAAAAAAAAZgA6OgBmtjoAADo6kDqQ22YAOmYAZmY6AGY6ZmY6kGaQ22a2/5A6AJA6OpCQkJCQ25C2/5Db/7ZmALa2tra227a2/7b//9uQOtu2kNu2ttv/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAQABEAAAZbwJFwSCwaj0eRAwAIYJBD0WMCJX4KneowY9AKlQ3vKIR4ej0D8YjSFVagoQN19JFAr1nQohNSPD8RI0pMhF0bFRwQHBZVIhYhESEXVR8MHhIac0ghCQIEaWpDQQA7\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 69,
+        "title": "3.2.1 연직하중",
+        "level": 6,
+        "label": "나.",
+        "contents": "<p>나. 작업하중(<img src=\"data:image/gif;base64,R0lGODlhDAARAPQAAAAAAAAAZgBmtjo6kDpmtjqQ22YAOmYAZmY6ZmY6kGa2/5A6AJA6OpC2/5Db/7ZmALa2tra227b//9uQOtu2Ztvb29vb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAMABEAAAVEYCeOZGma3AIAgXRyjHOK2XDN3VTgqYJvB9cMI8B1HjsRpENpiDYGWSfjJNVumsRlg5CkVuBdBXKbcSJGTcSCwxCMoxAAOw==\" width=\"13\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 70,
+        "title": "3.2.1 연직하중",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 공사차량하중(<img src=\"data:image/gif;base64,R0lGODlhCgAOAPQAAAAAAAA6ZgA6kDoAADoAZjpmtjqQ22aQ22a2/5A6ZpBmkJCQOpCQ25Db/7ZmALZmOraQkLbb27bb/7b//9uQkNu2Ztu2ttv///+2Zv+2kP/bkP/btv//tv//2////wAAACH5BAAAAB4ALAAAAAAKAA4AAAU4oCeOZGmeaHo6wiV2T+NtkXJphYchnsUxOsNMItp5Yh7KRBTrJJYQl8eB0BAmlcMoMwgsAC2VOAQAOw==\" width=\"11\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 71,
+        "title": "3.2.2 수평하중",
+        "level": 3,
+        "label": "3.2.2",
+        "contents": "<p>3.2.2 수평하중</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 72,
+        "title": "3.2.2 수평하중",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 가시설물 설계 시 작용되는 수평하중의 종류는 다음과 같다. 다만, 지진하중(E)은 가시설물의 존치기간 및 현장여건에 따라 고려할 수 있다. </p>"
+      },
+      {
+        "no": 5455,
+        "sort": 73,
+        "title": "3.2.2 수평하중",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 풍하중(W)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 74,
+        "title": "3.2.2 수평하중",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 지진하중(E)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 75,
+        "title": "3.2.2 수평하중",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 콘크리트 측압(P)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 76,
+        "title": "3.2.2 수평하중",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 수압(F)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 77,
+        "title": "3.2.2 수평하중",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ 토압(H)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 78,
+        "title": "3.2.2 수평하중",
+        "level": 5,
+        "label": "⑥",
+        "contents": "<p>⑥ 파압(WP)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 79,
+        "title": "3.2.2 수평하중",
+        "level": 5,
+        "label": "⑦",
+        "contents": "<p>⑦ 타설시 충격 또는 시공오차 등의 의한 최소 수평하중(M)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 80,
+        "title": "3.2.2 수평하중",
+        "level": 5,
+        "label": "⑧",
+        "contents": "<p>⑧ 온도하중(T)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 81,
+        "title": "3.2.3 특수하중(S)",
+        "level": 3,
+        "label": "3.2.3",
+        "contents": "<p>3.2.3 특수하중(S)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 82,
+        "title": "3.2.3 특수하중(S)",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 가시설물의 설계 시 작용되는 특수하중의 종류는 다음과 같다. </p>"
+      },
+      {
+        "no": 5455,
+        "sort": 83,
+        "title": "3.2.3 특수하중(S)",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 편심하중</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 84,
+        "title": "3.2.3 특수하중(S)",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 콘크리트 내부 매설물의 양압력</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 85,
+        "title": "3.2.3 특수하중(S)",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 포스트텐션(post tension) 시에 전달되는 하중</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 86,
+        "title": "3.2.3 특수하중(S)",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 작업하중 이외의 충격하중(I)</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 87,
+        "title": "3.2.3 특수하중(S)",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ 진동다짐에 의한 하중</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 88,
+        "title": "3.2.3 특수하중(S)",
+        "level": 5,
+        "label": "⑥",
+        "contents": "<p>⑥ 안전시설의 특수한 설비를 설치한 경우</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 89,
+        "title": "3.2.3 특수하중(S)",
+        "level": 5,
+        "label": "⑦",
+        "contents": "<p>⑦ 적설하중</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 90,
+        "title": "3.2.3 특수하중(S)",
+        "level": 5,
+        "label": "⑧",
+        "contents": "<p>⑧ 교통하중, 인접 건물 하중</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 91,
+        "title": "3.2.3 특수하중(S)",
+        "level": 5,
+        "label": "⑨",
+        "contents": "<p>⑨ 3.2.1, 3.2.2와 상기 (1)∼(8)항 이외의 하중 또는 기타 하중</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 92,
+        "title": "3.2.4 불균등하중",
+        "level": 3,
+        "label": "3.2.4",
+        "contents": "<p>3.2.4 불균등하중</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 93,
+        "title": "3.2.4 불균등하중",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 불균등하중은 가시설물 인양 시 발생하는 하중으로 지지상태를 고려하여 적용하여야 한다. </p>"
+      },
+      {
+        "no": 5455,
+        "sort": 94,
+        "title": "3.2.4 불균등하중",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 가시설물을 3점 이상으로 다점지지 하는 경우에는 각 지지점의 상대변위를 불균등하중으로 고려한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 95,
+        "title": "3.2.4 불균등하중",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 불균등하중은 각 지지점의 상대변위가 없다고 판정해서 산출한 지지반력에 적절한 계수를 곱해서 구함을 원칙으로 한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 96,
+        "title": "3.2.4 불균등하중",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 인양고리는 가시설물 자중 이외에 2점 방식의 경우 가시설물 자중의 50%, 4점 방식의 경우 100%의 불균등하중을 고려하여야 한다. 다만, 수평조절장치 등을 사용하고 힘의 균형을 고려한 경우에는 이 기준을 따르지 않아도 된다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 97,
+        "title": "3.3 하중조합",
+        "level": 2,
+        "label": "3.3",
+        "contents": "<p>3.3 하중조합</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 98,
+        "title": "3.3 하중조합",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 가시설물 설계 시에는 시공 중 또는 사용기간 중에 작용할 것으로 예상되는 하중들을 각 하중들의 발생특성에 따라 합리적으로 조합하여 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 99,
+        "title": "3.3 하중조합",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 하중 종류에 따라 적용되는 하중조합 및 증가계수는 다음과 같다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 100,
+        "title": "3.3.1 거푸집 및 동바리, 비계 및 안전시설물",
+        "level": 3,
+        "label": "3.3.1",
+        "contents": "<p>3.3.1 거푸집 및 동바리, 비계 및 안전시설물</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 101,
+        "title": "3.3.1 거푸집 및 동바리, 비계 및 안전시설물",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 거푸집 및 동바리, 비계 및 안전시설물 설계 시 하중조합 및 허용응력증가계수는 표 3.3-1에 따라 적용한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 102,
+        "title": "3.3.1 거푸집 및 동바리, 비계 및 안전시설물",
+        "level": 5,
+        "label": "표 3.3-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.3-1 거푸집 및 동바리 등의 하중조합 및 허용응력증가계수</p></caption><tbody><tr>\t<td width=\"103\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>CASE</p>\t</td>\t<td width=\"244\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>하중조합</p>\t</td>\t<td width=\"219\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>허용응력증가계수</p>\t</td></tr><tr>\t<td width=\"103\" height=\"27\" valign=\"middle\" align=\"center\">\t<p>1</p>\t</td>\t<td width=\"244\" height=\"27\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhSAARAPUAAAAAAAAAOgAAZgA6OgA6kABmtjoAADoAOjoAZjo6ADo6kDpmtjqQ22YAOmYAZmY6OmY6ZmZmkGaQtmaQ22a222a2/5A6AJBmOpCQtpCQ25C2/5Db/7ZmALaQOraQkLa2tra227b//9uQOtuQZtuQkNu2ZtvbkNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADEALAAAAABIABEAAAb+wJhwSCwaj8ikcslsOp/QqBKGkSap1qMKwOUGJkescuvdTKtLMqMoKqoIKWHJUDGKx4IQ865cJQpEKw9FHGtDHIBFfEiFTYtIHh2JMS0SFkQvDWaHiS0GXaABm5iaSZ6gXaJHLxkiiVQtCkQicEMwFoZEj2y1e2hKJBu0cR4pjUK3dUMtB6O2v2G4Tru6VW8pIxuZoy0Iepxh0EbMoywhJRrhSy3pbybtvTGus/HVSvPI4or6RSR6KgPAxDgWI5kQFxfqPTEYw8UDbRC+RXERIc41Sg6+cUA1gEKWjagAnfgQJwpIQDBS3CqTRQoMEC1jyiTiAgSKmTizqFiQs6cET5lBAAA7\" width=\"74\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"219\" height=\"27\" valign=\"middle\" align=\"center\">\t<p>1.00</p>\t</td></tr><tr>\t<td width=\"103\" height=\"26\" valign=\"middle\" align=\"center\">\t<p>2</p>\t</td>\t<td width=\"244\" height=\"26\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhKQAOAPUAAAAAAAAAZgA6OgA6ZgA6kABmZgBmtjoAADoAZjo6kDpmtjqQ22YAOmYAZmY6OmaQtma225A6AJA6OpBmOpCQ25DbtpDb/7ZmALZmOra2kLa227a2/7bbtrbb/7b//9uQOtuQkNu2kNu2ttv///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAApAA4AAAakQJVwSCwaj8ikcsk8piKAKGBgQYI8SNMBEPBcogvVl4hiVFMXwuh4TZIMwpSkqjJRiCS10ITAGttIb0JldCJrQxdhe31sfkeCKhkOVScdRHJ0KnmHmlKecEWCJxxmKRpFJgmcF6B/jkZvpoQlryofiiqEVrV4BoZlFRtFmEMYuK5uBcJlD0apaycTCkqARx+gKA21X1ICEE1JIX4od+Dm5+jpRkEAOw==\" width=\"43\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"219\" height=\"26\" valign=\"middle\" align=\"center\">\t<p>1.25</p>\t</td></tr><tr>\t<td width=\"103\" height=\"27\" valign=\"middle\" align=\"center\">\t<p>3</p>\t</td>\t<td width=\"244\" height=\"27\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhYQARAPUAAAAAAAAAOgAAZgA6OgA6kABmtjoAADoAOjoAZjo6ADo6Zjo6kDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmZmkGaQtmaQ22a222a2/5A6AJA6OpBmOpCQtpCQ25C2tpC2/5DbtpDb/522ZrZmALZmZraQOraQkLa2tra227bb/7b//9uQOtuQZtuQkNu2ZtvbkNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAACH5BAAAADsALAAAAABhABEAAAb+wJ1wSCwaj8ikcslsOp/QqHRKHeo41eM1q8VKZ4BwOGDpMsHjkHKrRDeKqzCmyEbeJIBApTgjyIQuBnN0XkszAipMdUk0CQVENBKPRotFNgopOzYORSNvQyOTRJVInk2kRiYlojYVGYOESDoaakIkRDkPtUKhQjYGYsEBu7i6Sb/BYsNGOR0rk1c2C3++wMl5uzkQiUInRCt+Vhmfo4VJ4NRLqEQtIeg7JjKmZkgrChWZo69ENgfEQuvEkVNnjhKWPjJYhMj1z0pBIzg2DLSBgBsvUeWW9NtVQ8QHWQ/5fezzYmQ4ekVq5NM0bcizbydjKXkJMKRDJS0SzRhQZsdaPJRESFhcQU7Hvh03NsSMYnTQHRATLEK5QeEPQk3bouRw8MlFS5/JBlyoMuJaARgn0j0pC+CRDhlG00Ch4SFCGAZquZxCobevXyo3UMT4S7hwGwaGEyteTDgIADs=\" width=\"98\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"219\" height=\"27\" valign=\"middle\" align=\"center\">\t<p>1.50</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5455,
+        "sort": 103,
+        "title": "3.3.2 가설흙막이공",
+        "level": 3,
+        "label": "3.3.2",
+        "contents": "<p>3.3.2 가설흙막이공</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 104,
+        "title": "3.3.2 가설흙막이공",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 가설흙막이공의 하중조합은 KDS 21 30 00에 따른다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 105,
+        "title": "3.3.3 가설교량 및 노면 복공",
+        "level": 3,
+        "label": "3.3.3",
+        "contents": "<p>3.3.3 가설교량 및 노면 복공</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 106,
+        "title": "3.3.3 가설교량 및 노면 복공",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 가설교량 및 노면 복공 설계 시 하중조합 및 허용응력증가계수는 표 3.3-2에 따라 적용한다.</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 107,
+        "title": "3.3.3 가설교량 및 노면 복공",
+        "level": 5,
+        "label": "표 3.3-2",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.3-2 가설교량 및 노면 복공의 하중조합 및 허용응력증가계수</p></caption><tbody><tr>\t<td width=\"101\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>CASE</p>\t</td>\t<td width=\"247\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>하중 조합</p>\t</td>\t<td width=\"217\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>허용응력증가계수</p>\t</td></tr><tr>\t<td width=\"101\" height=\"29\" valign=\"middle\" align=\"center\">\t<p>1</p>\t</td>\t<td width=\"247\" height=\"29\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhLwARAPUAAAAAAAAAOgAAZgA6OgA6kABmtjoAADoAOjoAZjqQ22YAOmY6AGY6OmY6ZmaQ22a222a2/5A6AJBmOpCQkJCQtpCQ25C2/5Db/7ZmALa2tra227a2/7b//9uQOtu2Ztu2kNu2ttv/29v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACkALAAAAAAvABEAAAaowJRwSCwaj8ikcslsOpEoyvM5AlitAccxuqxiL84RQST0GCBGblfAmWISREwhLV2+pycFeCgXlgxXgQF7RHmETR1jQygRcEVqSYlkToxoQyUHh0KQW41TJQhtfHN0SpiEJKKRpEKSW3VIHaycnZYmEopTmxG2DBcnDW0lFXGBAAMPunzGAHMgGSETIRrK1UQoGicVJxvW3iUOIxYfmt5PJwsDBqzm7UNBADs=\" width=\"48\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> </p>\t</td>\t<td width=\"217\" height=\"29\" valign=\"middle\" align=\"center\">\t<p>1.00</p>\t</td></tr><tr>\t<td width=\"101\" height=\"29\" valign=\"middle\" align=\"center\">\t<p>2</p>\t</td>\t<td width=\"247\" height=\"29\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhRAARAPUAAAAAAAAAOgAAZgA6OgA6kABmtjoAADoAOjoAZjqQ22YAOmY6AGY6OmY6ZmaQ22a222a2/5A6AJBmOpCQkJCQtpCQ25C2/5Db/7ZmALa2tra227a2/7b//9uQOtu2Ztu2kNu2ttv/29v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACkALAAAAABEABEAAAbcwJRwSCwaj8ikcslsOp/QqBBFkTap0hFguw04jliltntxhpUdQHFEEAk9BojxnBwJOFB6vYhJEDEFc1VLfVF6SBhEJwplQ4BCJQZckwGNioxNkZNclUeLRB1tQygRfkWHRaFueYNoBKMRckMlB5ajrWClUqhEpKYpJQh4joGCSrSWJMNLvLO1Qx3FQqpguEbRt2bW19KksiYSoruxQiYMFycNeCUVVineQhibAw/u8puBIBkhEyEa41x+uXuCQsOJCic2DFxopYSDERY+2GJIccmJBQMMSKvIsSOTIAA7\" width=\"70\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> </p>\t</td>\t<td width=\"217\" height=\"29\" valign=\"middle\" align=\"center\">\t<p>1.25</p>\t</td></tr><tr>\t<td width=\"101\" height=\"29\" valign=\"middle\" align=\"center\">\t<p>3</p>\t</td>\t<td width=\"247\" height=\"29\" valign=\"middle\" align=\"center\">\t<p> <img src=\"data:image/gif;base64,R0lGODlhaAARAPUAAAAAAAAAOgAAZgA6OgA6kABmZgBmkABmtjoAADoAOjoAZjpmkDqQ22YAAGYAOmY6AGY6OmY6ZmZmAGaQ22a222a2/5A6AJBmOpBmtpCQkJCQtpCQ25C225C2/5DbtpDb/7ZmALaQZraQkLaQtra2tra227a2/7bb/7b//9uQOtu2Ztu2kNu2ttv/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADYALAAAAABoABEAAAb+QJtwSCwaj8ikcslsOp/QqHRKjdY01eU1i9xSX4BwODA5epXg8cd5RoLCAlRKXLG9A+thuxhDiMVFLwQuQioIdUV7SC9xUIpGIAxDKQaENjQYlnpYSCEcNjUWkpCjQiAHRo+kVpxKkUOnQyyam0g0HUIxCihGNA55pqg2fX9ieEe+wErExQDHiaJCMBLCMidDzMXPNjOWKcJFKYN60YmtSeK0TarkkjImsTUlXefIDYhEofjDCcpC7P/KOaqXSpQ8O6hIJAFogxEvPruIxEpFkE+/ITAeaqmYT9QshBkXcoQFjsg3k+MoLjn5b6Q5LRYWXLNTwIQSgMkKIpJxIaVSFH1CZEDwEIFXjA1ZgAbjosKnqWIDKFR5U+wACxItMrSYV6XGCCIi1D0J9acUl7ElaGygYfOs27dZYkx40WGFP7h48yah8WAAgpJ6AwseTNhGEAA7\" width=\"105\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> </p>\t</td>\t<td width=\"217\" height=\"29\" valign=\"middle\" align=\"center\">\t<p>1.25</p>\t</td></tr><tr>\t<td width=\"101\" height=\"29\" valign=\"middle\" align=\"center\">\t<p>4</p>\t</td>\t<td width=\"247\" height=\"29\" valign=\"middle\" align=\"center\">\t<p>  <img src=\"data:image/gif;base64,R0lGODlhrQARAPUAAAAAAAAAOgAAZgA6OgA6kABmZgBmkABmtjoAADoAOjoAZjpmkDqQ22YAAGYAOmY6AGY6OmY6ZmZmAGZmtmaQ22a222a2/5A6AJA6OpBmOpBmtpCQkJCQtpCQ25C225C2/5DbtpDb/7ZmALaQZraQkLaQtra2tra227a2/7bb/7b//9uQOtu2Ztu2kNu2ttvb29vb/9v/ttv/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAACH5BAAAADsALAAAAACtABEAAAb+wJ1wSCwaj8ikcslsOp/QqHRKrVqv2KzWqeNsi91qmDq2lq9nKQ3AZgcox/Rx7Q5xvcpVmzAjyod0bWwWQ3+AezENdYV4RyJsAip6gzuPAXY7hkI2CIJsRTR8QiwIhGCNSjSRUJqAq6eprzoYmJmoc7IXpoxKIgxDKwZ9Ozkaw7ZKIx6ZF79GvkQiB0atQ9Cst47OsEnXJjsux9XXOzYKKtxI5NJD4X7ZQzkfm+dGOQ61ldPlnZ4Al0fu5UvCyd+/gcTwDSnoD2A8hSwIvWDoyeHDWuz4GbTIzFkNCftupNDYMB+OYSv2FVkhSoiOZtTgrWz5pBrLY++STALwKqfzTn+7eCF5+esGCnY6TsRkkqNBUJe6iNhIgLAaUSmtrsaReTXHhK1JtO4IhdOlzI5J9e34tnSJKnRFzMEVkjEdkqm1asxV0grvUJl+dcAAe5eqtW0+4zRzJ00v4V4qiaSUTDMxkslm7+SJbFcy57ZHMCdEiGzohQUjKxVA8XeJQGpRd9zIUJlV7BsQQERAZ6MDmdi2nwYHVrvJy111p7Co/UjQgApVmgs64MKEjA0ylEZ52QYxE+nFv3dnGJ5vCSIkynK5IMj7l6EncnTIwfq9/fv48y+xQYHGhxak6SfggARKkcMDAyDwWYEMNujggxBGqEQQADs=\" width=\"174\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"217\" height=\"29\" valign=\"middle\" align=\"center\">\t<p>1.50</p>\t</td></tr><tr>\t<td width=\"101\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>5</p>\t</td>\t<td width=\"247\" height=\"25\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhwwAOAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmZgBmkABmtjoAADoAOjoAZjo6Ojo6Zjo6kDpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6ZmY6kGZmAGZmkGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJBmtpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQZraQkLaQtra2Zra2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEcALAAAAADDAA4AAAf+gEeCg4SFhoeIiS4+iEIJAyiJR0Y7MpJHjgQ1gzk2l5+goaKjpKWmnziRiUMeHYRGKgCyAAwMEZ+sroJGIoynv8DBpj+zsgEbh0YkwEUahj8chDe6gze3qA++R9OEP9Svy5c3swXaypLExbLU54gpsgI24+tH7wGq7Y0J6gCFP+WCdCT4tivcqR/IBgmpIAuCL27drgnaEUPboCIUPAmCKKhZMoPo4hXKh+iHyEkfVE0CaSiFxBsHfBUZYY5loRYmJnmQSMhlTwSGSJbiKKTBJiM+txEEsg8ABB48ehyyJu2bERAawYFKqlVS0hhHdtT0KjEF0IkWhRIqckKQkAX+WS9OUFnvbNdEP+5Ju6ZC5Q+JQhww4uiP2g4ahALDiLbRKtagNg0VmQtZ0uRIOlzxuBt0p6AgGM4O2cS5EJGHdqUB3OUZU1N1egkNMcHtB1CPR/petHBUxTWIRSTwKxa7SIbB2ZS+eux6eOxCN1Y7ck5326yT0/k913lryAyzkyw11169owSCOr8JUVBeLSGxKzylcFWkROPEDI9VY7eDB6PRhwxBgjYquELYVXEVdIkRrY0UGWu34OZgIgxGYIQl4IFV2SUmJYgJXD99dIkQzmDkiRBtHfHXJ4QJMgRDABAQlxGbTfVNERdYpKAk65W3UiI9TiLVhsnsJFZdQXiw+OMl4BlyQ2rR6bgjXrcExggOGkmYSIsMMqZDapIQ5o2IYYI5iHsbmTkhIgw+QFoKBszA5oNytdeKiyGsRiQiT25TjhAQEJLKJYNClxAOgYJCGAtSLsnmnWR2ht6aRVLTZKSI6KCnIO8UMwBjvxTB0AMhxDhjL5J0cggO+yQHSqFHAOHjgh7MwtMnnQKw6ShGvEDIIqYwWMytwgRbY7GiEDEkssw26+yz0EYr7bTMBgIAOw==\" width=\"196\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"217\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>1.50</p>\t</td></tr><tr>\t<td width=\"101\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>6</p>\t</td>\t<td width=\"247\" height=\"25\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhrQAOAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmZgBmkABmtjoAADoAOjoAZjo6Ojo6Zjo6kDpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6kGZmAGZmZmZmkGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmkJBmtpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQZraQkLaQtra2Zra2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEsALAAAAACtAA4AAAf+gEuCg4SFhoeIiTBCiDkBEIyJRxINN4lLRgkEloI7OJegoaKjpKWmpjoqlzwFkYQtnEtKIh6gRx+1gkokrqe+v8CDQwDExAEch0omwUkbg0ofDAwJABFLSRe9PNQBHYM5uYQ6D67ghEPhhsqXw8XFueuJK8QCODnvS/MBqrLLiZnuABQa0krQtnS6/P0agowQEFmLrmUbZESBqkm5zBVKQuGTII2CmiWKl2hIPV0g+JFEtMLaxwORkpRwtdLQCxSyPrgk1JInAnUKfYF8BiJFyAtBZlga8vOjO4RLcuyMmk5JCI9AQfVcMmOJj0g1DW3N19Rrr7CDkhjFtABryAn+/AStKPss6KEh+whJFcQirqAeG4ToQJZEArFaRhwwUjKiA6OhmBzI8Pax6lVEaNPCXcKj1o+6l6C5LIKh6ZFYCRMhiZSD7seCunQKAhgQQF5CR1CYY3rN2ZK+z2DE0uEBW68h3BpSJZREw2Nyy59dpkit9u1vxU7SDng9trUjNebKojG7One/aSUghJauIvp+l762+LSiVpITlXU9NCTS0BEbg/TAQFxHmOAKC7UMZZVbhGSWkzX9NWhXIaIpQZ54XWUFikkMGtGWT8lMWIgRznD0iRFrDTHVbw1kYAEDxMBWCILfwPPZIUMZh5mIs1kky34ShqbTV2QVwWBqWrmmFhVdOcgYJDvWJMaIDh5FOIgPP+ynoyH3PBXKUOiMxOOSoY2Z0wOcrGBADTuCksRmDeIiyBEjOPlkIq1F1YoREIjzHnO+cRkOZDim40IvFPLIXplChiNem6s4OY87A1AGTBIVAPDACAAQ4NYuiALaiDvdIZLKIET8GcqkANhJihIxEBLRKdC4s2Iwvyhxoyk7xNXDkZcgASSuxBZr7LHIJqvssokEAgA7\" width=\"175\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"217\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>1.50</p>\t</td></tr><tr>\t<td colspan=\"3\" width=\"565\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>단, 재사용 강재일 경우 각 CASE별 허용응력 증가계수에 허용응력 감소계수 0.9를 곱하여 사용한다.</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5455,
+        "sort": 108,
+        "title": "3.4 구조해석",
+        "level": 2,
+        "label": "3.4",
+        "contents": "<p>3.4 구조해석</p>"
+      },
+      {
+        "no": 5455,
+        "sort": 109,
+        "title": "3.4 구조해석",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 가시설물의 종류별 구조해석에 대한 내용은 KDS 21 00 00 각 하위기준에 따른다.</p>"
+      }
+    ]
+  }
+]
