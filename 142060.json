@@ -1,0 +1,1933 @@
+[
+  {
+    "no": 4941,
+    "codeType": "KDS",
+    "code": "142060",
+    "fullCode": "1010142060",
+    "name": "프리스트레스트 콘크리트구조 설계기준",
+    "version": "2022",
+    "updateDate": "2022-01-13T14:13:00",
+    "list": [
+      {
+        "no": 4941,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 프리스트레스트콘크리트 부재의 설계방법을 제시하고 부재의 안전성을 확보하기 위한 최소한의 요구조건을 규정한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 4,
+        "title": "1.2 적용 범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용 범위</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 5,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 KDS 14 20 01(3.2.1(6)) 에 규정된 강선, 강봉, 강연선 등과 같은 긴장재를 사용하여 프리스트레스를 도입한 부재에 적용하여야 한다. 단, 강연선 중 7연선을 사용하여 프리스트레스를 도입한 부재를 설계할 때에는 KS D 7002의 A종과 B종을 사용하는 경우에만 이 기준의 규정을 적용할 수 있다. C종과 D종을 사용하여 설계할 때 이 기준의 규정을 적용하기 위해서는 실험이나 해석을 통해 그 타당성이 검증되어야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 6,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2)이 기준에서 특별히 예외 규정을 두었거나 이 기준의 규정과 일치하지 않은 경우를 제외하고는 이 설계기준의 규정을 프리스트레스트콘크리트의 설계에 적용하여야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 7,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3)KDS 14 20 10(4.3.10(1), (2) , 4.3.11 ), KDS 14 20 20(4.1.2(2), (3) , 4.2.2 , 4.2.3  및 4.3.2(1), (2) ), KDS 14 20 50(4.2.2(5)) ,&nbsp; KDS 14 20 70(1방향 슬래브 제외), KDS 14 20 72(4.2 , 4.3.2  및 4.4(1) )은 특별히 규정된 경우를 제외하고는 프리스트레스트콘크리트의 설계에 적용할 수 없다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 8,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 9,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 01 콘크리트구조 설계(강도설계법) 일반사항</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 10,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 10 콘크리트구조 해석과 설계 원칙</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 11,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 20 콘크리트구조 휨 및 압축 설계기준 </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 12,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 22 콘크리트구조 전단 및 비틀림 설계기준 </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 13,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 24 콘크리트구조 스트럿-타이모델 기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 14,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 26 콘크리트구조 피로 설계기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 15,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 30 콘크리트구조 사용성 설계기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 16,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 40 콘크리트구조 내구성 설계기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 17,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 50 콘크리트구조 철근상세 설계기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 18,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 52 콘크리트구조 정착 및 이음 설계기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 19,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 54 콘크리트용 앵커 설계기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 20,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 62 프리캐스트 콘크리트구조 설계기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 21,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 64 구조용 무근콘크리트 설계기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 22,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 66 합성콘크리트 설계기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 23,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 70 콘크리트 슬래브와 기초판 설계기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 24,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 72 콘크리트 벽체 설계기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 25,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 74 기타 콘크리트구조 설계기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 26,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 80 콘크리트 내진설계기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 27,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 90 기존 콘크리트구조물의 안전성 평가기준</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 28,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 29,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 20 01(1.4)에 따른다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 30,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 31,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFwARAPQAAAAAAAAAOgA6kABmtjoAADo6ZjpmtjqQ22YAAGY6AGY6kGZmkGaQ22a2/5BmOpDb/7ZmOraQkLa2kLbb/9uQOtuQZtu2ttv///+2Zv/bkP/btv//tv///wAAAAAAAAAAACH5BAAAABwALAAAAAAXABEAAAVRICeOZGmeaKoCasux7gnMsQnD9Xjnes+/MxoP91JBGiRiERWRHJIlHIYQeGwQgIFOCKRlChMKEsPIiUmQR66itlw2iktOkxDIMYafaLNwqEchADs=\" alt=\"\" width=\"21px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_cf\"> : 2방향 슬래브의 기둥 위치에서 2개의 직교하는 등가골조 슬래브-보 설계대의 단면적 중 큰 값, mm<sup>2</sup></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 32,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFgARAPQAACgoKCgoTCgoeShTnVMoKFNTeWZMKHlTKHm+/52d352+/53f/755nb7f/77//9+dU9+ded++vt++39/fnd////++ef/fnf/fvv//vv///wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAWABEAAAVLYCaOZGmeaIoCasu2JyDD5vvSo43n/J7JQN/td7okaqXhqIJAkm4VQsAga4qC16Cl0HggGJSdV4Q57iCLTGSikIRpl8OAUhE4fKkQADs=\" alt=\"\" width=\"20px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"A  _{ct}\"> : 콘크리트 전체 단면의 도심축과 인장연단 사이의 단면적, mm<span><sup>2</sup></span></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 33,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhGAARAPQAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQOtuQkNu2Ztu2ttv/29v///+2Zv+2kP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAYABEAAAVV4CaOZGmeaKqKwOq2LgrM8QnDNXnn+ojzsyCP1QOWfjEkLIOoLA6bS4Ggo7GElIlCw4A4HphGTeOAMC0ayiOXSVgiB0mDC6lFBAUDehFQ1C4AAxYpIQA7\" alt=\"\" width=\"22px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A  _{ps}\"> : 긴장재의 단면적, mm<span><sup>2</sup></span></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 34,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhCQAOAPQAAAA6ZgA6kABmtjoAADo6kDpmZjpmkDqQ22YAZmY6OmZmtma2/5A6AJDb/7b//9uQOtvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAJAA4AAAU04CWO5GVBpUglTVohTioJ6fUUA9CKFiNEs9ErNiFERJLA8UFDHkyMhVBhU5IkA8Oxxi2FAAA7\" alt=\"\" width=\"7px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"b\"> : 부재의 압축면의 폭, mm</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 35,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDAAOAPUAAAAAOgA6ZgA6kABmtjoAADoAZjo6kDqQ22YAOmYAZmY6OmY6kGZmAGa2/5BmOpCQtpDb25Db/7ZmOrb//9uQOtuQZtu2ttvb29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAAMAA4AAAZDwI9wSCwOORcjcZOYKIUaA+b5yRyUFUKA0TBSBBhNwUnsICKfzmJKzICr1yJlIJQ0LGxhhm5RQB5FHg4AEWJkVIhKQQA7\" alt=\"\" width=\"10px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"d`\"> : 부재의 유효깊이, mm</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 36,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEAAOAPUAAAAAOgA6ZgA6kABmtjoAADoAZjo6kDqQ22YAOmYAZmY6OmY6kGZmAGZmkGa2/5BmOpBmZpCQtpDb25Db/7ZmOra2/7b//9uQOtuQZtu2ttvb29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAQAA4AAAZQQJFwSBR1Gpvi8KMZXg7KoSdhEYUg1ajRkPRUtEIOFCzCEAIMB/ki2HQK2SgIMRGBFkktpy0SrwdCFA4ZeUocgBkKEhFgIQ8AE29xZJSVREEAOw==\" alt=\"\" width=\"14px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"d` prime \"> : 압축연단에서 압축철근 도심까지 거리, mm</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 37,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDwARAPQAAAAAAAA6OgA6kDoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZrZmZrb//9uQOtu2Ztu2ttv/29v///+2Zv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAPABEAAAU8YCWOZGmeKACg5sqS7lvFrEqf7l3mMv/yOthqNTFAEoXXw4GgKBgsyoJRjLAmh0gjyWoEBgQrSgIQiEUhADs=\" alt=\"\" width=\"13px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"d  _{p}\"> : 압축연단에서 긴장재 도심까지 거리, mm </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 38,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEgARAPQAAAAAAAAAOgA6kDoAADoAZjo6ZliBtmY6AGY6kGa2/5A6AJC225Db25Db/7a227bb/7b//9uQOtuQZtu2ttvbttv/ttv///+2Zv/bkP/btv//tv///wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAASABEAAAVG4CaOZGme6AkAqcmyLQnH40xv63qL9t3Hv5EGYSkFW73LIMBQJIwlTOERMVAeNVwp8hRNiryfpLGZVBaOWOYgsGAIkJ0pBAA7\" alt=\"\" width=\"16px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f  _{ci}\"> : 프리스트레스를 도입할 때 콘크리트 압축강도, MPa</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 39,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFAARAPUAAAAAAAAAOgAAZgA6kDoAADo6Ojo6ZmYAAGY6AGZmtmaQ22a222a2/5BmAJCQ25Db25Db/7ZmOraQOrbb/7b//9uQOtuQZtu2ttvbkNvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAUABEAAAZUQJBwSCwaj8ikEABQHptNZzEqJVKrS+a1usV2pV+hZKB5Jj0O5HZDCEA4j4iAYi1yDJMKw1JY1Ld6Qh8NBhBWXRaGFxgJHAoZTh0IZBsMHgcMWEhBADs=\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f  _{ck}\"> : 콘크리트의 설계기준압축강도, MPa</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 40,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFAARAPQAACgoKCgoUyhTUyhTnVMoKFNTeVNTnXlTKHl5vnmdvnmd33m+/515eZ3f/76dnb7f/77//8Oded+dU9+ded++vt/f39////++ef++nf/fnf/fvv//vv//3////wAAAAAAACH5BAAAAB0ALAAAAAAUABEAAAVQYCeOZGmeaCoCgHq2rVvGMknXK3vXO953FdWPw4CkfhuEsHQhCBSdZqBhK2UMD0wjU3hIFqvO7ttxQMi23qShSVAiVIpFlSEsvprDYI47hQAAOw==\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"f  _{dc}\"> : 긴장재 도심의 위치에서 콘크리트의 응력이 영이 될 때의 긴장재 응력, MPa</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 41,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFQARAPUAACgoKCgoUyhTUyhTnVMoKFN5nVN5vlOd33lTKHlTnXl5nXmd33m+/51TKJ1TeZ2+/53f/755eb7fnb7f/77//8OdU9+dU9+ded++ed++vt//39////++ef//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAAVABEAAAZbwI9wSCwaj8gkEQBQIptNpzEqLVKrQyYTu+RavVlwWPy5dhKaxuHDIQQgX2IGs/A4JIUN5xG+fjwRFGcVTAYbWX4fHQobFgcXDB8ZE04WAgSGHQgDh0ocAJxJQQA7\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"f  _{pe}\"> : 긴장재의 유효프리스트레스, MPa </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 42,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQOtuQkNu2Ztu2ttv/29v///+2Zv+2kP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAVABEAAAVS4CaOZGmeaEoCgIq2rWvGcknXI8viK2/7OWBQuLllEJXFYXMpEGYlykShYUAcD0wjeNtoHJCjRUN5rLqbTMISOUgaVYgrIigYxouAwnUBDCwpIQA7\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f  _{ps}\"> : 공칭강도를 발휘할 때 긴장재의 인장응력, MPa </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 43,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFgARAPUAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmOmZmkGZmtmaQ22a2/5A6AJA6ZpBmtp22trZmZraQkLbbtrbb/7b//9uQOtu2Ztu2ttvbttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAWABEAAAZcwJBwSCwaj8ikEQBQJptN5zEqXVanTOpVqN1yvcSuV7zVfhAbxwHkaIAmnGI3g2GAHhFNxbMIh7ogEhZnHHAdDWFiHwocF2sQdxQVThcCBQYcbAEJBE4dAANxSUEAOw==\" alt=\"\" width=\"20px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_pu\"> : 긴장재의 설계기준인장강도, MPa </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 44,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFQARAPUAAAAAAAA6OgA6kDoAADpmtjqQ22YAAGY6kGZmkGZmtmaQ22a2/5A6AJA6ZpBmtpCQkJC2/5Db/522trZmZraQkLbb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAVABEAAAZiwJFwSCwaj8gkEQBQIptNpzEqLVKrQyYTu+RavVlwWDy6hg4dRiFkWIgeni5xk1GIGhJOBZQIX0ciExZnHhQeHwtZfyMhCB4XBSIOdxZOFwEDBB4iDAACcUkfnqAYERoQQ0EAOw==\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_py\"> : 긴장재의 설계기준항복강도, MPa</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 45,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEAARAPMAAAAAADqQ22YAOmZmOmaQ22a2/5BmkLZmZrb//9u2Ztu2ttv////bkP//tv//2////yH5BAAAAA8ALAAAAAAQABEAAAQv8MlJq714ApAp550Ehs8YbhtZqiJrnuw6NcIAFNWrJEEuUwdE7vVwGBYqBiFmiQAAOw==\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_r\"> : 콘크리트의 파괴계수, MPa</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 46,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDwARAPQAACgoKCgoeXm+/51TKJ2d352+/755nb7//9++39////++ef/fnf/fvv//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAA8ALAAAAAAPABEAAAU24COOZGme6AMA6ciyrRqLcLyuc23PMskQJ91DIQiOHINVkSR8GBLM3qgBZDYXBQS0pQgceKUQADs=\" alt=\"\" width=\"13px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"f  _{t}\"> : 사용하중이 작용할 때, 미리 압축을 가한 단면의 인장연단응력으로 전체 단면적을 기준으로 계산되는 인장응력, MPa</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 47,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6kGYAAGZmtma2/5A6AJA6ZpBmtpCQkJC2/5Db/7aQkLbb/7b//9uQZtu2kNu2ttvbttv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAQABEAAAU/4CWOZGme6AgAKcmyrQjH1xyvK13rMm/fvN2oIiBYEBJXCRJhUAYqIWkhmRBUv4vlYDE0YpYCIJBsORSPxCgEADs=\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_y\"> : 철근의 설계기준항복강도, MPa</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 48,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhCwAOAPUAAAAAOgA6kABmtjoAADo6kDpmtjqQtjqQ22YAAGYAZmZmtma2/5A6OpA6ZpCQZpC2/5Db/7ZmZra227bb/7b//9uQOtu2Ztu2kNvb29vb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAALAA4AAAZBwI9wSCRiMkWihaBJCjcCp7CykHoajgHgUewgDBpocRNobg7FCvoTgRA9DHdH8ZEMOwnK53yZDDkFQhwDVVKGTkEAOw==\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h\"> : 부재의 깊이, mm</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 49,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDgAOAPQAAAAAAAAAOgAAZgA6kABmtjoAOjpmkDqQ22YAAGYAOma222a2/5A6AJBmOpDb/7ZmALaQtrbb27b//9uQOtuQZtu2ttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAACH5BAAAABwALAAAAAAOAA4AAAVFICeOZGmeJAasw8U9a4kJ0kgp5nOIG+SWmoSDU4mgJgNLg4DaMAyRWc2UKQw1iMVpwhQ9WiWnVoQJDEew1W6yMqPe8FEIADs=\" alt=\"\" width=\"12px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"K\"> : 긴장재의 단위길이 1m당 파상마찰계수</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 50,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEgARAPUAAAAAAAAAOgA6OgA6kDoAADo6kDpmtjqQ22YAOmY6kGZmOmZmkGaQ22a225A6AJA6ZpA6kJDb25Db/7ZmZraQZra227b/trb//9uQOtuQZtu2Ztu2ttv/ttv/29v///+2Zv+2kP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAASABEAAAZUwJFwSCwaj0ghAJBEMpvGJ3QonSqtxKpVC+V2R17nM5ToOA6jT4GDkBw3GoboYamAGknR5EL2jDJuSCELHhgHFBEQHhVIGAIEBoUBCgN+Rh8AlU1BADs=\" alt=\"\" width=\"16px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"l_px\"> : 정착단부터 임의의 지점 <img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAAAAAAAOgA6kABmtjoAADqQ22ZmkGa2/5A6OpA6ZpDb/7ZmALaQOra2/7bb27bb/7b//9uQOtu2Ztu2kNu2ttv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAALAA4AAAUz4CaOZGmeaKqOi1BFgUJOz2U4yDFmzWYVqYisZBloEpANpTKKFCQxTG90IQgYAN1qKwoBADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"x\">까지 긴장재의 길이, m, 식 (4.3-1)과 식 (4.3-2) 참조</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 51,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEgARAPQAAAAAAAAAOgA6kDoAADo6ZmY6AGa2/5Db/7bb/9uQOtuQZtu2ttv///+2Zv/bkP/btv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAASABEAAAU/ICSOZGmeaAms48qirwik8tzSsw3psOzjP55Jl6PtSLFeS6hqihqDwKGWHDkIiITBKNJySYrpgvF9FATkrykEADs=\" alt=\"\" width=\"16px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"N_c\"> : 고정하중과 활하중(<img src=\"data:image/gif;base64,R0lGODlhJwAOAPQAAAAAAAAAOgAAZgA6OgA6kABmtjoAADoAOjoAZjqQ22YAOmY6OmaQ22a222a2/5A6AJBmOpCQtpC225Db/7ZmALb//9uQOtu2Ztv///+2Zv+2tv/bkP/btv//tv//2////yH5BAAAAB8ALAAAAAAnAA4AAAV94CeOZGmeaKquLJkBMBww6CalrzydGYGJF4ODl1BlBJUUpTiiFIiqZaqj2DWfpgzzRLWeLL6R57HdGGKxgFcE/p3Gw9HmsB5pUeOtaYNIXlF3J3NeGn5sWGxhUF+IHhEkcCIcEIqCNyaRHxwLXhRoAAMNLSaen4ijqKmqqSEAOw==\" alt=\"\" width=\"37px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"D`＋L\">)에 의한 콘크리트의 인장력, N</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 52,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFgARAPQAACgoKChTUyhTnVMoKFN5vlOd33lTnXl5nXl5vnmd33m+/51TKJ1TeZ1TnZ15nZ2d353f/755eb7//9+dU9++ed++vt//vt//39////++ef//vv//3////wAAAAAAAAAAACH5BAAAABwALAAAAAAWABEAAAVWICeOZGmeaEoCbKuewBi/5SzaNI7n8v62vh8tFTRtGpjaEHbSGC6LAmcT7bFMFUpiw5BULI/hJiJxJjOKoeaAmUg5EchwEhgQkhtH8pUBCJIaCBQEIyEAOw==\" alt=\"\" width=\"20px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"P  _{pj}\"> : 긴장단에서 긴장재의 긴장력, N</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 53,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhGAARAPUAACgoKCgoUyhTUyhTnVMoKFNTnVN5vlOd33koU3lTnXl5U3l5nXmd33m+351TKJ1TeZ1TnZ3f353f/755eb6deb6+377/vr7//9+dU9+ded++ed++vt//vt//39////++ef++nf//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAYABEAAAZgwJFwSCwaj8gkEsBsKpOAYfR5nAqt1CsRmx1Zmd2tMywlV81Grlk9CiU6jsPoU+AgJNIxcaNhiB4WFSANYSITF24eIxl4XSELHhgHFBEQHhVdGAIEBpEBCgOKVB8AoUpBADs=\" alt=\"\" width=\"22px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"P  _{px}\"> : 임의점 <img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAAAAAAAOgA6kABmtjoAADqQ22ZmkGa2/5A6OpA6ZpDb/7ZmALaQOra2/7bb27bb/7b//9uQOtu2Ztu2kNu2ttv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAALAA4AAAUz4CaOZGmeaKqOi1BFgUJOz2U4yDFmzWYVqYisZBloEpANpTKKFCQxTG90IQgYAN1qKwoBADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"x\">에서 긴장재의 긴장력, N</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 54,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFwARAPUAACgoKCgoUyhTUyhTnVMoKFNTnVN5vlOd33koU3lTnXl5U3l5nXmd33m+351TKJ1TeZ1TnZ3f353f/755eb6deb6+377/vr7//9+dU9+ded++ed++vt//vt//39////++ef++nf//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAXABEAAAZawJFwSCwaj8ikcslsOp/QImAqBECt1RG2udV2md0veEiNTrHUUKLjOIw+BQ5CwtxoGKKHpQJqOEUTF2oeIxl0TSELHhgHFBEQHhVNGAIEBosBCgOESx8Am0pBADs=\" alt=\"\" width=\"21px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"alpha   _{px}\"> : 긴장단부터 임의점 <img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAAAAAAAOgA6kABmtjoAADqQ22ZmkGa2/5A6OpA6ZpDb/7ZmALaQOra2/7bb27bb/7b//9uQOtu2Ztu2kNu2ttv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAALAA4AAAUz4CaOZGmeaKqOi1BFgUJOz2U4yDFmzWYVqYisZBloEpANpTKKFCQxTG90IQgYAN1qKwoBADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"x\">까지 긴장재의 전체 회전각 변화량, 라디안</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 55,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDwARAPQAAAAAAAA6OgA6kDoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZrZmZrb//9uQOtu2Ztu2ttv/29v///+2Zv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAPABEAAAU9YCWOZGmeaKqubFsB8Aics1jXJT7jaszyvcrEAEkUaKKHA0FRMEw1yoIxjEBFk0OkcUw1AgOCFSUBCMaiEAA7\" alt=\"\" width=\"13px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"gamma_p\"> : 긴장재의 종류에 따른 계수</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 56,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEAARAPQAACgoKChTUyhTnVMoKFN5vlOd33lTnXl5nXmd351TKJ1Teb55eb7//9+dU9++ed++vt//39////++ef//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAQABEAAAU+YCWOZGmeaKqubIsCI6zKFf3GMz7LsF32vcrEAEkUdKWHA0FRMEQ+EWXBGEagp8kh0jiqGoEB4ZqSAARkUQgAOw==\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"mu   _{p}\"> : 곡선부의 곡률마찰계수</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 57,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDwARAPQAAAAAAAA6OgA6kDoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZrZmZrb//9uQOtu2Ztu2ttv/29v///+2Zv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAPABEAAAU9YCWOZGmeaKqubDsC8Aq86izaJ17pZbzXO9vEAEkUaKWHA0FRMG4myoIxjEBLk0OkcUw1AgOCFSUBCMaiEAA7\" alt=\"\" width=\"13px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"rho_p\"> : 긴장재 비</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 58,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDAAOAPQAAAAAOgBmtjoAZmYAZmY6AGaQkGaQ22a222a2/5A6AJBmkJCQ25Db/7ZmOraQZraQkLb//9uQkNu2kNvb29v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAACH5BAAAABwALAAAAAAMAA4AAAU2ICeOZGmeaKqu3DaVEjRmgyxqS6vIl81ZDA5GwPNFZJWA6EEZWQ6bhmHjCI42CUCBAECwvqMQADs=\" alt=\"\" width=\"10px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"omega \"> : 인장철근의 강재지수</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 59,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEAAOAPUAAAAAOgBmtjoAZjqQ22YAZmY6AGZmkGaQkGaQ22a222a2/5A6AJBmZpBmkJCQ25Db/7ZmOraQZraQkLa2/7b//9uQOtuQkNu2kNvb29v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAQAA4AAAZJwJBwSAx1DJmiUlgZLJUgBuVZ9Eyo2CcIQ71MhR7Ct/hxhECNKWdM3DyMAjV7aJlqAkJJUrlJgCAIIBFvSyALAAcFAApZjY5EQQA7\" alt=\"\" width=\"14px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"omega'\"> : 압축철근의 강재지수</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 60,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEQARAPQAAAAAAAA6OgA6kDoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZrZmZrb//9uQOtu2Ztu2ttv/29v///+2Zv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAARABEAAAU+YCWOZGmeaKqubNsCgBjD6CzfaVzp+snjNVyvNtNNDJBEgfVwICgKxoqyYBwjq8kh0liuGoEBAauSAARkUQgAOw==\" alt=\"\" width=\"15px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"omega_p\"> : 긴장재의 강재지수</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 61,
+        "title": "2. 조사 및 계획",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 조사 및 계획</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 62,
+        "title": "2. 조사 및 계획",
+        "level": 2,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 63,
+        "title": "3. 재료",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 재료</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 64,
+        "title": "3. 재료",
+        "level": 2,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 20 01(3)에 따른다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 65,
+        "title": "4. 설계",
+        "level": 1,
+        "label": "4.",
+        "contents": "<p>4. 설계</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 66,
+        "title": "4.1 설계 일반",
+        "level": 2,
+        "label": "4.1",
+        "contents": "<p>4.1 설계 일반</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 67,
+        "title": "4.1.1 설계 원칙",
+        "level": 3,
+        "label": "4.1.1",
+        "contents": "<p>4.1.1 설계 원칙</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 68,
+        "title": "4.1.1 설계 원칙",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)프리스트레스트콘크리트 부재는 이 설계기준의 강도요구 조건을 만족하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 69,
+        "title": "4.1.1 설계 원칙",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)프리스트레스트콘크리트 부재의 설계는 프리스트레스를 도입할 때부터 구조물의 수명기간 동안에 모든 재하단계의 강도 및 사용조건에 따른 거동에 근거하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 70,
+        "title": "4.1.1 설계 원칙",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)설계에서는 프리스트레스에 의하여 발생되는 응력집중을 고려하여야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 71,
+        "title": "4.1.1 설계 원칙",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)프리스트레스에 의해 발생되는 부재의 탄·소성변형, 처짐, 길이변화 및 회전 등에 의해 인접한 구조물에 미치는 영향을 고려하여야 한다. 이때 온도와 수축의 영향도 고려하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 72,
+        "title": "4.1.1 설계 원칙",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5)덕트의 치수가 과대하여 긴장재와 덕트가 부분적으로 접촉하는 경우, 접촉하는 위치 사이에 있어서 부재 좌굴과 얇은 복부 및 플랜지의 좌굴이 발생할 가능성을 검토하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 73,
+        "title": "4.1.1 설계 원칙",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6)긴장재가 부착되기 전의 단면 특성을 계산할 경우 덕트로 인한 단면적의 손실을 고려하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 74,
+        "title": "4.1.2 설계 가정",
+        "level": 3,
+        "label": "4.1.2",
+        "contents": "<p>4.1.2 설계 가정</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 75,
+        "title": "4.1.2 설계 가정",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)휨모멘트와 축력을 받는 프리스트레스트콘크리트 부재의 강도설계는 KDS 14 20 20(4.1.1)의 가정에 따라야 한다. 다만, KDS 14 20 20(4.1.1(4))의 규정은 긴장되지 않은 보강철근에만 적용하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 76,
+        "title": "4.1.2 설계 가정",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)프리스트레스를 도입할 때, 사용하중이 작용할 때, 그리고 균열하중이 작용할 때의 응력계산은 다음과 같은 가정에 근거한 선형탄성이론에 따라야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 77,
+        "title": "4.1.2 설계 가정",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 변형률은 중립축에서 떨어진 거리에 비례한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 78,
+        "title": "4.1.2 설계 가정",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 균열단면에서 콘크리트는 인장력에 저항할 수 없다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 79,
+        "title": "4.1.2 설계 가정",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)프리스트레스트콘크리트 휨부재는 미리 압축을 가한 인장구역에서 사용하중에 의한 인장연단응력 <img src=\"data:image/gif;base64,R0lGODlhEQARAPUAACgoKCgoeShTeSh5vlMoKFMoeVNTnVOd33lTU3lTeXl5nXm+/51TKJ2d352+/53f/755KL55U755nb6+nb7f/77//9+dU9++nd++vt++39//39////++ef/fnf/fvv//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAARABEAAAZUwJBwSCwaj8ikUvhBLJZMxcWwgUYWHsqyQwAABtBQhxoOWQ5lEOM59DSQnUKFyGEbLWCh2msXYjRrRRJVRB8JE2RDH29GEAIPRR0OGYRLHAFzZUdBADs=\" alt=\"\" width=\"15px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"f  _{t} `\">에 따라 다음과 같이 비균열등급, 부분균열등급, 완전균열등급으로 구분된다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 80,
+        "title": "4.1.2 설계 가정",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 비균열등급 : <img src=\"data:image/gif;base64,R0lGODlhYAATAPUAACgoKCgoUygoeShTnVMoKFNTU1NTeVOd33koKHkoU3lTKHl5vnmd33m+33m+/51TKJ15KJ15nZ2d352+/53fvp3f353f/755KL55U755eb55nb6dU76+/77f/77//9+dU9+ded++vt++39/fnd/f39////++ef++nf/fnf/fvv//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACwALAAAAABgABMAAAb+QJZwSCwaj8ikcnlUIQDQqHQKFXiY2Kx2a8xcueCwGKxijM/oNBFkUQ+h7jf8GCXWmatIyTjnAlh/cYGAfG9Cg4NJKA6FiVqOWX2Fh5OElpdJXpV+fpJ0hkWQdksqC5tbUlieSYh8d3JMJm12r6iRtpShoKNEK3tCeb+8YaJItay7u5CJKw+MQihmp49FKRJMx7q5rdvJIR8Dv2zTQxvhyEQmz6roltzuySwqCW2ln0gq1+3NUOtn2YckAbxwgMWJCfeGmCAQwAKKChisTNMgjBaVVXHShdOkbQgKAx0+OABRoEGjIvkyxplHQZohRyKBQTAwi5YRFBNEVFQ55gIizVCQxoUYsSAaCSwmJPJMY+IckxQKwqlz4m+pVSIqOMQJAgA7\" alt=\"\" width=\"95px\" height=\"18px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"f  _{t} ` LEQ `0.63 sqrt {f  _{ck}}\"></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 81,
+        "title": "4.1.2 설계 가정",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 부분균열등급 : <img src=\"data:image/gif;base64,R0lGODlhpwATAPUAACgoKCgoUygoeShTnVMoKFNTU1NTeVOd33koKHkoU3lTKHl5vnmd33m+33m+/51TKJ15KJ15nZ2d352+/53fvp3f353f/755KL55U755eb55nb6dU76+/77f/77//9+dU9+ded++vt++39/fnd/f39////++ef++nf/fnf/fvv//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACwALAAAAACnABMAAAb+QJZwSCwaj0ihCgFoOp/QpsCTrFqv2KyWtYx6n9OtGJmhjs/otFpYXruvKsZ7Tn/H6/ghyJLv+6t7b05Ig0OFVisRJUZNbo1Wj3MASYdViYtFkViTQpxEnpygVygOjCyeZ5qUp5Kqhq9WpKaoV6KZsLZVbbdprqtjvp2EsLpmn8DEyaZVKgvLqbSQYpVH0cLXSc3PW7mG1MFEJnyf1LXWVU+b59vH2EjimeXS7tjRtCuYLJfs3OvVWf741SuCb8g+XtOUsaK3UMiKB6WEoJAjsB9ALfIqdnsYkcXEf8iu5QqVLMSHAZgCITSyASXAgLRSSDDnD9VIIiZdslDZ7kjKy3wISQ5sSEtFAj7aKnKZaXFYuI61fg1tqOQoF2dKVTAlFKySvAsHWJyYAHKICQIBLKCogCGMI4MPmkAFlo6RL7BiybI7m3ZtW2N+TKDc1VOigQ4fHIAo0ECSEQ1AvX2pI7gEYWUoDide3PjPEKMUKL6ildghBAPj1EwqutVztgShb5GOuOJ0atcXUMczEijEiAUTSaxxhWKCiMiui+S+fSpa79/Bk7OojCWFApQmHCyZO8eEW+lHqF+xjl07Au59VHAAz36O+jpBAAA7\" alt=\"\" width=\"165px\" height=\"18px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"0.63 sqrt {f  _{ck}} `<`f  _{t} ` LEQ 1.0 sqrt {f  _{ck}}\"></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 82,
+        "title": "4.1.2 설계 가정",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 완전균열등급 : <img src=\"data:image/gif;base64,R0lGODlhVwATAPUAACgoKCgoUygoeShTnVMoKFNTU1NTeVOd33koKHkoU3lTKHl5vnmd33m+33m+/51TKJ15KJ15nZ2d352+/53fvp3f353f/755KL55U755eb55nb6dU76+/77f/77//9+dU9+ded++vt++39/fnd/f39////++ef++nf/fnf/fvv//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACwALAAAAABXABMAAAb+QJZwSCwaj8ikMqlCAJ7QqPQp8Cyv2KxWmLFuv+AwVsUQm89nkAVdfCbdW8AbvlxFSkZ6nCVX6ud9eUOBSSgOgoRaiX6LR418g1ddgmGPjEuPgZZCKguUYFGglpmRSiZrRKGgophImkUreEJ2sqlmm3m4QqS7RCsPh0IoZZ9fiSkSrrqlvc2QQyEfA7JqxUUb029FJsGpy7bMr0QqCWudjkzJ2rMPT92Vqm1/QhcHLCcT6EQmBAEWKBUwVLHGQkMtNmBMTJvUpggKAx0+OABRoAGiIirUIQxDjgKxSIkkzoJgAJU3IygmiDi4UcuFkvKMVAsxYsEwElhMDGyZMNsQlRQKpnFr8o6nURYqOLQMAgA7\" alt=\"\" width=\"86px\" height=\"18px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"f  _{t} `>`1.0 sqrt {f  _{ck}}\"></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 83,
+        "title": "4.1.2 설계 가정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>그리고 2방향 프리스트레스트콘크리트 슬래브는 <img src=\"data:image/gif;base64,R0lGODlhWQATAPUAACgoKCgoUygoeShTnVMoKFNTU1NTeVOd33koKHkoU3lTKHl5vnmd33m+33m+/51TKJ15KJ15nZ2d352+/53fvp3f353f/755KL55U755eb55nb6dU76+/77f/77//9+dU9+ded++vt++39/fnd/f39////++ef++nf/fnf/fvv//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACwALAAAAABZABMAAAb+QJZwSCwaj8ikcqlCAJ7QqPQp8Cyv2KyWmLFuv+CwVsUQm89oFsiSJj7b7rdRel1FSnNAWK+Hs/p/c1soDoKAW4dackeAiYFaXYJ7X1BLjZJYKguYlJVXi5ZDjlFXJmxxoIpZjkqXRa5DK3hCdrNuZqxInqFCub1EKw+FQihlnIhFKRKfqa+iv9CPQiEfA7Nrx0Qb1kmJJsNYvq6wiSoJbJqMSSrL3bEPT+Bnu6/NLBcHLCcT6kQmBAEsoKiAoUo2DbZQTfFlxoS1SM6IoDDQ4YMDEAUaGCrCzo8ZcxSMPUtkkRYEA6fiGEExQURCj1ouoKxnBFuIEQuKkcBiwiATTDAOXyJJocDatybyfv5UwcFPEAA7\" alt=\"\" width=\"88px\" height=\"18px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"f  _{t} ` LEQ `0.5 sqrt {f  _{ck}}\">를 만족하는 비균열등급 부재로 설계되어야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 84,
+        "title": "4.1.2 설계 가정",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)비균열등급과 부분균열등급 휨부재의 사용하중에 의한 응력은 비균열단면을 사용하여 계산하여야 한다. 완전균열단면 휨부재의 사용하중에 의한 응력은 KDS 14 20 30(4.2.3(2)) 에 따라 균열 환산단면을 사용하여 계산하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 85,
+        "title": "4.1.2 설계 가정",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5)프리스트레스트콘크리트 휨부재의 처짐은 KDS 14 20 30(4.2.3) 에 따라 계산하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 86,
+        "title": "4.2 휨부재의 사용성",
+        "level": 2,
+        "label": "4.2",
+        "contents": "<p>4.2 휨부재의 사용성</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 87,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 3,
+        "label": "4.2.1",
+        "contents": "<p>4.2.1 콘크리트의 허용응력</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 88,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)프리스트레스 도입 직후 시간에 따른 프리스트레스 손실이 일어나기 전의 응력은 다음 값 이하로 하여야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 89,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 휨압축응력(다음 ②의 경우 제외)<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhKwARAPQAAAAAAAAAOgA6kDoAADoAZjo6ZliBtmY6AGY6kGa2/5A6AJC225Db25Db/7a227bb/7b//9uQOtuQZtu2ttvbttv/ttv///+2Zv/bkP/btv//tv///wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAArABEAAAV64CaOZGmeaKqu7Aq86AuQcjyr95aP+d2bs93pVyISaa0jD7hEJpu0mkgpEw6hUB9W1+JOmV+vOMwyZsk760iDsJzFZvK4DBvWp3f55jIIMBQJXYJzGAUPEQYUD4NlcxGBIhNujDhWEg0bExULDpSUGQcCFhgEEJ6nJiEAOw==\" alt=\"\" width=\"41px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"0.60f_ci\"></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 90,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 단순지지 부재 단부의 휨압축응력<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhKwARAPQAAAAAAAAAOgA6kDoAADoAZjo6ZliBtmY6AGY6kGa2/5A6AJC225Db25Db/7a227bb/7b//9uQOtuQZtu2ttvbttv/ttv///+2Zv/bkP/btv//tv///wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAArABEAAAV54CaOZGmeaKqu7Aq85isDo4zCKi3qNanzvF7wBEwVd7HWkdhD+lqbZSkonbGkz2Z0CsU6tcOhsUnlfrcoDcICPoe16C4uOZ2fN5dBgKFIQP9xIhgFDxEGFA+AV4EbEX4iE2yKOWISDRsTFQsOk5MZBwIWGAQQnaYmIQA7\" alt=\"\" width=\"41px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"0.70f_ci\"></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 91,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 휨인장응력(다음 ④의 경우 제외)<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhOwATAPUAAAAAAAAAOgAAZgA6kDoAADoAZjo6ZjqQ21iBtmYAAGYAOmY6AGY6kGZmtmaQ22a2/5A6AJBmkJC225C2/5DbtpDb25Db/7ZmALZmZra227a2/7bb/7b//9uQOtuQZtu2ttvbttv/ttv///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACkALAAAAAA7ABMAAAbVwJRwSCwaj0jhKQFoOp9QASdJrVYxU6t2y02dHN2w2OixjIdOZFoItaIiImNTC0DL7ak6t/S466t/f3h5bF1Yd1uBiISMWicNi3SDR3pPViNmRJaShWqDgikocUJvo5pdipSeQygQfUIlYJFWqYKgqUIfHQOjZbNEJwymnYy4lZNeCmaPqmFrRW1sc0YXBykkE81DIwQBFa5nXCO8h9BFJQYbHQggG+FbJwoUsnagHa8pH8PvVBcGmWhApfD1IYSEDPy0jNuHxMQCXiUKZElI5YQGikEAADs=\" alt=\"\" width=\"58px\" height=\"18px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"0.25 sqrt { f_ci}\"></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 92,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 단순지지 부재 단부의 휨인장응력<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhOwATAPUAAAAAAAAAOgAAZgA6kDoAADoAZjo6ZjqQ21iBtmYAAGYAOmY6AGY6kGZmtmaQ22a2/5A6AJBmkJC225C2/5DbtpDb25Db/7ZmALZmZra227a2/7bb/7b//9uQOtuQZtu2ttvbttv/ttv///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACkALAAAAAA7ABMAAAbTwJRwSCwaj0jhKQFoOp9QASdJrVYxU6t2y02dHN2w2OixjIfOIxTd1KIiImPbCkDL78J6tfS466t/f3ZFgVZYeFqFhIiCRycNiImDRE+TjUYjZpRpknmMnqBDKHFCb6SUXYpIeqopKBB9QiVgkXSDqqyTKR8dA6RltUQnDKehucbIwgpmj2pinHJzedJEFwcpJBPORCMEARWwZ1wjvoeLRCUGGx0IIBviWycKFLR2jR2xu8XwVBcGmmzImPkQQkIGflrI7UNiYoGvEgWyIKRyQsPEIAA7\" alt=\"\" width=\"58px\" height=\"18px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"0.50 sqrt { f_ci}\"></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 93,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>계산된 인장응력이 위의 ③ 또는 ④의 값을 초과하는 구역에는 비균열단면으로 가정하여 계산된 전체 인장력에 저항할 수 있는 추가 부착강재(긴장되지 않은 강재 또는 프리스트레싱 강재)를 인장구역에 배치하여야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 94,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)비균열등급 또는 부분균열등급 프리스트레스트콘크리트 휨부재에서 모든 프리스트레스 손실이 일어난 후 사용하중에 의한 콘크리트의 휨응력은 다음 값 이하로 하여야 한다. 이때 단면 특성은 비균열단면으로 가정하여 구한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 95,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 압축연단응력(유효프리스트레스＋지속하중)<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhMAARAPUAACgoKCgoUygoeShTeShTnSh5vlMoKFMoeVNTU1NTnVN5U1Od33koKHkoU3lTKHlTU3lTeXlTnXl5nXmd33m+33m+/51TKJ1TU52+352+/53f/755KL55U755eb6dnb6+nb6+vr6+377f377f/77//9+dU9+ded+dnd++ed++nd++vt/f39/f/9//39////++ef++nf++vv/fnf/fvv/f3///vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADcALAAAAAAwABEAAAb3wJtwSCwaj8ikcslsOp9Q5cwBGIySHI2Q5hKukrVHhWmzUG4oQteIQmhvJQAgcT3WJKnEOinT32wXb0QzIoFCJyRLHBUzdUovakIbY0Q2IYBviHwGcgVNJZ6SC0UqLphCJgoAAWdGfXtLoEMbo0ONf4Y3JhhoAYJDJbVNkGuTZZ4bcsoFLwKJNQyUQ2XSlblDr7i/04YwGUI1EbA3MgeJRzHn0xYTaJFGpzUQV8FGskQcAWMgJc6DVFaOyOAEYJQMKsKEqGhhodqLBS8q2ODQLooTeR/8DOlwrkaDihabbBiwjeMMFjA0eAARsuWNFwbGIFrksiaSIAA7\" alt=\"\" width=\"47px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"0.45``f  _{ck}\"></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 96,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 압축연단응력(유효프리스트레스＋전체하중)<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhMAARAPUAACgoKCgoUygoeShTeShTnSh5vlMoKFMoeVNTnVN5vlOd33koKHkoU3lTKHlTU3lTeXl5nXmd33m+33m+/51TKJ1TU515U53f/755KL55U755eb6dnb6+nb6+vr7f/77//9+dU9+dnd++ed++nd++vt/f/9//39////++ef++nf++vv/fnf/fvv//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC8ALAAAAAAwABEAAAbxwJdwSCwaj8ikcslsOp9QJasBGHiQGUBCOK1ekS3HhOmiSF4iwqno2nhWh0/5nF4bW5ARwp5c7V8uFRdFGh9EfmuBg0YZEyxfSihqQhhjQ34WVYOSdpVFKwYAAAVNIKSUCkQoAKl1pkMYqZ9/pacvsaoChi0LE6+oRiCyTZyUE2WkKLqAFBPFt5ZDZdFEirOJgodxzBOIgNnahkcq4tIUEWiT5q1qZeh1Rb9DGQFjHSDLQ11Wd1T8L/sgvSBhopkqBSiOZUAXxUmLBxxoCSkkpAUDhg2bYBiwaEghFiVSXNjQIaPJFygMjAnxodHJl0iCAAA7\" alt=\"\" width=\"47px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"0.60``f  _{ck}\"></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 97,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)시험 또는 정밀한 해석에 의하여 안전성이 확인된 경우에는 위 (1)과 (2)에 규정된 허용응력을 초과할 수 있다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 98,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)피로 또는 부식성 환경에 노출되어 있지 않은 완전균열등급의 프리스트레스트콘크리트 휨부재에서 인장연단에 배치된 부착철근의 간격은 KDS 14 20 20(4.2.3(4)) 에서 규정한 간격을 초과하지 않아야 한다. 그러나 피로 상태나 또는 부식성 환경에 노출되어 있는 부재에 대해서는 특별한 조사와 다음 ①, ②, ③, ④의 조치를 강구하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 99,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 간격은 비긴장 보강재와 부착긴장재의 간격 요구 조건을 만족하여야 한다. 부착긴장재의 간격은 비긴장 보강재에 대해 허용되는 최대 간격의 2/3를 초과하지 않아야 한다. 간격 요구 조건을 만족시키기 위해 철근과 긴장재 사이의 간격은 KDS 14 20 20(4.2.3(4)) 에서 허용한 간격의 5/6를 초과하지 않아야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 100,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 긴장재에 KDS 14 20 20(식 (4.2-3), 식 (4.2-4))을 적용할 때에는 <img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAAAOgBmtjoAAGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQkNu2tv+2Zv+2kP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAAQABEAAAU2ICSOZGme6AgAKcmyrQjH0ByvK13rMm/fvB2pMRCYfhBEwnFQCUkPRsKFXBweBkXsUQgQgqQQADs=\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f  _{s}\">를 <img src=\"data:image/gif;base64,R0lGODlhIQARAPQAACgoKCgoUyhTUyhTnSh5vlMoKFN5vlOd33lTnXl5nXmd351TKJ1TeZ3f/755eb7f/77//9+dU9+dnd++ed++vt//39////++ef++nf//vv//3////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAhABEAAAVr4CaOZGmeaKquKdC67AnApkvHo43euAjzvl7pxpvNhMFcDZlUDpnADRG6I0VXxqzRSsogKovD5lIgUEmUiULDgDgemEZPR9I4IF6LhvIQHksZCRYRBxINbBBMJRECBQZ6CwEKiiQXAAMWKSEAOw==\" alt=\"\" width=\"31px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"Delta f_ps\">로 대체하여야 한다. 여기서 <img src=\"data:image/gif;base64,R0lGODlhIQARAPQAACgoKCgoUyhTUyhTnSh5vlMoKFN5vlOd33lTnXl5nXmd351TKJ1TeZ3f/755eb7f/77//9+dU9+dnd++ed++vt//39////++ef++nf//vv//3////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAhABEAAAVr4CaOZGmeaKquKdC67AnApkvHo43euAjzvl7pxpvNhMFcDZlUDpnADRG6I0VXxqzRSsogKovD5lIgUEmUiULDgDgemEZPR9I4IF6LhvIQHksZCRYRBxINbBBMJRECBQZ6CwEKiiQXAAMWKSEAOw==\" alt=\"\" width=\"31px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"Delta f_ps\">는 사용하중을 받을 때 균열단면해석으로 계산한 긴장재의 응력에서 감압응력 <img src=\"data:image/gif;base64,R0lGODlhFAARAPQAAAAAAAAAOgA6OgA6kDoAADo6Zjo6kGY6AGZmtmaQtmaQ22a2/5BmZpDb/7aQkLbb/7b//7yQZtuQOtuQZtu2ttvb29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAUABEAAAVQYCeOZGmeaCoCgHq2rVvGMknXK3vXO953FdWPw4CkfhuEsHQhCBSdZqBhK2UMD0wjU3hIFqvO7ttxQMi23qShSVAiVIpFlSEsvprDYI47hQAAOw==\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_dc\">를 뺀 값이다. 이때 <img src=\"data:image/gif;base64,R0lGODlhFAARAPQAAAAAAAAAOgA6OgA6kDoAADo6Zjo6kGY6AGZmtmaQtmaQ22a2/5BmZpDb/7aQkLbb/7b//7yQZtuQOtuQZtu2ttvb29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAUABEAAAVQYCeOZGmeaCoCgHq2rVvGMknXK3vXO953FdWPw4CkfhuEsHQhCBSdZqBhK2UMD0wjU3hIFqvO7ttxQMi23qShSVAiVIpFlSEsvprDYI47hQAAOw==\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_dc\">를 긴장재의 유효프리스트레스 <img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAAAOgA6OgA6kDoAADpmkDpmtjqQ22Y6AGY6kGZmkGaQ22a2/5A6AJA6ZpC2/5Db/7ZmZrbbkLbb/7b//7yQOtuQOtuQZtu2Ztu2ttv/29v///+2Zv//tv//2////yH5BAAAAB8ALAAAAAAVABEAAAVT4CeOZGmeaEoCgIq2rWvGcknXI8viK2/7OWBQ+Ll1EprG4cMhBCA/Ugaz8DgkhQ3nEbx9PBHKscIybHLeT0exsRwujE9m4rIICOYOYnBWcQB8KSEAOw==\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_pe\">와 같게 취할 수 있다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 101,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ KDS 14 20 20(식 (4.2-3), 식 (4.2-4))를 적용할 때, <img src=\"data:image/gif;base64,R0lGODlhIQARAPQAACgoKCgoUyhTUyhTnSh5vlMoKFN5vlOd33lTnXl5nXmd351TKJ1TeZ3f/755eb7f/77//9+dU9+dnd++ed++vt//39////++ef++nf//vv//3////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAhABEAAAVr4CaOZGmeaKquKdC67AnApkvHo43euAjzvl7pxpvNhMFcDZlUDpnADRG6I0VXxqzRSsogKovD5lIgUEmUiULDgDgemEZPR9I4IF6LhvIQHksZCRYRBxINbBBMJRECBQZ6CwEKiiQXAAMWKSEAOw==\" alt=\"\" width=\"31px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"Delta f_ps\">는 250MPa을 초과할 수 없다. <img src=\"data:image/gif;base64,R0lGODlhIQARAPQAACgoKCgoUyhTUyhTnSh5vlMoKFN5vlOd33lTnXl5nXmd351TKJ1TeZ3f/755eb7f/77//9+dU9+dnd++ed++vt//39////++ef++nf//vv//3////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAhABEAAAVr4CaOZGmeaKquKdC67AnApkvHo43euAjzvl7pxpvNhMFcDZlUDpnADRG6I0VXxqzRSsogKovD5lIgUEmUiULDgDgemEZPR9I4IF6LhvIQHksZCRYRBxINbBBMJRECBQZ6CwEKiiQXAAMWKSEAOw==\" alt=\"\" width=\"31px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"Delta f_ps\">가 140MPa 이하일 때는 위 ①과 ②에서 정한 간격 요구 조건을 적용하지 않는다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 102,
+        "title": "4.2.1 콘크리트의 허용응력",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 깊이가 900mm를 초과하는 보에는 KDS 14 20 20(4.2.3(6)) 에서 정한 표피철근을 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 103,
+        "title": "4.2.2 긴장재의 허용응력",
+        "level": 3,
+        "label": "4.2.2",
+        "contents": "<p>4.2.2 긴장재의 허용응력</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 104,
+        "title": "4.2.2 긴장재의 허용응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)긴장을 할 때 긴장재의 인장응력은 <img src=\"data:image/gif;base64,R0lGODlhLwARAPUAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmOmZmkGZmtmaQ22a2/5A6AJA6ZpBmtp22trZmZraQkLbbtrbb/7b//9uQOtu2Ztu2ttvbttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAvABEAAAaUwJBwSCwaj8ikcslsGgFQJBRAnEqpTmxIO9Rivc+tUyzklrvndHWsNpPJ4DX77d5G21XrOC6Ho/t7f31fgmqBaXyEhnVMcYl4hWx6T3dllYYfCBsOByAODSATHHNNZhkYDCAPERoVHgukS1RmIBIWmRyiHQ2xSpdCHwocF50QqhQVvWwXAgUGHJ4BCQTKYx0AA6NJQQA7\" alt=\"\" width=\"45px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"0.80f_pu\"> 또는 <img src=\"data:image/gif;base64,R0lGODlhLgARAPUAAAAAAAA6OgA6kDoAADpmtjqQ22YAAGY6kGZmkGZmtmaQ22a2/5A6AJA6ZpBmtpCQkJC2/5Db/522trZmZraQkLbb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAuABEAAAaawJFwSCwaj8ikcslsEgFQJBRgpB6jTetIO9RysUUqV+mtds9jYZp8Dre3cLdT/X5b7+HpvFzVx9NrbHRJYnWDe218cFN+h4iDimOSc09geZKWXCEHHQwFIQYLIg8elFlFGxkKIg0SHBUgCaZLhUQiExabHhQeHwuzZGkhCB4XBSIOrBbAphcBAwQeIgwAAqXMTh/V1xgRGhBDQQA7\" alt=\"\" width=\"44px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"0.94f_py\"> 중 작은 값 이하로 하여야 한다. 또한 긴장재나 정착장치 제조자가 제시하는 최댓값도 초과하지 않아야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 105,
+        "title": "4.2.2 긴장재의 허용응력",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)프리스트레스 도입 직후에 긴장재의 인장응력은 <img src=\"data:image/gif;base64,R0lGODlhMgARAPUAACgoKChTeShTnSh5vlMoKFMoeVNTKFNTU1NTnVOd33koKHlTKHlTU3lTeXlTnXl5nXmdvnmd33m+33m+/51TKJ1TU515nZ2dvp2d352+353f/755KL55U755eb6deb6dnb6+nb6+vr6+376+/77f377f/77//9+dU9+dnd++ed++nd++vt/f39/f/9//39////++ef++nf/fnf/fvv//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADYALAAAAAAyABEAAAbtQJtwSCwaj8ikcslsOp9Q6GwBCJSMrCRHk6QxJs4aRWJLCV5EMWANGAxTB+6R9lAh0EzZ3VaryIU0I0MoJkIzJH5IHBMzV00wZ0IbYEcxcjUifX9DMgRrbk4noDYbCXMYQysvmkd6eKGjpUcdco18iUYnplCQeJNiozQOvmyfRWKUT663m0K9x7hEMgWFUGIRZZFFJ9pDrNujNjIRojbCLx+vhlRWlRBFnWu7NisuFMk2LB4mHSYrIS4uRHlCowGIPUNoXKhhYZUIGqgGOtkQoBmMBOPEZUghoYXEjzZOGAhQiIaCAAhBQuk0D0kQADs=\" alt=\"\" width=\"49px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"0.74``f  _{pu}\">와 <img src=\"data:image/gif;base64,R0lGODlhMQARAPUAACgoKCgoUygoeShTUyhTeShTnSh5vlMoKFMoeVNTKFNTeVNTnVOd33koKHkoU3lTKHlTU3lTeXl5nXl5vnmdvnmd33m+33m+/51TKJ1TU51TeZ15nZ2dvp2d352+352+/53f/755KL55U755eb6dU76deb6dnb6+nb6+vr6+377f377f/77//9+dU9+dnd++ed++nd++vt/f39//39////++ef++nf/fnf/fvv//vv//3////wAAAAAAAAAAAAAAACH5BAAAADsALAAAAAAxABEAAAb+wJ1wSCwaj8ikcslsOp/QJu4BIKyM0ypI+DpUr8gc5NLUYSy7V4FG1GmuNwXrNqHpSALWMSeBLdhLN387OhlbQzkdQy4sNQFbOQ6HRSIXOGBLNWtCIWRDhRR2KUWRk0I3XgAGTi2rnAxFZgOhRS2wRoKATa1DIbdDMCtTm6eKR7ZQmoCdZqs3njqVQjgeSGaeTrmEhkQ12N47OB9CNqY7Nwh6T2YVacSnClc4EXOpAHm1rqcVvLkmuuGoWDFiI4GWJTFmYMC2Q0YJFiNYyEAxg0MUJzkinBiEiIOODaISXXQSgoC5GgxutLvh4QXDkVFaJCCgJ0cDfDAvovoFQwUEB11BAAA7\" alt=\"\" width=\"48px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"0.82``f  _{py}\"> 중 작은 값 이하로 하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 106,
+        "title": "4.2.2 긴장재의 허용응력",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)정착구와 커플러의 위치에서 프리스트레스 도입 직후 포스트텐션 긴장재의 응력은 <img src=\"data:image/gif;base64,R0lGODlhMgARAPUAACgoKChTeShTnSh5vlMoKFMoeVNTKFNTnVOd33koKHlTKHlTU3lTeXlTnXl5nXmdvnmd33m+33m+/51TKJ1TU515nZ2dvp2d352+353f/755KL55U755eb6deb6dnb6+nb6+vr6+376+/77f/77//9+dU9+dnd++ed++nd++vt/f39/f/9//39////++ef++nf/fnf/fvv//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADQALAAAAAAyABEAAAbsQJpwSCwaj8ikcslsOp9QaEwBCIyMKuO0ekXKFhLnbBKhnQQt4hjABgzG5XPaKHOgDvMlDE+bUTJEMiJDJiR7aX6ARhsSMV1MLmhCGmFHL4CRc5RFMARsA08loJMIRzIXQqJDGqWcfKGjNKxHHIqqpEYlrU+ZkxJjsTINc72ylUNjx06HfX9GxcyJnAUkUWMQZpJFJdrX2XmpsTQwEKrCLR7gNFtWlg9E7I80KSwTyiodJBwkKSAsFlGeyGDw4ZUQGRZmVGgxI8SpgE80BFA0xAUCcuMwnIiwAqJHGiUMBKgmI0EAgx+fdNqFJAgAOw==\" alt=\"\" width=\"49px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"0.70``f  _{pu}\"> 이하로 하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 107,
+        "title": "4.3 프리스트레스의 손실",
+        "level": 2,
+        "label": "4.3",
+        "contents": "<p>4.3 프리스트레스의 손실</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 108,
+        "title": "4.3.1 손실 원인",
+        "level": 3,
+        "label": "4.3.1",
+        "contents": "<p>4.3.1 손실 원인</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 109,
+        "title": "4.3.1 손실 원인",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유효프리스트레스 <img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAAAOgA6OgA6kDoAADpmkDpmtjqQ22Y6AGY6kGZmkGaQ22a2/5A6AJA6ZpC2/5Db/7ZmZrbbkLbb/7b//7yQOtuQOtuQZtu2Ztu2ttv/29v///+2Zv//tv//2////yH5BAAAAB8ALAAAAAAVABEAAAVT4CeOZGmeaEoCgIq2rWvGcknXI8viK2/7OWBQ+Ll1EprG4cMhBCA/Ugaz8DgkhQ3nEbx9PBHKscIybHLeT0exsRwujE9m4rIICOYOYnBWcQB8KSEAOw==\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_pe\">를 결정하기 위하여 다음과 같은 프리스트레스 손실 원인을 고려하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 110,
+        "title": "4.3.1 손실 원인",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 정착장치의 활동</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 111,
+        "title": "4.3.1 손실 원인",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 콘크리트의 탄성수축</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 112,
+        "title": "4.3.1 손실 원인",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 포스트텐션 긴장재와 덕트 사이의 마찰</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 113,
+        "title": "4.3.1 손실 원인",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 콘크리트의 크리프</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 114,
+        "title": "4.3.1 손실 원인",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ 콘크리트의 수축</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 115,
+        "title": "4.3.1 손실 원인",
+        "level": 5,
+        "label": "⑥",
+        "contents": "<p>⑥ 긴장재 응력의 릴랙세이션</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 116,
+        "title": "4.3.2 포스트텐션 긴장재의 마찰손실",
+        "level": 3,
+        "label": "4.3.2",
+        "contents": "<p>4.3.2 포스트텐션 긴장재의 마찰손실</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 117,
+        "title": "4.3.2 포스트텐션 긴장재의 마찰손실",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)포스트텐션 긴장재의 마찰손실은 식 (4.3-1)로 계산하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 118,
+        "title": "4.3.2 포스트텐션 긴장재의 마찰손실",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhhAAVAPYAACgoKCgoUygoeShTUyhTeShTnSh5vlMoKFMoU1NFKFNTeVNTnVN5eVN5nVN5vlOd33koU3lTKHlTeXlTnXl5U3l5eXl5nXl5vnmdvnmd33m+33m+/51TKJ1TeZ1TnZ15nZ2dnZ2dvp2d352+352+/53f353f/755KL55U755eb55nb6deb6dnb6dvr6+vr6+376+/77fvr7f/77/vr7//9+dU9+ded+dnd++ed++nd++vt/fvt/f39/f/9//vt//39////++ef++nf++vv/fnf/fvv/f3///vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEkALAAAAACEABUAAAf+gEmCg4SFhoeIiYqLiC1AjJCRikgvkpaXmIxCMpmdjEQmnqKjiyyPgicAABtIHAAJD5M9pINIIbS4tEcXhEcSNElILkBCoYlEJLlJpsrNmLuEQbE7s0k3p4jIhUQa1saCQQcGpdjO5oJEB6qq48G3gygaNhmCtoit6wACwEk2oSn8khBRIKOIiCHlan1IeK6hoRv8jkwAgqQDMG2KMA5SAQTaoBobkhypAAPRERGIguQDECAkLpX5WuI6UjJJjVg2QwqJwUmQqiQABmkUObGGhko+Q+24wOPUz6AQEwUpcKrGvlxTq16lVYSHqwAmVIKtQRVoPkJIqqGrcIABglD+6yJQDRJyZZIiPRGdwJkkyFZaewf5DehwUNCfimy4NAzU0OGgjI5A+HaiXUZ1K/8KkkzZ8iEc6viSsmsJcSHSisg+QoKCAOFRqoO1fk2oBgEZSEAwLHwOn6oAGHYbSrdSH2HfLIMn4pxkKe/nAt+eIyJ9ERIPONY1EA5dWQ3Pzb5LCmLZCPfupFotHiTxB4dYQRb4mCxJvaH274O9J7LgUY4R6J2TiiqiJaEDDhlUNMMLQnQjyYAAFHhgghbp4ANKNhxQQF4BdocEQBI94g8uH9IQYl/rddjhERYAcdMKJXgABFKjsOgiTil8o2KHNQxwgAMuBkBBWaT0+ONqC+0QqKJKRDbD5CO74OCAkg0FAgA7\" alt=\"\" width=\"130px\" height=\"20px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"P  _{px} ＝P  _{pj} e  ^{－(Kl  _{px} ＋ mu   _{p}  alpha   _{px} )}\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.3-1)</span></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 119,
+        "title": "4.3.2 포스트텐션 긴장재의 마찰손실",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>이때 <img src=\"data:image/gif;base64,R0lGODlhWQARAPUAAAAAAAAAOgA6OgA6kDoAADo6kDpmtjqQ22YAOmY6kGZmOmZmkGaQ22a225A6AJA6ZpA6kJDb25Db/7ZmZraQZra227b/trb//9uQOtuQZtu2Ztu2ttv/ttv/29v///+2Zv+2kP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAABZABEAAAb9wJFwBBgaj8ikcslsOofFZPRJrVqvUCkSwI12p1Ywdpw9istC7/hMXpuV07i7TSe+t2j2U1+nitlFXEZ8Ul9fd3aFamGIg12DZHxyeGmJVX9bi5VzWpuQUIRwjZ6TnIiAn1eYp2qhooWVq0SunamWm4IjIQkdDgcjHwUcCBKMgkW7vb+Ps7q8vsDCxLZlh7O5QxsaDCIPFhUgDapJ2twPF0rl3d/hlO5PIhMXux4jGcWMSPHzCfVJ+/Ts4UNTJ8QCDxgOUIgAwUOFfEcMIvylRGLChQ0f9kGCQQABAwgDKBjgj07HjyU5egSJQSTJjUc+AHgJc4hMmkpupnwSBAA7\" alt=\"\" width=\"87px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"(Kl_px + mu_p alpha_px )\"> 값이 0.3 이하인 경우 식 (4.3-1) 대신에 다음과 같은 근사식을 사용할 수 있다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 120,
+        "title": "4.3.2 포스트텐션 긴장재의 마찰손실",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhqgARAPUAACgoKCgoUyhTUyhTnVMoKFNTnVN5vlOd33koU3lTnXl5U3l5nXl5vnmd33m+33m+/51TKJ1TeZ1TnZ15nZ2dnZ2dvp2d352+352+/53f353f/755U755eb6deb6+377/vr7//9+dU9+ded++ed++vt//vt//39////++ef++nf/fnf//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC0ALAAAAACqABEAAAb+wJZwSCwaj8iksgggri7LqHRKrVJZHqt2u2wKWRWueEyOpjRJgHpdZq7VU28LhR7Kj3fjW7jf5ttLLBQnaXaARHJ/eEMsE4QtbIVKd16KUpaHRygPknyZkIhRcioNTJNdhp5+n1IqBkiUcW+RpqmoQpu1sKeqoFyYrEMrCY+6cJmJwL0tIZyhbrPHodK+VNG0vZaRyowRIHjYh32iRBt1totp2Nydeui2TewtLN7uftf21kXmuungy/L85ftDKSC9b/1YsWMhgVAeEeeW5Rv4zoq2itUyRjk4UaHFIs0SioRXSaO+f6DyJKvSqJhEIcNMQDgwp0AJBBHJGYk5c17Tzz+k7IyLU+sYT5oobOL8CKfJUUjH4DxNerOOK0ThWpAY0YDeBw8pHFQZKmRrV28kSlgwuYIBmT5kzXoFK/ajEbn1juD9GpZILiksOIAYRggioMCDic3hpMhwsCKICbdwPPZIZMWWBUum3ELwlBULToQ40CFDwyxlQIum2TmnkzCPnYQeXfq03SKqRyfJTdr0CdQqMFAJIYCAAdEBFAxwKYa4cUItlaQQHluI8+Mhki9vc505ke7ZlUOHLQUFgO2szG9vO+JV9fLnvbdRL38IfSpBAAA7\" alt=\"\" width=\"169px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"P  _{px} ＝P  _{pj} / LEFT ( 1+Kl  _{px} + mu   _{p}  alpha   _{px} RIGHT )\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.3-2)</span></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 121,
+        "title": "4.3.2 포스트텐션 긴장재의 마찰손실",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)마찰손실을 계산할 때 파상마찰계수 <img src=\"data:image/gif;base64,R0lGODlhDgAOAPQAACgoKCgoUygoeShTnSh5vlMoU1N5nVOd33koKHkoU3m+33m+/51TKJ15U53f/755KL6dvr7f377//9+dU9+ded++vt//39////++ef/fnf//vv//3////wAAAAAAAAAAACH5BAAAABwALAAAAAAOAA4AAAVFICeOZGmeJAasw8U9a4kJ0kgp5nOIG+SWmoSDU4mgJgNLg4DaMAyRWc2UKQw1iMVpwhQ9WiWnVoQJDEew1W6yMqPe8FEIADs=\" alt=\"\" width=\"12px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"K\">와 곡률마찰계수 <img src=\"data:image/gif;base64,R0lGODlhEAARAPQAACgoKChTUyhTnVMoKFN5vlOd33lTnXl5nXmd351TKJ1Teb55eb7//9+dU9++ed++vt//39////++ef//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAQABEAAAU+YCWOZGmeaKqubIsCI6zKFf3GMz7LsF32vcrEAEkUdKWHA0FRMEQ+EWXBGEagp8kh0jiqGoEB4ZqSAARkUQgAOw==\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"mu   _{p}\">는 시험에 근거하여 결정하여야 하며, 긴장 작업을 할 때 이를 검증하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 122,
+        "title": "4.3.2 포스트텐션 긴장재의 마찰손실",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)설계할 때 사용한 파상마찰계수와 곡률마찰계수의 값은 설계도면에 제시하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 123,
+        "title": "4.3.2 포스트텐션 긴장재의 마찰손실",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)인접 구조와의 연결로 인하여 부재에서 프리스트레스 손실이 발생될 때에는 그 손실량을 설계에 고려하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 124,
+        "title": "4.4 휨부재 설계",
+        "level": 2,
+        "label": "4.4",
+        "contents": "<p>4.4 휨부재 설계</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 125,
+        "title": "4.4.1 휨강도",
+        "level": 3,
+        "label": "4.4.1",
+        "contents": "<p>4.4.1 휨강도</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 126,
+        "title": "4.4.1 휨강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)휨부재의 설계휨강도 계산은 이 기준의 강도설계법에 따라야 한다. 이때 긴장재의 응력은 <img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6kGYAAGZmtma2/5A6AJA6ZpBmtpCQkJC2/5Db/7aQkLbb/7b//9uQZtu2kNu2ttvbttv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAQABEAAAU/4CWOZGme6AgAKcmyrQjH1xyvK13rMm/fvN2oIiBYEBJXCRJhUAYqIWkhmRBUv4vlYDE0YpYCIJBsORSPxCgEADs=\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_y\"> 대신 <img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQOtuQkNu2Ztu2ttv/29v///+2Zv+2kP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAVABEAAAVS4CaOZGmeaEoCgIq2rWvGcknXI8viK2/7OWBQuLllEJXFYXMpEGYlykShYUAcD0wjeNtoHJCjRUN5rLqbTMISOUgaVYgrIigYxouAwnUBDCwpIQA7\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_ps\">를 사용하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 127,
+        "title": "4.4.1 휨강도",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)<img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQOtuQkNu2Ztu2ttv/29v///+2Zv+2kP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAVABEAAAVS4CaOZGmeaEoCgIq2rWvGcknXI8viK2/7OWBQuLllEJXFYXMpEGYlykShYUAcD0wjeNtoHJCjRUN5rLqbTMISOUgaVYgrIigYxouAwnUBDCwpIQA7\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_ps\">는 변형률 적합조건을 기초로 하여 계산하여야 한다. 다만, 더 정확하게 <img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQOtuQkNu2Ztu2ttv/29v///+2Zv+2kP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAVABEAAAVS4CaOZGmeaEoCgIq2rWvGcknXI8viK2/7OWBQuLllEJXFYXMpEGYlykShYUAcD0wjeNtoHJCjRUN5rLqbTMISOUgaVYgrIigYxouAwnUBDCwpIQA7\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_ps\">를 계산하지 않는 경우에 <img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAAAOgA6OgA6kDoAADpmkDpmtjqQ22Y6AGY6kGZmkGaQ22a2/5A6AJA6ZpC2/5Db/7ZmZrbbkLbb/7b//7yQOtuQOtuQZtu2Ztu2ttv/29v///+2Zv//tv//2////yH5BAAAAB8ALAAAAAAVABEAAAVT4CeOZGmeaEoCgIq2rWvGcknXI8viK2/7OWBQ+Ll1EprG4cMhBCA/Ugaz8DgkhQ3nEbx9PBHKscIybHLeT0exsRwujE9m4rIICOYOYnBWcQB8KSEAOw==\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_pe\">의 값이 <img src=\"data:image/gif;base64,R0lGODlhKAARAPUAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmOmZmkGZmtmaQ22a2/5A6AJA6ZpBmtp22trZmZraQkLbbtrbb/7b//9uQOtu2Ztu2ttvbttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAoABEAAAaFwJBwSCwaj8ikcsksAp7HpzQKaAqrVyMWWd0yt95sMvwdkslmKxGsna7dVrYzvVbTQ+i72C6X4+t2e1h+XnlfUFRhXh8IGw4HIA4NIBMcgVpFGRgMIA8RGhUeC5d1YSASFowclR0NpGZkHwocF5AQnRQVr0kXAgUGHJEBCQS7SB0AA5ZJQQA7\" alt=\"\" width=\"38px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"0.5f_pu\"> 이상이면 아래 (3) 또는 (4)에 따라 근사식으로 <img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQOtuQkNu2Ztu2ttv/29v///+2Zv+2kP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAVABEAAAVS4CaOZGmeaEoCgIq2rWvGcknXI8viK2/7OWBQuLllEJXFYXMpEGYlykShYUAcD0wjeNtoHJCjRUN5rLqbTMISOUgaVYgrIigYxouAwnUBDCwpIQA7\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_ps\">를 구할 수 있다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 128,
+        "title": "4.4.1 휨강도",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)부착긴장재를 가진 부재에 대한 <img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQOtuQkNu2Ztu2ttv/29v///+2Zv+2kP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAVABEAAAVS4CaOZGmeaEoCgIq2rWvGcknXI8viK2/7OWBQuLllEJXFYXMpEGYlykShYUAcD0wjeNtoHJCjRUN5rLqbTMISOUgaVYgrIigYxouAwnUBDCwpIQA7\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_ps\">는 식 (4.4-1)에 의해 구할 수 있다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 129,
+        "title": "4.4.1 휨강도",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhAAEkAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtigNUSgXUToAADoAZjo6Ojo6Zjo6kDpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmOmZmkGZmtmaQkGaQtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmZpBmkJBmtpCQOpCQtpCQ25C225C2/5Db25Db/522trZmALZmOrZmZrZmkLaQOraQZraQkLa2kLa2tra227a2/7bbtrbb/7b//7z//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAFUALAAAAAAAASQAAAf+gFWCg4SFhoeIiYqCUxEAAS+LkpOUlZaXmJmam4lPCQAFS5yjllMXoqSpqqusra2mqK6vp7KjVDc9mlMVILW+rFAqlLC/q1IIP8WZQT66GkQNscrTl08ek8fJ1JxSB9rbklMbmzIgULnUUUjglDPNi93f7JfxrEEJkII6mEwQmZ4AABgAB2XCu3mJgPSC5w0hpnqqmrCoAuXEknOYFGp6Eo0dR2kOC/WTBDEkpZKk9gl68iJHJo0v/bEbafIQTUUoa+Js6GrKCXSXgkTCRCXEwmn3CGA4qnOQNZI8m+6Ut4oYJqH/FBwsBiTUE61SCT1lSDVsoZyqprSoYkpJCJn+krBmHDio7duiIG6BxDRFQiSrZsdONZsIbaomkYoM8UBlxNZEcisVcctUMeMRMI70eDJuFJNQVW4eurF31RMNooRsFVw4KuGzyGSRrkLFHWBFkSdNsYCj46DaPmCRZsJUExC65YqUzu0KiEwqFp1egxc70a7iVXnppjUoyoyhm6ionILaOSXmkmIQAM+oPAQqKBrzAGroycRFTAYWqeBCmCFxv1BhwkHESRcOd4eQB01poyjomyJWFfUIe6MAMUACDzBoiAwUGndhhkUFkAFdiIiGCBUlQPLVY4IwMV0tUOxACIArPXCghuVg5EqO9FmHIFt+qcIEKBoa0hiL/BD+eYmJm8BEzZGM/JiglCt9IhAlAAWkpQAsZkniIrf11eE2Q9hYyBD4YOcKk5pweOI6mlABZyFQCiLDB2BSudKDrXxUSZhBDgKEloR+uUpXIDHRwGZ8mmYlofmQAx4RBxX0zqCEBvQlpYNYaqRjv70FoZ5VmFdJloRyeYipw/woZimOZCrrlkgOMgRctInwl0Ezxjrrr6myyGYjwGaqKkxTrEDbCc04Uet/ykLXLIt1lornqKXhVYu2f7oaKELVPmGmn7+wmQlNiFWxYhXOUpLuuu0WYtVtU5a2riz3tirNqyG5KYipMeBai7l8daZaaHTNNsnB+QmiMCEF1njjql/+2uUPEwkYWslxM17g1ntG6RXlvt8iFFkMAw3BpcX43jeJOrhF0sQHVMjAmA1jIjJzzTePSUMsrCFC72RGEWLZkTP0kK4lRFe2WGOZbdZZFdkMEoOWoGlCBAUAmBnUUFNMkAIABORyNKgJaleMpydaFCIHFASgZiJvx63m0iu9WFh1jPDGJ3CwUFFEj+H4LQ3gpwx3FL2kMOFAElX4a4lc5AqCeGkOFplK5YfIqUwUkIult9BSqkcheUs4J8QL1VJiurzuwScfOoxzQiO/kw9lIuqsFsKjMgTXFHS9k1iI4RIhjt7kh8iHICKJtW+i2tUACHxezqUyX5+VGtuTgFL+c+s0/H+kQqzkmueTrvklLlWRBBHYK+KkSOnX12griOZLWPAjv0Z8WjJqUfckMb9L9K4nQYqeTvjHlvKZRYGY0FEVUCYI5WwsfIvgliFqkLVNfEYUDAwJAyEYFhJa4mBsiQAIPKEqSoTwEPqbkbIqhBwQWPA1Bfyf/zq2vkrIoAPNA03rwDQ1AxoKYypygQxaeC798EcFLJOKOya2Qx6mRQf36BoqhrgI9CyiaWJhQA8UEoQFXCs8KXrBis72LHCMj3w91IkJKSFBQnBxEUIgnHUMRwiYUIEEDIhfnGzjQGpAYYZUrGL/UnFDOqHNF68jBFaKYIQNWGNOaXGPInUmqEhiRaonjvjkNqBAgVAQpxEYfIn2NumUT3SQlbBU5JBeGUtEBAIAOw==\" alt=\"\" width=\"255px\" height=\"35px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f  _{ps} `＝`f  _{pu} LEFT [ 1－ {gamma   _{p}} over {beta   _{1}} LEFT ｛ rho   _{p} {f  _{pu}} over {f  _{ck}} ＋ {d} over {d  _{p}} LEFT ( omega － omega ' RIGHT ) RIGHT ｝ RIGHT ]\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.4-1)</span></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 130,
+        "title": "4.4.1 휨강도",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhTwARAPQAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQOtuQkNu2Ztu2ttv/29v///+2Zv+2kP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAABPABEAAAXK4CaOZGmeaKqKwOq+cPy2cm2jdJwDOcnfwFPPNRyOjMEaD5kq4pLHpZS5oVGFvudqCTVZdSVu9Fo9ds0scLbMJu9UUylOPgubv/B1t0dG+1t4TYFQTnVreIBNVTQZCBULB0CFjY+RFwUEaV58iZSQfiMUEwoaDBBKPyxcoqSmDg8YDWwyrKWnsyMaDhCNFme5u70aFA+aMrq8CL64IhkJFhGRv83P0RINtkDO0NIoEQIFBsvT3+EWGgsBCkHl4ikXAAPj0/Dyv/XzIQA7\" alt=\"\" width=\"77px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"rho_p = A_ps /bd_p\">, <img src=\"data:image/gif;base64,R0lGODlhSQARAPUAAAAAAAAAOgAAZgA6kDoAADo6Ojo6ZmYAAGY6AGZmtmaQ22a222a2/5A6AJA6ZpBmAJBmtpCQkJCQ25C2/5Db25Db/7ZmOraQOraQkLbb/7b//9uQOtuQZtu2kNu2ttvbkNvbttvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACgALAAAAABJABEAAAbKQJRwSCwaj8jkEaBsOp9QJzNKrTYBU2SWiLV6n8xtUSwMf89J8niJHmPf76h6TYd2UeG59F6Oa41wYHhlhFZZW3qFdXaFiHCBdYhKc4mAjV6Sin+WSBcDInRTlVqiXFdsSCYSS3lfraZDJgcMJxEilEUjBAEVJBQWAhpti7BDHiAZJAmDnEMkBhkbDBwFC8PNQ2ZFGCIjDMzZ4ELSQicPBhXXxHhkJxAnDsKAZBzpHh8JJAoh6lYnDQA+RSmB4JM3Wd/6UanXYUK/IAA7\" alt=\"\" width=\"71px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"omega = rhof_y /f_ck\">, <img src=\"data:image/gif;base64,R0lGODlhUQARAPUAAAAAAAAAOgAAZgA6kDoAADo6Ojo6ZmYAAGY6AGZmtmaQ22a222a2/5A6AJA6ZpBmAJBmtpCQkJCQ25C2/5Db25Db/7ZmOraQOraQkLbb/7b//9uQOtuQZtu2kNu2ttvbkNvbttvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACgALAAAAABRABEAAAbRQJRwSCwaj8ikkghYOpWA5nMZnTKtWKE0e9wyvUawVpwlc1HkphndZZ+H63IbOn9Do3g8N64Nl6VqfE56XYR1cIZUboB2bo5FfGl7fY9feYmOZnGacouNXpJ0fkgXAyKjjHZVlXCKo0cmEkhVq6poa14mBwwnESKcRCMEARUkFBYCGo2izEIeIBkkCayVJAYZGwwcBQvLrrOsGCIjDJVqRdlCJw8GFd7NYWInECcOyvFGHO4eHwkkCiHeCURxogEAU1ZKIDBFTle5gd70dZgAMQgAOw==\" alt=\"\" width=\"79px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"omega' = rho' f_y /f_ck\">이고, <img src=\"data:image/gif;base64,R0lGODlhDwARAPQAAAAAAAA6OgA6kDoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZrZmZrb//9uQOtu2Ztu2ttv/29v///+2Zv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAPABEAAAU9YCWOZGmeaKqubFsB8Aics1jXJT7jaszyvcrEAEkUaKKHA0FRMEw1yoIxjEBFk0OkcUw1AgOCFSUBCMaiEAA7\" alt=\"\" width=\"13px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"gamma_p\">는 <img src=\"data:image/gif;base64,R0lGODlhLwARAPUAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22YAAGY6kGZmOmZmkGZmtmaQ22a2/5A6AJA6ZpBmtpCQkJC2/5Db/522trZmZraQkLbbtrbb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAAvABEAAAanwJNwSCwah4CjcslsnpLOKBIapRIBVulzWz0ms1IwUyzuarnX8xVbNoLZ7fGZrE6HlXG5ll4X5ot8fVYlCSEPByUIDiYSImWDhYcmD4sXIoBFHx0NJhAVIBkkDGh2Q5qcnqCiaVkmFhqEIpYjDqRbra+xs7VTRiULIhsHJhGdGl5gv8HDxRAYGU0bAgUGIpMAA5dS0tTWDwEKBE0j2NocFB4TWuTZTEEAOw==\" alt=\"\" width=\"45px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_py / f_pu\">≥0.80일 때 0.55, <img src=\"data:image/gif;base64,R0lGODlhLwARAPUAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22YAAGY6kGZmOmZmkGZmtmaQ22a2/5A6AJA6ZpBmtpCQkJC2/5Db/522trZmZraQkLbbtrbb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAAvABEAAAanwJNwSCwah4CjcslsnpLOKBIapRIBVulzWz0ms1IwUyzuarnX8xVbNoLZ7fGZrE6HlXG5ll4X5ot8fVYlCSEPByUIDiYSImWDhYcmD4sXIoBFHx0NJhAVIBkkDGh2Q5qcnqCiaVkmFhqEIpYjDqRbra+xs7VTRiULIhsHJhGdGl5gv8HDxRAYGU0bAgUGIpMAA5dS0tTWDwEKBE0j2NocFB4TWuTZTEEAOw==\" alt=\"\" width=\"45px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_py / f_pu\">≥0.85일 때 0.40, <img src=\"data:image/gif;base64,R0lGODlhLwARAPUAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22YAAGY6kGZmOmZmkGZmtmaQ22a2/5A6AJA6ZpBmtpCQkJC2/5Db/522trZmZraQkLbbtrbb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAAvABEAAAanwJNwSCwah4CjcslsnpLOKBIapRIBVulzWz0ms1IwUyzuarnX8xVbNoLZ7fGZrE6HlXG5ll4X5ot8fVYlCSEPByUIDiYSImWDhYcmD4sXIoBFHx0NJhAVIBkkDGh2Q5qcnqCiaVkmFhqEIpYjDqRbra+xs7VTRiULIhsHJhGdGl5gv8HDxRAYGU0bAgUGIpMAA5dS0tTWDwEKBE0j2NocFB4TWuTZTEEAOw==\" alt=\"\" width=\"45px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_py / f_pu\">≥0.90일 때 0.28이다. 그리고 식 (4.4-1)의 <img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQOtuQkNu2Ztu2ttv/29v///+2Zv+2kP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAVABEAAAVS4CaOZGmeaEoCgIq2rWvGcknXI8viK2/7OWBQuLllEJXFYXMpEGYlykShYUAcD0wjeNtoHJCjRUN5rLqbTMISOUgaVYgrIigYxouAwnUBDCwpIQA7\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_ps\"> 계산에 압축철근을 고려한다면 <img src=\"data:image/gif;base64,R0lGODlhhQAkAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtigNUSgXUToAADoAZjo6Ojo6Zjo6kDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmOmZmkGZmtmaQkGaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmZpBmkJBmtpCQOpCQtpCQ25C225Db25Db/522trZmALZmOrZmZrZmkLaQOraQZraQkLa2kLa2/7bbtrbb/7b//7z//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAFAALAAAAACFACQAAAf+gFCCThAAASyCiYqLjI2Oj5CRkpOUkkoJAAVGjU4Wm5WgoaKjpJSdn4unpVBOFB6rsLGyrJ6NTQg6pU4ZPw2os8DBkLe5jE0HxaMvHks4wpBMQ8+xx8mK1aOXAAAG049LEjnepdjGyKRKvuOO6b/rleWL8aE7D++NR/b3ofOJ/ZRPPrzaB4VHAgIXBhKk9A9KQ0sKxO3boUlJxIXwzpmzVmlHt0Sdinx4ENDDExruRDmJgEgVxkkNHz4CIlIhFCA+ODwJ0UIIDiUaYh3RBCUfJJTjlGTY1EOioJi4QDmpUENdoicwcpxCecQmKY+ClgFJWRDRuHqCnpRARYxTLVD+LgiYBbm03hMTO284Y6dC0pFuQCisQMEp6LgnJJx2Bfk2VeNVOwYkcGAkYAAMHx0ZjfRkxCGLThUd4bBuiQ1FTgzTIuty1ZFMZCFtjrXD67udElujfgzFR4IAtp/NhvVi7qIn0kghb4R7EG/nv440+GlVmLZt2A+tKp7oh1NwEndgH58ZivdE4Bk1X+0W1RMQLcOhLjS+vv36AkILGg6S/n384tQ2SApQqCVOEvo94gSBBkKBoHoh5PYce4Io4UCF1XnDXymbIYEIaA4m6IiHUID4oGOf6MYYKmhB4YI+62xISmqCNFXUR0hNYuNfguQomkIqQpeIC934kF9II03+o0RflEQDCQ+IINHBEy/oNINxkUhJpZVYChIDKkE6FBUrEpwAAAHO4KRThI60Epww6TmiVmUfBLDBBMCBYtmdeTJCoj9joojhL1hpNeEuvcQGTDuQLPcOE0QIyohL/O1iRIuMLNPMPTK+1OahEwoS2WQpXVfeMwYh9Kank4Ia22tEsZPhMxQZASKrkoQZJiWYTrNSS6HiuhtrwXImkCMyxMohUZ0KO2x76FzECYGwgAWFWIo6q2uxkFibyBG/saDECi/kxyFggqGAJIzOCtlqto7QdGwiSjCAQ208LNABLJ19FpGa67VLoaSVTFXVLwIWKAIDXcZS6K6ebgtvI3EsYQnlTUFooAQHyQFjaa/t6lqIdrAsMYEmXRGy6leSUSZwiZgo+zKHsM0MSSAAOw==\" alt=\"\" width=\"132px\" height=\"35px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\" LEFT [ rho   _{p} {f  _{pu}} over {f  _{ck}} ＋ {d} over {d  _{p}} LEFT ( omega － omega  prime  RIGHT ) RIGHT ]\">의 값을 0.17 이상으로 하여야 하고, <img src=\"data:image/gif;base64,R0lGODlhDgAOAPUAAAAAOgA6ZgA6kABmtjoAADoAZjo6kDqQ22YAOmYAZmY6OmY6kGZmAGZmkGa2/5BmOpBmZpCQtpDb25Db/7ZmOra2/7b/27b//9uQOtuQZtu2ttvbttvb29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAAOAA4AAAZLQJJwOPw0OkRiiEPCHJJEUMICuUCLhk3lOvQ8uRlCgOHgYgSdT8EKFSEmJNECCfWgSV7zQEhxaOhEHnsaChIRVyMPABNqbFyPkElBADs=\" alt=\"\" width=\"12px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"d'\">은 0.15 <img src=\"data:image/gif;base64,R0lGODlhDwARAPQAAAAAAAA6OgA6kDoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZrZmZrb//9uQOtu2Ztu2ttv/29v///+2Zv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAPABEAAAU8YCWOZGmeKACg5sqS7lvFrEqf7l3mMv/yOthqNTFAEoXXw4GgKBgsyoJRjLAmh0gjyWoEBgQrSgIQiEUhADs=\" alt=\"\" width=\"13px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"d_p\"> 이하로 하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 131,
+        "title": "4.4.1 휨강도",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)비부착긴장재를 가진 부재에 대한 <img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQOtuQkNu2Ztu2ttv/29v///+2Zv+2kP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAVABEAAAVS4CaOZGmeaEoCgIq2rWvGcknXI8viK2/7OWBQuLllEJXFYXMpEGYlykShYUAcD0wjeNtoHJCjRUN5rLqbTMISOUgaVYgrIigYxouAwnUBDCwpIQA7\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_ps\">는 다음 식 (4.4-2), 식 (4.4-3)에 따라 구할 수 있다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 132,
+        "title": "4.4.1 휨강도",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 깊이에 대한 경간의 비가 35 이하인 경우 </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 133,
+        "title": "4.4.1 휨강도",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhjQAkAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6Ojo6Zjo6kDpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmAJCQOpCQtpCQ25C2/5Db25Db/7ZmALZmOrZmZraQOra2kLa2/7bbkLbb/7b//7yQOtuQOtuQZtuQkNu2Ztu2kNu2ttvbkNvb29v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAACNACQAAAf+gEGCg4SFhoeIiYqLjI2Oj5CRkpOUlZaXmJmam5M/ExucoaKjnRY0CzmkqqusgicbPS2ts7SYPAcAAAa1vL2RPKi+wsOJMA7EyMlAHKCHKQWpydKjPAguiD8i09uhMLuEOgcBJTwkJwLX3OqTNTjMhDwKLTAbMQka6/mRPxQqwYP0BAH5oKBEJU/NRiGEBCQEohuGekgAQECWoYaSTBAwSCiGwRo2LvDIAFHSD1P/Qp08Fa0RxosccuUysAzfDGgXHWaSCE3Hhh8PEkJ6FYsUUYuOXhb6sWKQDBfAUgHpwJGQ0mm3Zj7KKlMmukJcvz26emiHQR04g5gQKlAnt6j+quA24toVwLil2oJ4G2TiWBC6Xe8mM/YLV10AXwsRlkS2EAqOewX1zXkI6OHLmDPXTWz1HallbJO6NfSjQjS00dZSfmstbmvGowuhFgR3atVBjZFFFlTa3bFwYiXtDtKbw29xt9sWS7ssQ5CbLXHHJtbOs6AaMzIA8eACRQuzkqoLxa7dAwsGOXSMiLQDAyGJFJFK8vF4EPyKgu7Lf8TPX3QgKLhQWg5A1LBfI/2lFASAAlbwQi4NRCfMMnZxVNNz0FwI3SQaJXdSDsbIUMJ26UDS4VIWgOhADKAYOM0PEHBUG1UzJmcJDAMcEOEyATinCY465vCDBGlJAyNHs6mRtUGSqgkygzihNaIDAEWGMmWV6hwpyG59cemXDgu0IJc+ZBIX45ZidZnmMbYRF0GJZeajZRBMLpmWajw0QJuCcWZ55l/B2FajXn5N1qc+czaHIYEcOLehCbvMgE5xfh2ajAky4aRffhPh90MEIMQXBHkkWmoqWAoyOOCprNJZKW8pLtbqrADlGCGtuF4p4SCBAAA7\" alt=\"\" width=\"139px\" height=\"35px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_ps = f_pe + 70 + {f_ck} over {100rho_p }\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.4-2)</span></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 134,
+        "title": "4.4.1 휨강도",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmkGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQOtuQkNu2Ztu2ttv/29v///+2Zv+2kP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAVABEAAAVS4CaOZGmeaEoCgIq2rWvGcknXI8viK2/7OWBQuLllEJXFYXMpEGYlykShYUAcD0wjeNtoHJCjRUN5rLqbTMISOUgaVYgrIigYxouAwnUBDCwpIQA7\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_ps\">는 <img src=\"data:image/gif;base64,R0lGODlhFQARAPUAAAAAAAA6OgA6kDoAADpmtjqQ22YAAGY6kGZmkGZmtmaQ22a2/5A6AJA6ZpBmtpCQkJC2/5Db/522trZmZraQkLbb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAVABEAAAZiwJFwSCwaj8gkEQBQIptNpzEqLVKrQyYTu+RavVlwWDy6hg4dRiFkWIgeni5xk1GIGhJOBZQIX0ciExZnHhQeHwtZfyMhCB4XBSIOdxZOFwEDBB4iDAACcUkfnqAYERoQQ0EAOw==\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_py\">와 <img src=\"data:image/gif;base64,R0lGODlhRAARAPQAAAAAAAA6ZgBmtjoAADo6ADqQ22aQ22a222a2/5BmkJCQtpDb/7ZmALZmOrZmZraQZrbb/7b//9uQOtvb29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAABEABEAAAWm4CZuwGieaKqu7FmmbyvPNGzDMZ3fIuCbvt2OpCoNW8fRr6dkOpvAYi0qjVmfQhdvSqxCu1fqVxnUBc+511E97raf3CRbi6W/3XFe9rt/J2draG1hgyh/ModuYYRwjTkXBhICIg0AB1w9S4KZfWJ4GxMPEQ4RFgaQmKl3REYnGQoaCRQMAAELqqmJSyYVBaikGBC4w1MSBAERGxcDCMTOMssFz9MbIQA7\" alt=\"\" width=\"67px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"(f_pe + 420)\">MPa 이하로 하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 135,
+        "title": "4.4.1 휨강도",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 깊이에 대한 경간의 비가 35보다 큰 경우</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 136,
+        "title": "4.4.1 휨강도",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhlwAkAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6Ojo6Zjo6kDpmkDpmtjqQ22YAAGYAZmY6AGY6OmY6ZmY6kGZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpCQOpCQkJCQtpCQ25C2/5Db25Db/7ZmALZmOrZmZraQOra2kLa227a2/7bbkLbb/7b//7yQOtuQOtuQZtuQkNu2Ztu2kNu2ttvbkNvb29vb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEMALAAAAACXACQAAAf+gEOCg4SFhoeIiYqLjI2Oj5CRkpOUlZaXmJmam5yVQRIanaKjpJlBFTYLPKWsra6IKBpAL6+1tqM/BwAABre+v5g/qsDExZAyDsbKy4dCG6GHKgWrzNWvPwgwiEEj1t6tMr2EPQcBJj8lKALa3+2ZNzvPhD8KLzIaMwkZ7vyXQRMrhg26J0iIBwUmPIFy9QkaJCEiFOUwBCQCAAK0EEGcdIJAQkIzEt7AYeEHhomSTqWiRkqlwEcbNW7YtcuAs301pmmMqKnitB4agjxwCCnWrFZGMz7keShIi0E0YAhbJYTDR0MxreWqCWkrTZrrDnkVFymrIh8Je+gccoIoIbP+1aa6kvvI61cA5pp2GxJu0Ilkg+x+zbsMmSTBYNkZMkwJ7qEUH/sK+rtz24O7mDNr3hy2kDO3oz5XclwoCAVqaqm1rewNm+JSrkczRZRakNyqVz3PZiZZkOl4yciRrdR7yO8Nwcvlfrt78VpnGIbkZKnbGjx5g27UwCCkA4wUL9BWuk5UO/cOLhjw6EGiko8LhCpeVNoYxcWP8jEKyk//0b+A1AmRAgym8SDEDf1B8t9LQwhIIAUx7NIAddWIJsM6N0k3TYbTceRRaRXwgAwNJnT3WiQdLXeKiA7MEAqC/QzRwzq3WVXjcpbIMMABEzoTQHSd6MgjD0FEsBY/BgWet1ZbtbHlUA3lgNZIDwAcSQqVVsbIFgANCNLbX18C1sMCL9Cl5ZmFhCMiWWCymQxuxkFwIppIsmDbARo0yeSSofzQ5RBm0tlPD3nlosGNN/IFGGWCailECDrwheEG0U0HnYarnNBLDescB1ij3wjxwXz7WaTfEPzFCQKp5pkI6qtiMehggbDWOkgPn/oWImO29prmjhP6KqwgWFI4SCAAOw==\" alt=\"\" width=\"149px\" height=\"35px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f  _{ps`} `=`f  _{pe`} `+`70`+`{{f _{ck`}} over {300 rho_p}}\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.4-3)</span></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 137,
+        "title": "4.4.1 휨강도",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhFQARAPQAACgoKCgoUyhTUyhTnSh5vlMoKFN5vlOd33lTnXl5nXmd351TKJ1TeZ3f/755eb7f/77//9+dU9+dnd++ed++vt//39////++ef++nf//vv//3////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAVABEAAAVS4CaOZGmeaEoCgIq2rWvGcknXI8viK2/7OWBQuLllEJXFYXMpEGYlykShYUAcD0wjeNtoHJCjRUN5rLqbTMISOUgaVYgrIigYxouAwnUBDCwpIQA7\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"f_ps\">는 <img src=\"data:image/gif;base64,R0lGODlhFQARAPUAACgoKChTUyhTnVMoKFN5vlOd33koKHlTnXl5nXl5vnmd33m+/51TKJ1TeZ15vp2dnZ2+/53f/6i+vr55eb6dnb7f/77//9+dU9+ded++ed++nd++vt/fvt//39////++ef/fnf//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAVABEAAAZiwJFwSCwaj8gkEQBQIptNpzEqLVKrQyYTu+RavVlwWDy6hg4dRiFkWIgeni5xk1GIGhJOBZQIX0ciExZnHhQeHwtZfyMhCB4XBSIOdxZOFwEDBB4iDAACcUkfnqAYERoQQ0EAOw==\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"f_py\">와 <img src=\"data:image/gif;base64,R0lGODlhRgARAPUAACgoKCgoUygoeShTUyhTeShTnSh5vlMoKFMoeVNTnVN5nVN5vlOd33koU3lTKHlTU3lTeXlTnXl5nXl5vnmd33m+33m+/51TKJ1TU51TeZ15nZ2dvp2d352+352+/53f/755KL55U755eb55nb6dU76dnb6+nb7fnb7f/77//8OdU9+dU9+ded+dnd++ed++nd++vt/f39/f/9//39////++ef++nf/fnf/fvv/f3///vv//3////wAAAAAAAAAAACH5BAAAADwALAAAAABGABEAAAb+QJ6QV6INj8ikcslsJlspJevjrFqvzJ3GeNRNsM7dBkyuWZA1ilL3OGPFTdcBQEANcyKqEOeg24deSCtuXRIvCVxWcEs3EzQ7JAIpOxcAAXqUFTwuBYk7GVFDIXpHIRY4f1eLSjWXPDoNerB6N4g8Oxikn6FCo0c3cwAGVsAAxseWpEizQsw8NZ1CIIS7R4NItYlvY1UrDICxQivD0t9C1UM15kPeZOfcTTccXeE840Mg6zoR2oFDlITArFqCo8OyetC4TEsXUMiUITcQ8BIITwkOD0JsyKqX7VauISO0ndsijlyzCDMufKtxwBWYYsYkNatHSQ0nLhqX7IgBI2VKQBguKHw6oYBGDYzukoA4Fo2PHyE5ZDTRAcGErX8iUuxTYWyByKRgl4AgoOyVBBreWJyBkSqs2ysrBhzwqsNBtLd4q9QAcDev3yAAOw==\" alt=\"\" width=\"69px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"(f_pe +`210)\">MPa 이하로 하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 138,
+        "title": "4.4.1 휨강도",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5) 긴장재와 함께 사용되는 철근도 휨강도를 계산할 때 인장력을 발휘하는 것으로 볼 수 있다. 이때 인장력은 변형률 적합조건을 적용한 해석에 의해 구한 철근의 응력에 근거하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 139,
+        "title": "4.4.2 휨부재의 보강에 대한 제한 사항",
+        "level": 3,
+        "label": "4.4.2",
+        "contents": "<p>4.4.2 휨부재의 보강에 대한 제한 사항</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 140,
+        "title": "4.4.2 휨부재의 보강에 대한 제한 사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)프리스트레스트콘크리트 단면은 KDS 14 20 20(4.1.2(3), (4) )에 정의된 바와 같이 인장지배단면, 변화구간단면, 압축지배단면으로 분류하여야 한다. 강도감소계수 <img src=\"data:image/gif;base64,R0lGODlhCwAOAPUAAABmtjo6kDpmtmY6ZmY6kGZmtmaQkGaQ25A6ZpCQZpCQkJCQtpDb/7ZmOraQkLaQtra2tra227a2/7bbtrbb/7b//9uQZtu2ttvb/9v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAALAA4AAAZCwJBwSCwaj5vKUXjJLEGRI8iRMCycQ04hk/wQsJ+BEhICIZQhDaAc5QSwHEGoQwk1GETL4TJR1I0PSyEfEoIeGEZBADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"phi \">는 KDS 14 20 10(4.2.3) 에 따라야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 141,
+        "title": "4.4.2 휨부재의 보강에 대한 제한 사항",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)부착긴장재를 가진 부재의 철근과 긴장재 전체량은 KDS 14 20 30(식 (4.2-3))에 규정된 콘크리트의 파괴계수 <img src=\"data:image/gif;base64,R0lGODlhEAARAPMAAAAAADqQ22YAOmZmOmaQ22a2/5BmkLZmZrb//9u2Ztu2ttv////bkP//tv//2////yH5BAAAAA8ALAAAAAAQABEAAAQv8MlJq714ApAp550Ehs8YbhtZqiJrnuw6NcIAFNWrJEEuUwdE7vVwGBYqBiFmiQAAOw==\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_r\">을 기초로 하여 계산된 균열하중의 1.2배 이상의 계수하중을 받는 데 충분하여야 한다. 다만, 전단강도와 휨강도가 KDS 14 20 10(4.2.2) 에 제시된 계수하중으로 계산된 값의 2배 이상이 되는 휨부재는 이 조건을 따르지 않을 수 있다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 142,
+        "title": "4.4.2 휨부재의 보강에 대한 제한 사항",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)프리스트레스트콘크리트 휨부재에서는 철근이나 긴장재를 포함한 부착보강재의 일부 혹은 전부를 가능하면 인장연단에 가깝게 배치하여야 한다. 비부착긴장재를 갖는 경우에는 4.4.3에 규정되어 있는 최소 부착보강량(철근이나 긴장재)을 만족시켜야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 143,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 3,
+        "label": "4.4.3",
+        "contents": "<p>4.4.3 최소 부착철근량</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 144,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)비부착긴장재가 배치된 모든 휨부재에는 다음 (2)와 (3)의 규정에 따라 최소 부착철근이 배치되어야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 145,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)4.4.3(3)에 해당하는 경우를 제외하고 최소 부착철근량은 식 (4.4-4)에 따라 구하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 146,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhWAARAPUAAAAAAAAAMgAAOgAAZgA6kABmtjoAADo6ZlExAGY6AGaQ22a2/5A6AJA6ZpCQ25C2/5Db/7ZmZrZmkLbb/7b//9uQOtuQZtuQkNu2ttu229vbkNv///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAABYABEAAAbQQJFwSCwaj8ikcslsOp/QqNQJmCIB2Gt2iK0WvVerCCwWgslmbnptRn+n3TLxbKSP1Wl3W7/08uddgWh2c3iEVXp+UopybG52kGyFd1CEcpaOmZSPeE+CTIKBb5KadJhjop6TjZGlaqGrlEUfDnWjrIadjLKSg0ccC7arHAYFYnFHyHtfW7yyxAEIWMHLe14REx0QjdyoZ3EeBxMVCxIbUCEYE93sSeRCILVPFxAhDRTt+UQW2xgaDxnONQnBQIACfQhFfEhAYAOHAfgSSuQWBAA7\" alt=\"\" width=\"86px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A  _{s} =0.004A  _{ct}\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.4-4)</span></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 147,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 식 (4.4-4)에서 계산된 최소 부착철근은 미리 압축을 가한 인장구역에서 가능한 한 인장연단에 가깝게 균등하게 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 148,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 사용하중에 의한 응력 상태에 관계없이 최소 부착철근을 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 149,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)두께가 일정한 2방향 플랫 슬래브에 대한 최소 부착철근량과 그 배치에 관해서는 다음 규정을 따라야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 150,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 모든 프리스트레스 손실을 고려한 후 사용하중에 의한 콘크리트의 인장응력이 <img src=\"data:image/gif;base64,R0lGODlhPQATAPUAACgoKCgoUygoeShTnVMoKFNTU1NTeVOd33koKHkoU3lTKHl5vnmd33m+33m+/51TKJ15KJ15nZ2d352+/53fvp3f353f/755KL55U755eb6dU76+/77f/77//9+dU9+ded++vt/fnd/f39////++ef++nf/fnf/fvv//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAA9ABMAAAbZQJVwSCwaj0ghCgFoOp/QpqCTrFqtGep1y+0OUQyveIz8WMhFZxIwjF5TkZGx2WUL7UT1PX81OeYqeFd4gnyAV1mHdW1IhXtWKAuKi4+TlVUkZ3l6XISNlkIpcqFxoIOMR4WOKikPf0ImYaZWnoFpt0YgHgOjZrMqGrypqKq4RigJZ5HDSCgSa3RzT6hHFwcqJRPMQyQEARYmFRhTaFwkvInGsAYcHg4fBQ3lXcgUsoyF7qEQBprzWxf6pXHkC0SIBbFE/NtybpSVEwp4kXCw5NXCKig2XBQSBAA7\" alt=\"\" width=\"60px\" height=\"18px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"0.17 sqrt {f  _{ck}}\">를 초과하는 경우 정모멘트 구역에 배치할 최소 부착철근량은 다음 식 (4.4-5)와 같다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 151,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhSgAkAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAZjo6ADo6kDpmOjpmkDqQ22YAAGY6AGY6OmY6ZmY6kGZmkGZmtmaQtmaQ22a2tma222a2/5A6AJA6OpBmtpCQOpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLa2kLa2tra227bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAACH5BAAAAD0ALAAAAABKACQAAAb+wJ5wSCwaj8ikcslsOp/QqHRqtAEADCHOAAiEqOBw74Yg1LQVsXpaenmFrtV67tx5dg1Mj9eh+5dxPSwFPTggf4hGfFoHK4GJkIWHexkWfZGQj4JvmIg5EmdaCaEjAXqdYiJXhEMzQjYMNqeokCRyYjsUtEm2Oa5UPBmsu1UGs1MuHMPEfjchg0tbV9NXArfMRXaCZth0J0Is3EnS1NXXeOXp6uvq1kYs1OLdYTgeQyLy81M5E0ThpO70OVEFQA86AGZ2bDAUJocDAANUGNERSoaRHQ+OUdGBIkywCz1e5BN0JYFEIjskwBgVBsaKFl+o4GDJQ0PMIZqKjMCQ4ySMGDwLQk2xIU6ExpxauABYJhCaEBFZiLRQ0AXkkJlCBYIbBrVIiw8hOQmKqnUI0VBGgxGy4Q7PqWAatWLdY5PIjUk7IoTC0agskWBpRGbdAUEiC7JORdUokZWZQ4g+rz6MGoNGhmMyTtC45HcJYRMsh/BAoa0zExEDbmr58CKu6ToNAr6OAiNFh8ZCggAAOw==\" alt=\"\" width=\"73px\" height=\"35px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_s = {N_c } over{0.5 f_y }\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.4-5)</span></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 152,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6kGYAAGZmtma2/5A6AJA6ZpBmtpCQkJC2/5Db/7aQkLbb/7b//9uQZtu2kNu2ttvbttv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAQABEAAAU/4CWOZGme6AgAKcmyrQjH1xyvK13rMm/fvN2oIiBYEBJXCRJhUAYqIWkhmRBUv4vlYDE0YpYCIJBsORSPxCgEADs=\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_y\">는 400MPa을 초과하지 않아야 하며, 식 (4.4-5)에서 계산된 최소 부착철근량은 가능한 한 인장연단에 가깝게 미리 압축을 가한 인장구역에 균등하게 배치하여야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 153,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 기둥받침부의 부모멘트 구역에는 식 (4.4-6)으로 계산된 최소 부착철근량을 각 방향으로 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 154,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhZwARAPUAAAAAAAAAOgA6kABmtjoAADo6ZjpmtjqQ22YAAGY6AGY6kGZmkGaQ22a2/5A6AJA6ZpBmOpDb/7ZmOrZmZraQkLa2kLbb/7b//9uQOtuQZtuQkNu2ttv///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAABnABEAAAbwwJFwSCwaj8ikcslsOp/QqHRKLQKqRoAWqb0Ou0TwqCsme4/naRp7Xo+/wnYcnva60VQxds4Pw998cn59XFtSdkxmZFZ/g4CCgo13f5NLiHt9bpCUjYBxeoOVSZF7pJmnnnWOa6ZNZomKhpJZnIGzXFaLUKqYqaiPtb6rjp5HEg3ExWzBm7a/v6xJFBUHyWcdBANVoGGyY96gmuCMQtgBESEIANqfbWITFh4RvfSusosfBRYYyB0MUCI2WKhHsAo/IhLmOdEQQcSDCwUjQskwbwOHEAo4PBHhIMA/iSCZgEggQGMHAyFTggyxAIJCIUEAADs=\" alt=\"\" width=\"101px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_s = 0.00075 A_cf\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.4-6)</span></p>"
+      },
+      {
+        "no": 4941,
+        "sort": 155,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>식 (4.4-6)에서 계산된 최소 부착철근은 기둥받침부 전면에서 각각 1.5<img src=\"data:image/gif;base64,R0lGODlhCwAOAPUAAAAAOgA6kABmtjoAADo6kDpmtjqQtjqQ22YAAGYAZmZmtma2/5A6OpA6ZpCQZpC2/5Db/7ZmZra227bb/7b//9uQOtu2Ztu2kNvb29vb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAALAA4AAAZBwI9wSCRiMkWihaBJCjcCp7CykHoajgHgUewgDBpocRNobg7FCvoTgRA9DHdH8ZEMOwnK53yZDDkFQhwDVVKGTkEAOw==\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h\"> 떨어진 슬래브폭 내에 4개 이상의 철근 또는 철선을 각 방향으로 300mm 이하의 간격으로 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 156,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)위의 (2)와 (3)에서 산정된 부착철근의 최소 길이는 다음 규정에 따라야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 157,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 정모멘트 구역에서는 그 구역 중간점의 양쪽으로 부착철근을 순경간의 1/6 이상 연장 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 158,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 부모멘트 구역에서는 받침부의 양쪽으로 부착철근을 순경간의 1/6 이상 연장 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 159,
+        "title": "4.4.3 최소 부착철근량",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 4.4.1(5)에 따른 설계휨강도에 대해 또는 4.4.3(3)①의 인장응력 상태에 대해 배치하는 부착철근의 최소 길이는 KDS 14 20 52 등 관련 규정을 따라야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 160,
+        "title": "4.5 부정정구조물",
+        "level": 2,
+        "label": "4.5",
+        "contents": "<p>4.5 부정정구조물</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 161,
+        "title": "4.5.1 설계 원칙",
+        "level": 3,
+        "label": "4.5.1",
+        "contents": "<p>4.5.1 설계 원칙</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 162,
+        "title": "4.5.1 설계 원칙",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)프리스트레스트콘크리트 골조와 연속구조는 사용하중이 작용할 때 만족스러운 성능을 나타내고 동시에 충분한 강도를 발휘하도록 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 163,
+        "title": "4.5.1 설계 원칙",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)사용하중이 작용할 때 구조물의 성능은 프리스트레스, 콘크리트의 크리프와 수축, 온도변화, 축방향 변형, 연결된 부재 요소에 의한 구속과 지반 침하의 영향으로 발생되는 반력, 휨모멘트, 전단력 및 축력을 고려한 탄성해석으로 규명하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 164,
+        "title": "4.5.1 설계 원칙",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)소요강도를 구하기 위해 사용되는 휨모멘트는 하중계수 1.0인 프리스트레스에 의해 발생되는 반력으로 인한 휨모멘트와 계수하중에 의한 휨모멘트의 합으로 계산하여야 한다. 계수하중으로 계산된 휨모멘트는 4.5.2의 부모멘트 재분배를 고려하여 수정할 수 있다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 165,
+        "title": "4.5.2 연속 프리스트레스트콘크리트 휨부재의 부모멘트 재분배",
+        "level": 3,
+        "label": "4.5.2",
+        "contents": "<p>4.5.2 연속 프리스트레스트콘크리트 휨부재의 부모멘트 재분배</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 166,
+        "title": "4.5.2 연속 프리스트레스트콘크리트 휨부재의 부모멘트 재분배",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)4.4.3의 최소 부착철근량 이상이 받침부에 배치된 경우, 가정된 하중배치에 따라 탄성이론으로 계산된 부 및 정모멘트는 KDS 14 20 10(4.3.2) 에 따라 감소시킬 수 있다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 167,
+        "title": "4.5.2 연속 프리스트레스트콘크리트 휨부재의 부모멘트 재분배",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)경간 내 다른 단면의 재분배 휨모멘트를 계산할 때는 감소시킨 휨모멘트를 사용하여야 한다. 각 하중 배치별로 휨모멘트 재분배를 한 상태에서 정적 평형이 만족되어야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 168,
+        "title": "4.6 압축부재 설계",
+        "level": 2,
+        "label": "4.6",
+        "contents": "<p>4.6 압축부재 설계</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 169,
+        "title": "4.6.1 설계 원칙",
+        "level": 3,
+        "label": "4.6.1",
+        "contents": "<p>4.6.1 설계 원칙</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 170,
+        "title": "4.6.1 설계 원칙",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)철근의 배치 유무에 관계없이 축력 또는 휨모멘트와 축력을 동시에 받는 프리스트레스트콘크리트 부재는 철근콘크리트 부재에 적용하는 이 설계기준의 강도설계법에 따라 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 171,
+        "title": "4.6.1 설계 원칙",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)압축부재를 설계할 때 프리스트레스, 크리프, 수축과 온도변화에 대한 영향을 고려하여야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 172,
+        "title": "4.6.2 철근 배치",
+        "level": 3,
+        "label": "4.6.2",
+        "contents": "<p>4.6.2 철근 배치</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 173,
+        "title": "4.6.2 철근 배치",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)유효프리스트레스에 의한 콘크리트의 평균 압축응력이 1.6MPa 미만인 부재에 대해서, 기둥의 경우 KDS 14 20 20(4.3.2(1), (2) ), KDS 14 20 50(4.4.2) 에 따라 그리고 벽체의 경우 KDS 14 20 72(4.2) 에 따라 최소 철근을 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 174,
+        "title": "4.6.2 철근 배치",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)벽체를 제외하고 유효프리스트레스에 의한 콘크리트의 평균 압축응력이 1.6MPa 이상인 부재에 대해서는 다음 규정에 따라 나선철근 또는 띠철근으로 모든 긴장재를 둘러싸야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 175,
+        "title": "4.6.2 철근 배치",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 나선철근은 KDS 14 20 50(4.4.2(2)) 에 따라야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 176,
+        "title": "4.6.2 철근 배치",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 띠철근은 D10 이상이거나 등가면적의 용접철망이어야 하며, 띠철근의 수직간격은 띠철근 또는 철선직경의 48배 이하, 압축부재 단면의 최소 치수 이하로 하여야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 177,
+        "title": "4.6.2 철근 배치",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 확대기초판 윗면 또는 임의의 각 층 바닥슬래브 윗면의 기둥 하단에 배치하는 띠철근의 간격은 위의 ②에서 규정한 간격의 1/2 이하로 하여야 하고, 또한 기둥 상부에 배치되는 최하단 수평철근 아래에 위치하는 띠철근도 위의 ②에서 규정한 간격의 1/2 이하로 하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 178,
+        "title": "4.6.2 철근 배치",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 보 또는 브래킷이 기둥의 4변에 강결되어 골조를 이루는 경우, 이러한 보 또는 브래킷의 최하단 수평철근 아래 75mm 이하에서 띠철근 배치를 끝낼 수 있다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 179,
+        "title": "4.6.2 철근 배치",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)유효프리스트레스에 의한 콘크리트의 평균 압축응력이 1.6MPa 이상인 벽체에서 구조해석 결과 충분한 강도와 안정성을 보여주는 경우 KDS 14 20 72(4.2) 에서 요구하는 최소 철근 규정을 따르지 않을 수 있다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 180,
+        "title": "4.7 슬래브 설계",
+        "level": 2,
+        "label": "4.7",
+        "contents": "<p>4.7 슬래브 설계</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 181,
+        "title": "4.7.1 소요강도와 사용성",
+        "level": 3,
+        "label": "4.7.1",
+        "contents": "<p>4.7.1 소요강도와 사용성</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 182,
+        "title": "4.7.1 소요강도와 사용성",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)2방향 이상 휨모멘트에 대해 보강된 프리스트레스트콘크리트 슬래브에서 계수휨모멘트와 계수전단력은 KDS 14 20 70(4.1.4.7(4), (5))를 제외한 KDS 14 20 70(4.1.4)의 규정에 따라 계산하거나 또는 상세한 해석 방법에 의해 계산하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 183,
+        "title": "4.7.1 소요강도와 사용성",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)프리스트레스트콘크리트 슬래브의 각 단면에서 휨강도는 4.5.1(3), 4.5.2와 KDS 14 20 10(4.2.2 , 4.2.3 ))에 따라 계산된 설계단면력 이상이어야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 184,
+        "title": "4.7.1 소요강도와 사용성",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)기둥에서 프리스트레스트콘크리트 슬래브의 전단강도는 KDS 14 20 10(4.2.2) , KDS 14 20 22(4.1.1 ,&nbsp; 4.11.2 , 4.11.7 )에 따라 계산된 설계단면력 이상이어야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 185,
+        "title": "4.7.1 소요강도와 사용성",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)사용하중이 작용할 때 처짐을 포함한 모든 사용성 조건은 4.5.1(2)에 기술된 요인을 만족하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 186,
+        "title": "4.7.2 긴장재와 철근의 배치",
+        "level": 3,
+        "label": "4.7.2",
+        "contents": "<p>4.7.2 긴장재와 철근의 배치</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 187,
+        "title": "4.7.2 긴장재와 철근의 배치",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)등분포하중에 대하여 배치하는 긴장재의 간격은 최소한 1방향으로는 슬래브 두께의 8배 또는 1.5m 이하로 하여야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 188,
+        "title": "4.7.2 긴장재와 철근의 배치",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)유효프리스트레스에 의한 콘크리트의 평균 압축응력이 0.9MPa 이상 되도록 긴장재의 간격을 정하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 189,
+        "title": "4.7.2 긴장재와 철근의 배치",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)경간 내에서 단면 두께가 변하는 경우에는 단면 변화 방향이 긴장재 방향과 평행이거나 직각이거나에 관계없이 유효프리스트레스에 의한 콘크리트의 평균 압축응력이 모든 단면에서 0.9MPa 이상 되도록 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 190,
+        "title": "4.7.2 긴장재와 철근의 배치",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)긴장재 간격을 결정할 때 슬래브에 작용하는 집중하중이나 개구부를 고려하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 191,
+        "title": "4.7.2 긴장재와 철근의 배치",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5)비부착긴장재가 배치된 슬래브에서는 4.4.3((3), (4))의 관련 규정에 따라 최소 부착철근을 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 192,
+        "title": "4.7.2 긴장재와 철근의 배치",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6)다음 (7)의 경우를 제외하고 비부착긴장재가 배치되는 슬래브에는 기둥 위치에서 직경 12.7mm 이상의 7연선을 최소 2개 이상 각 방향으로 배치하여야 한다. 이들 긴장재는 기둥의 축방향 주철근으로 둘러싸인 구역을 지나든가 그 구역에 정착되어야 한다. 기둥이나 기둥전단머리 면을 벗어나서 이들 긴장재는 인접 경간의 직교하는 긴장재 하부에 배치되어야 한다. 이들 긴장재는 기둥의 도심을 지나는 위치까지 연장되어 정착되어야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 193,
+        "title": "4.7.2 긴장재와 철근의 배치",
+        "level": 4,
+        "label": "(7)",
+        "contents": "<p>(7)상기 (6)을 만족하지 않는 프리스트레스트콘크리트 슬래브의 경우 기둥의 축방향 주철근으로 둘러싸인 구역을 양 방향으로 지나는 하부철근을 배근하고 KDS 14 20 70(4.1.5.4(5))의 규정에 따라 외부 받침부에 정착하여야 한다. 이러한 철근의 양은 KDS 14 20 20(4.2.2(1)) 에 따른 최소 철근량의 1.5배, 또한 <img src=\"data:image/gif;base64,R0lGODlhPwARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAZjo6kDpmZjpmkDqQ22YAAGYAOmYAZmY6OmY6ZmY6kGZmAGZmkGZmtmaQ22a2/5A6AJA6ZpBmOpBmkJBmtpCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZraQOraQkLa2kLbb/7b/27b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAACH5BAAAAD4ALAAAAAA/ABEAAAb+QJ9wSCwaj8ik77RSOp/QKK8SrSZ7tOouO2yJrMKXATBIHXelL1H3UD91jqavp7EZeQ8LMkex9UwCckI9FwABbkI8cVE5CHY+OXpFPBMwjkc3hz48DYiJnUU3BVU3C0MlgkMkFjpmTpyem6BELAkGA7FdtxKSPB1FOWMAo08spnezgxcFNqJILAQ2OQdyN7GNj045HkiwRIpN2MhfPBF2dNlDxlA6H0OExLKIN9E+LPFE9HalQjlURYQkKdEBQgiOWN6G8At45J6QVTFstEjVj5o2YQACjftGwV40hnM0vBgV40GIDjw6GnE4hAcDCz04pFMyAoDNekJuGFBgJ4ZODBEpfbhQkeHQtBWtisSocUGgjxgzUvABAyXiDZi/nvCAgOISkRPNnFI9go6EiBv/nozABXBDDwwUxxohAcAWTrmEANyVyzeKFxgFhQQBADs=\" alt=\"\" width=\"61px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"2.1`b  _{w} d/f  _{y}\"> 이상이어야 한다. 여기서 <img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6kDoAADpmZmZmtmaQ22a2/5A6AJBmkJCQtpDb/7ZmOrb//9uQkNu2ttvbkNv///+2Zv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAQABEAAAU+ICWOZGmeJwCgKWuu7gjHojq78N3W8ay/PJpKNDkYiAgIyvFQSAiUBoPlgEQMkwRrklwoIgXXAjAQBJS0UggAOw==\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"b_w\">는 철근이 지나는 기둥면의 폭이다. 이러한 철근은 기둥이나 기둥전단머리 면을 지나 KDS 14 20 52(4.1.2(1)) 에서 규정한 정착길이 이상을 확보하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 194,
+        "title": "4.7.2 긴장재와 철근의 배치",
+        "level": 4,
+        "label": "(8)",
+        "contents": "<p>(8)리프트 슬래브의 경우에는 하부 부착철근을 KDS 14 20 70(4.1.5.4(6))에 따라 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 195,
+        "title": "4.8 프리스트레스 정착구역",
+        "level": 2,
+        "label": "4.8",
+        "contents": "<p>4.8 프리스트레스 정착구역</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 196,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 3,
+        "label": "4.8.1",
+        "contents": "<p>4.8.1 포스트텐션 긴장재 정착구역</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 197,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)정착구역은 다음의 두 구역으로 나누어 고려하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 198,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 국소구역은 정착장치 및 이와 일체가 되는 구속철근과 이들을 둘러싸고 있는 콘크리트 사각기둥으로 정의한다. 이때 원형 또는 타원형의 정착구의 경우에는 등가의 사각기둥으로 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 199,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 일반구역은 국소구역을 포함하는 정착구역으로 정의한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 200,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)국소구역은 다음의 규정에 따라 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 201,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 국소구역은 KDS 14 20 10(4.2.2(5)) 의 하중계수에 의한 계수긴장력 <img src=\"data:image/gif;base64,R0lGODlhGAARAPUAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmOmZmkGZmtmaQ22a2/5A6AJA6ZpBmtp22trZmZraQkLbbtrbb/7b//9uQOtu2Ztu2ttvbttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAYABEAAAZhwJBwSCwaj8gkEsBsKpOAYfR5nAqt1CsRmw1Zmd2tMywlV81Grlkd+iA2jgPI0QBNONIxMYNhgB4RGhUeC10gEhZuHHcdDV0fChwXchB/FBVZFwIFBhxzAQkEWR0AA3hJQQA7\" alt=\"\" width=\"22px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"P_pu\">와 KDS 14 20 10(4.2.3(2)⑤) 의 강도감수계수에 의한 설계강도로 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 202,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 정착장치의 적절한 기능수행을 위하여 필요한 위치에 국소구역 보강을 하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 203,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 상기 ②의 국소구역의 요구 조건은 4.8.2(1) 또는 4.8.3((1), (2))의 규정을 만족하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 204,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)일반구역은 다음의 규정에 따라 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 205,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 일반구역에 대한 설계는 KDS 14 20 10(4.2.2(5)) 의 하중계수에 의한 계수긴장력 <img src=\"data:image/gif;base64,R0lGODlhGAARAPUAAAAAAAAAOgA6OgA6kABmtjoAADpmtjqQ22Y6kGZmOmZmkGZmtmaQ22a2/5A6AJA6ZpBmtp22trZmZraQkLbbtrbb/7b//9uQOtu2Ztu2ttvbttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAYABEAAAZhwJBwSCwaj8gkEsBsKpOAYfR5nAqt1CsRmw1Zmd2tMywlV81Grlkd+iA2jgPI0QBNONIxMYNhgB4RGhUeC10gEhZuHHcdDV0fChwXchB/FBVZFwIFBhxzAQkEWR0AA3hJQQA7\" alt=\"\" width=\"22px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"P  _{pu}\">와 KDS 14 20 10(4.2.3(2)⑤) 의 강도감소계수에 의한 설계강도로 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 206,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 일반구역은 정착장치에 의해 유발되는 파열력, 할렬력 및 종방향 단부인장력에 저항할 수 있도록 보강하여야 한다. 또한 단면의 급격한 변화의 영향을 고려하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 207,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 일반구역의 설계는 다음 (4), (5) 및 (6)의 규정을 만족하여야 하며, 4.8.2((2), (3)) 또는 4.8.3(3) 중의 어느 하나를 만족하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 208,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)재료의 공칭강도는 다음의 규정에 따른다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 209,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 부착철근의 공칭인장강도는 <img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6kGYAAGZmtma2/5A6AJA6ZpBmtpCQkJC2/5Db/7aQkLbb/7b//9uQZtu2kNu2ttvbttv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAQABEAAAU/4CWOZGme6AgAKcmyrQjH1xyvK13rMm/fvN2oIiBYEBJXCRJhUAYqIWkhmRBUv4vlYDE0YpYCIJBsORSPxCgEADs=\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_y\"> 이하이어야 하며, 부착긴장재의 공칭인장강도는 <img src=\"data:image/gif;base64,R0lGODlhFQARAPUAAAAAAAA6OgA6kDoAADpmtjqQ22YAAGY6kGZmkGZmtmaQ22a2/5A6AJA6ZpBmtpCQkJC2/5Db/522trZmZraQkLbb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAVABEAAAZiwJFwSCwaj8gkEQBQIptNpzEqLVKrQyYTu+RavVlwWDy6hg4dRiFkWIgeni5xk1GIGhJOBZQIX0ciExZnHhQeHwtZfyMhCB4XBSIOdxZOFwEDBB4iDAACcUkfnqAYERoQQ0EAOw==\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_py\"> 이하이어야 한다. 비부착긴장재의 공칭인장강도는 <img src=\"data:image/gif;base64,R0lGODlhWAARAPUAACgoKCgoUygoeShTeShTnSh5vlMoKFMoeVNTKFNTnVN5nVOd33koKHlTKHlTU3lTeXlTnXl5nXmdvnmd33m+33m+/51TKJ1TU515nZ15vp2dvp2d352+/53f/755KL55U755eb6deb6+nb6+376+/77f/77//9+dU9+ded+dnd++ed++nd++vt/f39//39////++ef++nf/fnf/fvv/f3///vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADcALAAAAABYABEAAAb+wJtwSCwaj8ikcslsOp/QqHRKrSJtGuux5qhol1wvFHtsGWcNwKCUrEVWidcX6YbLn+SizQLoAwp7FDcqBHdGHxUzbE0yBn6PAiZIiIpReUQ1JEMpJjJxNzYXHUaNfQVzR6V/TqqPAAGjRDGjMIVCHmJFnoaMjq4AkamfUpdGNRtCJ6e3C0cnzahIz1TFRSCxykMe0ER7udHdFt9jWVsQd7V3uKQHkuC67dTlRulCu6CiRtlDMhP7H8Gq7LPnb9kHAIKinLAFysKEQQyFsHAhjkiLECZAmKiRQQYHKhMrDrmY0USMCf2kxJBABI2aRUJqPBAxLKYGGxjk0BhBRSY9TV41bub0oCbWO20DjAqBsSDlChMolELxkLQI05QaKx1dcgLBAEk1GCjg9aXr1xuNxm0lZYDb1kZu1xIJAgA7\" alt=\"\" width=\"87px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"f  _{ps} `=`f  _{pe} +70\"> (MPa) 이하이어야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 210,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② KDS 14 20 20(식 (4.3-1))에 부합하는 나선철근 또는 띠철근으로 구속되는 콘크리트를 제외한 일반구역의 콘크리트 공칭압축강도는 0.7<img src=\"data:image/gif;base64,R0lGODlhGgARAPQAAAAAAAAAOgA6kDoAADoAZjo6ZliBtmY6AGY6kGa2/5A6AJC225Db25Db/7a227bb/7b//9uQOtuQZtu2ttvbttv/ttv///+2Zv/bkP/btv//tv///wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAaABEAAAVU4CaOZGmeaJoCqgiwLYyyslqXtz23Zv6+vFFuM1wRe0GXklTcaBAWIXMa9ElJl0GAoUhUS5jCI2KgPGJHUsQrmkRtOUljM6ksHMlS5iCwYAgQeUEhADs=\" alt=\"\" width=\"24px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda f  _{ci}\"> 이하이어야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 211,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 포스트텐션을 도입할 때의 콘크리트 압축강도는 설계도서에 명시하여야 한다. 낮은 압축강도를 보상하기 위해 특별히 큰 정착장치를 사용하거나, 최종 프리스트레스 힘의 50%를 초과하지 않는 힘으로 긴장재를 긴장하는 경우를 제외하고는 콘크리트의 압축강도가 적어도 다발강연선에 대하여 28MPa, 단일강연선이나 강봉에 대하여 17MPa이 되기 전에는 콘크리트에 프리스트레스를 도입할 수 없다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 212,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5)정착구역은 다음의 설계 방법을 따른다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 213,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 일반구역의 설계에는 다음의 방법을 적용할 수 있다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 214,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 6,
+        "label": "가.",
+        "contents": "<p>가. 평형조건에 근거한 소성 모델(스트럿-타이 모델)</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 215,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 6,
+        "label": "나.",
+        "contents": "<p>나. 선형응력 해석(유한요소 해석 또는 유사 해석)</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 216,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 6,
+        "label": "다.",
+        "contents": "<p>다. 적용 가능한 간이 계산법</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 217,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 다음과 같은 경우에는 간이 계산법을 사용할 수 없다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 218,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 6,
+        "label": "가.",
+        "contents": "<p>가. 부재의 단면이 직사각형이 아닌 경우</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 219,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 6,
+        "label": "나.",
+        "contents": "<p>나. 일반구역 내부 또는 인접한 부위의 불연속으로 인하여 힘의 흐름 경로에 변화를 유발하는 경우 </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 220,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 6,
+        "label": "다.",
+        "contents": "<p>다. 최소 단부거리가 단부방향의 정착장치 치수의 1.5배 미만인 경우</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 221,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 6,
+        "label": "라.",
+        "contents": "<p>라. 여러 개의 정착장치가 서로 근접되지 않아 한 개의 정착그룹으로 볼 수 없는 경우</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 222,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 긴장력 도입순서를 고려하여 설계하여야 하며 긴장력 도입순서를 설계도면에 명시하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 223,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 3차원 해석절차를 이용하거나 두 직교평면의 효과의 합을 근사적으로 고려함으로써 3차원의 효과를 설계에서 고려하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 224,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ 정착장치가 부재의 끝단에서 많이 떨어진 경우에는 정착 후면으로 적어도 <img src=\"data:image/gif;base64,R0lGODlhMwARAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjo6kDpmOjpmtjqQ22YAAGYAOmY6AGY6ZmY6kGZmOmZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmtpCQkJC225C2/5Db/522trZmALZmOrZmZraQkLa227bbtrbb/7b//9uQOtuQZtuQkNu2Ztu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAACH5BAAAAD0ALAAAAAAzABEAAAb+wJ5wSCwaj8ikcslsOp/QqDD3ABBURl7JKhLqakKZ0QYolwOYJi9z6b0K4OE6zRKseqxyAjuGC+t3SzgJYDwaXUc2dj0ugUgkDEOKjkk2fj0kaVkckYyURTsOiJgGTSylQpBGJAALQy0KAAFtRSx+WgSfSKdDqkenYC0gbgGjPWtmARVxTJZxmWulPChCOAcYkz07DZrVCMZPg4WHRDbFPdYYNyFCOxHMeKhSaxZul0I8HzN4djsQWCw64cvQbYg7GhkYzOFxAh4VK3yI8OgAsVoVgZjMYOwB44UFHhtGxFCBg4KUkxJNrHBXo6GNgiij7JhQIyAPDyBTRIwJhcUQgAMLaqwJIEEezydk7h0JAgA7\" alt=\"\" width=\"49px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"0.35`P  _{pu}\">의 힘을 전달하도록 부착철근을 배치하여야 한다. 이러한 철근은 정착장치 주변에 대칭으로 위치시켜야 하며 정착장치 전, 후면에 완전히 정착되어야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 225,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "⑥",
+        "contents": "<p>⑥ 슬래브의 단일강연선의 경우나 해석에 의해 보강이 필요하지 않은 것으로 나타난 경우를 제외하고, 일반구역에서 긴장재가 곡률을 갖는 경우에는 경사방향의 힘과 쪼갬 힘에 의한 분력과 절리력에 대해 적절하게 저항할 수 있도록 보강철근을 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 226,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "⑦",
+        "contents": "<p>⑦ 슬래브의 단일강연선의 경우나 해석에 의해 보강이 필요하지 않은 것으로 나타난 경우를 제외하고, 할렬력을 제한하기 위하여 모든 정착구역의 배면에 평행하고 인장력에 직교하는 방향으로 각 계수긴장력의 2%와 동일한 공칭인장강도에 상당하는 최소 철근을 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 227,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 5,
+        "label": "⑧",
+        "contents": "<p>⑧ 철근량을 계산할 때 콘크리트의 인장강도는 무시하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 228,
+        "title": "4.8.1 포스트텐션 긴장재 정착구역",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6) 정착구역에서 철근의 굽힘 및 조립, 배치에 대한 오차, 골재 크기, 콘크리트의 타설 및 다짐 등을 고려하여 철근의 크기, 간격, 피복 및 기타 상세를 결정하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 229,
+        "title": "4.8.2 단일강연선 또는 16mm 직경의 강봉 정착구역의 설계",
+        "level": 3,
+        "label": "4.8.2",
+        "contents": "<p>4.8.2 단일강연선 또는 16mm 직경의 강봉 정착구역의 설계</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 230,
+        "title": "4.8.2 단일강연선 또는 16mm 직경의 강봉 정착구역의 설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)단일강연선, 직경 16mm 이하의 단일강봉 정착장치와 국소구역 철근은 4.8.3(2)의 정착장치 조건을 만족하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 231,
+        "title": "4.8.2 단일강연선 또는 16mm 직경의 강봉 정착구역의 설계",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)슬래브 긴장재의 일반구역은 다음에 따라 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 232,
+        "title": "4.8.2 단일강연선 또는 16mm 직경의 강봉 정착구역의 설계",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 보통중량콘크리트 슬래브의 직경 12.7mm 이하의 강연선의 정착장치에 대하여 4.8.1(5)에 의한 상세 해석에 의해 강재가 불필요하다는 것을 보이지 않는 한, 다음의 ②와 ③에 따르는 최소 철근을 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 233,
+        "title": "4.8.2 단일강연선 또는 16mm 직경의 강봉 정착구역의 설계",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 최소한 두 개의 D13 철근을 슬래브 끝단에 평행하게 배치하여야 한다. 이 철근은 정착장치 전면에 배치될 수 있으며, 각 정착장치 앞쪽 <img src=\"data:image/gif;base64,R0lGODlhGQAOAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6kDpmtjqQtjqQ22YAAGYAOmYAZmZmtmaQ22a2/5A6OpA6ZpBmkJCQZpCQtpCQ25C225C2/5Db/7ZmZraQOraQkLa227bb/7b//9uQOtuQZtu2Ztu2kNvb29vb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC0ALAAAAAAZAA4AAAaPwJZwSCRyPsVki1RStlYPZ1F0MClDGaHIABh4kqeCkjWxphwm1kaAJIIgyhS8dQpkV4zskCWhGAIYRBptRHh6QisLCSZhQysVSiAKRScEVieTQieHQykWSZJCGnpkVkQqF0ksEXcOLR0tKVGngS0ohysNSJgjXyGEsVwAAGydCEIpBnArrlLOQypfz9PUQkEAOw==\" alt=\"\" width=\"23px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h/2\">의 거리 내에 위치하여야 한다. 이러한 철근은 각 장치의 외측 면의 어느 한쪽 편으로 150mm 이상 연장하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 234,
+        "title": "4.8.2 단일강연선 또는 16mm 직경의 강봉 정착구역의 설계",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 정착장치의 중심 간격이 300mm 이하이면 정착장치는 그룹으로 간주된다. 6개 이상의 정착장치 각 그룹에 대해서 <img src=\"data:image/gif;base64,R0lGODlhIQAOAPUAAAAAAAAAOgA6ZgA6kDoAADo6kDpmtjqQ22YAOmYAZmY6AGY6kGaQ22a2/5A6AJA6OpA6ZpCQtpC225Db25Db/7ZmALZmOrZmZra2kLbb/7b//9u2ttv/ttv/29v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAAhAA4AAAZ1QJJwSCwaj8ikcskcjiLJ0IXSND6PIwcgQK0Sr0gRokusCDAKgAELDY+LoIlDkBElNEIQAcDvb8kkYoAkGx0PVCILHlZtR4JGIAWLHwxsSY9FHwdCUxuLX41GmEQWDYELHBKMl29fEHhZA59VFX2yXri5ukJBADs=\" alt=\"\" width=\"31px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"n+1\">개의 헤어핀 철근 또는 폐쇄스터럽이 D10 이상으로 배치되어야 한다. 여기서, <img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAAAAAA6ZgA6kDo6kDpmtjqQ22YAZmY6AGY6kGaQ22a2/5A6AJA6OpA6ZpC225Db25Db/7ZmALZmOrZmZra2kLbb/7b//9u2ttv/ttv/29v///+2Zv/bkP//tv//2////yH5BAAAAB8ALAAAAAALAA4AAAU34CeOZGmeaKqKUUAdAEFyzxJUnWGNV8ZAnw5CMxsQN4nSpiCaQC5EkUQRRGAcI09j51kIoqtVCAA7\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"n\">은 정착장치의 개수이다. 하나의 헤어핀 철근 또는 스터럽은 각 정착장치의 사이 그리고 각 정착그룹 측면에 위치한다. 헤어핀 철근 또는 스터럽은 단부에 수직으로 슬래브에 연장된 다리를 가지고 배치하여야 한다. 헤어핀 철근 또는 스터럽의 중앙부분은 정착장치 앞부분의 <img src=\"data:image/gif;base64,R0lGODlhIAAOAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADo6ADo6Zjo6kDpmtjqQtjqQ22YAAGYAZmY6AGY6ZmZmtmaQtmaQ22a2/5A6AJA6OpA6ZpBmAJBmOpBmkJCQZpCQkJCQtpCQ25C2/5Db/7ZmALZmOrZmZraQkLa227bb/7b//9uQOtuQZtuQkNu2Ztu2kNvb29vb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADcALAAAAAAgAA4AAAa+wJtwSCwaSyij0uh6LWuUJdE2AhBCQ5YCplRhbzSI9Su0WSq3lCB5ixmUtg3XhjndZgl2MbYWptBGM4A1H0MrekM2GQ1lGBwHASBEJGw2FxMwNiZGIgALQzUODDBuoB5TFgOYSykGXDEFr4xCMWQ3LSdhsYmbdwdoKbMkX3FcQoJlI4BtAVgzv5ZYNRI3mzNRQzHL2okdTmooNQ9JMQ24NyqIeHY0EYg2GlZ2M5++aNNGMghjUv00dv0CChQYBAA7\" alt=\"\" width=\"30px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"3h/8\">에서 <img src=\"data:image/gif;base64,R0lGODlhGQAOAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6kDpmtjqQtjqQ22YAAGYAOmYAZmZmtmaQ22a2/5A6OpA6ZpBmkJCQZpCQtpCQ25C225C2/5Db/7ZmZraQOraQkLa227bb/7b//9uQOtuQZtu2Ztu2kNvb29vb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC0ALAAAAAAZAA4AAAaPwJZwSCRyPsVki1RStlYPZ1F0MClDGaHIABh4kqeCkjWxphwm1kaAJIIgyhS8dQpkV4zskCWhGAIYRBptRHh6QisLCSZhQysVSiAKRScEVieTQieHQykWSZJCGnpkVkQqF0ksEXcOLR0tKVGngS0ohysNSJgjXyGEsVwAAGydCEIpBnArrlLOQypfz9PUQkEAOw==\" alt=\"\" width=\"23px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h/2\">까지 슬래브 면에 직교하여 배치하여야 한다. </p>"
+      },
+      {
+        "no": 4941,
+        "sort": 235,
+        "title": "4.8.2 단일강연선 또는 16mm 직경의 강봉 정착구역의 설계",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ ①에 부합하지 않는 정착장치에 대해서는 4.8.1(5)를 만족시키는 상세 해석에 근거하여 최소 철근을 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 236,
+        "title": "4.8.2 단일강연선 또는 16mm 직경의 강봉 정착구역의 설계",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)보 또는 거더의 단일강연선 그룹에 대한 일반구역의 설계는 4.8.1의 (3)에서 (5)까지 규정을 만족시켜야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 237,
+        "title": "4.8.3 다발강연선 긴장재 정착구역 설계",
+        "level": 3,
+        "label": "4.8.3",
+        "contents": "<p>4.8.3 다발강연선 긴장재 정착구역 설계</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 238,
+        "title": "4.8.3 다발강연선 긴장재 정착구역 설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)다발강연선 긴장재의 정착장치와 국소구역 철근의 설계는 4.8.1(2)에 따라야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 239,
+        "title": "4.8.3 다발강연선 긴장재 정착구역 설계",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)특별한 정착장치가 사용된 경우에는 정착장치에 명시되어 있는 구속철근과는 별도로 표피철근을 정착구역에 배치하여야 한다. 이 추가 철근은 정착장치의 품질인증시험에서 사용된 표피철근량에 상응하는 철근비 이상이어야 하며, 배치형태도 유사하게 하여야 한다.</p>"
+      },
+      {
+        "no": 4941,
+        "sort": 240,
+        "title": "4.8.3 다발강연선 긴장재 정착구역 설계",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)다발강연선 긴장재에 대한 일반구역의 설계는 4.8.1의 (3)에서 (5)까지 규정을 만족시켜야 한다.</p>"
+      }
+    ]
+  }
+]
