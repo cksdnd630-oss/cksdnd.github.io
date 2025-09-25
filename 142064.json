@@ -1,0 +1,1245 @@
+[
+  {
+    "no": 4010,
+    "codeType": "KDS",
+    "code": "142064",
+    "fullCode": "1010142064",
+    "name": "구조용 무근콘크리트 설계기준",
+    "version": "2021",
+    "updateDate": "2021-02-18T15:10:00",
+    "list": [
+      {
+        "no": 4010,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 구조용 무근콘크리트구조의 설계방법을 제시하고 부재의 안전성을 확보하기 위한 최소한의 요구조건을 규정한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 4,
+        "title": "1.2 적용 범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용 범위</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 5,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1)현장치기콘크리트 또는 프리캐스트콘크리트 부재 등과 같은 구조용 무근콘크리트 부재의 설계와 시공은 이 기준의 규정을 따라야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 6,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2)보도와 지표면 슬래브 등과 같이 지면에 바로 지지되는 슬래브의 설계와 시공은 이 기준을 적용하지 않는다. 다만, 이러한 부재가 다른 구조 부재에 의해 수직하중 또는 수평하중을 지면으로 전달하는 경우는 이 기준을 적용한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 7,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3)아치, 지하 설비 구조물, 중력벽, 차폐벽과 같은 특수한 구조물에 대해서도 이 기준의 해당 규정들을 적용할 수 있다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 8,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 9,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 01 콘크리트구조 설계(강도설계법) 일반사항</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 10,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 10 콘크리트구조 해석과 설계 원칙</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 11,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 20 콘크리트구조 휨 및 압축 설계기준 </p>"
+      },
+      {
+        "no": 4010,
+        "sort": 12,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 22 콘크리트구조 전단 및 비틀림 설계기준 </p>"
+      },
+      {
+        "no": 4010,
+        "sort": 13,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 24 콘크리트구조 스트럿-타이모델 기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 14,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 26 콘크리트구조 피로 설계기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 15,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 30 콘크리트구조 사용성 설계기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 16,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 40 콘크리트구조 내구성 설계기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 17,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 50 콘크리트구조 철근상세 설계기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 18,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 52 콘크리트구조 정착 및 이음 설계기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 19,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 54 콘크리트용 앵커 설계기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 20,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 60 프리스트레스트 콘크리트구조 설계기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 21,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 62 프리캐스트 콘크리트구조 설계기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 22,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 66 합성콘크리트 설계기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 23,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 70 콘크리트 슬래브와 기초판 설계기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 24,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 72 콘크리트 벽체 설계기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 25,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 74 기타 콘크리트구조 설계기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 26,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 80 콘크리트 내진설계구조 설계기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 27,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 90 기존 콘크리트구조물의 안전성 평가기준</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 28,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 29,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 20 01(1.4)에 따른다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 30,
+        "title": "1.5 기호정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호정의</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 31,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAAAOgA6Ojo6kDpmtjqQtmY6AGaQ22a2/5A6AJA6OpA6ZpBmZpDb/7b//9v///+2Zv/bkP/btv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAATABEAAAVAICWOZGmeaCoCKsq2JCDD4/vSNk3ddyv/uBistxuWbhKDoFCbrYATRSNy0EUIFAjCepgsHLpJIjB40CYMx3UUAgA7\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_g\"> : 단면의 전체 면적, mm<sup>2</sup></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 32,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEwARAPMAAAAAAAAAOgAAZjoAAGYAAJA6ZpDb/7b//9u2ttv////bkP//tv//2////wAAAAAAACH5BAAAAA0ALAAAAAATABEAAAQ3sMlJq704S6Ax7xQggtP3kSbZnGcnvmhIIYnVrpIyCIddnYxCrzTawBrBoSqpkjBVCwIgYGhaIgA7\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_1\"> : 재하면적, mm<span><sup>2</sup></span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 33,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAA6ZjoAADqQ22Y6AGa2/5Db/7ZmALa227b//9uQOtuQZtvb///bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABEALAAAAAATABEAAAU+YCSOZGmeaCoCKsq2JCDD4/vSNh3ddyv/uJjoQQAEEqXeTqQYQA6DpJS0MNRmK6DIwdBtGRCEriGQFbzoVAgAOw==\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_2\"> : 윗면이 재하되고 측면 기울기가 수직 1에 대하여 수평 2인 지점 내부에 완전한 형태로 구성되는 피라미드, 원추 또는 쐐기의 가장 큰 절단체 밑면의 면적, mm<span><sup>2</sup></span><sup></sup></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 34,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhCQAOAPQAAAA6ZgA6kABmtjoAADo6kDpmZjpmkDqQ22YAZmY6OmZmtma2/5A6AJDb/7b//9uQOtvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAJAA4AAAU04CWO5GVBpUglTVohTioJ6fUUA9CKFiNEs9ErNiFERJLA8UFDHkyMhVBhU5IkA8Oxxi2FAAA7\" alt=\"\" width=\"7px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"b\"> : 부재폭, mm</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 35,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDgARAPMAAAAAADpmtjqQ22aQ22a2/5BmOpDb/7ZmOtuQOtv///+2Zv/bkP//2////wAAAAAAACH5BAAAAA0ALAAAAAAOABEAAAQysMlJq70TAFw3z5/khdqIeWYHnhlTAEFCoY0iNAjReXmzDJyDwQfE9GwcZA/jgslClAgAOw==\" alt=\"\" width=\"12px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"b_0\"> : 기초판에서 전단에 대한 위험단면의 둘레길이, mm</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 36,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAA6kABmtmYAOmZmOmaQ25BmkJDb27ZmZraQkLa227b//9u2Ztu2ttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAATABEAAAVDICWOZGme6AmsbFoC4+rGJDzbIu7i+t7OuRqQ0uuphLcaTDIgAAKPGOtHaTAEj0R0iFhMFEPKxPCIHBzDSIECgYZPIQA7\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"B_n\"> : 재하면적 <img src=\"data:image/gif;base64,R0lGODlhEwARAPMAAAAAAAAAOgAAZjoAAGYAAJA6ZpDb/7b//9u2ttv////bkP//tv//2////wAAAAAAACH5BAAAAA0ALAAAAAATABEAAAQ3sMlJq704S6Ax7xQggtP3kSbZnGcnvmhIIYnVrpIyCIddnYxCrzTawBrBoSqpkjBVCwIgYGhaIgA7\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A  _{1}\">의 공칭지압강도 </p>"
+      },
+      {
+        "no": 4010,
+        "sort": 37,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFAARAPUAAAAAAAAAOgAAZgA6kDoAADo6Ojo6ZmYAAGY6AGZmtmaQ22a222a2/5BmAJCQ25Db25Db/7ZmOraQOrbb/7b//9uQOtuQZtu2ttvbkNvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAUABEAAAZUQJBwSCwaj8ikEABQHptNZzEqJVKrS+a1usV2pV+hZKB5Jj0O5HZDCEA4j4iAYi1yDJMKw1JY1Ld6Qh8NBhBWXRaGFxgJHAoZTh0IZBsMHgcMWEhBADs=\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_ck\"> : 콘크리트의 설계기준압축강도, MPa</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 38,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhCwAOAPUAAAAAOgA6kABmtjoAADo6kDpmtjqQtjqQ22YAAGYAZmZmtma2/5A6OpA6ZpCQZpC2/5Db/7ZmZra227bb/7b//9uQOtu2Ztu2kNvb29vb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAALAA4AAAZBwI9wSCRiMkWihaBJCjcCp7CykHoajgHgUewgDBpocRNobg7FCvoTgRA9DHdH8ZEMOwnK53yZDDkFQhwDVVKGTkEAOw==\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h\"> : 부재의 전체 두께, mm</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 39,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhCwARAPQAAAAAAAAAOgA6kDoAADo6ZmY6AGa2/5Db/7bb/9uQOtuQZtu2ttv///+2Zv/bkP/btv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAALABEAAAUsICSOZGmOAHCiq6iuL9xC8VmXN07DcTMEB5ODgEgYTMaWIrhgmB4FgXMmCgEAOw==\" alt=\"\" width=\"9px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"l_c\"> : 받침점 사이의 수직거리, mm</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 40,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFgARAPQAAAAAAAA6kABmtmYAOmZmOmaQ25BmkJDb27ZmZraQkLa227b//9u2Ztu2ttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAWABEAAAVOICWOZGmeaEoCrMkCKtWucCzXIoyn+tjbP5kQOKztUMairYg7InNNYs4nkgwIgMDD96K1GgzBI7FdjhCLicI8mhgekYODTYkUKBAtHRUCADs=\" alt=\"\" width=\"20px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"M_n\"> : 단면의 공칭휨강도</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 41,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFgARAPQAAAAAAAAAOgBmtmZmOmZmtma2/5A6AJA6ZpBmtraQkLbbtrbb/9u2ttvbttv///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAAWABEAAAVLoCSOZGmeaEoCrMkCqtSucCzXIoyn+tjbP5kQOKztUMairYg7InNNYs4nihgKkYTD96K1GI0FhLAsaR+F8iiCiBwUC7XEGhgI5KkQADs=\" alt=\"\" width=\"20px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"M_u\"> : 단면의 계수휨모멘트</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 42,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAA6kABmtmYAOmZmOmaQ25BmkJDb27ZmZraQkLa227b//9u2Ztu2ttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAATABEAAAVBICWOZGme6AmsbFoCI+zGpOzaFJ7a6yyyup3PFPQVbyfJgAAIPGKtUoMheCSeQ8RiohhSJoZH5OAYRgoUiNN7CgEAOw==\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"P_n\"> : 단면의 공칭축강도</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 43,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhGgARAPQAAAAAAAA6kABmtjoAADpmZmYAOmZmOmZmtmaQ22a2/5A6AJBmkJCQtpDb25Db/7ZmOrZmZraQkLa227b//9uQkNu2Ztu2ttvbkNvb/9v///+2Zv/bkP//tv//2////wAAACH5BAAAAB4ALAAAAAAaABEAAAVfoCeOZGmeaKqKQOuuKjDKMEqztXl7e46zPZ8rKPTFjCkiksgpGACBTEeREHUWGWDLZKkIMpGM5eLgHDyUSQ0y6UhElowm0WHUrplNA4N/ODQINRuBGlEeDwAEA4ZIKiEAOw==\" alt=\"\" width=\"24px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"P_nw\"> : 4.3에 의해 설계된 벽체의 공칭축강도</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 44,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAAAOgBmtmZmOmZmtma2/5A6AJA6ZpBmtraQkLbbtrbb/9u2ttvbttv///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAATABEAAAU+oCSOZGme6AmsbFoCI+zGpOzaEp7a6yyyup3PFPQVb6eIoRBJOGKtEqOxgBCGIuejgI0gIgfFYqgMDARYVAgAOw==\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"P_u\"> : 주어진 편심에 대한 계수축력</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 45,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFAARAPQAAAAAAAA6kABmtjqQtmYAOmZmOmaQ22a222a2/5BmOpBmkJCQtrZmALZmZra2/7bb27b//9uQkNu2Ztu2ttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAAUABEAAAVJoCaOZGmeaKoBLKCWrsi+Y7zSMm7OOmz3OWDw9fupeDcMoQAIJACDXUs0kQgqjANmgWtAMooKxkEDVy4GTeRBeaE1FoSGIRCaQgA7\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"S  _{m}\"> : 단면계수, mm<sup>3</sup></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 46,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFAARAPQAAAAAAAA6kABmtmYAOmZmOmaQ25BmkJDb27ZmZraQkLa227b//9u2Ztu2ttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAUABEAAAVBICWOZGmeaAqsJJuKQBm/cEuPM5Xf+U7Pvp/uJgvyjEKSZEAABB5ESoMheCSgUcRioohSJoZH5OCIRgoUyNN7CgEAOw==\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"V_n\"> : 단면의 공칭전단강도 </p>"
+      },
+      {
+        "no": 4010,
+        "sort": 47,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFAARAPQAAAAAAAAAOgBmtmZmOmZmtma2/5A6AJA6ZpBmtraQkLbbtrbb/9u2ttvbttv///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAAUABEAAAU+oCSOZGmeaAqsJJuKQBm/cEuPs5Tf+U7Pvp/uJgvyjEJSxFCIJBxECaOxgBCiouejgI0gIgfFIroMDARYVAgAOw==\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"V_u\"> : 단면의 계수전단력</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 48,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDwARAPQAAAAAAAAAOgA6kDoAADo6ZmY6AGa2/5Db/7bb/9uQOtuQZtu2ttv///+2Zv/bkP/btv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAAPABEAAAU6ICSOZGmeJ6CiI9CykCvK6cu6Kl3bph6jOh9pNbvFiJDGIHAomhwERMLgLE1LQoiiuWDAHgWBF2YKAQA7\" alt=\"\" width=\"13px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"beta_c\"> : 집중 또는 반력의 작용면에서 짧은 변에 대한 긴 변의 비</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 49,
+        "title": "1.5 기호정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAA6kABmtjoAZjo6ZjqQ22YAZmY6OmZmkGa2/5CQkJDb/7ZmALb//9uQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAALAA4AAAUtICWOZGmSkaGcYhOwlFQw8ELAD+CcU6KakYPDVQruIAKaCDJQUhYIGGUnrYpCADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda \"> : 경량콘크리트계수(KDS 14 20 10(4.4) 참조)</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 50,
+        "title": "2. 조사 및 계획",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 조사 및 계획</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 51,
+        "title": "2. 조사 및 계획",
+        "level": 2,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 52,
+        "title": "3. 재료",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 재료</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 53,
+        "title": "3. 재료",
+        "level": 2,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 20 01(3)에 따른다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 54,
+        "title": "4. 설계",
+        "level": 1,
+        "label": "4.",
+        "contents": "<p>4. 설계</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 55,
+        "title": "4.1 설계 일반",
+        "level": 2,
+        "label": "4.1",
+        "contents": "<p>4.1 설계 일반</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 56,
+        "title": "4.1.1 제한 사항",
+        "level": 3,
+        "label": "4.1.1",
+        "contents": "<p>4.1.1 제한 사항</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 57,
+        "title": "4.1.1 제한 사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)이 기준의 규정은 무근콘크리트 부재의 설계에 적용하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 58,
+        "title": "4.1.1 제한 사항",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)구조용 무근콘크리트는 다음의 ①, ② 및 ③의 경우에만 사용할 수 있으며, 기둥에는 무근콘크리트를 사용할 수 없다. </p>"
+      },
+      {
+        "no": 4010,
+        "sort": 59,
+        "title": "4.1.1 제한 사항",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 지반 또는 다른 구조용 부재에 의해 연속적으로 수직 지지되는 부재</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 60,
+        "title": "4.1.1 제한 사항",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 모든 하중조건에서 아치작용에 의해 압축력이 유발되는 부재</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 61,
+        "title": "4.1.1 제한 사항",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 벽체와 주각(4.3, 4.5 참조)</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 62,
+        "title": "4.1.1 제한 사항",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)이 기준의 규정은 현장치기콘크리트 말뚝 및 지반에 묻힌 교각의 설계에 적용할 수 없다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 63,
+        "title": "4.1.1 제한 사항",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)구조용 무근콘크리트의 설계기준압축강도는 18MPa 이상, 동시에 KDS 14 20 40의 내구성 제한 사항에서 요구하는 값 이상으로 하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 64,
+        "title": "4.1.2 줄눈",
+        "level": 3,
+        "label": "4.1.2",
+        "contents": "<p>4.1.2 줄눈</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 65,
+        "title": "4.1.2 줄눈",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)구조용 무근콘크리트 부재를 휨 불연속요소로 나누기 위하여 수축줄눈과 분리줄눈을 사용하여야 한다. 각 요소의 크기는 크리프, 건조수축, 온도의 영향에 의한 과다한 내부 응력의 발생을 억제할 수 있도록 결정하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 66,
+        "title": "4.1.2 줄눈",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)수축줄눈 또는 분리줄눈의 개수와 위치를 결정할 때 기후조건의 영향, 재료의 선택과 배합비, 콘크리트의 배합, 치기, 양생, 변형에 대한 구속의 정도, 부재가 받고 있는 하중에 의한 응력 그리고 시공기술 등을 고려하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 67,
+        "title": "4.1.3 설계 방법",
+        "level": 3,
+        "label": "4.1.3",
+        "contents": "<p>4.1.3 설계 방법</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 68,
+        "title": "4.1.3 설계 방법",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)구조용 무근콘크리트 부재는 하중계수와 강도감소계수를 사용하여 이 설계기준의 규정에 따른 적절한 강도를 발휘할 수 있도록 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 69,
+        "title": "4.1.3 설계 방법",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)계수하중과 단면력은 KDS 14 20 10(3.2)의 규정에 따라 결정하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 70,
+        "title": "4.1.3 설계 방법",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)소요강도가 설계강도를 초과하는 경우에는 철근으로 보강하여야 하며, 철근을 사용한 부재는 이 설계기준의 철근콘크리트 구조물 설계에 대한 모든 규정을 적용하여 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 71,
+        "title": "4.1.3 설계 방법",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)휨모멘트와 축력을 받는 구조용 무근콘크리트 부재의 강도설계는 압축과 인장 모두 선형 응력-변형률 관계에 근거하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 72,
+        "title": "4.1.3 설계 방법",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5)4.1.2의 규정을 따르면 무근콘크리트 부재를 설계할 때 콘크리트의 인장강도를 고려할 수 있다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 73,
+        "title": "4.1.3 설계 방법",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6)철근이 배치되어 있을 경우에도 철근의 강도는 고려하지 않는다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 74,
+        "title": "4.1.3 설계 방법",
+        "level": 4,
+        "label": "(7)",
+        "contents": "<p>(7)인장력은 각 무근콘크리트 요소의 외부 단부, 시공줄눈, 수축줄눈, 분리줄눈을 통해 전달되지 않아야 한다. 인접한 구조용 무근콘크리트 요소 사이의 인장에 의한 휨 연속성은 없다고 가정하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 75,
+        "title": "4.1.3 설계 방법",
+        "level": 4,
+        "label": "(8)",
+        "contents": "<p>(8)휨모멘트, 휨모멘트와 축력의 조합, 전단력에 대한 강도를 계산할 때 부재의 전체 단면을 설계에 고려한다. 다만, 지반에 콘크리트를 치는 경우에 전체 두께 <img src=\"data:image/gif;base64,R0lGODlhCwAOAPUAAAAAOgA6kABmtjoAADo6kDpmtjqQtjqQ22YAAGYAZmZmtma2/5A6OpA6ZpCQZpC2/5Db/7ZmZra227bb/7b//9uQOtu2Ztu2kNvb29vb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAALAA4AAAZBwI9wSCRiMkWihaBJCjcCp7CykHoajgHgUewgDBpocRNobg7FCvoTgRA9DHdH8ZEMOwnK53yZDDkFQhwDVVKGTkEAOw==\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h\">는 실제 두께보다 50mm 작은 값을 사용하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 76,
+        "title": "4.2 강도",
+        "level": 2,
+        "label": "4.2",
+        "contents": "<p>4.2 강도</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 77,
+        "title": "4.2 강도",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1)휨모멘트를 받는 단면의 설계는 식 (4.2-1)의 조건에 만족하도록 하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 78,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhRgARAPQAAAAAAAAAOgA6kABmtmYAOmZmOmZmtmaQ22a2/5A6AJA6ZpBmkJBmtpDb27ZmZraQkLa227bbtrbb/7b//9u2Ztu2ttvbttvb/9v///+2Zv/bkP//tv//2////wAAAAAAACH5BAAAAB0ALAAAAABGABEAAAW1YCeOZGmeaKqubOu+sAqYQE3bsYyT9SyfO1EQmOsMhyhfKThTppArprHlFE6tVV2WqGyyelUvNgflXadbs88pXhfL42vaKh+53TE4vR3d24VdLz1UgH8/aGZGgYSChXRabIZXGwQFAAIYRYlnPhwJCBwPmUs8g3aDFRQDGKI3YGBLpoA2FRYSGgZEMQ4THBCaMKIZCLovHAsYGg0XwC0cDBwKERLNIhoHHRmY1SueAQUD3OLcIQA7\" alt=\"\" width=\"68px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"phi M  _{n}  GEQ M  _{u}\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.2-1)</span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 79,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>여기서, 인장이 지배적일 경우에 <img src=\"data:image/gif;base64,R0lGODlhFgARAPQAAAAAAAA6kABmtmYAOmZmOmaQ25BmkJDb27ZmZraQkLa227b//9u2Ztu2ttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAWABEAAAVOICWOZGmeaEoCrMkCKtWucCzXIoyn+tjbP5kQOKztUMairYg7InNNYs4nkgwIgMDD96K1GgzBI7FdjhCLicI8mhgekYODTYkUKBAtHRUCADs=\" alt=\"\" width=\"20px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"M_n\">은 식 (4.2-2)에 의하여 계산되며, 압축이 지배적일 경우에는 식 (4.2-3)에 의해 계산한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 80,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhewATAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6Ojo6ZjqQtjqQ22YAAGYAOmY6AGZmOmZmtmaQ22a222a2/5A6AJBmAJBmOpBmkJCQtpCQ25C2/5DbtpDb25Db/7ZmALZmOrZmZraQOraQkLa227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvbkNvb29vb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADUALAAAAAB7ABMAAAb+wJpwSCwaj8ikcskszhSAqHRKjQpKzax2y+0qPViveEwuZ2cPs3rN9p42ba3UOCfXkQDiPb+lVVx0fFlTW1FFhmWCgoeKQ41aMRF0NYtLipVKiEJ5mF2Ph5SOoqNNYJOFpEycop16VZqbqayki61GMw6ncmKrsbaosaChusFLL3CusJa/Sb18zIOyw5jURzSAQn7Yel7Klr7Fza+Vn8Xkk5U0EpJCMWnEXNCjmvJNj89U0s9FKiYD2G/gEfnwL9MuSuXszNN1jxuRGQvg4Dpia8YFYeG+mRMCsQGAgt28OUKUrxoRDglqwMBAsciLAgE2xNDQ4cqmRh0/UgCAIFlzrTkqUhBwAWJbHDMv/pnC2O4ACRMRThiAwAhR0KEcIMyw0AUMjRBH2UDM8G4WEajZJhxA9qWEthkiuGib2SLsGg5rGRkJqGKFA3cslMxNg2JEXUhpkhq1O0ZxExkM/r2I8IQdEnc1JtfgQICx5yZwPycJAgA7\" alt=\"\" width=\"122px\" height=\"18px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"M  _{n} =0.42 lambda  sqrt {f  _{ck}} S  _{m}\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.2-2)</span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 81,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhZgARAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6ADo6Ojo6Zjo6kDpmOjpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmOmZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmkJCQtpCQ25C2tpC225C2/5Db25Db/7ZmALZmOrZmZraQOraQkLa2kLa2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEsALAAAAABmABEAAAf+gEuCg4SFhoeIiYqLjI2Oj5CRkpOUlZaXmIpDAAAQhTicHpZHFAAENoakpiuCSEKCP4dJFaKNRxUAARslr41ECQaERBXBlkofHUs7Bb2CSiGoRgs3S6AADKiFSRk8DM2J0tERno4wL8VLRhsftYdGB5zxnALUgkbeS0ogrINJJoM6qAVM1MLDkWyK9PFb4qIeI384iikpce/bpCHMBLFolw/EBiFKZggaaOgdJ3SKkkxwKOORjhU4MsIQwoIcIpPy5jmMOKhmoWMDPgrK0SBXMkIVH+FYsAFho4lLMArJsSKJhIWVeGq0KYiHDVIZc6BQFgArDq6OkIxAq8hIiqj2BXy8lYqJ7pKNx4IZqaWk4BB6S5JEaHeMI6EXGQUVQZi00cAhAzhszZRUIaEh7TATeRv4QjMjCBxq+zeo4aCzjo5keEXXyMrAEjAASAzpmORl38ItOWLhRhILqFCfRhn1QFkjKlrQE0xuhzersguMAPCgEIuT+UB+4FS2xw4DQmZOUnXK0K9V9krZ7BGEHdIFNnB4yKHgKJETpQA4eOUdPIsOSZQwSUMhZTLJbzHgcxpfIiyA1SEEkiBEEjRIooSEyAFhoCQsEPAgVUv04IMGRnAQCyIXClHiEjrUoCEkK9q14SVgCYGZYIYhJRlmdxE3449AOhIIADs=\" alt=\"\" width=\"100px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"M  _{n} =0.85`f  _{ck`} S  _{m}\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.2-3)</span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 82,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhFAARAPQAAAAAAAA6kABmtjqQtmYAOmZmOmaQ22a222a2/5BmOpBmkJCQtrZmALZmZra2/7bb27b//9uQkNu2Ztu2ttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAAUABEAAAVJoCaOZGmeaKoBLKCWrsi+Y7zSMm7OOmz3OWDw9fupeDcMoQAIJACDXUs0kQgqjANmgWtAMooKxkEDVy4GTeRBeaE1FoSGIRCaQgA7\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"S_m\">은 단면계수이다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 83,
+        "title": "4.2 강도",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2)압축력을 받는 단면의 설계는 식 (4.2-4)의 조건에 만족하도록 하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 84,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhQAARAPQAAAAAAAAAOgA6kABmtmYAOmZmOmZmtmaQ22a2/5A6AJA6ZpBmkJBmtpDb27ZmZraQkLa227bbtrbb/7b//9u2Ztu2ttvbttvb/9v///+2Zv/bkP//tv//2////wAAAAAAACH5BAAAAB0ALAAAAABAABEAAAWeYCeOZGmeaKqubOu+LmACdA2/td3K88irP9gvCDwFiUbk6rjr+XC05nOpm3aiN2xqqCTJeMfq7doV5Vhgs3VsLqtx7yGb7F6j1cxxvbTni5UbBAUAAhhzdiIcCQgcD4Z8XmIiFRQDGI4zOZp+WiMVFhIaBkYvDhMcEIcsjhkIpC0cCxgaDReqKRwMHAoREocaBx0ZhbcoigEFA8XLYyEAOw==\" alt=\"\" width=\"62px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"phi P  _{n}  GEQ P  _{u}\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.2-4)</span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 85,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAA6kABmtmYAOmZmOmaQ25BmkJDb27ZmZraQkLa227b//9u2Ztu2ttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAATABEAAAVBICWOZGme6AmsbFoCI+zGpOzaFJ7a6yyyup3PFPQVbyfJgAAIPGKtUoMheCSeQ8RiohhSJoZH5OAYRgoUiNN7CgEAOw==\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"P_n\">은 식 (4.2-5)에 의하여 계산되는 공칭축강도이다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 86,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhrgAkAPYAAAAAAAAAOgAAZgA6ZgA6kABmtigNUSgXUToAADoAOjoAZjo6Ojo6Zjo6kDpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmOmZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmkJBmtpCQOpCQZpCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZraQOraQkLa2kLa2tra227a2/7bb/7b//7z//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAE8ALAAAAACuACQAAAf+gE+Cg4SFhoeIiYqLjE9NEQABLo2UlZaHSQgABEWXnp+goYRNF52ip6ekpqisraKqrUksroJNKoNNFAADObWltMDBjEwHOq09vcAzyTsQTi8QgsTGwtXW0gbUp04pwkezhDyTT0zZ1+fB5dqiso08ANGUtoRLQ4Pq6Pmt+KjilDseKjkhYaqeExvY1ulb6InfqRjJFjkJEdFdr0wAAAQkZ46hx0sOQw1cpaiJhktGNhoK+bGlIpafTFIyEq9SEg6IYLrcSUjnpZuUYIyz6SBnR55Iex4NRbPRxIqNZB7ymbTlNFQpGyVx0OSGJVgri1UdC1YUwEY0kfQygkCSRIL+h8qO5SkX1FlGmaIlYYDjbqKncX/NRVr3kz9LfiVSDEwSlJGMkAOoDKVE1wAciGAAKPqk8i7MhZpUmMyYXoyhQVG7mwSksSHAhgrj2jCTk6AdAqBecvKhwxMftgk5mYEjiYIcvH0DJ9kkw48GrkcJ5h1JNSOhlyoHVwQ7tODXHwpQgjbISG5EGCFDPi8oCfQnTkCohkjIfaf4qGF4UAI6kdwmEli3CHbVdCdddE/0YIJ4jAA41AsMMhXcC5O5N8Iukxgx4UbpRejfd44EOEh66m2yCoHCGIgLiIMc4cIOHiayg21OwMBLIiSqx94TMA5CXnnw/MZJj4L8+IR9UYH+6OAlhzkCSYlQRlkieyr64to8MyI4CHUZBbCBlpUQ+YSRT5jXyyMeiGlkM/IoKaIlTQZTpSMsPlHDbduhl4CAomhoCoW8iWcmfB944GeRG/FG2iAybHcVLm+GuagrI00lFiE7qLdda4aI6QqS+NV3HKEegCpfe6PGdcuKzEU606SVCGEPIrLJlcSqY9qWyY6CKBqbBBiY6AlvOC0n3AfRLEeskKZ4WmZbLiTRAgzn/ecqWjUJp9kA4/igyWWD+PBeXCeVJogS5eJpioEvQJbtE0D4UEARM4CZiGfghmYZaPhiBgQRhdbHF0A8LOCblT5CluciQBXiK245JKFBEU75yMCeETHWx1lsgrWrkZMZ0bgYJRAd1FITFtAw7m2JisDAULJdIhUiZhrh1pI8wlrmu6xSMuchI0k7q0cvcFuIP0AEocFNQiC8DVxAi/DukhOd0BY44cAa82sj44XToWNpV0RKaDr9kG5jbtZpPI88MHbG9Jm7yCPVDQbM1nDyyeO8I+J6aFPCQc2xvXafg7dNOAmH0JEIbKTECpjGc1pouA5e+E6H+1xCITZPkklASoDjYqgyLS7INx8Sfnk1mVPCQ0VOoGAPxCTm1sQEa0HwQ39PLJP66ifXCUo7wl2YryFbtdf4KJVbDrxHdLtVuBMIYrTw89hnz0ggADs=\" alt=\"\" width=\"173px\" height=\"35px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"P  _{n} =0.60f  _{ck} LEFT [ 1- LEFT ( {l  _{c}} over {32h} RIGHT )  ^{2} RIGHT ] A  _{1}\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.2-5)</span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 87,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhEwARAPMAAAAAAAAAOgAAZjoAAGYAAJA6ZpDb/7b//9u2ttv////bkP//tv//2////wAAAAAAACH5BAAAAA0ALAAAAAATABEAAAQ3sMlJq704S6Ax7xQggtP3kSbZnGcnvmhIIYnVrpIyCIddnYxCrzTawBrBoSqpkjBVCwIgYGhaIgA7\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_1\">은 재하면적이다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 88,
+        "title": "4.2 강도",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3)휨모멘트와 축력을 동시에 받고 있는 부재는 압축면에서 식 (4.2-6)을 만족하도록 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 89,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhkgARAPQAAAAAAAAAOgA6kABmtmYAOmZmOmZmtmaQ22a2/5A6AJA6ZpBmkJBmtpDb27ZmZraQkLa227bbtrbb/7b//9u2Ztu2ttvbttvb/9v///+2Zv/bkP//tv//2////wAAAAAAACH5BAAAAB0ALAAAAACSABEAAAX+YCeOZGl2wKmubOue6SvPdE3Gdq6X+O7XgKCw1RMVUcLg68hTNpko03H4/N2II6gRxt26tNmis8uDicErJjV9VanJUSyxl9K+pfT4bAyXtt19eoJsLHVZg2V+ZTiGMmuEgEZ2eHx6lTdJSVyMiIdPYpadeHuFj32NdKaFWDGtkFuuh7FoYY6vq22xonKRqLeznr40l4qBkcFeu7i9nMdeuq3NQMTJxbzPgrTGwdLWcY3P3WmZmttMHAkIHA8YneXVIxsEBQAC7cOecejq7O6P0jHk0bPnIxOmSxUsSNBgAF4+JAgpDMDQz9G/IQkXNhSVio+mChIp3jtITtsLdhlOEDhcqcLBBA4QrJhAqZKjDZcwZdbgwICDgggSlrXgsACDhgYXdIrg6ROo0BdEjSJVKgNdgAIDdGo40CEDQaVWsVLtsLXr17Fo06pdmyMEADs=\" alt=\"\" width=\"145px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"P_u /phiP_n + M_u /phi M_n <= 1\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.2-6)</span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 90,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>그리고 인장면에서 식 (4.2-7)을 만족하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 91,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhxAATAPUAAAAAAAAAOgAAZgA6OgA6kABmtjoAADo6Ojo6Zjo6kDpmtjqQtjqQ22YAAGYAOmY6AGZmOmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmZpBmkJBmtpCQtpCQ25C2/5DbtpDb25Db/7ZmALZmOrZmZraQOraQkLa2/7bbtrbb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvbkNvbttvb29vb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAACH5BAAAAD0ALAAAAADEABMAAAb+wJ5wSCwaj8ikcslsOp/QqFS4awCu2Kz2KmBNv+CweEwGl7zlKSCdXrPf8OFOEoe66987fg92idpXRlhIekJZgIdKhUSLY4NJeo9Fd41KPBs2gpVMgYybi5SbUpSKpXlHpKipPaCMUDkUgqx5kbOEsoZstbeqopCVq66rra5OZ7hqtrOihb5gu7yTuU+SqEONa8PI00w7EdujytmQmtRbndKGn7zO6k3B09ie6NxKN3/z7dZu/OSqb4n8pVPGyRk8W8Ry9bt2hEcmIZceFku2rN7AaI6cAAuokRnDic2KLaxIhEeFWEJy0AFnx53FiRjF6JP3MUq1mgu31IzHk2D+jxgtCDz0w3KICaGm0K2DqU+j04s+CZ2jx20kzo/9rBba4eCPN2tIdngwJQ7iSR4nMoEixRUCAAIZACwIZ8QkBbRqwdbU8WDA3DA356mTlCihkBEMeuD4oFfIDQMBROQIQaLLpGqHYsxYkeNbVFaPYsAoYGPEhB0d7ATWzNlzM6WDeFiQvDKfzjpNHQs9BjUHghUtKLg4MAFM2hso9Z2JuANFmuPJXynogZzP0ydcQdRWWCQ4RAwI8EnhwYHHhRQrnkRU2eOFihpkyJtHL0WleTTWl+Q+HP6yEaIxyBCBSjRMYVIAEBTwCh3VjaBgfBUg+GAUByYgUX5s3IAUE3wVCYVcFShhKOJ4GrCQw3QjstEcG0EAADs=\" alt=\"\" width=\"194px\" height=\"18px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"M  _{u} /S  _{m} -P  _{u} /A  _{g}  <= 0.42 phi  lambda  sqrt {f  _{ck}}\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.2-7)</span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 92,
+        "title": "4.2 강도",
+        "level": 3,
+        "label": "(4)",
+        "contents": "<p>(4)전단력에 대한 직사각형 단면의 설계는 식 (4.2-8)의 조건에 만족하도록 하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 93,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhQwARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjo6Zjo6kDpmtmYAAGY6AGY6ZmY6kGZmkGZmtmaQkGaQtmaQ22a222a2/5A6ZpBmZpBmkJCQZpCQkJCQtpCQ25C225C2/5Db/7ZmALZmOraQZraQkLaQtra2tra227a2/7bbtrbb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttvb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAACH5BAAAADsALAAAAABDABEAAAb+wJ1wSCwaj8ikcslsOp/QqHQaraWIHgAg0BFmARMkDib9cr3asNIlK3oKxJyjnXxVNnTnOz5f6khGKnBDIXlKOi0NJ06CRIWHIRcPGYYqBHRWUTggEGRKlphXSTZzVjkMeaA7NhxSLxh4S6qsSjkLVyM7OhSiO6A5GlB2lIyXwEszcH+rB3kzl7lNNxbEUM8y0Uo2CDs3KDsfXUMzAhi9slrp6YNJ5OZNKxEuJhjfRDNnQzYGCpdUR/jECTkl45EREUhoqBnyIhybQOrUsUu4UIiLETEyHMlR4okOjdn++SFxzMiYJzY05CDhSaS2DSwktKRCo4ONZi6X5EgwAGcFzp9UggAAOw==\" alt=\"\" width=\"66px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"phi V  _{n}  >= `V  _{u}\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.2-8)</span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 94,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhFAARAPQAAAAAAAA6kABmtmYAOmZmOmaQ25BmkJDb27ZmZraQkLa227b//9u2Ztu2ttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAUABEAAAVBICWOZGmeaAqsJJuKQBm/cEuPM5Xf+U7Pvp/uJgvyjEKSZEAABB5ESoMheCSgUcRioohSJoZH5OCIRgoUyNN7CgEAOw==\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"V_n\">은 식 (4.2-9), 식 (4.2-10)에 따라 계산하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 95,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "①",
+        "contents": "<p>① 보작용에 대해서 :</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 96,
+        "title": "4.2 강도",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhdgATAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6Ojo6ZjqQ22YAAGYAOmY6AGZmOmZmtmaQ22a222a2/5A6AJBmAJBmkJCQ25C2/5DbtpDb25Db/7ZmALZmOrZmZraQOraQkLa227a2/7bb/7b//9uQOtuQZtu2Ztu2ttvbkNvb29vb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADAALAAAAAB2ABMAAAb+QJhwSCwaj8ikcskcuhKAqHRKjQpCzax2y+0WN1iveEwuJ10Os3rNzo4wbaaUGDXPkQBjfrjXviYpen1KdXyDeEWHXn2Kd0KOj1ssEHowioh0cpl2fJibn0xglVqHl4mdS1WQlqijoJFNLg2uTaW1rWWMnri8SCpwdKtJjnmFmKaLvbCvy0QvgUJ/0MyEsIXIxVmqxsumjZWHLxGUQixptKmounjIYuu2p5uHJSID0G/oRBz2n9nNgnHexQM16JALBXBkHUHmgkK8Pbq8FTnIAAC/RdwM3aHCaqCQDAhgrKiwsIiKAgEwsLig4YqhVhmVlCBBIEWHaXHMqLAnyiNKDBYHQIiAMMLAg5xCwLzwgHTNQQvnOh0aGk3CAWBxpK1E0VRNhquJFOErYaKBuRM5zcHYibOrGLZNWiywpwLCE3Ju85Jx8UFvkSAAOw==\" alt=\"\" width=\"117px\" height=\"18px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"V  _{n} =0.11 lambda  sqrt {f  _{ck}} bh\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.2-9)</span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 97,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "②",
+        "contents": "<p>② 2방향 작용에 대해서 :</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 98,
+        "title": "4.2 강도",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhFgEiAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAZjo6Ojo6Zjo6kDpmZjpmkDpmtjqQtjqQ20kAAGYAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmOmZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmZpBmkJBmtpCQZpCQkJCQtpCQ25C225C2/5DbtpDb25Db/7ZmALZmOrZmSbZmZraQOraQZraQkLa2kLa2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAFIALAAAAAAWASIAAAf+gFKCg4SFhoeIiYqJTSyLj5CEUCqRlZaXmJmam5ydnp9APZ+WNqKjp6ipqqusqFEpqUEGAAM8iEuOrbq7vL2+mI2oTRpJUTQCpoWTv8zNzs+nPy+oSgHTUBLThlElSdDf4OHiUjPJqdjahj/m4+3u757c3qs+D4lKHvD6+/yPUBqsmlBixIGTDAgAEipcyDAhsn6nDjacuPAhxE5NCqpysmJRkwaboGi86EwkSWdK7KVykmtJOmUANUk76WwmzV/4UjWZ5ZDdICgX5l2SpymKEUVGjtwsRDSTUaRKE8FIaE3QVAD5NjmhQMuWoSczXoJN5yOroLGHXrnqJshJhZf+ipqY/VlhLiK3cAkFUSAU0pOohLZ2NSRrsJTCtQbhjSTXEJS6jxYj2tvXEIwCkohxivKhw2ECfTkDqCpFNGkpZQWZzlsa1qkoIZL5wAypnLIMQvgugjLB5yAltB9FEZJhx7bOn/sOK3asx3JjFlEHX2RbEm7dinj7FgR80WxCNioD0x0FRF50krINsikI/TbXo2An0+4vJqEYHpx4VdQ9UepFRZCwgniCNEGeeYRUc002CkrhnoO91WcIfvo90h8i//kHmiBMbFcgTwxFp8SGUsBgl4Pq/ZSiFDG89CAhar0WGyEwqMTfSzslNJ1/CxgwQF6wnWBAALkQ8kQNGwD+hsiI85iIyIsv1mghjjztiGGPP24TgpBEYrhhMJ58Z5WNKrq4YovppZNjQ6dBEQFFDVkkX4IkDhKFUE0NYiCBxxWQxIU/ReDAn1YOh4JxiohZIpmE1FOIo3RWdqedbBGyJySc+Qloe4IS6mUSy3gEYkWyBSelMiuimA6aZaYF3ydzqobCWzB+YFZGhkDqT4SXRipFSolEYUNxGJrKaIED6ZmsrLTaaaueIw2i6268YvfbhsAewiQOpzBp1YlQnmkmazHGN6MUTmSQhKJSDOEDieyp9uwhNNTp7WxRjABAA95AGpZwNpSwH3ckOlkIRwd3FJi67LoLL1ycnShIvUL+3Wulv6z9KgAKHo7nTXkvZNrqyFLE+6Kdr8YzY7reNHGAOej9Y4jL24XKnT0RA1sWyA4ClEMhVzXE6KUgi4xuS9OwJIhL6KorBc1p9jzzy08uC2zETCEo88+GNKgiBgDUWQlnBQUhdnupPmhyqii7ElsTCSRj8CBS4pLrjkoM+UITLsTwkMzvrptPRvSlJMTAlpCdnKUgIrMmAI7HTbdddRcpLd568+23KIBjq3fhDxx+yBJ2DRGEn+FlIlhiQCu0YdAbZgg7n5EIwRVIiORJSGVMVifIEEjMW2ACPJT1AwKe/WYAA96gmdFHH54YNEPHro74JryD5nu7wc8Fd/H+HhyfPHfLt0z8R9A/bYDEiZQTBdfP5JSKEgwoxapjQUGCTQvRQmHBDdZCTVaiIIIEZEyAvzoWSfbXv/8F8D8ENKB/Boe7onSDb0piRrZOITNVPck+j4CBBGmUJULMZAhE0EBGjqIte2RoKSKECwxKuJ5poFCFHGChOkKGoE3gylvPwBUqQnEVBRaoghY6210oABp8uIl9+doX7SACxEVspYkeeOISAzC+pTgGhJ/glhSOIIQDbtAfOvCiL6CQRjU2Q3edYONvrLQe9rnxjnjMxPY6USGr0FEQe8yjIAcJiXh1IhScgmKlCMnIRh5CiJ+IwQaK8QHPtWlZjsxkI6M9YIJRQCEHP5gFv55GvAzZTZOobOQ6PtHHRp2oFKmM5SDB1IkhiOeE87CZLHfJy0tcEU9T7KUwh0nMYg4iEAA7\" alt=\"\" width=\"277px\" height=\"33px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"V  _{n} =0.11 LEFT ( 1+ {2} over {beta   _{c}} RIGHT )  lambda  sqrt {f  _{ck}} b  _{0} h <= 0.22 lambda  sqrt {f  _{ck}} b  _{o} h\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.2-10)</span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 99,
+        "title": "4.2 강도",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhDwARAPQAAAAAAAAAOgA6kDoAADo6ZmY6AGa2/5Db/7bb/9uQOtuQZtu2ttv///+2Zv/bkP/btv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAAPABEAAAU6ICSOZGmeJ6CiI9CykCvK6cu6Kl3bph6jOh9pNbvFiJDGIHAomhwERMLgLE1LQoiiuWDAHgWBF2YKAQA7\" alt=\"\" width=\"13px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"beta   _{c}\">는 집중하중 또는 반력부의 단변 길이에 대한 장변 길이의 비이다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 100,
+        "title": "4.2 강도",
+        "level": 3,
+        "label": "(5)",
+        "contents": "<p>(5)압축력을 받는 지압부의 설계는 식 (4.2-11)의 조건에 만족하도록 하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 101,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhQAARAPQAAAAAAAAAOgA6kABmtmYAOmZmOmZmtmaQ22a2/5A6AJA6ZpBmkJBmtpDb27ZmZraQkLa227bbtrbb/7b//9u2Ztu2ttvbttvb/9v///+2Zv/bkP//tv//2////wAAAAAAACH5BAAAAB0ALAAAAABAABEAAAWhYCeOZGmeaKqubOu+LmACdA2/td3K80izPFgwuCL6SEbUD4fc9Y64pYqYnOmgnepOKxpyu1mw73qTKslK8bAp/Ipjaux7ap4KwVR2McdPt81UMhsEBQACGDdPJRwJCBwPiCWBfSIVFAMYkFZ8aDkmFRYSGgYnbiQOExwQiS+QGQilLhwLGBoNF6wsHAwcChESuR0aBx0Zh8EqjAEFA8jOyCEAOw==\" alt=\"\" width=\"62px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"phi B_n >= P_u \"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.2-11)</span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 102,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAAAOgBmtmZmOmZmtma2/5A6AJA6ZpBmtraQkLbbtrbb/9u2ttvbttv///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAATABEAAAU+oCSOZGme6AmsbFoCI+zGpOzaEp7a6yyyup3PFPQVb6eIoRBJOGKtEqOxgBCGIuejgI0gIgfFYqgMDARYVAgAOw==\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"P_u\">는 계수지압력이고, <img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAA6kABmtmYAOmZmOmaQ25BmkJDb27ZmZraQkLa227b//9u2Ztu2ttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAATABEAAAVDICWOZGme6AmsbFoC4+rGJDzbIu7i+t7OuRqQ0uuphLcaTDIgAAKPGOtHaTAEj0R0iFhMFEPKxPCIHBzDSIECgYZPIQA7\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"B_n\">은 식 (4.2-12)에 따라 계산되는 재하면적 <img src=\"data:image/gif;base64,R0lGODlhEwARAPMAAAAAAAAAOgAAZjoAAGYAAJA6ZpDb/7b//9u2ttv////bkP//tv//2////wAAAAAAACH5BAAAAA0ALAAAAAATABEAAAQ3sMlJq704S6Ax7xQggtP3kSbZnGcnvmhIIYnVrpIyCIddnYxCrzTawBrBoSqpkjBVCwIgYGhaIgA7\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_1\">의 공칭지압강도이다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 103,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhXwARAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6Ojo6ZmYAAGYAOmY6AGZmOmZmtmaQ22a222a2/5A6ZpBmAJBmkJCQ25Db25Db/7ZmOrZmZraQOraQkLa227bb/7b//9uQOtuQZtu2Ztu2ttvbkNvb29vb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAABfABEAAAb9QJVwSCwaj8ikcslsOp/QqHRaBFivVCP2uFVdrVxAVOwke81ZM1qoZivFa2Y8iZ6Ph/G29z0GN+tLX4JVeFqFe0h2dG5/h1mOc11fVV1yjHKVj4ibkJdrilyOfKKJgpl6RKikoFqTlqmanrKMqooYAySwoiC5hqRph6hktUkoE7qHJgUCHL5sYigJCwC4VJl4fs+fRSUFARUmFBbMnJspEM3Yg0IgHwQkGb2xU2smBxsdDx4GDmdqW+fSNbnAIYWGefTK5ROSIsKBCk0COkkhgUS4EQj7GPEAEUQIBiYaiGAisUlIFSWqZdR0QgGuEg9QIHiwRCaAbytz6lQSBAA7\" alt=\"\" width=\"93px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"B_n = 0.85f_ck A_1\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.2-12)</span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 104,
+        "title": "4.2 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>모든 면에서 받침부의 면적이 재하면적보다 넓은 경우를 제외하고, 재하면적의 공칭지압강도 <img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAA6kABmtmYAOmZmOmaQ25BmkJDb27ZmZraQkLa227b//9u2Ztu2ttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAATABEAAAVDICWOZGme6AmsbFoC4+rGJDzbIu7i+t7OuRqQ0uuphLcaTDIgAAKPGOtHaTAEj0R0iFhMFEPKxPCIHBzDSIECgYZPIQA7\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"B_n\">에 2를 초과하지 않는 범위 내에서 <img src=\"data:image/gif;base64,R0lGODlhOgATAPUAAAAAAAAAOgAAZgA6ZgA6kDoAADo6ZjqQ22YAAGYAOmY6AGZmtmaQ22a2/5A6AJA6ZpBmkJC2/5DbtpDb/7ZmALZmZra227a2/7b//9uQOtuQZtu2ttvb/9v///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAA6ABMAAAbVQJJwSByKEICkcslsOp9KAaZILVam1ax2y9WKGF0tIEyuaiZl6jidHkE62fVWrmZTQQ0xl163E69VSntxSX5GC4FCfH1Fa4tpHmh9j0OUjm1wQm6ZRHKUiomgZCMOeUIgYGpLeoGrZBsZBJlnjCRrIgoAA1iPdHQbnFUiCWgiiI3IJBkHIxQHop3JIAVSXM4kHxG1tkW0vckkIw9YWh6ygJWFioJCIRzQ657s4uRZwxKpZe4jFtxt410oGJBEZloSU2zodTEXzFCZIwACELR3waFFKkEAADs=\" alt=\"\" width=\"57px\" height=\"18px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"sqrt { A_2 / A_1}\">를 곱하여 구할 수 있다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 105,
+        "title": "4.2 강도",
+        "level": 3,
+        "label": "(6)",
+        "contents": "<p>(6)이 기준에서 경량콘크리트에 대한 수정계수 <img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAA6kABmtjoAZjo6ZjqQ22YAZmY6OmZmkGa2/5CQkJDb/7ZmALb//9uQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAALAA4AAAUtICWOZGmSkaGcYhOwlFQw8ELAD+CcU6KakYPDVQruIAKaCDJQUhYIGGUnrYpCADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda\">는 특별히 언급되지 않는 한 KDS 14 20 10(4.4)에 따른다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 106,
+        "title": "4.3 벽체",
+        "level": 2,
+        "label": "4.3",
+        "contents": "<p>4.3 벽체</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 107,
+        "title": "4.3.1 설계 일반",
+        "level": 3,
+        "label": "4.3.1",
+        "contents": "<p>4.3.1 설계 일반</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 108,
+        "title": "4.3.1 설계 일반",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)구조용 무근콘크리트 벽체는 지반, 기초판, 기초벽, 지중보 또는 수직연속지지 부재로 거동할 수 있는 다른 구조 부재에 의해 연속으로 지지되어야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 109,
+        "title": "4.3.1 설계 일반",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)구조용 무근콘크리트 벽체는 벽체가 받고 있는 연직하중, 횡하중 그리고 다른 모든 하중을 고려하여 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 110,
+        "title": "4.3.1 설계 일반",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)구조용 무근콘크리트 벽체는 축하중에 의해 발생되는 최대 계수휨모멘트에 대응하는 편심에 대하여 설계하여야 한다. 이때 편심은 <img src=\"data:image/gif;base64,R0lGODlhJgAOAPUAAAAAAAAAOgA6ZgA6kABmtjoAADo6kDpmtjqQtjqQ22YAAGYAOmYAZmY6AGZmtmaQ22a222a2/5A6AJA6OpA6ZpCQZpC2/5Db/7ZmALZmZra227bb/7b//9uQOtu2Ztu2kNvb29vb/9v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACkALAAAAAAmAA4AAAa0wJRwSCwaj8ikcikEhZClBkCwOZoyl2F0WiV6DCIjSgJJeQbh4RgQyKbG5XNaOCIcSeD3xE08Ldx4YSh7RB0RRyNoQhiHRX5uiWmMahQVBQEWhXaLCUaPQh2bKRidQicKCCJ1mkOknn+goq50iiOltJKNfbApkYu6HaVYRIF6F2OinynFg27NKScOKRpqEg9mio68Y9dypgwcvQkfXUJbVEYYAOuK5+UkB0IkBbpM9vf4+UZBADs=\" alt=\"\" width=\"36px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"0.10`h\"> 이상이다. 만약 모든 계수축력의 합력이 벽체 전체 두께의 중앙 1/3 이내에 위치하는 경우 4.2(2) 또는 4.3.2에 따라 설계할 수 있다. 그렇지 않은 경우 벽체의 설계는 4.2(3)에 따라야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 111,
+        "title": "4.3.1 설계 일반",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)전단에 대한 설계는 4.2(4)에 따라야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 112,
+        "title": "4.3.2 실용 설계법",
+        "level": 3,
+        "label": "4.3.2",
+        "contents": "<p>4.3.2 실용 설계법</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 113,
+        "title": "4.3.2 실용 설계법",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)직사각형 단면을 가진 구조용 무근콘크리트 벽체는 모든 계수축력의 합력이 벽체 전체 두께의 중앙 3분의 1 이내에 위치하는 경우에 식 (4.3-1)에 따라 설계할 수 있다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 114,
+        "title": "4.3.2 실용 설계법",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)축력이 작용하는 벽체의 설계는 식 (4.3-1)에 따라야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 115,
+        "title": "4.3.2 실용 설계법",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhRwARAPUAAAAAAAAAOgA6kABmtjoAADpmZmYAOmZmOmZmtmaQ22a2/5A6AJA6ZpBmkJBmtpCQtpDb25Db/7ZmOrZmZraQkLa227bbtrbb/7b//9uQkNu2Ztu2ttvbkNvbttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAABHABEAAAbEQJJwSCwaj8ikcslsOp9QJsAIqFqj2KH12pxStVlvVCxelsHo8VlKXB/XZfeTa25L6UKyXF3P7/MkXnF4WUVVSltsgYCMhUiHiFCCjX9qlY1dgHGOhpKWm0YiBgcAAh8jCwpCIw0fnG6oCiMUrp1ahCQbGgMftBscESIIJBkYhlvIx5BEGx0XIcNfThMYIxVCGx8gsg+cSrTbb06sHyEQHuQSESAJ3kgjDiMMFheOIe0gpiQSAAUE+u6MoApwYEDAg96CAAA7\" alt=\"\" width=\"69px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"phi P  _{nw}  GEQ P  _{u}\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.3-1)</span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 116,
+        "title": "4.3.2 실용 설계법",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAAAOgBmtmZmOmZmtma2/5A6AJA6ZpBmtraQkLbbtrbb/9u2ttvbttv///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAATABEAAAU+oCSOZGme6AmsbFoCI+zGpOzaEp7a6yyyup3PFPQVb6eIoRBJOGKtEqOxgBCGIuejgI0gIgfFYqgMDARYVAgAOw==\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"P_u\">는 계수축력이고, <img src=\"data:image/gif;base64,R0lGODlhGgARAPQAAAAAAAA6kABmtjoAADpmZmYAOmZmOmZmtmaQ22a2/5A6AJBmkJCQtpDb25Db/7ZmOrZmZraQkLa227b//9uQkNu2Ztu2ttvbkNvb/9v///+2Zv/bkP//tv//2////wAAACH5BAAAAB4ALAAAAAAaABEAAAVfoCeOZGmeaKqKQOuuKjDKMEqztXl7e46zPZ8rKPTFjCkiksgpGACBTEeREHUWGWDLZKkIMpGM5eLgHDyUSQ0y6UhElowm0WHUrplNA4N/ODQINRuBGlEeDwAEA4ZIKiEAOw==\" alt=\"\" width=\"24px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"P_nw\">는 식 (4.3-2)에 의하여 계산되는 공칭축강도이다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 117,
+        "title": "4.3.2 실용 설계법",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhtQAkAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtigNUSgXUToAADoAOjoAZjo6Ojo6Zjo6kDpmOjpmZjpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmOmZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmZpBmkJBmtpCQOpCQZpCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZraQOraQkLa2kLa2tra227a2/7bb27bb/7b//7z//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAFQALAAAAAC1ACQAAAf+gFSCg4SFhoeIiYqLjI2LUhQAATKOlZaXg04JAAVKmJ+goaKGUhqeo6ihpaepra6tq61OMK9UUi6DUhcABD6CsbXBwpVRCD+tQr61N8pAE1MzE4LFx8PW14ZRB9WjUy3CTLSEQZRU2tzY6cPnqbONQQDSjreEUEiD7Or6wfmj5I5AQlSaguKUvSk6pm3bx9BVP1E1lC2aQkLiO1+aAAAQaG5hw4+iHoIiyEqRlA6XlnDM5hGky0siP510tEReJScfEMV8yTPRzks4HdEodzOCzpY9kx5FB6pmI4oWG8089FOpUmqoVDZyEkHKDkvACmG1SpZQ2FABG9Vs4mtJgkn+EwseOlvWKt1PaRlpkuakQY+8iaDONVW37l1M/ywBnlhxcElCSzRKDrDy1ZNdBHokGioIyqkjpDBUZiTFQ6KzUGoQFbr6HaUijw0JJkUY0ZJOgoAIiIpqiggQVIbgNjSEQTkgGh1oNsuBiIPYiHwbOF3bt6TWjDhbujxc0exChwVFG7Rk981NkiWbF+TkOZUpI7A/4RFfUDJENEI8Wd5IiIrpiJwlRQXYLaKdMN+ZVRspBA4yA4Cv3HbKDKMhBF859xWSEQAQMsKEDEB0CN6CtjTIHnrpccLKgcEkmAuJhACB2xQ09GLJhimuR0WIDtokCGwXChLEA5IAl4l78+D+IiN0tpA4YIGKJGZLJClWaWWOyrj4C4yCWKdRAB4wOQqP4vm433v1URHEC8HBlZuPjOSQW3cjlvTkJVK22Bht0DmhAJQRDkehdFTMkKIB5fkCCUe+jTaIDXQiJxmdhIz1i4mVLFYLSVQZcwiZ2LTnSZCy1RfOlqc4sQBvv+CSiauFUvqinZjS5KglR9wTIJdNxtYogxuo+Ot7clniW07CQRekFBlo5swgoAri1iROxEDDbk+gBO1wlw0gAapm1aoWnF3SwEs5Q2yS2SBDIEmKtnwWYqhGcBYxhAFK3KBEEUbIMFOG22HGHyEb8rWLPEUkIUJlff0VQhAMADevQJD+aNTJhUH16uCkYhqSMSG/6uaDEx0oMYUN6y0hIsFGOWZJRAj9qIRK3nzELA7u7shoCQ0AmolRWmk8ylS27bYEXHfqnIhTLjtCUrVIkDTUEjl9NAMBrf3Dbwc4gaYITrOFZ2yxspUA550UrfCWOOPcKvRWOUlIhbkQJCDrS9zNHMKiE4kQAJJiv8yqoS3HKA8kEsy8ckS7dlzYNVOcMHLhgVeSZyEhsuIErHIzPQinTT+uVOWOfNxlQlRowtETbEIrj2rgwRqv6KPziskUKRRyNCWqU/GEOB8uixLqgpzaOO21O265RVOwcI/IOO4mhQVtTUDEwMxQpzzy6ZBeOtscXZrAy8Asn1gZPdpz31PFbtY1BZMZ3a3+/LQHAgA7\" alt=\"\" width=\"180px\" height=\"35px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"P  _{nw} =0.45f  _{ck} A  _{g} LEFT [ 1- LEFT ( {l  _{c}} over {32h} RIGHT )  ^{2} RIGHT ]\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.3-2)</span></p>"
+      },
+      {
+        "no": 4010,
+        "sort": 118,
+        "title": "4.3.3 제한 사항",
+        "level": 3,
+        "label": "4.3.3",
+        "contents": "<p>4.3.3 제한 사항</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 119,
+        "title": "4.3.3 제한 사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)정밀한 구조해석에 의해 입증되지 않는 한, 각각의 수직으로 작용하는 집중하중에 대한 벽체의 수평방향 유효폭은 하중들의 중심간 거리를 초과할 수 없으며, 또한 하중지압부의 폭에 벽체 두께의 4배를 더한 길이를 초과할 수 없다. </p>"
+      },
+      {
+        "no": 4010,
+        "sort": 120,
+        "title": "4.3.3 제한 사항",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)다음 (3)을 제외한 내력벽의 두께는 벽체의 비지지 높이 또는 길이 중 작은 값의 1/24배 이상으로 하여야 하고, 또한 최소 150mm 이상으로 하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 121,
+        "title": "4.3.3 제한 사항",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)지하층 외측 벽체와 기초 벽체판의 두께는 200mm 이상으로 하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 122,
+        "title": "4.3.3 제한 사항",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)벽체는 횡방향 상대 변위가 일어나지 않도록 지지되어야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 123,
+        "title": "4.3.3 제한 사항",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5)모든 창이나 출입구 등의 개구부 주위에 2개 이상의 지름 D16 이상의 철근을 배치하여야 한다. 이러한 철근은 개구부의 모서리에서 600mm 이상 연장하여 정착시켜야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 124,
+        "title": "4.4 기초판",
+        "level": 2,
+        "label": "4.4",
+        "contents": "<p>4.4 기초판</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 125,
+        "title": "4.4.1 설계 일반",
+        "level": 3,
+        "label": "4.4.1",
+        "contents": "<p>4.4.1 설계 일반</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 126,
+        "title": "4.4.1 설계 일반",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)구조용 무근콘크리트 기초판은 계수하중과 지반반력에 대하여 이 설계기준의 해당 설계조건과 다음 (2)에서 (5)까지 규정에 따라 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 127,
+        "title": "4.4.1 설계 일반",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)기초판 밑면의 면적은 기초에 의해 지반으로 전달되는 사용하중에 의한 외력과 휨모멘트 그리고 토질역학의 원리에 의거하여 정해진 허용지지력으로 결정되어야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 128,
+        "title": "4.4.1 설계 일반",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)말뚝 위의 기초판에는 무근콘크리트를 사용할 수 없다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 129,
+        "title": "4.4.1 설계 일반",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)구조용 무근콘크리트 기초판의 두께는 200mm 이상으로 하여야 한다. </p>"
+      },
+      {
+        "no": 4010,
+        "sort": 130,
+        "title": "4.4.1 설계 일반",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5)최대 계수휨모멘트는 다음과 같은 위험단면에 대해 계산되어야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 131,
+        "title": "4.4.1 설계 일반",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 콘크리트 기둥, 주각 또는 벽체를 지지하는 기초판의 경우 기둥, 주각 또는 벽체의 전면</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 132,
+        "title": "4.4.1 설계 일반",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 조적조 벽체를 지지하는 기초판의 경우 벽체의 중심선과 전면과의 중간</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 133,
+        "title": "4.4.1 설계 일반",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 강재 밑판을 갖는 기둥을 지지하는 기초판의 경우 강재 밑판 단부와 기둥 전면의 중간</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 134,
+        "title": "4.4.2 무근콘크리트 기초판의 전단",
+        "level": 3,
+        "label": "4.4.2",
+        "contents": "<p>4.4.2 무근콘크리트 기초판의 전단</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 135,
+        "title": "4.4.2 무근콘크리트 기초판의 전단",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)최대 계수전단력 <img src=\"data:image/gif;base64,R0lGODlhFAARAPQAAAAAAAAAOgBmtmZmOmZmtma2/5A6AJA6ZpBmtraQkLbbtrbb/9u2ttvbttv///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAAUABEAAAU+oCSOZGmeaAqsJJuKQBm/cEuPs5Tf+U7Pvp/uJgvyjEJSxFCIJBxECaOxgBCiouejgI0gIgfFIroMDARYVAgAOw==\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"V_u\">는 다음 (2)의 규정에 따라 계산하여야 하며, 기둥, 주각 또는 벽체를 지지하는 기초판에서 전단력에 대한 위험단면의 위치는 기둥, 주각 또는 벽체의 전면으로 하여야 한다. 강재 밑판을 갖는 기둥을 지지하는 기초판의 위험단면은 4.4.1(5)③에서 정의되는 위치이다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 136,
+        "title": "4.4.2 무근콘크리트 기초판의 전단",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)집중하중 또는 반력이 작용하는 부근에서 구조용 무근콘크리트 기초판의 전단강도는 다음 두 가지 조건 중 불리한 것으로 결정하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 137,
+        "title": "4.4.2 무근콘크리트 기초판의 전단",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 집중하중 또는 반력면의 전면부터 <img src=\"data:image/gif;base64,R0lGODlhCwAOAPUAAAAAOgA6kABmtjoAADo6kDpmtjqQtjqQ22YAAGYAZmZmtma2/5A6OpA6ZpCQZpC2/5Db/7ZmZra227bb/7b//9uQOtu2Ztu2kNvb29vb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAALAA4AAAZBwI9wSCRiMkWihaBJCjcCp7CykHoajgHgUewgDBpocRNobg7FCvoTgRA9DHdH8ZEMOwnK53yZDDkFQhwDVVKGTkEAOw==\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h\">거리의 위치에서 전체 폭에 걸친 단면을 위험단면으로 하는 보 작용의 경우에는 식 (4.2-9)에 따라 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 138,
+        "title": "4.4.2 무근콘크리트 기초판의 전단",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 집중하중 또는 반력을 받는 면적의 주위에 걸쳐 기초면에 수직한 위험단면을 갖는 2방향 작용의 경우에는 식 (4.2-10)에 따라 설계하여야 한다. 이때 둘레길이 <img src=\"data:image/gif;base64,R0lGODlhDgARAPQAAAAAAAAAOjoAADo6ZjpmtmY6AGa222a2/5A6OpDb/7bb/9uQOtuQZv+2Zv/bkP/btv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABEALAAAAAAOABEAAAUzYCSOZGmeIwCg5cqmr+jG6oy6dgvf+4nTs4YgkGA5BgoHgbU4RJQsRgKCKKIehYAhZgoBADs=\" alt=\"\" width=\"12px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"b_o\">는 최소로 되어야 하나 집중하중이나 반력면의 둘레에서 <img src=\"data:image/gif;base64,R0lGODlhGQAOAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6kDpmtjqQtjqQ22YAAGYAOmYAZmZmtmaQ22a2/5A6OpA6ZpBmkJCQZpCQtpCQ25C225C2/5Db/7ZmZraQOraQkLa227bb/7b//9uQOtuQZtu2Ztu2kNvb29vb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC0ALAAAAAAZAA4AAAaPwJZwSCRyPsVki1RStlYPZ1F0MClDGaHIABh4kqeCkjWxphwm1kaAJIIgyhS8dQpkV4zskCWhGAIYRBptRHh6QisLCSZhQysVSiAKRScEVieTQieHQykWSZJCGnpkVkQqF0ksEXcOLR0tKVGngS0ohysNSJgjXyGEsVwAAGydCEIpBnArrlLOQypfz9PUQkEAOw==\" alt=\"\" width=\"23px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h/2\">보다 가까이 위치시킬 필요는 없다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 139,
+        "title": "4.4.2 무근콘크리트 기초판의 전단",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)원형단면 또는 정다각형 단면의 콘크리트 기둥이나 주각은 휨모멘트와 전단력에 대한 위험단면의 위치를 결정할 때 면적이 같은 정사각형 부재로 취급할 수 있다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 140,
+        "title": "4.4.2 무근콘크리트 기초판의 전단",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)받침부재와 지지된 부재 사이의 접촉면에서 콘크리트의 계수지압력 <img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAAAOgBmtmZmOmZmtma2/5A6AJA6ZpBmtraQkLbbtrbb/9u2ttvbttv///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAATABEAAAU+oCSOZGme6AmsbFoCI+zGpOzaEp7a6yyyup3PFPQVb6eIoRBJOGKtEqOxgBCGIuejgI0gIgfFYqgMDARYVAgAOw==\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"P_u\">는 4.2(5)에 따른 양쪽 부재 지압면의 설계지압강도 <img src=\"data:image/gif;base64,R0lGODlhGwARAPQAAAAAAAA6kABmtmYAOmZmOmaQ25BmkJDb27ZmZraQkLa227b//9u2Ztu2ttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAbABEAAAVWICWOZGmeaKqWgAm88Dq27kyvN5nnKU/tMhjv5qvRdjGc6DjTKX/LprMXBUpVwumyJRkQAIFHzSa8NRiCR0LMko0Qi4niVDxNDI/IweFGRQoUEGF9hCEAOw==\" alt=\"\" width=\"25px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"phi B  _{n}\">을 초과할 수 없다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 141,
+        "title": "4.5 주각",
+        "level": 2,
+        "label": "4.5",
+        "contents": "<p>4.5 주각</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 142,
+        "title": "4.5 주각",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1)무근콘크리트 주각은 연직하중, 횡하중, 그리고 작용하고 있는 모든 하중을 고려하여 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 143,
+        "title": "4.5 주각",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2)무근콘크리트 주각의 평균 최소 횡방향 두께에 대한 비지지 높이의 비는 3을 초과할 수 없다. </p>"
+      },
+      {
+        "no": 4010,
+        "sort": 144,
+        "title": "4.5 주각",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3)무근콘크리트 주각에 작용하는 최대 계수축력 <img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAAAOgBmtmZmOmZmtma2/5A6AJA6ZpBmtraQkLbbtrbb/9u2ttvbttv///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAATABEAAAU+oCSOZGme6AmsbFoCI+zGpOzaEp7a6yyyup3PFPQVb6eIoRBJOGKtEqOxgBCGIuejgI0gIgfFYqgMDARYVAgAOw==\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"P  _{u}\">는 4.2(5)의 설계지압강도 <img src=\"data:image/gif;base64,R0lGODlhGwARAPQAAAAAAAA6kABmtmYAOmZmOmaQ25BmkJDb27ZmZraQkLa227b//9u2Ztu2ttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAbABEAAAVWICWOZGmeaKqWgAm88Dq27kyvN5nnKU/tMhjv5qvRdjGc6DjTKX/LprMXBUpVwumyJRkQAIFHzSa8NRiCR0LMko0Qi4niVDxNDI/IweFGRQoUEGF9hCEAOw==\" alt=\"\" width=\"25px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"phi B  _{n}\">을 초과하지 않아야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 145,
+        "title": "4.6 프리캐스트콘크리트 부재",
+        "level": 2,
+        "label": "4.6",
+        "contents": "<p>4.6 프리캐스트콘크리트 부재</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 146,
+        "title": "4.6 프리캐스트콘크리트 부재",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1)프리캐스트 무근콘크리트 부재의 설계는 거푸집의 해체, 보관, 운반, 가설을 포함하는 초기 제작부터 구조물의 완성에 이르기까지 모든 하중 조건을 고려하여 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 147,
+        "title": "4.6 프리캐스트콘크리트 부재",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2)4.1.1의 제한 사항은 프리캐스트 무근콘크리트 부재의 완성 상태뿐만 아니라 제작, 운반, 가설 동안에도 적용시켜야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 148,
+        "title": "4.6 프리캐스트콘크리트 부재",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3)프리캐스트콘크리트 부재가 횡력 저항 구조 시스템에 적용될 경우에는 모든 횡력이 전달될 수 있도록 연결되어야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 149,
+        "title": "4.6 프리캐스트콘크리트 부재",
+        "level": 3,
+        "label": "(4)",
+        "contents": "<p>(4)프리캐스트콘크리트 부재는 연결이 완전해질 때까지 적절한 시공 위치와 구조적 일체성을 확보하기 위하여 적절히 지지하여 가설하여야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 150,
+        "title": "4.7 내진설계와 무근콘크리트",
+        "level": 2,
+        "label": "4.7",
+        "contents": "<p>4.7 내진설계와 무근콘크리트</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 151,
+        "title": "4.7 내진설계와 무근콘크리트",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1)강진지역에 속하거나 또는 높은 지진위험도가 요구되는 지역에 해당하는 구조물은 다음을 제외하고 구조용 무근콘크리트를 사용한 기초요소를 가질 수 없다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 152,
+        "title": "4.7 내진설계와 무근콘크리트",
+        "level": 4,
+        "label": "①",
+        "contents": "<p>① 높이는 3층 이하이며 전단연결재로 연결된 벽체로 건설된 단 세대 또는 두 세대형 독립가옥의 경우에는 벽체를 지지하는 기초 또는 독립기둥 및 주각을 지지하는 독립기초에 구조안전성 확인 후 길이방향 철근이 없는 무근콘크리트 기초를 사용할 수 있다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 153,
+        "title": "4.7 내진설계와 무근콘크리트",
+        "level": 4,
+        "label": "②",
+        "contents": "<p>② ① 이외의 모든 구조물에 대하여 현장치기 철근콘크리트 벽체 또는 보강 조적조 벽체를 지지하는 기초에 무근콘크리트 기초를 사용할 수 있다. 다만, 이러한 경우에는 최소한 2개의 철근이 길이방향으로 연속적으로 배치되어야 한다. 철근은 D13 이상을 사용하여야 하며 철근의 단면적은 기초단면적의 0.2% 이상이어야 한다.</p>"
+      },
+      {
+        "no": 4010,
+        "sort": 154,
+        "title": "4.7 내진설계와 무근콘크리트",
+        "level": 4,
+        "label": "③",
+        "contents": "<p>③ 높이는 3층 이하이며 전단연결재로 연결된 벽체로 건설된 단 세대 또는 두 세대형 독립가옥의 경우에서 벽체의 두께가 200mm 이상이고 1.2m 이하의 한쪽 토사하중이 작용하는 경우에는 기초 및 지하 벽체에 무근콘크리트를 사용할 수 있다.</p>"
+      }
+    ]
+  }
+]
