@@ -1,0 +1,837 @@
+[
+  {
+    "no": 5053,
+    "codeType": "KDS",
+    "code": "431020",
+    "fullCode": "1020431020",
+    "name": "케이블구조 설계기준",
+    "version": "2022",
+    "updateDate": "2022-10-14T11:20:00",
+    "list": [
+      {
+        "no": 5053,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 43 10 20은 케이블이 구조용 부재로 사용되는 대공간 구조물의 구조 안전성과 기능을 확보하는 것을 그 목적으로 한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 4,
+        "title": "1.2 적용 범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용 범위</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 5,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 케이블 구조에 관한 설계하중, 재료, 구조해석 및 설계 등에 적용한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 6,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 7,
+        "title": "1.3.1 관련 법규",
+        "level": 3,
+        "label": "1.3.1",
+        "contents": "<p>1.3.1 관련 법규</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 8,
+        "title": "1.3.1 관련 법규",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 9,
+        "title": "1.3.2 관련 기준",
+        "level": 3,
+        "label": "1.3.2",
+        "contents": "<p>1.3.2 관련 기준</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 10,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KDS 41 12 00 건축물 설계하중</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 11,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KDS 43 10 10 막구조 설계기준</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 12,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS D 3509 피아노 선재</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 13,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS D 3510 경강선</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 14,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS D 3514 와이어 로프</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 15,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS D 3556 피아노 선</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 16,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS D 3559 경강 선재</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 17,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS D 7002 PC 강선 및 PC 강연선</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 18,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 19,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 막구조: 자중을 포함하는 외력이 셸구조물의 기본원리인 막응력에 따라서 저항되는 구조물로서, 휨 또는 비틀림에 대한 저항이 작거나 또는 전혀 없는 구조</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 20,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 케이블구조：휨에 저항이 작은 구조로 인장응력만을 받을 목적으로 케이블 부재로 제작 및 시공되는 구조물</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 21,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 초기장력：연성 막재의 형상을 유지하기 위해 도입하는 초기하중</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 22,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 인장강도：재료가 견딜 수 있는 최대 인장응력</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 23,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 형상해석：설계자의 의도와 역학적인 평형조건을 동시에 만족하는 형상을 찾는 일련의 해석과정이며, 막 및 케이블구조물과 같은 연성구조물에 적용되는 해석방법</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 24,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 25,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 26,
+        "title": "1.6 해석과 설계원칙",
+        "level": 2,
+        "label": "1.6",
+        "contents": "<p>1.6 해석과 설계원칙</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 27,
+        "title": "1.6.1 설계하중",
+        "level": 3,
+        "label": "1.6.1",
+        "contents": "<p>1.6.1 설계하중</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 28,
+        "title": "1.6.1 설계하중",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준에서 사용하는 설계하중은 KDS 41 12 00에 따른다. 다만, 케이블구조의 형식, 구법, 시공법 등에 따라 특별히 발생하는 하중은 실제 상황을 고려하여 적절히 산정한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 29,
+        "title": "1.6.2 하중의 종류",
+        "level": 3,
+        "label": "1.6.2",
+        "contents": "<p>1.6.2 하중의 종류</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 30,
+        "title": "1.6.2 하중의 종류",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)  케이블구조의 구조설계에 적용되는 설계하중은 다음과 같다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 31,
+        "title": "1.6.2 하중의 종류",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 고정하중(<img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAAAAAA6OgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAOma225A6AJA6OpBmOpDb/7ZmALZmOtuQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABgALAAAAAALAA4AAAU+ICaOZGmS1wKsgOCQVvJez0BOgyRSBfkgI97owniJcEGDTvQgjCJAUcxINGIgUQxFiak0DqMHCxBQnM5oTAgAOw==\" width=\"12\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 32,
+        "title": "1.6.2 하중의 종류",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 활하중(<img src=\"data:image/gif;base64,R0lGODlhCQAOAPQAAAAAAAA6kABmtjo6kDqQ22YAAGYAOmYAZmY6kGa2/5A6AJA6OpDb/7ZmALa2tra2/7b//9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAJAA4AAAUu4CWOZGlWBQAEEVkdkCkJ5tUkp8HIrNkQI4fIsthdKg/RZNCiICIWhWoKrFlHIQA7\" width=\"10\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 33,
+        "title": "1.6.2 하중의 종류",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 설하중(<img src=\"data:image/gif;base64,R0lGODlhCAAOAPQAAAAAAAAAOjoAADoAOjpmkDqQ22Y6OmY6ZmZmtma225BmOpCQtpDb/7ZmOra2kLbb27bb/7b//9u2kNu2ttv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAAIAA4AAAUwoCaOZFlmDRCMmZJo1lgVYibTmi1iBvGYKNyEskPkFjfYgKG5HCIaiUMAIEBMWFIIADs=\" width=\"9\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 34,
+        "title": "1.6.2 하중의 종류",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 풍하중(<img src=\"data:image/gif;base64,R0lGODlhDgAOAPQAAAAAAAAAZgBmZgBmtjoAADqQ22YAOmYAZmY6OmaQtpA6OpCQ25DbtpDb/7ZmALa2kLa227a2/7bbtrbb/7b//9uQOtu2kNu2ttv///+2Zv+2tv/bkP/btv//tv//2////yH5BAAAAB8ALAAAAAAOAA4AAAVI4CeOZGme40YAAeUAQPE5ZDaIntKIW31/HcPuc/GJHogdZ2LkSIQeSMkWDTY0lOngggkyIqaMABxMnCq/ziFrsrA7C5R8XgoBADs=\" width=\"15\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 35,
+        "title": "1.6.2 하중의 종류",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ 지진하중(<img src=\"data:image/gif;base64,R0lGODlhCgAOAPQAAAAAAAAAOgAAZgA6kABmtjo6kDqQ22YAAGYAZmZmtma2/5A6AJA6OpC2/5Db/7ZmALa227bb/7b//9u2Ztu2kNv///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAACH5BAAAABwALAAAAAAKAA4AAAU8ICeOZGmK2gGsK6khkoiRFsFtkEY+Cjc1LhVAEBtZBhVNovQwcDIRnGjDcIwuEVmhIqIsNwvWKmA9mUshADs=\" width=\"11\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 36,
+        "title": "1.6.3 하중조합",
+        "level": 3,
+        "label": "1.6.3",
+        "contents": "<p>1.6.3 하중조합</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 37,
+        "title": "1.6.3 하중조합",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 하중조합은 KDS 41 12 00의 허용응력설계법의 하중조합을 따른다. 막구조에 적용된 케이블 부재의 설계하중 조합은 KDS 43 10 10(1.6.9) 에 따른다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 38,
+        "title": "2. 조사 및 계획",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 조사 및 계획</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 39,
+        "title": "2. 조사 및 계획",
+        "level": 2,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 40,
+        "title": "3. 재료",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 재료</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 41,
+        "title": "3.1 일반사항",
+        "level": 2,
+        "label": "3.1",
+        "contents": "<p>3.1 일반사항</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 42,
+        "title": "3.1 일반사항",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블 재료는 KS D 3509(피아노 선재), KS D 3556(피아노 선), KS D 3510(경강선), KS D 3559(경강 선재), KS D 3514(와이어 로프) 및 KS D 7002(PC 강선 및 PC 강연선) 규격에 맞는 선재를 냉간 가공한 소선을 사용함을 원칙으로 하고, 다음 종류를 표준으로 한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 43,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "①",
+        "contents": "<p>① 구조용 스트랜드 로프</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 44,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "②",
+        "contents": "<p>② 구조용 스파이럴 로프</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 45,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "③",
+        "contents": "<p>③ 구조용 록 코일 로프</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 46,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "④",
+        "contents": "<p>④ 구조용 평행선 스트랜드</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 47,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "⑤",
+        "contents": "<p>⑤ 피복 평행선 스트랜드</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 48,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "⑥",
+        "contents": "<p>⑥ PC 강연선</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 49,
+        "title": "3.2 케이블 재료의 성질",
+        "level": 2,
+        "label": "3.2",
+        "contents": "<p>3.2 케이블 재료의 성질</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 50,
+        "title": "3.2.1 파단하중",
+        "level": 3,
+        "label": "3.2.1",
+        "contents": "<p>3.2.1 파단하중</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 51,
+        "title": "3.2.1 파단하중",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블 재료의 파단하중을 구하는 방법은 KS D 3514의 기준에 따르도록 한다. 단, PC 강선 및 강연선은 KS D 7002에 따른다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 52,
+        "title": "3.2.2 초기신장",
+        "level": 3,
+        "label": "3.2.2",
+        "contents": "<p>3.2.2 초기신장</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 53,
+        "title": "3.2.2 초기신장",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블 재료에 대한 프리스트레싱 후의 초기신장의 크기는 표 3.2-1에서 제시된 값을 표준으로 한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 54,
+        "title": "3.2.2 초기신장",
+        "level": 5,
+        "label": "표 3.2-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.2-1 프리스트레싱 후의 초기신장</p></caption><tbody><tr>\t<td width=\"343\" height=\"22\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>케이블 재료</p>\t</td>\t<td width=\"245\" height=\"22\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>초기신장 (％)</p>\t</td></tr><tr>\t<td width=\"343\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>구조용 스트랜드 로프</p>\t</td>\t<td width=\"245\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>0.1 - 0.2</p>\t</td></tr><tr>\t<td width=\"343\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>구조용 스파이럴 로프</p>\t<p>구조용 록 코일 로프</p>\t</td>\t<td width=\"245\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>0.05 - 0.1</p>\t</td></tr><tr>\t<td width=\"343\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>평행연 스트랜드</p>\t<p>피복 평행연 스트랜드</p>\t<p>PC 강연선 (7가닥 꼬임,19가닥 꼬임)</p>\t</td>\t<td width=\"245\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>0</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5053,
+        "sort": 55,
+        "title": "3.2.3 탄성계수",
+        "level": 3,
+        "label": "3.2.3",
+        "contents": "<p>3.2.3 탄성계수</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 56,
+        "title": "3.2.3 탄성계수",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블 재료의 탄성계수는 시험결과에 따라 구하는 것을 원칙으로 한다. 시험을 하지 않은 경우, 케이블 재료의 프리스트레싱 후의 탄성계수는 표 3.2-2의 값을 사용할 수 있다. </p>"
+      },
+      {
+        "no": 5053,
+        "sort": 57,
+        "title": "3.2.3 탄성계수",
+        "level": 5,
+        "label": "표 3.2-2",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.2-2 프리스트레싱 후의 탄성계수 </p></caption><tbody><tr>\t<td width=\"339\" height=\"24\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>케이블 재료</p>\t</td>\t<td width=\"260\" height=\"24\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>탄성계수(<img src=\"data:image/gif;base64,R0lGODlhJwAPAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADpmtjqQtjqQ22Y6AGY6ZmY6kGZmOmZmtmaQ22a222a2/5A6AJCQOpCQtpCQ25C2/5DbtpDb25Db/7ZmALZmOrZmZraQkLa2Zrbbtrbb/7b//9uQOtuQZtuQkNu2kNu2ttvbkNv///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADAALAAAAAAnAA8AAAa/QJhwSCwaj8ikcslsskBN5MoQaJJC0aMokoKJABHhFFAQvijZZEsoGmBhLsdwZUkfTSghaXIQuipDHW92cwYAeiEbYX9+gDAlCx4GAh8KABBCkJKUlphFVy4MKIwwKhlDGggoIgQgK31Cqautr0ZXMCkJpB15QhxYKYtyvsDCtm8cF4CkxLjGzcFww0S3cA0PpadDv87S28XeRSPauAlnRdzRob3pi6JEX2BEdPAABCdUGBJkXvb4Afr4ERpIJAgAOw==\" width=\"40\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>\t</td></tr><tr>\t<td width=\"339\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>구조용 스트랜드 로프</p>\t</td>\t<td width=\"260\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>140,000</p>\t</td></tr><tr>\t<td width=\"339\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>구조용 스파이럴 로프</p>\t<p>구조용 록 코일 로프</p>\t</td>\t<td width=\"260\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>160,000</p>\t</td></tr><tr>\t<td width=\"339\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>평행연 스트랜드</p>\t<p>피복 평행연 스트랜드</p>\t</td>\t<td width=\"260\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>200,000</p>\t</td></tr><tr>\t<td width=\"339\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>PC 강연선 (7 가닥 꼬임,19 가닥 꼬임)</p>\t</td>\t<td width=\"260\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>190,000</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5053,
+        "sort": 58,
+        "title": "1.6.4 크리프",
+        "level": 3,
+        "label": "1.6.4",
+        "contents": "<p>1.6.4 크리프</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 59,
+        "title": "1.6.4 크리프",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블 재료의 크리프 변형은 표 3.2-3에서 제시된 값을 표준으로 한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 60,
+        "title": "1.6.4 크리프",
+        "level": 5,
+        "label": "표 3.2-3",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.2-3 케이블 재료의 크리프 변형도 </p></caption><tbody><tr>\t<td width=\"260\" height=\"22\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>케이블 재료</p>\t</td>\t<td width=\"145\" height=\"22\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>크리프 변형도(％)</p>\t</td>\t<td width=\"187\" height=\"22\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>응력 수준</p>\t</td></tr><tr>\t<td width=\"260\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>구조용 스트랜드 로프</p>\t</td>\t<td width=\"145\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>0.025</p>\t</td>\t<td rowspan=\"3\" width=\"187\" height=\"112\" valign=\"middle\" align=\"center\">\t<p>장기 허용인장응력 이하</p>\t<p> </p>\t<p>단기 허용인장응력은 장기의</p>\t<p>1.33배로 한다.</p>\t</td></tr><tr>\t<td width=\"260\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>구조용 스파이럴 로프</p>\t<p>구조용 록 코일 로프</p>\t</td>\t<td width=\"145\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>0.015</p>\t</td></tr><tr>\t<td width=\"260\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>평행연 스트랜드</p>\t<p>피복 평행연 스트랜드</p>\t<p>PC 강연선 </p>\t</td>\t<td width=\"145\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>0.007</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5053,
+        "sort": 61,
+        "title": "1.6.5 선팽창 계수",
+        "level": 3,
+        "label": "1.6.5",
+        "contents": "<p>1.6.5 선팽창 계수</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 62,
+        "title": "1.6.5 선팽창 계수",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블 재료의 선팽창 계수는 <img src=\"data:image/gif;base64,R0lGODlhSgAPAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADpmtjqQ22YAAGY6AGY6OmY6ZmY6kGaQ22a222a2/5A6AJA6OpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQOraQZraQkLa2/7bbtrbb/7b//9uQOtuQZtuQkNu2kNvbkNvb29vb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADEALAAAAABKAA8AAAb+wJhwSCwaj8ikcslsOp/QqHRaZBkIKWILRO16YyyLkRQaqgwIp6liFAECDuhaeA48Ym6AvgA2BCBDMBNEGiEdWUIwGQADH2IxLwkAaUQscVaAMSVcQyWPkJJpLwwgLQsXRyMXLAdDYURnlEIiBSkwG3xmsnRYMRiyJaiawrBpKpQimUWbK58dZUkvDYgxZLpIMBLEYBUdnEXHeMi7Qy8KvZAUSyzkxUgr2zEwHHdH4SLjTfBL4Uj9RVuKCErRQp2Re/mYHFrX7loRFyggeRDSYgKigeCMIVMWzaCSUdBiBKRDCUYECFb0BBB2QmBEd6NKnWKyj4kIAlxYGDSpR0AZyCk8AfisU0+JoCcjDEz6wtTIq6ZQo0IJAgA7\" width=\"76\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">를 기준으로 한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 63,
+        "title": "4. 설계",
+        "level": 1,
+        "label": "4.",
+        "contents": "<p>4. 설계</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 64,
+        "title": "4.1 구조해석 ",
+        "level": 2,
+        "label": "4.1",
+        "contents": "<p>4.1 구조해석 </p>"
+      },
+      {
+        "no": 5053,
+        "sort": 65,
+        "title": "4.1.1 케이블 부재에 대한 해석상 가정",
+        "level": 3,
+        "label": "4.1.1",
+        "contents": "<p>4.1.1 케이블 부재에 대한 해석상 가정</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 66,
+        "title": "4.1.1 케이블 부재에 대한 해석상 가정",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블 부재는 원칙적으로 인장력에만 저항하는 선형 탄성부재로 가정한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 67,
+        "title": "4.2.2 케이블 부재의 모델링",
+        "level": 3,
+        "label": "4.2.2",
+        "contents": "<p>4.2.2 케이블 부재의 모델링</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 68,
+        "title": "4.2.2 케이블 부재의 모델링",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 구조해석은 경계조건을 포함한 구조모델을 적절히 설정한 후에 수행한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 69,
+        "title": "4.2.3 초기형상해석",
+        "level": 3,
+        "label": "4.2.3",
+        "contents": "<p>4.2.3 초기형상해석</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 70,
+        "title": "4.2.3 초기형상해석",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블구조의 형상은 케이블의 장력분포와 깊은 관계가 있으므로 초기형상해석을 수행한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 71,
+        "title": "4.2 구조설계 ",
+        "level": 2,
+        "label": "4.2",
+        "contents": "<p>4.2 구조설계 </p>"
+      },
+      {
+        "no": 5053,
+        "sort": 72,
+        "title": "4.2.1 일반사항",
+        "level": 3,
+        "label": "4.2.1",
+        "contents": "<p>4.2.1 일반사항</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 73,
+        "title": "4.2.1 일반사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블구조에 대한 설계는 허용응력설계법을 적용한다. 허용응력설계법과 동등 이상의 구조설계법을 적용하여 케이블 또는 그 외의 구조를 병용하는 건축물을 설계할 수 있으며, 이 경우 구조물의 안전을 확인할 수 있는 구조계산이 적절히 이루어져야 한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 74,
+        "title": "4.2.2 안전율",
+        "level": 3,
+        "label": "4.2.2",
+        "contents": "<p>4.2.2 안전율</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 75,
+        "title": "4.2.2 안전율",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블 구조의 안전율은 3.0을 기준으로 한다. 따라서, 케이블 재료의 장기허용인장력은 파단하중의 1/3을 기준으로 하며, 단기허용인장력은 장기허용인장력에 1.33을 곱한 값으로 한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 76,
+        "title": "4.2.3 케이블의 형상 설정",
+        "level": 3,
+        "label": "4.2.3",
+        "contents": "<p>4.2.3 케이블의 형상 설정</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 77,
+        "title": "4.2.3 케이블의 형상 설정",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블 구조의 설계 형상은 고정하중에 대해 각 케이블이 목표로 하는 장력(초기장력)상태에서 평형이 되도록 설정한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 78,
+        "title": "4.2.4 초기장력 설정",
+        "level": 3,
+        "label": "4.2.4",
+        "contents": "<p>4.2.4 초기장력 설정</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 79,
+        "title": "4.2.4 초기장력 설정",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블 구조에서 각 케이블의 초기장력은 구조물에 필요한 강성을 확보하고, 외력변화 등에 따른 케이블의 장력손실에 따른 불안정 현상이 발생하지 않도록 설정한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 80,
+        "title": "4.2.5 설계요구사항",
+        "level": 3,
+        "label": "4.2.5",
+        "contents": "<p>4.2.5 설계요구사항</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 81,
+        "title": "4.2.5 설계요구사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블의 구조 설계 시에는 현장실정에 맞도록 다음과 같은 항목에 대하여 검토한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 82,
+        "title": "4.2.5 설계요구사항",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 바람에 의한 진동</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 83,
+        "title": "4.2.5 설계요구사항",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 케이블 부재 및 정착부재의 크리프, 이완의 영향</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 84,
+        "title": "4.2.5 설계요구사항",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 피로</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 85,
+        "title": "4.2.5 설계요구사항",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 온도 변화에 의한 영향</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 86,
+        "title": "4.3 접합부 상세설계 ",
+        "level": 2,
+        "label": "4.3",
+        "contents": "<p>4.3 접합부 상세설계 </p>"
+      },
+      {
+        "no": 5053,
+        "sort": 87,
+        "title": "4.3.1 케이블 단부",
+        "level": 3,
+        "label": "4.3.1",
+        "contents": "<p>4.3.1 케이블 단부</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 88,
+        "title": "4.3.1 케이블 단부",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블의 단부는 정착방식에 따라 마찰형, 압착형, 쐐기형으로 구분되며 케이블의 장력을 정착부에 충분히 전달할 수 있도록 한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 89,
+        "title": "4.3.1 케이블 단부",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 케이블의 단부 정착철물은 케이블과 일체화 되어야 하며, 케이블과의 완전한 결합, 피로성능, 외부환경에 의한 충분한 내구성을 유지하여야 한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 90,
+        "title": "4.3.2 케이블 교차부",
+        "level": 3,
+        "label": "4.3.2",
+        "contents": "<p>4.3.2 케이블 교차부</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 91,
+        "title": "4.3.2 케이블 교차부",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블의 교차부는 케이블의 손상이 생기지 않도록 적절한 교점 정착철구를 사용하여 케이블 상호간의 힘의 전달을 확실히 하도록 하여야 한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 92,
+        "title": "4.3.3 케이블 굴곡부",
+        "level": 3,
+        "label": "4.3.3",
+        "contents": "<p>4.3.3 케이블 굴곡부</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 93,
+        "title": "4.3.3 케이블 굴곡부",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블의 굴곡부는 휨과 측압에 의한 강도저하를 고려하여 적절한 곡률을 갖는 정착철물로 지지한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 94,
+        "title": "4.3.4 정착부",
+        "level": 3,
+        "label": "4.3.4",
+        "contents": "<p>4.3.4 정착부</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 95,
+        "title": "4.3.4 정착부",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 정착부는 케이블의 장력을 원활하고 확실하게 지지구조에 전달할 수 있는 구조로 하고, 케이블의 변형에 충분히 대응할 수 있어야 한다. 또한 2차 응력이나 케이블의 가설 및 장력 도입방법 등을 충분히 고려하여야 한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 96,
+        "title": "4.3.5 마감재",
+        "level": 3,
+        "label": "4.3.5",
+        "contents": "<p>4.3.5 마감재</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 97,
+        "title": "4.3.5 마감재",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블에 마감재를 부착하는 경우 부착철물의 구조는 마감재에 가해지는 외력을 케이블에 원활하고 정확하게 전달할 수 있는 것으로 한다. 또 마감재 및 부착철물은 케이블의 변형에 지장이 없도록 해야 하며, 케이블에 손상을 주지 않는 구조로 한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 98,
+        "title": "4.3.6 케이블의 방식과 방청",
+        "level": 3,
+        "label": "4.3.6",
+        "contents": "<p>4.3.6 케이블의 방식과 방청</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 99,
+        "title": "4.3.6 케이블의 방식과 방청",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블 및 접합부 상세 설계에 있어서는 방식성능에 관해 충분히 검토하여야 한다. 또한 케이블이 손상을 입을 가능성이 있는 경우에는 방청성능 확보에 특별한 주의를 요한다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 100,
+        "title": "4.3.7 내화피복",
+        "level": 3,
+        "label": "4.3.7",
+        "contents": "<p>4.3.7 내화피복</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 101,
+        "title": "4.3.7 내화피복",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 케이블재료 및 접합부재 등이 직접 화염에 노출될 위험이 있는 경우는 이들 재료의 고온상태의 특성을 충분히 고려한 내화피복을 하여야 한다. 다만, 막구조에 적용되는 케이블 구조의 경우에는 건축법 제50조에 따라 주요구조부에만 내화구조로 할 수 있다.</p>"
+      },
+      {
+        "no": 5053,
+        "sort": 102,
+        "title": "4.4 지지구조 ",
+        "level": 2,
+        "label": "4.4",
+        "contents": "<p>4.4 지지구조 </p>"
+      },
+      {
+        "no": 5053,
+        "sort": 103,
+        "title": "4.4 지지구조 ",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 지지구조는 케이블의 인장력을 원활하고 확실히 처리할 수 있는 구조로 하고, 적절한 강도와 강성을 확보하여야 한다. 또한 케이블 구조와 지지구조는 서로 영향을 미칠 수 있으므로 이를 충분히 고려하여 설계하여야 한다.</p>"
+      }
+    ]
+  }
+]
