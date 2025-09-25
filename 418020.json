@@ -1,0 +1,2357 @@
+[
+  {
+    "no": 5019,
+    "codeType": "KDS",
+    "code": "418020",
+    "fullCode": "1020418020",
+    "name": "유리구조 설계기준",
+    "version": "2022",
+    "updateDate": "2022-10-13T13:19:00",
+    "list": [
+      {
+        "no": 5019,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 41 80 20은 유리구조 설계의 일반적인 요구사항과 설계방법에 따른 기술적 사항들을 규정함으로써 건축구조물에 적용되는 유리구조의 안전성과 사용성, 내구성을 확보하는 것을 그 목적으로 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 4,
+        "title": "1.2 적용범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용범위</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 5,
+        "title": "1.2 적용범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 건축구조물 내부와 외부에 설치되어 KDS 41 12 00에서 규정한 건축구조물의 구조설계에 적용되는 설계하중이 작용하는 유리구조의 안전성 확보를 위하여 재료, 설계기준, 시공품질 및 시험방법을 규정한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 6,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 7,
+        "title": "1.3.1 관련 법규",
+        "level": 3,
+        "label": "1.3.1",
+        "contents": "<p>1.3.1 관련 법규</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 8,
+        "title": "1.3.1 관련 법규",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 9,
+        "title": "1.3.2 관련 기준",
+        "level": 3,
+        "label": "1.3.2",
+        "contents": "<p>1.3.2 관련 기준</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 10,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KDS 41 10 10 건축구조기준 검사 및 검증</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 11,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KDS 41 12 00 건축물 설계하중</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 12,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS L 2002 강화유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 13,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS L 2003 복층유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 14,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS L 2004 접합유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 15,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS L 2006 망 판유리 및 선 판유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 16,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS L 2012 플로트 판유리 및 마판 유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 17,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS L 2015 배강도 유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 18,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS L 2017 저방사유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 19,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS L 2504 유리 연화점 시험방법</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 20,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS L 2401 빔 굽힘을 이용한 서랭점 및 스트레인점 시험방법</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 21,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● ASTM E 283 외부창, 커튼월, 출입문을 통한 시료내 압력차 측정 표준시험방법</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 22,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● ASTM E 331 균일한 정압차에 의한 외부창, 천창, 문 및 커튼월의 수분 침투 시험방법</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 23,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● AAMA 501.1 동적 압력을 이용한 창문, 커튼월 및 문의 투수 시험방법</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 24,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● AAMA 501.4 지진과 바람에 의한 층간 표류에 따른 커튼월 및 매장 앞 시스템의 평가를 위한 권장 정적 시험 방법</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 25,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● AAMA 501.5 외벽의 열순환 시험방법</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 26,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● ASTM E 2099 외벽시스템의 시공전 실험실 모형설계 및 평가 표준실무</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 27,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 28,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 유리: 규사, 소다회, 탄산석회 등의 혼합물을 고온에서 녹인 후 냉각화과정에서 결정화가 이루어지지 않은 투명도가 높은 고체</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 29,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 비강화유리: 열처리나 추가 보강하지 않은 유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 30,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 배강도유리(반강화유리): 성형유리를 연화점 이하 온도로 가열한 후 찬공기를 약하게 불어 냉각한 유리로 표면응력 측정값이 20-60 MPa을 유지함</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 31,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 강화유리: 일반성형유리를 연화점 이상으로 가열한 상태에서 원하는 형상으로 변형한 후 압축공기로 급랭처리하여 일반유리에 비해 내충격강도를 높인 유리로 성능과 품질은 KS L 2002 규격에 따른 유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 32,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 접합유리: 비강화유리, 배강도유리, 강화유리를 이용하여 2장 이상 유리사이에 PVB 포일이나 아크릴 등의 레진을 삽입하여 유리에 부착한 유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 33,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 복층유리: 단열 및 차음성능 향상을 위해 2개 이상 유리판을 판사이 간격을 두어 테두리구조로 제작한 단위 유리구조</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 34,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 망입유리: 규산염유리 내부에 철망을 삽입하여 화재시 유리가 파손되어도 유리파편의 비산을 최소화한 유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 35,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 내열유리: 일반유리에 비해 구조적으로 단단한 경질유리로 내열강화유리, 저팽창방화유리, 내열결정화 유리가 있다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 36,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 저방사유리(로이유리): 시설물 에너지 누출을 저감하기 위하여 태양의 적외선의 반사 및 실내 온도 방출을 저감시킨 유리 </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 37,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 서랭점: 유리의 점도가 1012.4 Pa · s에 해당되는 온도로서, 제품의 변형이 생기지 않으면서 내부 열응력을 해소시키는 최고온도</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 38,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 연화점: 유리가 연화하기 시작하는 온도로서, 이 온도에서 유리의 점도는 106.6 Pa · s</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 39,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>· 테두리구조: 유리판을 지지하는 강재 및 알루미늄 테두리 프레임 구조 </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 40,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 41,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAAAAAA6kDqQ22YAAGZmAGaQ25A6AJC2/7ZmALaQkLa2tra2/7b//9uQOtu2Ztu2ttv///+2tv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAALAA4AAAUyYCWOZGmelVSglCGgD/Ga04LMpVLdZsRUDZxoMgAYhZXEbyd0HEa8SgsQgEwBSJS2EgIAOw==\" width=\"12\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   : 단면적</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 42,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBwAOAPQAADoAADoAOjpmZjqQ22Zmtma2/5A6ZpBmkJC2/5Db/7ZmOrZmZra2trbb/7b//9uQOtuQZtu2kNvb29v///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAHAA4AAAUq4CWOZGme6FUBAiJaRvMUIjVcUCLO1+KIioTlIJngEhECQ1QJJB63VCkEADs=\" width=\"8\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   : 단변길이 또는 2변 단순지지에서 지지점 간격</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 43,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCgAOAPQAAAAAAAAAOgA6ZgBmtjo6Zjo6kDpmtjqQ22YAAGYAZmaQtma2/5A6AJA6OpDb/7ZmALaQOrb//9uQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAKAA4AAAU7YCaOZGmKGAOsgEBeSZRhD0kNY50vM0SMKZZhMqoUiJiGYyQ55JwzpeiC4GWMRAsDl3mwAAEF8UQuhQAAOw==\" width=\"11\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   : 유리판 단면의 폭</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 44,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBgAOAPQAAABmtjoAZjpmkDqQ22Y6AGY6kGZmZma2/5BmZpDb/7ZmALZmOrbb/7b//9uQOtuQZtv///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAGAA4AAAUr4CWOIkVez0E+yWghzVgZBCBOAbO00XDtF4cKyKoUIBdJwuETKQTIk/QSAgA7\" width=\"7\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   : 유리판의 너비</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 45,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCQARAPUAAAAAOgBmtjo6kDpmtjqQ22YAAGY6OmY6ZmY6kGZmOma222a2/5A6OpA6ZpCQtpC2/5Db/7a2tra227b//9uQOtu2Ztu2ttvb29vb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAAJABEAAAZHwI9wSCwSPRZHxrgZGD8awpOyMHoYCUB12CkoOoilsPnxNCbD6GcjyFQeHyo0QNw8OAZI54COaz8XEWJHEk8cEhhGGk5PQkEAOw==\" width=\"10\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">   : 최소 실란트 접착너비</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 46,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCgARAPQAAAAAAAAAOgA6kABmtjo6kDpmtjqQtjqQ22YAZma2/5A6AJBmOpCQ25C2vJC2/7ZmOraQkLbb27b//9uQOtu2ttvbttvb/9v/ttv///+2Zv+2tv/bkP//tv//2////wAAACH5BAAAAB4ALAAAAAAKABEAAAU3oCeOZGmeaKqe3QMIWPkYFyKRGxGb00FSN88kIepYILtMwVNpKACD4iJA5DBQGwdKE7GcJtFVCAA7\" width=\"11\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">   : 백킹바와 접합된 복층유리의 실란트 최소너비</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 47,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCgAOAPQAAAAAAAAAOgAAZgA6kABmtjo6kDqQ22YAAGYAZmZmtma2/5A6AJA6OpC2/5Db/7ZmALa227bb/7b//9u2Ztu2kNv///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAACH5BAAAABwALAAAAAAKAA4AAAU8ICeOZGmK2gGsK6khkoiRFsFtkEY+Cjc1LhVAEBtZBhVNovQwcDIRnGjDcIwuEVmhIqIsNwvWKmA9mUshADs=\" width=\"11\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   : 유리판의 탄성계수</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 48,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBwAOAPQAAAAAAAAAZgA6kDqQ22Y6AGa2/5A6AJA6OpC2/5Db/7aQkLb//9uQOtuQZtvb/9v///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAHAA4AAAUm4CSOZGme6BQRwSJKRxIhIjRMTSIyAHCLOZGjVpAoXBOJQfBInUIAOw==\" width=\"8\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   : 편심거리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 49,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgA6ZgA6kABmtjoAOjoAZjpmtjqQ22YAOmY6AGY6Zma225A6AJBmZpC2/5Db/7ZmALZmOraQkLa2tra227bb/7b//9uQOtu2Ztu2kNu2ttvb29vb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAAOABEAAAZfQJJwSCwaj0aNAnAgUTxGjMBC0jgQ0QFUKIEUQYYLcbIdRghFTlGU8CKFYDEJAwBoiZ+78IMmZR5wYWZYRSMNBFAZBV4iC3IkIUsBDBtQHE9vQiMVmUIhFR2dH02dQ0EAOw==\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  : 접합유리 및 복층유리에서 중간막 재료의 전단탄성계수</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 50,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBQAOAPMAAAAAAAAAOjpmtjqQ22Y6ZmY6kGa2/5A6AJDb/7ZmOtuQOtv////bkP//tv//2////yH5BAAAAA8ALAAAAAAFAA4AAAQb8MlJpwI0zUYmE9YwJYjUFIv0WcbjHEBQVlQEADs=\" width=\"6\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">    : 단면2차모멘트</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 51,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCgARAPQAAAAAAAA6kABmtjoAADo6kDqQ22YAOmYAZma2/5A6AJA6OpC2/5Db/7ZmALb//9uQOtvb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAKABEAAAU54CWOZGmKVgIAQVRaCnNOhGs+xZkiZ3U4J4ngdGnkKBBSxcCQAHgjmmuyQKlYESpRO6uaJoMncRQCADs=\" width=\"11\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">, <img src=\"data:image/gif;base64,R0lGODlhCgARAPQAAAAAAAAAOgA6kABmtjoAADo6kDqQ22YAOmYAZma2/5A6AJA6OpC2/5Db/7ZmALb//9uQOtvb29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAKABEAAAU74CWOZGmKlgIAglRaS3NShWtCxpkmZ4U8p8ngdHEYKISATFQ5NCAJ4YhmozAuqVXrEiF2u6XJKkcsj0IAOw==\" width=\"11\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 접합유리 또는 복층유리에서 각 유리판의 단면2차모멘트 </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 52,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6kDqQ22YAOmYAZmaQ22a222a2/5A6AJA6OpCQkJC2/5Db/7ZmALZmOrZmZraQkLbb/7b//9uQOtu2kNv/29v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAOABEAAAZbwJFwSCwaj0ORAwAgcJAj0UMCFX4Oz2oGUY06Gt2QAtPtFLqjCbcaSlCr1ycFwBBSAgslk6BZfBYjHQgfEUUTAANUFRgeZESLIBcjFhsQWUMfBmCBA4BVSgIYQQA7\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  : 접합유리에서 등가 단면2차모멘트</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 53,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhHAARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6ADo6Zjo6kDpmtjqQ22Y6AGY6kGZmkGZmtmaQ22a222a2/5A6AJA6ZpBmkJCQkJCQtpCQ25C2tpC2/5Db25Db/7ZmALZmOrZmZrZmkLaQZraQkLa2tra227bb27bb/7b//9uQOtuQZtu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADgALAAAAAAcABEAAAafQJxwSCwaj8ikcigDTJbQoaoTjYJQ1aXNEcsqaZAbRYD1FmUMkKZSNg9TCarb+Lk8uvPhNpaarPBzNAs4KhwlNBEpBUIfARI4NAkNBHgfAI84MhGZBx0uIihXaDQbOC0fHX84MxGISDYYNxYxVzNUNxg4JEIeAANyRqObIzAhJjE0GTYlLzhXNSdIKQgDWDIKLAyrHTQKXTQGT0fg2m5BADs=\" width=\"29\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 접합유리에서 검토할 유리판의 하중분담계수</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 54,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEgARAPUAAAAAAAAAOgAAZgBmtjoAADo6Zjo6kDqQ22YAOmYAZmY6kGa2/5A6AJA6OpCQtpC2/5Db/7ZmALZmOrZmZra2trb//9uQOtvbttvb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAASABEAAAZaQJBwSCwaj8jhhwEACCpJ4qcBiRY5hoyVaDlslYzFV+hJQMeawVgY8QopVg+iCuI8rFhtR6GVBBYcBQReS02GXhoHGgsXE2dJjkIfDluOHRh2WxoEYht0a0RBADs=\" width=\"19\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  : 좌굴길이</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 55,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDgARAPQAAAAAAAAAZgBmtjo6kDpmkDqQ22YAAGYAOmYAZmY6kGa2/5A6AJA6OpBmtpC2/5Db/7ZmALZmOra2tra227b//9uQOtuQZtu2kNv///+2Zv/bkP/btv/b2///tv//2////yH5BAAAAB8ALAAAAAAOABEAAAVG4CeOZGmeo7cAQEChn8c8sKgNWP1Vha4qug7iVcsIdB9ITyQ5dQ60j8ZxuuU2iVzEFVuxWL1OY6rjTHQXiiWK6hgIOaQoBAA7\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  : 각형 유리창의 단변길이</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 56,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDQAOAPUAAAAAAABmtjoAADoAZjo6kDpmtjqQ22YAAGYAOmY6kGaQ22a2/5A6AJA6OpBmOpCQtpCQ25C2kJC2/5Db25Db/7ZmALaQOraQkLa2kLb//9uQOtuQkNu2ZtvbkNvb/9v///+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAANAA4AAAZaQJJwSCwaj6QRAxAghgREUaMpFDmoQlCkMLxYFsRLh/AhgSYNynD0CJFFEHdZGJLILx+NgbjJhAYYFCNpaw8kIggKJHJDHIoiCWV6QxUAAAsjHiIHlntIn59BADs=\" width=\"14\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">  : 모멘트</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 57,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAAAAAAAOgA6kABmtjoAZjo6kDpmtjqQ22YAAGa2/5A6AJA6OpBmZpCQtpCQ25C2kJC2/5Db/7aQkLb//9uQOtu2Ztvb/9v/29v///+2kP/bkP//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAALAA4AAAVFYCeOZGmSGwIcIgWgi4B1HENmDzF1m0NKF0Wik4mMeh3KoCOZiYodTeHS+M04iwdkxKm2BDtRZSjSGEQcBSBgpFlO8HgIADs=\" width=\"12\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   : 축하중</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 58,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFAARAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6Zjo6kDpmZjpmtjqQ22YAOma2/5A6AJCQtpCQ25C2tpC2/5DbtpDb/7ZmALZmOrZmZraQkLb/27b//9uQOtuQkNu2Ztvbttvb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACYALAAAAAAUABEAAAZ0QJNwSCwaj8hjqQFQCDWAZlK4HHyElclUKIIstCXHVrjBNBgmUWQcNmkIppB2S3qkD5/LdSs3kRYSdmN6QhQIc1N1QxoCGWMcaFwJQxUBDCIGBU5LAAFzJR5CIAogDB0WjmOoVGJjJqgjHmquJiAFaH20SEEAOw==\" width=\"21\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 좌굴하중</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 59,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCAAOAPQAAAAAAAA6kDpmtjqQtmYAAGY6kGaQ22a222a2/5A6AJA6ZpBmOpBmkJDb/7ZmOrZmZra2/7bbtrb//9uQOtu2ttv///+2Zv+2tv/bkP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAIAA4AAAUv4CaOZGmeaKklwwII4hURh6ZIG4XBGlOJFsQmYxg5GpsgZWPDPSKQYeE3CfxSphAAOw==\" width=\"9\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   : 접합유리에서 유리판의 총 개수</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 60,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBwAOAPQAAAAAAAA6kDoAADpmZjpmtjqQ22Y6kGaQ22a2/5A6AJA6OpA6ZpBmkJDb/7ZmZrb//9uQOtuQZtu2Ztvb29v/29v///+2Zv+2tv/bkP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAHAA4AAAUu4CaOZGmeaGZQSSFe0qEx1TZFjbY8ovOotVkFQxCpKIqGyDIQuEQQBMkCCNREIQA7\" width=\"8\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   : 설계압력 또는 유리창에 작용하는 허용풍압</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 61,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDAARAPUAAAAAAAAAOgA6ZjoAOjo6Zjo6kDpmtjqQ22YAZmY6AGY6ZmY6kGZmtmaQ22a2/5A6AJDb/7ZmOrZmZrbbtrbb27b//9uQOtuQZtu2ttvbkNv/ttv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAMABEAAAZUwJBwSCwaj8ikcomMODgDh9EzWVA+i00RkzGEPoiKkSPtFDQJgVgYgYQshwuk0xCCHg6PoiKpfBhCHQQJAW59f0IcB0SHgBwAAFJCFw50SB9pa0tBADs=\" width=\"13\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  : 바깥 유리창에 작용하는 허용풍압</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 62,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCwARAPUAAAAAAAAAOgAAZjoAOjo6Ojo6Zjo6kDpmtjqQ22YAOmYAZmY6AGY6ZmY6kGa222a2/5A6AJA6ZpBmkJCQ25Db/7ZmOrZmZrbbtrbb27b//9uQOtuQZtu2ttvbkNvb/9v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACYALAAAAAALABEAAAZVQJNwSCwaj8ikcimsPEKDR3F0aWBIDRCR0zmYSIqMhxiSigwfibZJMWkQpMmwBHmMGBkRQZAxiQoLAW0bDmUmIQhEFhkhFCEAAFJCHB8RfUYkCZJKQQA7\" width=\"12\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">   : 허용부착강도</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 63,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBQAOAPQAAAAAADoAZmaQ22a222a2/5A6AJBmkJCQ25C2/5Db/7ZmZra227bb/7b//9uQZtvb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABYALAAAAAAFAA4AAAUjoCWOpFg9oySMTmJVBQAQotKYBiRSR4pMDEtksBBJArdSKQQAOw==\" width=\"6\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">    : 유리판의 최소두께</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 64,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCgARAPQAAAAAAAAAZjoAADpmtjqQ22YAAGY6kGZmtmaQ22a2/5BmkJC2/5Db/7ZmALZmOraQkLa2trbb/7b//9uQOtvb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAACH5BAAAABwALAAAAAAKABEAAAU4ICeOZGme5SOdmlGd2HA2ABCs5ZSgDnNuihcnQxlpDhyIBbATYRCXCAezMBYIzipMa6LCBEzUKAQAOw==\" width=\"11\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">, <img src=\"data:image/gif;base64,R0lGODlhCgARAPQAAAAAAAAAOgAAZgBmtjoAADpmtjqQ22YAAGY6kGZmtmaQ22a2/5BmkJC2/5Db/7ZmALZmOraQkLa2trbb/7b//9uQOtvb29v///+2Zv+2kP/bkP//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAKABEAAAU6YCeOZGmeZUSdG3KdWnE+ACCsZbWgkHNyjJeGEPB1NomORIcZiDSKzOTZEG0OhpEFtd2WMLUsajwKAQA7\" width=\"11\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 접합유리 또는 복층유리에서 각 유리판의 두께</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 65,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgAAZgA6ZjoAADpmtjqQ22YAAGY6kGZmtmaQ22a222a2/5A6AJBmkJCQkJC2/5Db/7ZmALZmOrZmZraQkLa2trbb/7b//9uQOtv/29v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAOABEAAAZYwJFwSCwaj8hkBZMUhhCb5uhTkEoAAAEzmWFIR5OIVOSINkOJkaX5UXQuYMBCOAkoRqGDYdRRtEccBh8QRVcDYhQYHltDiSBwFRoPZkMfBF6AA3dNIg1aQQA7\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  : 접합유리의 등가 두께</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 66,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCAARAPQAAAAAAAAAZjpmtjqQ22YAAGY6ZmY6kGZmtmaQ22a2/5BmkJC2/5Db/7ZmALZmOraQkLa2tra227bb/7b//9uQOtu2Ztvb29vb/9v///+2Zv+2kP/bkP/btv//tv//2////yH5BAAAAB8ALAAAAAAIABEAAAU54CeOZGmaz1R2BlZuQtkAQKCOVGI6TOkprk9l8ekcPhDSBqGRdAqqDmHwsUCCI0/ExIlcSpnY6RMCADs=\" width=\"9\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">   : 접합유리에서 각 유리판의 최소두께 또는 접합유리 및 복층유리에서 중간막의 두께</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 67,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhGgARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6ADo6Zjo6kDpmtjqQ22YAAGY6AGY6kGZmtmaQ22a222a2/5BmkJCQtpCQ25C2/5Db/7ZmALZmOrZmZrZmkLaQZraQkLa2tra227bb27bb/7b//9uQOtu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADEALAAAAAAaABEAAAaMwJhwSCwaj8ikcskcdkRN5cuhiiZbCisSAwAIoNriSBI+Zi7lImxSTQ9fj5jHLWxBWCH7qCDMBCIxLQgNBG0ZAIAxLwwLMSccIhoiKwstFjEmZyRVLBB2Ri8UayqSLGgwFHJCXANoRZSfHSkbICotFS8fKDGSLiFGIwcDUCsJJY2mLQlVLQZkRc2NZUEAOw==\" width=\"27\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 접합유리에서 검토할 유리판의 최소두께</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 68,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDgAOAPQAAAAAAAAAZgBmZgBmtjoAADqQ22YAOmYAZmY6OmaQtpA6OpCQ25DbtpDb/7ZmALa2kLa227a2/7bbtrbb/7b//9uQOtu2kNu2ttv///+2Zv+2tv/bkP/btv//tv//2////yH5BAAAAB8ALAAAAAAOAA4AAAVI4CeOZGme40YAAeUAQPE5ZDaIntKIW31/HcPuc/GJHogdZ2LkSIQeSMkWDTY0lOngggkyIqaMABxMnCq/ziFrsrA7C5R8XgoBADs=\" width=\"15\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">  : 단면계수</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 69,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAA6ZgA6kDoAADoAZjpmtjqQ22Y6AGZmtmaQ22a2/5A6ZpBmkJCQZpCQ25Db/7ZmALZmOrZmZraQkLbb27bb/7b//9uQZtuQkNu2Ztu2ttv/ttv///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAPABEAAAZaQJFwSCwaj8ikcslsih6BjTAEcRg/k8XGQxBxEsaMpuEtiD6U41dUFV0qIAOgMqyGFHTJxuLwIIYPCR4DFRh/EXAHQx0CAAwCUSKIIIpKk5VJFoJ/SnFzTkJBADs=\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  : 유리판 중앙부 처짐 또는 중앙부 초기처짐</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 70,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhHQARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAZjpmkDpmtjqQ22Y6AGZmZmaQ22a2/5A6ZpBmZpBmkJCQZpCQtpCQ25C2kJC2/5Db/7ZmALZmOraQkLa2Zra2trbbkLbb27bb/7b//9uQkNu2Ztu2kNu2ttvb29vb/9v/ttv///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC8ALAAAAAAdABEAAAaJwJdwSCwaj8ikcslsOp/QqLSIIaCErsxl+mJ5IqhV4pVycEknClnR/XDJZu0rBHprXY+65srFOFYHICINLyIMBggLBUQZARcYAh0GZkIqBgMSBlYvKw0uYHuVDikWLhwuJkwrpRMvoUIjEBZdraqsrnwqHyKlJS1qS5AbARWTQinECVUiAJRvR0EAOw==\" width=\"30\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 유리판 중앙부 최대처짐</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 71,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDAARAPQAAAAAAAAAOgBmtjoAAGY6AGa2/5BmZpBmkJCQtpC2/7ZmZra227b//9uQkNu2ttvb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABYALAAAAAAMABEAAAU0oCWOZGmeaKquKEUI1XI6UIWk1QGhlcGMkwdJ8WswIoDCCAkIKC2ShCo6laaoKMkgybKEAAA7\" width=\"13\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">, <img src=\"data:image/gif;base64,R0lGODlhDAARAPQAAAAAAAAAOgBmtjoAADqQ22Y6AGa2/5BmZpBmkJCQtpC2/5Db/7ZmZra227b//9uQOtuQkNu2ttvb29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABgALAAAAAAMABEAAAU2ICaOZGmeaKquqFUIV3NG05WkFzKh1+GIlUFgMWL8II6HgSIQUQCAgGFUUagkVwz29AQQWOAQADs=\" width=\"13\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">: 접합유리 또는 복층유리에서 전단면의 도심으로부터 각 유리판의 도심까지의 거리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 72,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCAAOAPQAAABmtjpmtmYAZmY6ZmZmAGaQ22a2/5Db/7ZmALZmOrb//9uQZtuQkNu2Zv+2Zv+2kP//tv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABEALAAAAAAIAA4AAAUmYCSOZEk2gQkJiokYpgOobMkQ8LgcTio6hQhk0Hr4IomcacmMhAAAOw==\" width=\"9\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   : 접합유리에서 합성작용의 정도</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 73,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhGgARAPUAAAAAAAAAZgA6ZgBmtjoAADo6kDpmkDpmtjqQ22YAAGY6OmY6kGaQ22a222a2/5A6AJA6OpA6ZpBmtpCQ25C2/5Db/7ZmALZmOrZmZraQOraQZraQkLa227bb27bb/7b//9uQOtuQZtu2kNu2ttvb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC4ALAAAAAAaABEAAAaCQJdwSCwaj8hksqWhKJ9D1qIEfbYgleoThNAqUwWq98hSZMfGTcaBLmIqqYNw9IHShyF2K1LfiJV+QiZyQhcNDwADhQANhQEfLYiKSCwTQicMKQwuLBIpTpVfTi4WAAJnKxxCn0ooHSQuGB8qHi4iHyFZrrBIIJMpBGycCQZUvm1KQQA7\" width=\"27\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 접합유리에서 휨실험으로 증명한 합성작용의 정도 </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 74,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhGwARAPUAAAAAAAAAOgAAZgA6kABmtjoAADpmkDpmtjqQ22YAZmY6AGZmZmZmtmaQ22a2/5A6AJBmOpBmZpBmkJCQtpCQ25C2kJC225C2/5Db/7ZmALZmOrZmZraQkLa2Zra2trbbkLbb/7b//9uQOtuQZtu2Ztu2kNvb29vb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC8ALAAAAAAbABEAAAaBwJdwSCwaj8ikcslsOp/Q6NIFAVgHKKlwY3FpMFrhiiEUOcIvs/CLHoFbiRBahPAihKRFwaAgEDUBYBkCHwVnLg8Ad2INLhIoHFkvKg4pFy8uHi4nSSsXLhMvkUMlEZcvLKGdn6GjkyAkly4mLRRJgx0BFYZCKboHLxkDJABnaEVBADs=\" width=\"28\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 최대압축응력</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 75,
+        "title": "1.6 해석과 설계원칙",
+        "level": 2,
+        "label": "1.6",
+        "contents": "<p>1.6 해석과 설계원칙</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 76,
+        "title": "1.6.1 설계 검토사항",
+        "level": 3,
+        "label": "1.6.1",
+        "contents": "<p>1.6.1 설계 검토사항</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 77,
+        "title": "1.6.1 설계 검토사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유리구조 안전성과 사용성, 내구성은 다음 사항을 만족하여야 하며 설계 및 시공과정에서 고려하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 78,
+        "title": "1.6.1 설계 검토사항",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 구조의 전반적인 구조안정성</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 79,
+        "title": "1.6.1 설계 검토사항",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>②  유리판에 작용하는 설계하중과 테두리구조의 변형으로 야기되는 파괴에 대한 충분한 강도확보</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 80,
+        "title": "1.6.1 설계 검토사항",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 유리구조의 연쇄붕괴방지 및 저감을 위한 안전확보</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 81,
+        "title": "1.6.1 설계 검토사항",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 사용성</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 82,
+        "title": "1.6.1 설계 검토사항",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ 수밀성능 및 기밀성능 </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 83,
+        "title": "1.6.1 설계 검토사항",
+        "level": 5,
+        "label": "⑥",
+        "contents": "<p>⑥ 내구성</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 84,
+        "title": "1.6.1 설계 검토사항",
+        "level": 5,
+        "label": "⑦",
+        "contents": "<p>⑦ 품질 보장</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 85,
+        "title": "1.6.1 설계 검토사항",
+        "level": 5,
+        "label": "⑧",
+        "contents": "<p>⑧ 유지관리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 86,
+        "title": "1.6.2 설계 방법",
+        "level": 3,
+        "label": "1.6.2",
+        "contents": "<p>1.6.2 설계 방법</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 87,
+        "title": "1.6.2 설계 방법",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유리구조는 유리판의 설계강도와 테두리구조의 구조안전성을 확인해야 하며 처짐제한, 진동 등의 사용성을 확보하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 88,
+        "title": "1.6.2.1 극한상태 ",
+        "level": 4,
+        "label": "1.6.2.1",
+        "contents": "<p>1.6.2.1 극한상태 </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 89,
+        "title": "1.6.2.1 극한상태 ",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 강도와 구조안정성</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 90,
+        "title": "1.6.2.1 극한상태 ",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>유리구조의 재료파괴 및 구조적 안정성을 유지하지 못하는 상태를 극한상태로 정의한다. </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 91,
+        "title": "1.6.2.1 극한상태 ",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 연쇄붕괴</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 92,
+        "title": "1.6.2.1 극한상태 ",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>유리구조의 부분적인 파괴가 인접한 유리구조에 영향을 주어 연쇄적인 파괴로 발전하지 않아야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 93,
+        "title": "1.6.2.2 사용성 한계",
+        "level": 4,
+        "label": "1.6.2.2",
+        "contents": "<p>1.6.2.2 사용성 한계</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 94,
+        "title": "1.6.2.2 사용성 한계",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 처짐</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 95,
+        "title": "1.6.2.2 사용성 한계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>유리판 및 테두리구조 부재의 변형을 고려하여 성능저해 여부를 확인하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 96,
+        "title": "1.6.2.2 사용성 한계",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 진동</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 97,
+        "title": "1.6.2.2 사용성 한계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>사용자 또는 하중으로 발생하는 진동이 과도한 경우 진동저감조치가 필요하다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 98,
+        "title": "2. 조사 및 계획",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 조사 및 계획</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 99,
+        "title": "2. 조사 및 계획",
+        "level": 2,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 100,
+        "title": "3. 재료",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 재료</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 101,
+        "title": "3.1 유리의 설계강도",
+        "level": 2,
+        "label": "3.1",
+        "contents": "<p>3.1 유리의 설계강도</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 102,
+        "title": "3.1.1 품질 및 규격",
+        "level": 3,
+        "label": "3.1.1",
+        "contents": "<p>3.1.1 품질 및 규격</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 103,
+        "title": "3.1.1 품질 및 규격",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유리구조의 품질은 산업규격에 정하는 기준을 만족하여야 한다. 유리구조 설계에 사용되는 유리는 비강화유리, 배강도유리, 강화유리 등을 포함한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 104,
+        "title": "3.1.2 비강화유리, 배강도유리, 강화유리",
+        "level": 3,
+        "label": "3.1.2",
+        "contents": "<p>3.1.2 비강화유리, 배강도유리, 강화유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 105,
+        "title": "3.1.2 비강화유리, 배강도유리, 강화유리",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 비강화유리의 재료 물성 값은 표 3.1-1을 따른다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 106,
+        "title": "3.1.2 비강화유리, 배강도유리, 강화유리",
+        "level": 5,
+        "label": "표 3.1-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.1-1 비강화유리의 재료 최소물성 값</p></caption><tbody><tr>\t<td width=\"239\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>항목</p>\t</td>\t<td width=\"291\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>물성값</p>\t</td></tr><tr>\t<td width=\"239\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>압축강도</p>\t</td>\t<td width=\"291\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>5000 ~ 8000 N/mm<sup>2</sup></p>\t</td></tr><tr>\t<td width=\"239\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>인장강도</p>\t</td>\t<td width=\"291\" height=\"21\" valign=\"middle\" align=\"center\">\t<p> 45 N/mm<sup>2</sup></p>\t</td></tr><tr>\t<td width=\"239\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>탄성계수</p>\t</td>\t<td width=\"291\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>7x10<sup>4</sup>  N/mm<sup>2</sup></p>\t</td></tr><tr>\t<td width=\"239\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>푸아송비</p>\t</td>\t<td width=\"291\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>0.22</p>\t</td></tr><tr>\t<td width=\"239\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>모스경도</p>\t</td>\t<td width=\"291\" height=\"21\" valign=\"middle\" align=\"center\">\t<p> 6</p>\t</td></tr><tr>\t<td width=\"239\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>선팽창율</p>\t</td>\t<td width=\"291\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>9 ~ 10 × 10<sup>-6</sup> /℃</p>\t</td></tr><tr>\t<td width=\"239\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>연화온도</p>\t</td>\t<td width=\"291\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>650 ~ 700 ℃</p>\t</td></tr><tr>\t<td width=\"239\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>열전도율</p>\t</td>\t<td width=\"291\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>0.68 Kcal/mh℃</p>\t</td></tr><tr>\t<td width=\"239\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>비중</p>\t</td>\t<td width=\"291\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>2.5</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5019,
+        "sort": 107,
+        "title": "3.1.2.1 설계강도",
+        "level": 4,
+        "label": "3.1.2.1",
+        "contents": "<p>3.1.2.1 설계강도</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 108,
+        "title": "3.1.2.1 설계강도",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 유리종류에 따라 표 3.1-2의 설계기준강도를 확보하여야 하며 하중지속시간을 고려한 강도저감계수와 유리표면상태를 고려한 강도저감계수를 적용하여 설계강도를 산정하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 109,
+        "title": "3.1.2.1 설계강도",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 하중지속시간을 고려한 강도저감계수는  표 3.1-3에 따른다.  유리구조에 3초 이하의 하중은 단기하중으로 분류하며 3초 이상 1일 이내로 하중이 지속하는 중기하중으로 분류한다. 그리고 1일 이상 지속하는 장기하중으로 분류한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 110,
+        "title": "3.1.2.1 설계강도",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3) 유리표면처리를 고려한  강도저감계수는  표 3.1-4에 따른다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 111,
+        "title": "3.1.2.1 설계강도",
+        "level": 6,
+        "label": "표 3.1-2",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.1-2 유리 종류별 설계기준강도 </p></caption><tbody><tr>\t<td width=\"211\" height=\"38\" valign=\"middle\" align=\"center\">\t<p>유리종류</p>\t</td>\t<td width=\"184\" height=\"38\" valign=\"middle\" align=\"center\">\t<p>설계기준강도</p>\t<p>(N/mm<sup>2</sup>)</p>\t</td></tr><tr>\t<td width=\"211\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>비강화유리</p>\t</td>\t<td width=\"184\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>20.0</p>\t</td></tr><tr>\t<td width=\"211\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>배강도유리</p>\t</td>\t<td width=\"184\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>40.0</p>\t</td></tr><tr>\t<td width=\"211\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>강화유리</p>\t</td>\t<td width=\"184\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>80.0</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5019,
+        "sort": 112,
+        "title": "3.1.2.1 설계강도",
+        "level": 6,
+        "label": "표 3.1-3",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.1-3 하중지속시간에 따른 강도저감계수</p></caption><tbody><tr>\t<td rowspan=\"2\" width=\"157\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>유리종류</p>\t</td>\t<td colspan=\"3\" width=\"425\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>강도저감계수</p>\t</td></tr><tr>\t<td width=\"140\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>단기하중</p>\t</td>\t<td width=\"140\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>중기하중</p>\t</td>\t<td width=\"145\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>장기하중</p>\t</td></tr><tr>\t<td width=\"157\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>비강화유리</p>\t</td>\t<td width=\"140\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>1.0</p>\t</td>\t<td width=\"140\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>0.53</p>\t</td>\t<td width=\"145\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>0.29</p>\t</td></tr><tr>\t<td width=\"157\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>배강도유리</p>\t</td>\t<td width=\"140\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>1.0</p>\t</td>\t<td width=\"140\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>0.73</p>\t</td>\t<td width=\"145\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>0.53</p>\t</td></tr><tr>\t<td width=\"157\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>강화유리</p>\t</td>\t<td width=\"140\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>1.0</p>\t</td>\t<td width=\"140\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>0.81</p>\t</td>\t<td width=\"145\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>0.66</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5019,
+        "sort": 113,
+        "title": "3.1.2.1 설계강도",
+        "level": 6,
+        "label": "표 3.1-4",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.1-4 유리표면상태에 따른 강도저감계수</p></caption><tbody><tr>\t<td width=\"280\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>유리표면상태</p>\t</td>\t<td width=\"299\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>강도저감계수</p>\t</td></tr><tr>\t<td width=\"280\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>일반</p>\t</td>\t<td width=\"299\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>1.0</p>\t</td></tr><tr>\t<td width=\"280\" height=\"38\" valign=\"middle\" align=\"center\">\t<p>세라믹처리 또는 </p>\t<p>에나멜처리</p>\t</td>\t<td width=\"299\" height=\"38\" valign=\"middle\" align=\"center\">\t<p>0.625</p>\t</td></tr><tr>\t<td width=\"280\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>요철처리</p>\t</td>\t<td width=\"299\" height=\"21\" valign=\"middle\" align=\"center\">\t<p>0.5</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5019,
+        "sort": 114,
+        "title": "3.1.3 복합유리구조",
+        "level": 3,
+        "label": "3.1.3",
+        "contents": "<p>3.1.3 복합유리구조</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 115,
+        "title": "3.1.3.1 접합유리",
+        "level": 4,
+        "label": "3.1.3.1",
+        "contents": "<p>3.1.3.1 접합유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 116,
+        "title": "3.1.3.1 접합유리",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 2개 이상의 판유리 사이를 합성수지 등을 이용하여 접합시킨 유리로서, 실험을 통해 합성작용을 확인하지 않는 경우 응력전달은 무시한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 117,
+        "title": "3.1.3.2 단열복층유리",
+        "level": 4,
+        "label": "3.1.3.2",
+        "contents": "<p>3.1.3.2 단열복층유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 118,
+        "title": "3.1.3.2 단열복층유리",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 2개 이상의 판유리와 중간공기층으로 이루어진 복층유리로서, 단열 및 소음저감을 목적으로 제작한 단위부재로 열반사 등 추가적인 기능이 가능하다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 119,
+        "title": "3.1.3.3 에너지단열유리",
+        "level": 4,
+        "label": "3.1.3.3",
+        "contents": "<p>3.1.3.3 에너지단열유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 120,
+        "title": "3.1.3.3 에너지단열유리",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 유리 표면의 도포로 열적성능을 향상시킨 유리로서 구조적인 성능의 변화는 고려하지 않는다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 121,
+        "title": "3.1.3.4 내화등급유리",
+        "level": 4,
+        "label": "3.1.3.4",
+        "contents": "<p>3.1.3.4 내화등급유리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 122,
+        "title": "3.1.3.4 내화등급유리",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 유리구조의 기본성능 만족여부의 검토를 위하여 재료성능시험을 수행하여야 유리구조설계에 적용 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 123,
+        "title": "4. 설계",
+        "level": 1,
+        "label": "4.",
+        "contents": "<p>4. 설계</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 124,
+        "title": "4.1 설계하중",
+        "level": 2,
+        "label": "4.1",
+        "contents": "<p>4.1 설계하중</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 125,
+        "title": "4.1.1 안전성",
+        "level": 3,
+        "label": "4.1.1",
+        "contents": "<p>4.1.1 안전성</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 126,
+        "title": "4.1.1 안전성",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유리구조는 기본적으로 KDS 41 12 00의 하중조합에 따라 요구강도를 만족하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 127,
+        "title": "4.1.1 안전성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhQgAOAPUAAAAAAAAAOgAAZgA6OgA6kABmtjoAADoAOjoAZjo6OjqQ22YAOmY6kGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJCQtpDb/7ZmALZmOrZmZrZmkLaQkLa2tra227bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvb29vb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADEALAAAAABCAA4AAAb+wJhwSCwaY5zUcclsEkkhp3R0kVqvsIpy6NJUmZnvq1FUAc7ngMMIszDNaDREqJrHYBFA4HssJb4qa2UEWyUGdkNtTSoCUXcSYmRDLwt8RS0fkEIiiEMYCkQYBUWKTJ9CHTEmWzATjjGUlokeMJoxYUWxoaNEpUe6JXMnia6TlUertV+4RCKEiRGgLAZxaHvNaI2kxUK6lyCPX5y9EZ0sB7K+pNGwkr3csMdFGNWjKqBDLAivMaJsbkfOVYGBwsgLBlvifcHDS4iybu5iiGgo8RkpgEYmLurk7chDIVQclhPSgoLFix5HMtmQkN6Zk/moAcCXJYVLNAMeXPGEBuYRkBWydvYaJrQol4JGkyp1EgQAOw==\" width=\"68\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">                         (4.1-1)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 128,
+        "title": "4.1.1 안전성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>              <img src=\"data:image/gif;base64,R0lGODlhFwERAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6Ojo6Zjo6kDpmOjpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmOmZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJCQtpCQ25C2tpC225C2/5Db/7ZmALZmOrZmZrZmkLaQOraQZraQkLa2tra227bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29vb/9v/ttv///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEcALAAAAAAXAREAAAf+gEeCg4SFhoIuPoeLjI2Oj4Q2M5CUlZaXhYmYm5ydnoWSn0c1J6KmkEYhiqesoqStsLGbqaucRRizIp1Gups/HIe8sozCpre7ikQwOjxHRi8yg0UQBJOmRsnLzc/RgtPVpr+ERCqlhjcHAATdRz8ahT8A8vIB74XFh/Hz88CC+IdC0u2T9+CYoX+FyJk7lAKAA0L6AARYOAjhoCET1LEbRGTVDkHu4M2b2OhHugAMekCQuMAEISMgKD4aQkFiBhG1TEpMuTJAy5cxK0WUN8DlEYNGOkiUeUQIBh9GWAiwRqMfxAKr0Fn112vRj6n+PCy0SKhFCWcdHgiiccLIB2v+L7u+VEryoAsZQhLAbQc2mNyKHTYcuYG1EA15DLpVNfR1LyMaagWlYCqZYo4XtQoJWRBNCITIgyAPmryI9KDLmeEVNpICrFu4RSIw/UEytjnThFCAPoLCwL2/hXQLenEkRy2y3ozmtSbp9UHg0mQfUuF4kPBFZIUwUGRELCjHuK3vbiS68iIWA5cG8y6IumHQ4QmhH1j30PUjNFy/jU6Zv3lCtuXmW0DpqeffDcDsQGB69R3R0Vq+CfKRc00JRB9FAWrGAAjqYCgdIQteCFJhvG11RCiExJfhI5AZ4QIMpA2B2UwxGFKEBHAR956LMJYiY2qHDFGjjR/ewJk/+3n+8+Ei5eFnIg0kojUecvjN01dcj0xjIoVYLrLiIPGoRVgtUAJZEXQ0RMjbeDU0IJFgThoWpSO0ZaDIfAMsMEkRSqU3gAIKNLjWAhlsBFEAdh6Bp55H9TnQn4EydRg9cCIJ25KGCDECRLsltZUQCMiEXFJqGfTbI40VUoQFQFL5JUhgaelPWo2QlaZ4hdRw1g0k/dAprZew9tAhRGxCBAjj3ZPCsIYUW4mnzqAQ5aq1ZJiUmkOcBSAugywn4HOLgFqKEc2A60hvjJnIFSPWduBbqtA2FeogQThG1g8kosDBtXztCQEwpsq7UL2UCMHsSzhU0F8hQbCjnZndHlxRwgv+a6bXWlGK458hQxgFxEKvQEhImeYacmut0AGIqSArmOnqyk1dHO/JzgCX3XbOsCcIEEZRK0jI+KlJZabDGpEDDLXEt4h7ayWrWdFHJ13xyBHy+9ERLavMVIhX0oJWP0OAMOcj8XoyZiEfb/KqlIOt1gHYFEw91ztnS1NBNE16HS9NJ8R2AQCfHgCpAgVahZvRMNj4mSA34Ayi4IASnp7hYx0dzNuCBPSAEC6lbd08Y9e6AwqPVkoJ6fKEjoqjAIBGRLmXoA7A2EVktA5v6alJCUYaZZrRlKPnXtwNThPhQgk7wO6VhfJcuTMJGTlkpvHIK58P8wA43w4943YQADAqrw8j/vjklw8J0+anr/767Ldvvtfuxy///PTXn7k99uev//789++/I4EAADs=\" width=\"280\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">         (4.1-2)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 129,
+        "title": "4.1.1 안전성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>             <img src=\"data:image/gif;base64,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\" width=\"302\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">       (4.1-3)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 130,
+        "title": "4.1.1 안전성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>               <img src=\"data:image/gif;base64,R0lGODlhDAERAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmZgBmkABmtjoAADoAOjoAZjo6Ojo6Zjo6kDpmOjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJBmtpCQtpCQ25C2tpC225C2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29vb/9v/ttv///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEwALAAAAAAMAREAAAf+gEyCg4SFhoeIiYqLjI2Oj5CRMUORlZaXmIw7OJmdnp+goYk6K6Kmp5hLJJSohksmrY2vsa6wn0obl0uUSTQ/QUxLMzeDShMEnKG7TL2/wcPFx8meRB+GSS6lhjwJAATEg0QA4+MBHYWziNjahUgW3uCCLOMCODnk1vMB2unX2Yfu4BESV47doH7t3n0rlIQVkHDnBpLbl4hItwAOhEwAEKCBCkJLRhh0hOQCRw4mWDGxyDHjxo4fD4qMRJDcgI+4QILgOJLJkQ1DlsCoN7AAK27WDtpCt5MiUw9MeBglxELCoBwHWCkpoRKhoCVNe4KFKlXlSqKHvH4FQXbq1XH+DuLlSDoQraIcVgW16KnXoI8ZZg0daUDsyIS8VxHvRbR40N/AhohMXdKi3hIR0wQpodCTCMXNBqtSRQByqSHQgh1QWhIiNGIWpAX5MKtWM+fUq1tTRVzr0BHVwXQP2mSo8e5GeAcZLwSD3ES+X4UzcZGZSfK+iJo757lItKAcljEXQp2IPBPzTGAf6bade7HbhSSzYkEXbF4jGmIjKcx+u9Pz8BU1H13o+dSfc07JJw9dTBBXyHIAQlcIXkvEQMNiSADGCBI2IKJEBdPMYAiFFmKo4SIclgcfD4QFIx4hBU7IWw5uBQMCb7XZ1lMOsaWHmH1MIFEDbMHQ0NshMfL+OIh31tV45IQ9MsmEDg9wBNV3DDYJ2SGecUCJdgM0wIkSO7U3AAMM/DdhAxzEE18AXjIBppjnlbndmWlCd085V7pYXYyDHHGCTgweoYBBOUY4YpQ/3riEkUSK+OR4AV7F6Fq8TWrpkrzpkEJUCeJ4YySURaAOJkmMkCk6LZh6SBKVgGXNEiy4pUQGgZEHVo9IfErIEQtkRmRpKvIDAmkKplffjbOlh4AR1X1lGozw7bqSW/QJYig70KIzrSDJsuDBsWeNOUFSOQV66CDdMnKEq+j0gIGEhhgRz29bBgovSPLSK1iw37lVzWmVDoJETEVoo+RVTgbz7Xs94RscO2D+QQAOCwbUgEiOMUrMmsI9qlWbx9IVEdOtKpGyqbSOvPuVDzSoBKEi1CW2iMvBwCyzv1CuRdpDL0DWcX9EySoIEiM0zEiMYJ1T1kEg0DVsJEyD4PRkUR99Ac9QX62SEhgQc91Xq9iYVEkrDJYAb+vhyUB7ANBl3BIwe3iYIDwA92sCbsMtN8V1b5y1gRIcoULChswzjtKFKG5Tn4843nBACx0kAyGTVCJ5YJQT4zg5PZKkkJs+vbPqEkB8Pg5pP9TMUAwpAAGMIiw5ZxchRaDwDgARbJkE7LIvUjs5t4dTkI0BfJDE7LQ07/zznyQK/fTUV2/99S3HhP323HfvPS0NiH8v/vjkl2/++YUEAgA7\" width=\"270\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">          (4.1-4)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 131,
+        "title": "4.1.1 안전성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                        <img src=\"data:image/gif;base64,R0lGODlhmgAOAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6Zjo6kDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmZmtmaQtmaQ22a222a2/5A6AJA6OpBmOpCQtpCQ25C2tpC225C2/5Db/7ZmALZmOrZmZraQOra2tra2/7bb/7b//9uQOtu2Ztvbttv///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADYALAAAAACaAA4AAAb+QJtwSCwaj8ikcslsOp/QqHRKrVqv2OWMFDquDgACiugCmM0BS7HGSW67RlkkPB6Wz+cGkY18H+V0ZGcBcHttf3NiRV+BRDISAAEVNjUZkYVDMRQtNSUCKWQFLUJfGIZHlZdGlRc2K6Jkn0I1I6ZDfGuWhKsZra+jdrKoh7m+sEKanJ6gyApjMQ5DNA+YQi6705giekMiBqdI2UYxC6M1GtrcJjYwzLPEReJF5OboRNtJuPPllPbW2NRm+bNBQlrAJPJsJLThDdyRhdaOibClMGAMNTPWwCMC0YYLiRQ73toYEdjEhwdpQHC3TojIISq4CVFxjFKGBjHA4EGDqaP+im9C8M0cVCjnTp4Gq9n42U0mTWCZdO7ctRQoQ5lEYmZVUKFO0iQxOuzJQNFGDASY9BnxaVVoJT00KCBRy/Fg1rbc3iqhOxPvOLFGZmzA+lLGh3kJ3DG0+g6hXTsgkaFVeIKdYkokXT4uGdTW2ULtNB75aLKsDcNEYHil99UmUBkghLyAwxRmzcbhDlb6xvocbcY0ADuMpzsDb36++45clbk3ut2nY9uYTdCd1tZEjJqRVcmWjA23caNUWknNL5sUWUy4jDk3+QzmYXUX8oh85vKuamoH8ImGA24r8BPUGeEZIcJOA7QSxYFmhAeIIgzuhBUTETqYyBgRnsFYEw8aeoXECx7MAQADUGVh4okopqjiiiy26CITQQAAOw==\" width=\"156\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">                  (4.1-5)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 132,
+        "title": "4.1.1 안전성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhTAAOAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmZgBmkABmtjoAADoAOjoAZjo6kDpmkDqQ22YAAGYAOmY6AGZmAGZmZmaQ22a222a2/5A6AJA6OpA6ZpBmOpCQtpDb/7ZmALZmZraQkLaQtra2tra227a2/7bb/7b//9uQOtuQZtu2Ztu2ttv///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADIALAAAAABMAA4AAAb+QJlwSCwaj8ikcslsOp/QqMwVARBIRlj1OlwBvt8AxRjbJF8ejpFqxQ47X0HJBLbIOrLYpSJDFVREenwnf12FfQl2gWZkFwABaoF7fYdCHQ5DJgeAMjAyLQyAMRiRQiuFMBCll0QdCEVlSamlQqCipK2Ylq9CKTKnnB2KpoV6irOtvEOxSMhEwJbDerosErwuWCbKrF1ynQ+6JpXTnwlg55BEzpnbunkXmC4jrnkiQtpv7u98dHbGRC0U0MrD6Mi6e+2WwYthj14IQ8GGCWHTIEOJTwsuvlG2rGAWVUWg3ZEGLwUgVyw0fgqVh5SeV8hajJGBL1OljrJAvlx5q5Q/ngZuOhgYIWmMH05DPEyYMPPfFA03cTYDWZQSUqd3OE7c4iYJnHMD+Ej5CuAmGy7LQBD5gFSK27dw48qdayQIADs=\" width=\"77\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">                         (4.1-6)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 133,
+        "title": "4.1.1 안전성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhSAAOAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmkDqQ22YAAGYAOmY6AGY6ZmZmZmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpCQtpCQ25Db/7ZmALZmOrZmZra2tra2/7bb/7b//9uQOtuQZtu2Ztvbttv///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADAALAAAAABIAA4AAAb+QJhwSCwaj8ikcslsOp9QJesBIIiMLqp1mAJ4vYGJ8aVJtj4c47R65X7fsJeFAjMVUEQ5vXTn9usHFUVkR3IAAWl5c3V/QikCI0IvHjArCngvF4mOfS4Omx0MRB0Gg2VInptClpiao6IwIDAqMCl/HYJ+mBa5qaOleadHvkS2eDC4Q74rYi0wJMDIsI6QMC4NsCSNcqIrB29fiETEQ9BDoeXhm+ZC6EN6zwCCcrmrCKpxwlifRezSkhZEuZBQ7FY9IWsWYIi0IkGkc9He6StCjtOxZJXuWQsxi+GlOJrklFom5llEbceCJfElstLHTIn8WdsAUIydlEI+RIhQkh4twgyNVKLip8hmH59CTkB4CGPNFiUdwA2gEwXZl6BOr0QFB2Ba1a9gw4odCzYIADs=\" width=\"73\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">                         (4.1-7)               </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 134,
+        "title": "4.1.2 사용성",
+        "level": 3,
+        "label": "4.1.2",
+        "contents": "<p>4.1.2 사용성</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 135,
+        "title": "4.1.2 사용성",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유리구조의 사용성 검토를 위한 하중조합 (4.1-1), (4.1-2), (4.1-3), (4.1-4), (4.1-5)에서 1.0 이상의 하중계수를 1.0으로 사용한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 136,
+        "title": "4.1.3 테두리구조의 변형하중",
+        "level": 3,
+        "label": "4.1.3",
+        "contents": "<p>4.1.3 테두리구조의 변형하중</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 137,
+        "title": "4.1.3 테두리구조의 변형하중",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유리판의 테두리구조물에 가해지는 고정하중, 활하중, 풍하중 및 온도하중으로 인해 발생하는 변형이 유리 및 지지구조에 미치는 영향을 고려해야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 138,
+        "title": "4.1.3 테두리구조의 변형하중",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 콘크리트 구조의 장기처짐현상</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 139,
+        "title": "4.1.3 테두리구조의 변형하중",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 지진 및 풍하중의 층간변위</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 140,
+        "title": "4.1.3 테두리구조의 변형하중",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 다층구조의 기둥축소현상</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 141,
+        "title": "4.1.4 온도하중",
+        "level": 3,
+        "label": "4.1.4",
+        "contents": "<p>4.1.4 온도하중</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 142,
+        "title": "4.1.4 온도하중",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유리구조는 -20 ℃부터 50 ℃범위의 온도로 발생하는 변형을 고려하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 143,
+        "title": "4.1.4 온도하중",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 외부 투과 유리구조와 적외선저감 유리의 성능을 고려하여 유리의 열팽창효과를 고려해야 한다.  </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 144,
+        "title": "4.2 유리구조해석",
+        "level": 2,
+        "label": "4.2",
+        "contents": "<p>4.2 유리구조해석</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 145,
+        "title": "4.2.1 일반",
+        "level": 3,
+        "label": "4.2.1",
+        "contents": "<p>4.2.1 일반</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 146,
+        "title": "4.2.1 일반",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유리구조의 안전성과 안정성 확보를 위하여 5 mm이상의 공칭두께 유리를 사용하여야 한다. 설계과정에서 유리구조의 강도검토와 처짐산정을 위한 유리판의 두께는 유리공칭두께의 허용오차를 고려하여 표 4.1-1 최소두께를 적용하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 147,
+        "title": "4.2.1 일반",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 장기하중에 저항하는 유리구조부재의 경우 접합유리를 사용하여야 하며, 외기와 접하는 유리구조에는 배강도유리, 강화유리 또는 접합유리를 사용하여야 한다. </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 148,
+        "title": "4.2.1 일반",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 유리판이 바닥에서 5 m 이상 높이 설치되는 유리구조는 강화유리 또는 접합유리를 사용하되, 강화유리를 사용하는 경우 반드시 접합유리를 사용하여야 한다.  단, 건축물의 외장 커튼월의 경우에는 입지와 환경여건에 따라 KDS 41 12 00에 따른 요구강도를 만족하도록 유리를 사용할 수 있다. </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 149,
+        "title": "4.2.1 일반",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 지붕유리구조와 출입이 가능한 캐노피형식의 유리구조, 바닥유리구조 등 중장기하중을 받는 경우 접합유리구조를 사용하여 안전성을 증대시켜야 한다. 또한 이러한 구조요소에서는 부분적으로 1개의 유리판 파괴가 후속적으로 나머지 유리판 파괴로 발전하지 않도록 부정정구조로 우발적인 하중에 저항할 수 있는 여유 강도를 확보해야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 150,
+        "title": "4.2.1 일반",
+        "level": 5,
+        "label": "표 4.1-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.1-1 유리의 공칭두께와 최소두께(mm)</p></caption><tbody><tr>\t<td width=\"84\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>유리</p>공칭두께</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>5</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>6</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>8</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>10</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>12</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>15</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>19</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>22</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>25</p>\t</td></tr><tr>\t<td width=\"84\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>유리</p>최소두께</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>4.7</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>5.7</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>7.4</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>9.4</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>11.2</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>14.2</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>17.8</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>20.8</p>\t</td>\t<td width=\"52\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>23.8</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5019,
+        "sort": 151,
+        "title": "4.2.2 구조해석",
+        "level": 3,
+        "label": "4.2.2",
+        "contents": "<p>4.2.2 구조해석</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 152,
+        "title": "4.2.2 구조해석",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유리판의 최대처짐이 유리두께의 3/4을 초과하지 않은 경우에는 설계검토를 위한 주요응력 산정은 탄성해석으로 가능하다. 최대처짐크기가 유리판 두께를 초과하는 경우 비선형해석을 통해 처짐을 산정하여 그 효과를 고려한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 153,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 4,
+        "label": "4.2.2.1",
+        "contents": "<p>4.2.2.1 접합유리의 해석</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 154,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 접합유리의 합성작용을 고려하지 않는 경우 개별적인 유리판의 하중분담은 다음 식을 이용한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 155,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhTwA7APYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6ADo6Ojo6Zjo6kDpmtjqQ22YAAGYAZmY6AGY6OmY6ZmY6kGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJCQtpCQ25C2/5Db/5xmZrZmALZmOrZmZrZmkLaQZraQkLa2Zra2tra227a2/7bbtrbb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbkNvbttvb29vb/9v/ttv/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAABPADsAAAf+gEGCg4SFhoeIiYqLjI2Oj5CRkpOUgyEDLZWam4k7FjsMnKKjgjAfpKiRPiqCly6psI0vFkEyLaCxuYhAGKcyLri6wq0AxQVBrsPKPQo6ys+DwdDPIqfTykAZLj+Z17rMOShBPRQvx0EiARXjCQ8EzugA696MQBfvQTYlLiPADD0egtSoNsMZDwrk6EX6wQHIBh39eJwCwiGIOGQABlgr5MMdPIXR/lEIYiIHCRY6enT4keJGkH4+uhnqsQBkoRcHBrzaoYBGKInMnPUwQAuRJ5uDhoYSVa3HAwGvNA0tRrUYVGg/JMRIsCJC1GE/GlQdS7Ys2auChi74uGnq2a/+w14EQDAPKalqPxy4KGiXU95tEnCoIGcOnTp2HgWJkNe3EM0g9nTq43fiX8CBH/geTNhYEUOHIFxIhFzxYoiMGzn1aIePFChyJU+mXNnypYuYpDDzJYVTJ0+fQYA2G0cUFUWLqJSCVMnSZedNwtk+n07vtNmqRaknCgtgaaEaGrobuiST+g4AAVITCnEu2ifv2l8AaO24piFT2gfZA9CekENnq7SiU35JGQBAdoTwNUstt8CXn3xoGcKLL/4QuN580mFkDDIDWihIWPQREpSHh6wGFyHSkDjIDxGUN0hB1QwSQ0AeTniIQzlow42KkPWCyA8TgCMOiydSJwKChbBBZw8+NqCQ4XMw1OVfDRCI518KFsp3HVVI+lAbj47sYB+YZJYZy4xmpumXV2om0uSTbUKGZZyHeOkcnSiOiecogQAAOw==\" width=\"81\" height=\"58\" vspace=\"1\" hspace=\"0\" border=\"0\">                       (4.2-1)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 156,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhFwAPAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6ADo6Zjo6kDqQ22Y6AGY6kGZmtmaQtmaQ22a222a2/3y825A6AJA6OpA6ZpBmZpBmkJCQtpCQ25C2/5Db25Db/5xmZrZmALZmOrZmZrZmkLaQZraQkLade7a2Zra2tra227bbtrbb27bb/7b//9uQOtuQZtu2ttvbkNvbttvb/9v/29v///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAADoALAAAAAAXAA8AAAaNQJ1wSCwaj8jkkAaIKJ8tzjOZu8ymSFwjNxGssESawyIFE1kDlZmYq6AokdvVjGPMWhvSg1XQfQIQNggLBFcfABA6NAqKARIiKyAlCjYaMB8cLjM1DzYPRjgYVR0rNRw5GDomOh4AA2VhlA8jMiEpLxk4JzEgKzcpRiwHAys0CS8KpjYJMzYGTkXOjGBBADs=\" width=\"24\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">: 검토할 유리판의 하중분담계수</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 157,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhFQAPAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6ADo6Zjo6kDpmtjqQ22YAAGY6AGZmtmaQ22a222a2/5A6ZpBmkJCQtpCQ25C2/5Db/5xmZrZmALZmOrZmZrZmkLaQZraQkLa2Zra2tra227a8kLbb27b//9uQOtu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADQALAAAAAAVAA8AAAaAQJpwSCwaj8hkjJVMziSkJvKlkB4zAIAgaiWWIl3jhhsWyhy0VFn4esBEj1KBpglAXogGgakBQGgwDAspHSQbHwsvFigaFyYsLg9tRDIUMxMYJC4XMxQ0IDRYAxdELYkPHiscIycVMiEqYzEjXgcDJC0JJwubLwksLwZgQ8ELZUEAOw==\" width=\"22\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">: 검토할 유리판의 최소두께 (mm)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 158,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBwAPAPQAAAAAADoAZmZmtmaQ22a222a2/5A6AJCQtpDb/7ZmZra227bb27b//9uQZtvbttvb/9v/2/+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAHAA8AAAUs4CWOZCk+5TSUDTJaBgAUZMKQlZAOFHSIEYIisrpIAgwHikRZjigLlst0CQEAOw==\" width=\"8\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 각 유리판의 최소두께 (mm)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 159,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBwANAPQAAAA6kABmkDoAAGYAZmZmtmaQ25CQZpCQkJCQ25Db25Db/7ZmZrZmkLbb/7b//9uQZtu2Ztu2ttvb29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAHAA0AAAUpYCaOZGme6DUYAjBlERRMi5NJj4Idb8ZMF4QkcyFkKolGxlLIUFwoUwgAOw==\" width=\"8\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 유리판의 총 개수</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 160,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 실험으로 검증한 합성작용의 효과는 접합유리의 등가 단면의 유리판 성능의 70%를 초과할 수 없다. 합성효과계수는 다음과 같이 정한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 161,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                           <img src=\"data:image/gif;base64,R0lGODlhagA7APYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Zjo6kDpmtjqQ21G8/2YAAGYAOmYAZmY6AGY6OmY6ZmZmkGZmtmaQ22a222a2/4EoKIH//5A6AJA6OpA6ZpBmOpBmZpBmkJCQkJCQtpCQ25C2tpC225C2/5Db/7ZmALZmOrZmZraQkLa2tra227a2/7bb/7b//7xRKNuQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEQALAAAAABqADsAAAf+gESCg4SFhoeIiYqLjI2Oj5CRkpOUlZaXmI0oAy+Znp+YPRg9DKCmiEEiPKBBJKuEMyengzIAtgSvlzYXi0EukkMguZsws4M9AsWZPRaMMhiTQhSrNi+kxoIopZnSuYhDHLKTzEQ2MNfGQg/imLGLKLYABZNDH8XE2DK4mcHeiEAK/EEShW3QkA3bMAFpxggdJSEVCgoCcoDdJYKMUlgEJkyijHme3C0a0gGGkE6UVCgzdhAakRQAeL0MwPCRSEUAd7AQBFNmCpqMVLLcEI+BDwsLiZACYiJSNUYH9x1NurTpIhoCjcEbIEvlj5WObjra2hXG16BgCQWRsNGSyiD+nVbsCJFVkdhGb+POrUtIKKKPn4AYcNljQE2bbRcJJmwYb1pCQiCAFRyvcjJIBy8PolzZlua7kTI/NuQXkTaJkUAbK32ox76JBjp7XinEgezb8S5z7vyZXW3cwINrFsS60JAQbFEjVk6k+KAg0wAzZ6R6lnMi0FcBQTB6OqzE1h8DSbAShctMtW7xRVT91HVD6yUh676ovan3BU9Psj8xQYTXk+CXzjqU8EcEDhrdEJ8iAs6iz4LsgUfIECIQsVMlDZpyUEKSGAjECEK0oAOG9M1CkYTUoSiIDycABCEiGYIiXYEqfhKjJy1Zoho8wdlynmPKHVRUJar9xuEgOHj+AMCRi9zonV3g9QBAAOChAJIjTj4ZYSK1AEgIEAtAkqWWhrQn5JUTdoTdLwyWSGZ9KFL24yAKCvJMk26+mQh/tQxnCDgqjqmnIAbC4+UgPMrT5qAd1ljboZsFhCejqdU4Hn0OJSLooPwJMQFKhdSp0SA1WFXIpnraB+gh/ZBkEqiHoPqmmeEgAhEROe3k6WiykhlDA4mkMCchVhIR1So5sJBVBhpQCkl1M8hkHA4SLPlnCzDm6ewxwxKRXo/DBiHin2puy0hSn/QQpiG3mttIP6hh5K4zNWLS65vtLlIqJejO24i8p8Drb1go7sqRtgMjWUIiyb74nCoJfzIEthENDyruiBW/qW7GHEcSCAA7\" width=\"107\" height=\"58\" vspace=\"1\" hspace=\"0\" border=\"0\">                           (4.2-2)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 162,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>단, 합성효과는 단기적으로 작용하는 하중에 대하여 고려하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 163,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhBwANAPQAADpmtjqQ22Y6kGaQ22a2/5A6ZpDb/7ZmOrZmZraQkLb//9uQOtuQZtvbkNvb/9v///+2Zv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAHAA0AAAUk4CSOo+SQImKgUIBGwoMiCikdBJk0wMgYkkINMhAtcqikUhQCADs=\" width=\"8\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 합성작용의 정도 (<img src=\"data:image/gif;base64,R0lGODlhFQAPAPUAAAAAAAAAZgA6ZgBmtjoAADo6kDpmkDqQ22YAAGYAZmY6OmY6kGZmtmaQ22a222a2/5A6AJA6OpBmtpCQ25C2/5Db/7ZmALZmOrZmZraQkLa227bb27b//9uQOtuQZtu2kNu229vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAAVAA8AAAZywJVwSCwahyDRcUk0FZTMpSpSiTJHB+sytYBqm4rqd2iiYMdCU2OVSnBKXiN8ZWIML4+M8gJwrC4BHCt6RioQAAMkDWopEicahwNHKRMrFgACVSgabJVHJRshGBwoGx8cHhWgIUcdkiYED2wIBiKuaEdBADs=\" width=\"22\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">와 0.7 중 작은 값)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 164,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhFQAPAPUAAAAAAAAAZgA6ZgBmtjoAADo6kDpmkDqQ22YAAGYAZmY6OmY6kGZmtmaQ22a222a2/5A6AJA6OpBmtpCQ25C2/5Db/7ZmALZmOrZmZraQkLa227bb27b//9uQOtuQZtu2kNu229vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAAVAA8AAAZywJVwSCwahyDRcUk0FZTMpSpSiTJHB+sytYBqm4rqd2iiYMdCU2OVSnBKXiN8ZWIML4+M8gJwrC4BHCt6RioQAAMkDWopEicahwNHKRMrFgACVSgabJVHJRshGBwoGx8cHhWgIUcdkiYED2wIBiKuaEdBADs=\" width=\"22\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">: 휨실험으로 증명한 합성작용의 정도 </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 165,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhQgARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6kDpmtjqQ22YAAGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLa2/7bb27bb/7b//9uQOtuQkNu2kNvbkNvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADEALAAAAABCABEAAAb+wJhwSCwaj8ikcslsOp/QqDQGiwQwyNZnyn2mHkgR6MkyAACJ7ktxPg/GLlQsQ5AbYZQhyTIMAQINRSwHdl2DcjAQCTASIC0oX0csFzFraEIsgWVgfWldQiGeiQ8sCDEjHymmRhxjQimeKXVznlQRWEkpbbsFRFVYMBoNGWcCIBkDuEQvFUSwRb9Dh58xZWcBDKCcSSrKMc9E3USh1DHklQpgG65JHIXftTFavrdLurtnvULRVBAPLwtilEjCrAi4GC5MVOqAiVAMDQAcPARExmGwOpnmQZSogaI4Z56s/cGQ6AyBEQ0ywZrkhFibAAjktFCQRkXKBisv4PEFoRg1OyTEkq1b8ZNaUAxDQbDkss6FBw4nJryj1vRp1KlSNn0bEKicNANgUnD1OiSRMbLQIJyNEgQAOw==\" width=\"68\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">: 등가 단면2차모멘트 (mm<sup>4</sup>)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 166,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhVAAiAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6Zjo6kDpmtjqQ22YAAGY6AGY6ZmZmtmaQtmaQ22a2/5A6AJA6OpA6ZpBmOpBmZpBmkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQkLa2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29vb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAADoALAAAAABUACIAAAb+QJ1wSCwaj8ikcslsOp/QqHRKrVqvztqBQZBhv2Diy8NpecPoaw6jE6Xf1VoGN4rB71Aap4Y44/+AgVI5EgCGh4gAARyCb2Y6NQYCJ0YvFYtJNiZDOROYQpqNRTSbQjMAXUcdEUoqlEMzrEKuokM4GUUdAApHMxBKOGxCHak6a1GRhrxLOAuIA5QzjETNn9S4Qjd+Qx+UNjKxQjUbQy4aQyiKv0V820rtxhK83Uank0k5FK9E4SwmMwmEhKDUbJe4X5FkoeN1KhGAAkVQLCMUIccFd8MeJqkRsJ6sDgMY3eK3bEaqDsuEdJrGZKUxD78sYtRRUCERXQDukTSiZyfIEZdD4DVJpuiByotIUEBMahNWUx0hts1IKaQnEYmmHGpcKKSZLHpGhB4BWyQFy67YYFEN9XPCWSVAKVYlx66PkZE4HOiAoWMFXR0g3FlVO+SGHRwkgtodajeHh2LHqDXYxw8hBE04JotLq1KYT6KYCBkqpgSnoQAJto3jZIHyTVY2FvCCIeKMG3Z/4xnSWevDW2MvJFhTOaLWlXRaDw3XYaOEHeOiAEKfTr269Sh+r//J7Fo7GtozvX/JUVw8nObPzaORrr59lSAAOw==\" width=\"86\" height=\"33\" vspace=\"1\" hspace=\"0\" border=\"0\">: 단면2차모멘트 (mm<sup>4</sup>)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 167,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCQANAPQAAAAAAAAAOjoAZjo6kDpmtjqQ22YAZmZmtmaQ22a2/5A6AJA6ZpA6kJBmZpC2/7ZmALZmOrbb/7b//9uQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAAJAA0AAAU0oCaOZGlOQAoUY7ZIWiWM2CFaw1ixVxONj1TA0WJQNBYBDEkQYQzLSUKTgbAyClUAYep2QwA7\" width=\"10\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 접합유리의 폭 (mm)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 168,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPUAAAAAAAAAOgAAZgA6ZjoAADoAZjqQ22ZmtmaQ22a222a2/5A6AJCQkJC2/5Db/7ZmALZmOrZmZraQkLa227bb27b//9uQZtvb/9v/29v///+2Zv+2kP+2tv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAMAA8AAAZKwJBwSCwajZfjsINQCi0OJWgBACickYrzc3CGmJ6MUpOYhCCAxDnQ3BQqGwRTY+g0iA/AwJHlaIdZHhQSGAxiSwRXGgNNUgsCFUEAOw==\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 접합유리의 등가 두께 (mm)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 169,
+        "title": "4.2.2.1 접합유리의 해석",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>접합유리의 등가 두께는 강도와 처짐산정을 위하여 식(4.3-8)을 이용하여 구한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 170,
+        "title": "4.2.2.2 복층단열유리 구조",
+        "level": 4,
+        "label": "4.2.2.2",
+        "contents": "<p>4.2.2.2 복층단열유리 구조</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 171,
+        "title": "4.2.2.2 복층단열유리 구조",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 복층사이의 공기압의 효과와 온도 등을 고려하여 개별유리판의 하중분담효과를 25% 증가하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 172,
+        "title": "4.2.3 처짐 제한",
+        "level": 3,
+        "label": "4.2.3",
+        "contents": "<p>4.2.3 처짐 제한</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 173,
+        "title": "4.2.3.1 유리판의 처짐",
+        "level": 4,
+        "label": "4.2.3.1",
+        "contents": "<p>4.2.3.1 유리판의 처짐</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 174,
+        "title": "4.2.3.1 유리판의 처짐",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 유리판 지지조건에 따라 처짐제한은 다음과 같다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 175,
+        "title": "4.2.3.1 유리판의 처짐",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>① 4변 단순지지의 경우 단변길이의 1/60을 초과할 수 없다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 176,
+        "title": "4.2.3.1 유리판의 처짐",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>② 3변 단순지지의 경우 자유단 길이의 1/60과 2개 지지변 길이의 1/30 중 작은 값을 초과할 수 없다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 177,
+        "title": "4.2.3.1 유리판의 처짐",
+        "level": 6,
+        "label": "③",
+        "contents": "<p>③ 2변 단순지지의 경우 유리판 지지점 간격의 1/60을 초과할 수 없다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 178,
+        "title": "4.2.3.1 유리판의 처짐",
+        "level": 6,
+        "label": "④",
+        "contents": "<p>④ 캔틸레버는 자유단까지 길이의 1/30을 초과할 수 없다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 179,
+        "title": "4.2.3.2 테두리구조의 처짐",
+        "level": 4,
+        "label": "4.2.3.2",
+        "contents": "<p>4.2.3.2 테두리구조의 처짐</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 180,
+        "title": "4.2.3.2 테두리구조의 처짐",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 7.2m 이하 경간의 지지부재는 경간의 1/180 또는 20 mm를 초과하지 않아야 하며, 7.2 m 이상 경간의 지지구조는 경간의 1/360을 초과할 수 없다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 181,
+        "title": "4.2.3.2 테두리구조의 처짐",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 캔틸레버식 지지구조는 경간의 1/90 또는 20 mm를 초과할 수 없다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 182,
+        "title": "4.3 유리구조부재 및 요소설계",
+        "level": 2,
+        "label": "4.3",
+        "contents": "<p>4.3 유리구조부재 및 요소설계</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 183,
+        "title": "4.3.1  휨과 압축부재",
+        "level": 3,
+        "label": "4.3.1",
+        "contents": "<p>4.3.1  휨과 압축부재</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 184,
+        "title": "4.3.1.1 경계조건",
+        "level": 4,
+        "label": "4.3.1.1",
+        "contents": "<p>4.3.1.1 경계조건</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 185,
+        "title": "4.3.1.1 경계조건",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 유리판과 테두리구조와의 접합상태를 단순지지로 간주하여 처짐과 응력을 산정한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 186,
+        "title": "4.3.1.2 처짐산정",
+        "level": 4,
+        "label": "4.3.1.2",
+        "contents": "<p>4.3.1.2 처짐산정</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 187,
+        "title": "4.3.1.2 처짐산정",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 최대 처짐과 압축응력 및 좌굴하중은 유리판의 개수에 따라 단면2차모멘트 값으로 산정한다. 중앙부의 최대처짐은 다음 식으로 산정한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 188,
+        "title": "4.3.1.2 처짐산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                <img src=\"data:image/gif;base64,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\" width=\"252\" height=\"37\" vspace=\"1\" hspace=\"0\" border=\"0\">           (4.3-1)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 189,
+        "title": "4.3.1.2 처짐산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhGQAPAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADpmZjpmtmYAZmY6AGZmZmZmkGaQ22a2/5A6ZpBmkJCQOpCQtpCQ25C2kJC225C2/5Db/7ZmALZmOraQkLa2Zra227bbkLbb27b//9uQOtuQZtu2Ztu2ttvbttvb29vb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC4ALAAAAAAZAA8AAAZ1QJdwSCwaj8ikcslsOp9HDOEkbGUu0JUHclIhXCoLtKSauEAOVwoLDV1aj49LQ4VeV4mPqgEVogwDEQAEHyILBgcKBVQZARcYAh0GaUhlLRJzJykMCmkjHiZKYZeZLBUiFi0lJBxKkBsBFJMisQhSIgCUfUZBADs=\" width=\"26\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">: 중앙부 최대처짐</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 190,
+        "title": "4.3.1.2 처짐산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBgANAPQAAAAAAAAAOgA6kDpmtmY6AGZmkGa2/5C2/5Db/7a2ttuQOtuQZtv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABEALAAAAAAGAA0AAAUgYCSOZGmepEMESPQUTHNECgAMTLS042JAidyDIMihSCEAOw==\" width=\"7\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 편심거리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 191,
+        "title": "4.3.1.2 처짐산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDQAPAPUAAAAAAAA6ZgBmtjoAAGY6AGY6kGZmZmZmkGZmtmaQ22a2/5A6AJBmkJCQtpC2/5Db/7ZmOrZmZraQkLb//9uQOtuQZtuQkNu2ZtvbkNvb29v/29v///+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANAA8AAAZLwJBwSCwaj8ikcglaKISfw6bIwTg+iJBlUsxsO4mQZEoEMTaVB6gR+hAC3E9BA3lcHKE0WAgBGAYCUxETWEmDhUgUD3tIHm9cSyFBADs=\" width=\"14\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 중앙부 초기처짐</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 192,
+        "title": "4.3.1.2 처짐산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDwAPAPUAAAAAAAAAOgBmtjoAADo6OjpmtjqQ21idtmY6kGZmkGadkGa2/5A6AJA6OpA6ZpCQtpC2/5Db/7ZmOrZmZrbb/7b//9uQOtu8kNvb29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAPAA8AAAZNQJBwSCwaj0ULACBADj+NiHPoQWSmQo0BK5RIsR9HRYhxbgpCDsVpWYA4iaskoCAMDB/GcrnVag4TY0iBIB4PU4EdFxBTGgMLHVdcREEAOw==\" width=\"16\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 좌굴길이</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 193,
+        "title": "4.3.1.2 처짐산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCQANAPQAAAAAAAA6kDpmtjqQ22YAAGaQkGaQ22a2/5A6AJA6ZpBmOpBmkJCQtpCQ25C2/5Db/7aQkLb//9uQOtuQZtuQkNu2kNvb/9v///+2kP/bkP//tv//2////wAAAAAAAAAAACH5BAAAABwALAAAAAAJAA0AAAU5ICeOZGlKwMBpxLgpgoiNGpNEHDVij3RsjBHkkjFkHCJNg7NZVB6io2hSuEyhnCITAQhYNxaT2BQCADs=\" width=\"10\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 축하중</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 194,
+        "title": "4.3.1.2 처짐산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhEAAPAPUAAAAAAAAAOgBmtjoAADoAZjo6OjpmtjqQ21idtmYAAGY6OmY6kGZmkGadkGa2/5A6AJBmkJCQtpC2/5Db/7ZmALZmOrZmZrbbkLb//9uQkNu2Ztu8kNvbkNvb/9v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAAQAA8AAAZfQJJwSCwaj0dRAuAQUgDMI0ghEI4gHmTmQsCQQBLkKEKiNDNeafhzGCNJaJJowQkf3cIKI23UNIUgBiQVAQ0FA20PAAETVh1sHwgWfEeTcmRvJJMhG3ZvHwMOIVmZR0EAOw==\" width=\"17\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">: 좌굴하중</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 195,
+        "title": "4.3.1.2 처짐산정",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 중앙부 처짐은 테두리구조와 접합조건에 따라 약산식으로  (4.3-2)과 (4.3-3)을 사용하거나 역학적인 근거에 따라 정밀한 식을 사용할 수 있다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 196,
+        "title": "4.3.1.2 처짐산정",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>① 4변 단순지지</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 197,
+        "title": "4.3.1.2 처짐산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>                                   <img src=\"data:image/gif;base64,R0lGODlhSAApAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6Zjo6kDpmkDpmtjqQ22YAAGYAZmY6AGY6ZmY6kGZmZmZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmZpBmkJCQOpCQkJCQtpCQ25CcZpC2tpC2/5Db25Db/7ZmALZmOrZmZraQOraQkLa2tra227a2/7bbtrbb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEgALAAAAABIACkAAAf+gEiCg4SFhoeIiYqLjI2Oj5CRkpOTKzSUmJmGRS2Xmp+URz03nqCPQAAZmjw/pKaRNiiaKQAABT+vjkcfuJ+WuY5GFUcaAqWEKhlACKpIRx0BFCaCqLfAjEMWGyUcx4JEMRMyRhO4Kg5HG7LXkDYD64c6Ow1IRhA0Qws/Rx7e7IspBjDodQiIqnw/ajioV+HfoyPdamRgdUiFLIVIJCIB4kAIQYeJhCGxceJFPQmXhowgloEIyo0OirDA4AIkI44bA8jS4cJHCB8vhiiIoFMQMQPpmtmEdOSFkRFGYOBc+mrIBSAmcpCopZSqJiMRBhww4LUsphTWnFlMhKqWWwD+ZM0SIiKD1xB6Br8+eMu3r9+/b40J0vEUJhIiM9j6jSt3UN61pMAS8NeYkUWIl1r8iGW1cqQUGYYkoIHjAhJLIr2mIJA4UpADBEDYwoW6IVWDU33RSO01likboU1/MrL3rTUdvVZTniR5uSR7nu4664Ykx4zcntmSbRoVifTqNLBnPwQaCY5pSGgBEKx8fMjiggVpdN8IyC3eSNbSZ5RiIeKmzvCiSA3rEOhZOvAEkZhINR0SRAgYIPFghJUhJEgOtlmFmCAqAEBhDbOBmJZZxPBVVD0PLCThBZ05I4JRL+6nCC0ErFNYPSPIqIglG27UTF46IjLEAUr9cppzQQ4KYsQHvCwp4CGBAAA7\" width=\"74\" height=\"40\" vspace=\"1\" hspace=\"0\" border=\"0\">                             (4.3-2)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 198,
+        "title": "4.3.1.2 처짐산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhDQAPAPUAAAAAAAA6ZgBmtjoAAGY6AGY6kGZmZmZmkGZmtmaQ22a2/5A6AJBmkJCQtpC2/5Db/7ZmOrZmZraQkLb//9uQOtuQZtuQkNu2ZtvbkNvb29v/29v///+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANAA8AAAZLwJBwSCwaj8ikcglaKISfw6bIwTg+iJBlUsxsO4mQZEoEMTaVB6gR+hAC3E9BA3lcHKE0WAgBGAYCUxETWEmDhUgUD3tIHm9cSyFBADs=\" width=\"14\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 중앙부 처짐 (mm)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 199,
+        "title": "4.3.1.2 처짐산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPUAAAAAZgA6OgA6kABmtjoAADpmtjqQ22YAAGY6AGY6ZmZmtmaQ22a2/5A6AJCQkJCQ25C2ZpC2/5Db/7aQOra2tra227a2/7b//9uQOtuQZtu2Ztu2kNu229vb29v/29v///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACYALAAAAAAMAA8AAAZLQJNwSCwaixPB5ygkKZhC0QJqCkkwgMsxA5keS40C1KkxjJZFqZRDSmhFDxOIQTowOhSPw1MxliokDyQWRlIgERsSRiQIAQQDVENBADs=\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"><img src=\"data:image/gif;base64,R0lGODlhawAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6OjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmZmZmZmkGZmtmaQ22a222a2/5A6AJA6OpBmOpBmkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQOraQZraQkLa2tra227a2/7bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAACH5BAAAAD4ALAAAAABrAB8AAAb+QJ9wSCwaj8ikcslsOp/QqHRKrVqLNkOggtVyfSxAgCJ8aclDXufKbqchKt3j847Pc+ScwcKT1HoYdEIhCm6GVjaFYBZDiUIsFjYENT4gCjkeQjeCOC+Kh6BQLIqjQ6Vgn4B0IRQ9NEI9KY6htE2np6iPn5tCOicPaCc+s7XFSLefyL0qQpg+PSQWOCvDn8bXjaSMQrOQPjuvPCktgnggAOgABdjsPjxwch89F3zwdwboAR82CX8h27nascuypUvBIyHEoKmEbp3AhxAjSnxoI51FhxMzatxYi8cCiyBDihxJsqTJkyhBCqA2TCTGIiz0cQwFYuUVFyxngsJ5M+f+oRiUkuhgRmRoMwOTrPBU6rPJDCFPkdwgmmQpEZ7OemoVImONQS7zAAwQ5ENPUh4clvTY8KxFUnds9QQASCRGUx9di1ilwtMjAGvu7MljSyRHB1XDyCLJSsyHiBXkciQ4stcv4L1TrDau9sjCWiI8JhR5vMQES2+NLMBQcSOTEcycr96Nohkwsh4Z8E22gcBBwR4agrrzHcE1WlgYDvzlxsfBW713N8OmnXPz7eA6FlhgIUAFjznAgwKqgNgHL3cMOryjtpmby2zQt8Y2RUqBJEogtjvMH57buv4+mBCUDevw0AB7dFEW3WWzQVEbFtqc9xiBQuTn2GmM4LFDDcdodTaMQ+QsAZt0DT7x4DP0vGPHB33UkINoBq5onmuQ9FBCBSiYRxYmOmCwzQjCITEig1qFBYBNjXjBDVIDKvkMYTw4UAAgnhFmykE5pLWEXUQYiaQP04ki0yFZFVHmEcK4UVOJOrUpRBAAOw==\" width=\"108\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>"
+      },
+      {
+        "no": 5019,
+        "sort": 200,
+        "title": "4.3.1.2 처짐산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBgANAPQAADoAADo6OjpmtjqQ22Y6kGaQ22a2/5A6AJA6ZpA6kJDb/7ZmOraQkNuQOtuQZtu2Ztvb29v/29v///+2tv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAGAA0AAAUl4CWOZGmeY0VEx3BNT2ElF+QoFiIyEiVcqsjCcKEEAL9Lg4gKAQA7\" width=\"7\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 설계압력 (kPa)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 201,
+        "title": "4.3.1.2 처짐산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBgANAPQAADoAADoAOjpmZjpmtjqQ22Y6ZpBmkJC225Db/7bb/7b//9uQOtuQZtuQkNu2ttvb2/+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAGAA0AAAUkYCWOZGmeJAQIRzUVyYJUEFE1SsUglPHoiMjAUZEEEAsbahQCADs=\" width=\"7\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 단변길이 (mm) </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 202,
+        "title": "4.3.1.2 처짐산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>또는 2변 단순지지에서 지지점 간격 (mm)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 203,
+        "title": "4.3.1.2 처짐산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCAANAPQAAAAAAAAAZgBmtjpmtjqQ22Y6kGaQ22a2/5A6AJA6OpA6ZpDb/7ZmALb//9uQOtuQkNu2Ztu2ttvb/9v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAIAA0AAAUyYCaOZEk6QAqMWLJk2HgVkyWNFJE9zcikApaiUTHEMpVBxjKJiBwHEcSIUAECPZNWFAIAOw==\" width=\"9\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 유리판의 탄성계수 (kPa)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 204,
+        "title": "4.3.1.2 처짐산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhEAAPAPUAAAAAAAAAZgA6ZgA6kDoAADpmtjqQ22YAAGZmtmaQ22a222a2/5A6ZpA6kJCQkJCQtpDb/7ZmALZmOrZmZrbb27bb/7b//9uQOtuQZtuQkNvb29v///+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAQAA8AAAZkQJFwSCwaj8fPBlkMMSxMYqcQHUYAgAC0ellUh5Nt8QIRXkQghEhT7DgUInc84alIAHBRZrsXeQ4GHAkdCSIXAAMbhwNEVwJlIQ9CkUVhHxRzQoRtBF4iGGWfoUYgDg0bpaciQQA7\" width=\"17\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 유리판의 등가두께 (mm)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 205,
+        "title": "4.3.1.2 처짐산정",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>② 2변 단순지지</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 206,
+        "title": "4.3.1.2 처짐산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhUwAnAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmOjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmOmZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmZpBmkJCQkJCQtpCQ25C225C2/5Db25Db/7ZYALZmALZmOrZmZraQOraQkLa2tra227a2/7bb/7b/27b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29vb/9v/ttv/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEkALAAAAABTACcAAAf+gEmCg4SFhoeIiYqLjI2Oj5CRkpOUlYIsNJaam4tGLpmcoaJIPTegoqiDRkCCPI48QKaps0k1AAAJMo4qtwSstKKykpjAqMKDKw1JKgEogjYGAyAyQQC+xaE2CgABGUlFMisXQEEMtb5ECKfY2SVJOM06Px2ZRAk+D85HFL/snEECMh1xoCGJPVZBCOC4FkSZv1BCTAjax6qGQxUNLApaoUFHv4eVjkzQpRHJhgLvEpBDqUPCiREgORGJAMDhkQcVACz4taIZkQPOYqYKglLoISIGbim9FbBStZqzgjQjpNEorSIlahQkmuSIBURIlyptOtGB2LNo06pdS9YjMRX+BY+QsAqMyNcjEOqZOBJhwDq6mhoaVJnEBg0bKIhgAHxIxQBdj2qgrIHOHCavjAsF0SD4EV+dHwD4TXL5a+ZCiDmVPk3I8V9KNjQotoRkheigOJI+JvRUbIMiMZLkoOZQE9/RlEwWrBHQLhAkLcgKAgiqtgatwml0Zs07oFR9+Vo7fJFkyAwOQV1zJ4TEQ/GJ4eE7m51CadH1rQGYK1RVkK1bUw32EX5UFdAPEXMNYpIymE33HoFIwCAIUgV94w4hP+kT3BA0rBDUITV8GKJQ3xlkQEFFSJSEEEFJRohcSNBzBGSECCGCNyveKBQSIvRQS3NJMZWJcoPsMAEN9vxHQF4StnljyzVPDugPEqHt1hhayph0jRAYzIYETIJ8SeAkvAygT4JdoTnmI5iAk8Rmg8C5JiQUXnIKMXNKckQIIbCyZ5+GBAIAOw==\" width=\"85\" height=\"38\" vspace=\"1\" hspace=\"0\" border=\"0\">                         (4.3-3)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 207,
+        "title": "4.3.1.3 응력산정",
+        "level": 4,
+        "label": "4.3.1.3",
+        "contents": "<p>4.3.1.3 응력산정</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 208,
+        "title": "4.3.1.3 응력산정",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 최대압축응력은 식 (4.3-4)을 이용할 수 있다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 209,
+        "title": "4.3.1.3 응력산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                <img src=\"data:image/gif;base64,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\" width=\"255\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">          (4.3-4)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 210,
+        "title": "4.3.1.3 응력산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhFwAPAPUAAAAAAAAAOgAAZgA6kABmtjoAADpmZjpmtmY6AGZmZmZmkGaQ22a222a2/5A6OpBmOpCQtpCQ25C2kJC225C2/5Db/7ZmALZmOraQOraQkLa2Zra227bbkLbb29uQOtuQZtu2Ztu2ttvbttvb29vb/9v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAAXAA8AAAZrwJVwSCwaj8ikcslsOpmqB2A6KD1Vjsrqon2uTAuhp+FdfbTY7tPDUGEO5VUKAThYQYmCAUGwXgIVFgIcBWRGKBEqECsZJScKCGQhHSRIKBSKjCUpEyCYIyIbSIIaARKFIKYHFgMgAIZxQ0EAOw==\" width=\"24\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">: 최대압축응력</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 211,
+        "title": "4.3.1.3 응력산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCQANAPQAAAAAAAA6kDpmtjqQ22YAAGaQkGaQ22a2/5A6AJA6ZpBmOpBmkJCQtpCQ25C2/5Db/7aQkLb//9uQOtuQZtuQkNu2kNvb/9v///+2kP/bkP//tv//2////wAAAAAAAAAAACH5BAAAABwALAAAAAAJAA0AAAU5ICeOZGlKwMBpxLgpgoiNGpNEHDVij3RsjBHkkjFkHCJNg7NZVB6io2hSuEyhnCITAQhYNxaT2BQCADs=\" width=\"10\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 축력</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 212,
+        "title": "4.3.1.3 응력산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCwANAPUAAAAAAAA6kABmtjoAADpmtjqQ22YAZmY6ZmY6kGZmtmaQtma2/5A6AJA6ZpBmOpCQOpCQkJCQ25C2/5DbtpDb/7ZmOraQkLaQtra227b//9uQOtuQZtu2kNv/ttv///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAALAA0AAAZKQJJwSCwaiRqAYBgaDEcOgnBUkQpFECvnsRiCJgmSCNPIDC2d8CU9FEVECA7lU2BKRAcFqUIZbigiBhlwHiQjDAABHRhNSkePj0EAOw==\" width=\"12\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 모멘트</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 213,
+        "title": "4.3.1.3 응력산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCQANAPQAAAAAAAAAZmY6Oma2/5A6AJC225Db/7ZmALZmOra227b//9uQZtuQkNvb2/+2Zv/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAAJAA0AAAUtoCSOZGmOi2E+glomiDs+SkxGjZSSDuAPI0hBdACKGAoiMEIAAA+AQPJEFYUAADs=\" width=\"10\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 단면적</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 214,
+        "title": "4.3.1.3 응력산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAANAPQAAAAAAAAAZgBmtjoAZjo6kDqQtjqQ22YAAGY6kGaQ25A6AJC225Db/7ZmALaQZrbb/7b/trb//9uQOtuQZtu2ttvbttvb29vb/9v///+2Zv+2tv/bkP/b2///tv//2////yH5BAAAAB8ALAAAAAAMAA0AAAVB4CeOZGmaDRBAByB4ytgh2JcZoibTn4R7ltGGgOk4cJyaaIih3DwX0rDy8FmUS8KiV4hKB5GewLRJiCaMk3o9CgEAOw==\" width=\"13\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 단면계수</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 215,
+        "title": "4.3.1.3 응력산정",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 접합유리 또는 복층유리의 좌굴하중은 식 (4.3-5)으로 산정한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 216,
+        "title": "4.3.1.3 응력산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                      <img src=\"data:image/gif;base64,R0lGODlhqgAnAPYAAAAAAAAAOgAAZgA6kABmkABmtjoAADoAOjoAZjo6ADo6Zjo6kDpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmkGZmtmaQtmaQ22a2tma2/5A6AJA6ZpBmkJBmtpCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLa2kLa2tra227a2/7bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAACqACcAAAf+gEGCg4SFhoeIiYqCPyKLj5CRkopAK5OXmJmaQCCanp+ROiSgpKWKPAYBo4I5q6amqKqZQB84ijkAuboADkEvugO2r68vGjkFgkAdwsOkxceaORqLOQIuySbTQdXXzc08I4I8GN6v4Jo8DYslvUEqQTvd7OXNNoPShD4nroWcn/6S7EWaEQGAuiA/KDAz9APCqHFBfDBySO+VPYHFkm0AIOsQwE2dIl2ElIPBjSAmRgHh0O3Qr1wdBb0IVrEULl6CUhJqyI/Qx1khH91sp+iHhYkqWSICsqGXUZ9Na2J6CWwhSn48lwY1JCNVT59bB1HNRbNQ15iCYrgokavdypb+hXgcGPWDBbxrcr9KVaRDRKVKiGBgpTgI1S5dMau1ALIPyMkghg9zHNX3r6VDihmTcCzoXZAbM1a9RfQC2aAfIWSa3jsJ3DmX2pBqPZR1W4F4hn4Sch2OIeFjuOveM63MqsbYNSZcY6rNhDXWj064wHcI4mnCucOyKpuDwOV+2gVJp14oB3fvgnq0GFTCdLpDbCU7YKrLwQ8Pr6EjepqDaKGn1+kVhG6qDTcbQ0f159Jq0KTVzQ8PaEOeJj58px9skC1gnCCCBXhgeTTRkEID6mWHIQ8aGmKeLSKSuJ4JF+DAVFnSfTKDCx0mMpQ4Bkx2IUIhxQdAWZH8QtMLBxH+M6QtSCK0Agw9NiBMfppAyMCGhOiQQFnW/RiEDr15CUqJ4OmHggwdqbVIZIc9J+abg9CAJXSoQTgNgXDmqScmapYGWZiJsLmLmwg9INmhiCaq6KKMNupoom5C+OihhA4YEg8IuKDmnpx2CslrTGUQnqekkrqpL2iV6k0sAubJ6iM9VMAMisKYEIAGPChggH+qavLMap7+uk4uwD7WnzQ11NhrKVSS2uwlyuK5rKWTCNSrtZpI18MNz+qpj4DSHjISIQQZxNpNPgoybjQGTCOKp/SlOki45bVFSEkn6bQXN/faOy0otZlY5VEIYVfTPP+WEzBkPUoW01hLFqJWfLyS0rNwwq9cPG94la0A2CGegdbqMDPNibEnGicz6p/dCscKsPQwVfHJpKRMLSLjxUYImUG0t1deg+BGM8AGg7VfgjNvaudefqo8dM1FQ5IRrYbAKOMGRMa8gTY9SDCKrbjqOvPT8FWV8ZNRmlyKkLogc6wGycJFtpg85xntynNDJyen2nILaN6A29TulyMHbng5gQAAOw==\" width=\"171\" height=\"38\" vspace=\"1\" hspace=\"0\" border=\"0\">                 (4.3-5)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 217,
+        "title": "4.3.1.3 응력산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCAANAPQAAAAAAAAAZgBmtjpmtjqQ22Y6kGaQ22a2/5A6AJA6OpA6ZpDb/7ZmALb//9uQOtuQkNu2Ztu2ttvb/9v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAIAA0AAAUyYCaOZEk6QAqMWLJk2HgVkyWNFJE9zcikApaiUTHEMpVBxjKJiBwHEcSIUAECPZNWFAIAOw==\" width=\"9\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 유리판의 탄성계수</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 218,
+        "title": "4.3.1.3 응력산정",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>① 2중 유리판 좌굴하중 산정에 적용하는 계수는 식(4.3-6)을 사용한다. </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 219,
+        "title": "4.3.1.3 응력산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>                   <img src=\"data:image/gif;base64,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\" width=\"215\" height=\"57\" vspace=\"1\" hspace=\"0\" border=\"0\">               (4.3-6)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 220,
+        "title": "4.3.1.3 응력산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCAAPAPQAAAAAAAAAOgA6kDpmtjqQ22Y6kGa2/5A6AJA6OpA6ZpDb/7ZmALZmOraQkLb//9uQOtvb29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABYALAAAAAAIAA8AAAUvoCWOZEkuAECQFaKUVBGV0loyL5s40CxOg4fAZ3kYLI1Z5QAIKJImaEk6eqhMoxAAOw==\" width=\"9\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">, <img src=\"data:image/gif;base64,R0lGODlhCAAPAPQAAAAAAAAAOgBmtjpmtjqQ22Y6kGaQtma2/5A6AJA6OpA6ZpDb/7ZmALZmOraQkLb/trb//9uQOtvb29vb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAIAA8AAAUvYCaOZEkyAECQWLKUV0GV1Vo2L6tApTVUqlHk4HgYMhgEILDATEoYiYQGEJiupBAAOw==\" width=\"9\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">: 각 유리판의 단면2차모멘트 </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 221,
+        "title": "4.3.1.3 응력산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCAAPAPQAAAAAAAA6kDoAZjqQ22ZmtmaQ22a222a2/5A6AJDb/7ZmZraQkLa227b//7yQOtuQOtuQZtvb29vb/9v///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAAIAA8AAAUuoCaOZElKplWYUEJmCAAcpdKUGCFGk6hejkBPQzEwNIthRXBLmpwl6OgBGJhGIQA7\" width=\"9\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">, <img src=\"data:image/gif;base64,R0lGODlhCAAPAPQAAAAAAABmtjoAZjqQ22ZmtmaQtmaQ22a222a2/5A6AJDb/7ZmZraQkLa227b/trb//9uQZtu2Ztvb29vb//+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAAIAA8AAAUtoCaOZElOpmWYkEJmCQAg5fKUGJEaVwQMIsqhwXAURBXBLYN6SSQlCiBgqpJCADs=\" width=\"9\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">: 각 유리판의 두께</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 222,
+        "title": "4.3.1.3 응력산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCgAPAPQAAAAAADoAADoAZjpmtma2/5C2/7aQkLaQtra2trbb/7b//9vb29vb/9v///+2Zv/bkP/btv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABEALAAAAAAKAA8AAAUpYCSOZGmeaHo6grKYL4IejQgxo9FAiQMQIh9gIHoUUEbk8ZQ0PQI/VQgAOw==\" width=\"11\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">, <img src=\"data:image/gif;base64,R0lGODlhCgAPAPQAAAAAAAAAOjoAADoAZjpmtjqQ22a2/5C2/7aQkLaQtra2tra227bb/7b//9uQOtu2ttvb29v///+2Zv/bkP/btv/b2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABYALAAAAAAKAA8AAAUsoCWOZGmeaHpKQwOZr4Im0YlEFDMJwWFJAADB4jBIhqdKzfSILEw7QEGlCgEAOw==\" width=\"11\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">: 전단면의 도심으로부터 각 유리판의 도심까지의 거리</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 223,
+        "title": "4.3.1.3 응력산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBQANAPQAAAA6kABmtjoAADo6kDqQ22Y6Oma2/5A6ZpDb/7ZmALZmOrZmZrb//9uQOtuQZtv///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAFAA0AAAUjYCWOZEUpxugg48KIUyEElTQ8SgWl+UodlQiiQRAlAI9SKQQAOw==\" width=\"6\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\">  : 유리판의 너비</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 224,
+        "title": "4.3.1.3 응력산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPUAAAAAAAAAOgAAZgA6kABmtjoAADpmtjqQ22YAZmY6ZmaQ22a2tma2/5A6AJA6ZpC2/5Db/7ZmALZmOra2tra227bb27bb/7b//9uQOtuQZtu2Ztu2ttvb29vb/9v///+2Zv/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAMAA8AAAZQwJFwSCwaj6NMQXDZGCUGj0iiKGIOwwyEGEJchhsPEUNACiOMkagBYBIjWLXjq3kIPwLLSDPwhBJfQhIAAQsUIxwTYkgih2YgFR1mHwZmREEAOw==\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 중간막 재료의 전단탄성계수</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 225,
+        "title": "4.3.1.3 응력산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBwAPAPQAAAAAADoAZmZmtmaQ22a222a2/5A6AJCQtpDb/7ZmZra227bb27b//9uQZtvbttvb/9v/2/+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAHAA8AAAUs4CWOZCk+5TSUDTJaBgAUZMKQlZAOFHSIEYIisrpIAgwHikRZjigLlst0CQEAOw==\" width=\"8\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 중간막 재료의 두께</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 226,
+        "title": "4.3.1.3 응력산정",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>② 3중 복층 유리판의 좌굴하중 산정을 위해 필요한 계수산정은 식 (4.3-7)을 사용한다. </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 227,
+        "title": "4.3.1.3 응력산정",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>                     <img src=\"data:image/gif;base64,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\" width=\"186\" height=\"57\" vspace=\"1\" hspace=\"0\" border=\"0\">                 (4.3-7)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 228,
+        "title": "4.3.1.3 응력산정",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3) 접합유리의 등가두께는 강도와 처짐산정을 위하여 식 (4.3-8)을 이용한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 229,
+        "title": "4.3.1.3 응력산정",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                       <img src=\"data:image/gif;base64,R0lGODlhpAApAPYAAAAAAAAAOgAAZgA6ZgA6kABmkABmtjoAADoAOjoAZjo6kDpmZjpmkDpmtjqQ21gAAGYAAGYAOmYAZmY6AGY6OmY6kGZmZmZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmkJBmtpCQOpCQkJCQtpCQ25C2kJC225C2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLa2kLa2tra227a2/7bb/7b/trb//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEgALAAAAACkACkAAAf+gEiCg4SFhoeIiYqLjI2Oj5CRkpOSRg8AmJmam5ydnp+goaKjpKECNZSphCuoqoZGJq6ys4NHMbS4Rx8/uEhHI73BlEEowqpGF8FAxcaqQwcBzJFHIrzNkkMZvbrW15M2G0AGlEAb3pHlvdnnzieUQw3sjzfSgkUr0jkHAAMzhDaZCFhLN+hePUK/UiWExOORjgkA4iExUqGbPEWsanEAEE3QkAs/jrQ4RQgIyUHgBB3Z2PHQwkkvGzVsyAgIgx5IVBQ74qHVxUTcChmJwAxIx6H1UjgopJMQUkQxpwFzBATT0kXIBD3l6fPnoaxCib4Sq5XsoKaDnrqcekhfS0P+UVFuEmjI7UEcNVJYVdnTa6J1YQ8isXFVkA26hOg5NYvkWae3JmccwXcEp2NOLYOYsGULUeTJKCoLgiGohw5mXP16Nhe40BASCDkURsm6rGCVbBcXNSCkq6/crk8McTd2d++JMgaJU7lL9SHFrQcRiUVoCALBgG1DBS4ICGIgBW4VijuIFcFC3geGF0TEn6AU4xpLVI1ple+JZokQJ2Y4vtBkaTGGEHeD+bccXAROlAwQs6FkoH94aQUBa+d5BQASFzJnkXaN7YMJSSuxpsJJSECH322/HZIeEju80EB74yWY0hAKbIjEii2+6I8KGITEAWIZOZehVgASohcmiMX+lokDRoAwXFpTHQlAko0ARJcN89FiJS9YThTDDfs0YM2TzgkyZHaqFCHeIEEQV2YqMMbICBHJCXPhkPy5okMNJr45yw42OpKSMfUJEqErRkDAQKB++nVEBygGwwKjjVYqiZT+KXLZJiRK554vIFgqqiw0UqpKCrUZoY2EpbTq6quwxsrpfQw+sqkmnXZY2BC1jeprJGgFg0MI/uV5ESzOdeYNV0Z8SgsPKyJxqDzkXWSsMTT6QFpOAGggiAoBrDrJEAmgEtRFy2ALTaS+VHPNSnQFkcE6DJI5yVNgUducMOAcmEiF3ug1QDGsHEfJU2gGcwRNHomLrZuIwHMRKzD+uuCDu5SEeGOvwRBBgTQVGrRdJAwP8lBEWlUkzzMUDuDwJEqVyC6iEvg06EocoVgtIjOVdFNOO/XlKAe5RmLDOEEa4y/Quo1M1V5Eapfar1QR4MO+xtiwwAEDMx2gzjLOZSNeR141NdWMkEtDkcKsZMAPy/WplkcebpLZZjEoe8i2pqEmNNpYRVDCy70YUXNjNQ7KIYJ/CQexU3XeGN+5gCuykgUc97Li0Y05PLeciJiXOXufwudRlpUnksJbwtSqcb4nOv3Kgg0OcmiiFI6eeiE2FI1LVodZY+LnAyIyY42H8OgjkPftjh6VrR+wKJTvBWRqJV+GOebjzhuy9E8PbZ4TZ/HdKzJd+ZIAqlogADs=\" width=\"166\" height=\"40\" vspace=\"1\" hspace=\"0\" border=\"0\">                   (4.3-8)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 230,
+        "title": "4.3.2 커튼 월",
+        "level": 3,
+        "label": "4.3.2",
+        "contents": "<p>4.3.2 커튼 월</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 231,
+        "title": "4.3.2 커튼 월",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 테두리구조의 부재는 강구조기준과 알루미늄구조 설계기준에 따라 구조안전성을 확보해야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 232,
+        "title": "4.3.2 커튼 월",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>     (2) 테두리구조로 지지된 유리구조의 안정성과 처짐은 4.3.1에 따라 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 233,
+        "title": "4.3.2 커튼 월",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 건축주가 요구가 있을 경우 기밀성 시험(ASTM E 283), 수밀성 시험(ASTM E 331, AAMA 501.1),층간변위시험에 대한 변형시험(AAMA 501.4), 열순환시험(AAMA 501.5) 및 전체실물크기시험 (ASTM E 2099)의 요구성능 만족여부를 확인하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 234,
+        "title": "4.3.2 커튼 월",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 횡하중 및 구조시스템의 변형효과, 열팽창효과, 수밀성과 기밀성의 확보, 내구성을 검토해야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 235,
+        "title": "4.3.3 인장력 지지구조",
+        "level": 3,
+        "label": "4.3.3",
+        "contents": "<p>4.3.3 인장력 지지구조</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 236,
+        "title": "4.3.3 인장력 지지구조",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 프리스트레스 공법을 이용한 인장케이블의 인장응력상태를 구조물의 변형을 유발하지 않도록 지속적으로 관리하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 237,
+        "title": "4.3.3 인장력 지지구조",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 지지구조를 구성하는 케이블의 장기간 응력완화 및 크리프 효과를 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 238,
+        "title": "4.3.4 난간형 유리구조",
+        "level": 3,
+        "label": "4.3.4",
+        "contents": "<p>4.3.4 난간형 유리구조</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 239,
+        "title": "4.3.4 난간형 유리구조",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 난간 손잡이 구조는 유리판 상부 또는 바닥에 연속 부재를 통해 고정되어야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 240,
+        "title": "4.3.4 난간형 유리구조",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 모서리에 위치한 난간 유리구조는 풍하중 압력변화를 고려하여 추가 모멘트 응력을 고려하여 안전성을 확보해야 한다. </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 241,
+        "title": "4.3.4 난간형 유리구조",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 상부 손잡이 레일은 중간 유리판의 파괴가 발생할 경우에도 나머지 유리판에 부착되어 사용자 안전을 확보하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 242,
+        "title": "4.3.4 난간형 유리구조",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 유리판 하부에 클램프 형의 접합부 폭은 100 mm 이상, 두께는 12 mm 이상 확보하여야 한다.  볼트형 클램프의 최대간격은  500 mm를 초과할 수 없다. </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 243,
+        "title": "4.3.4 난간형 유리구조",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5) 볼트를 사용하지 않는 클램프는 삽입깊이가 90 mm 이상 확보해야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 244,
+        "title": "4.3.5 바닥 유리판 구조",
+        "level": 3,
+        "label": "4.3.5",
+        "contents": "<p>4.3.5 바닥 유리판 구조</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 245,
+        "title": "4.3.5 바닥 유리판 구조",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 4.3.1에 따라 바닥판의 구조안전성과 사용성을 확보해야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 246,
+        "title": "4.3.5 바닥 유리판 구조",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 바닥 유리판과 테두리구조의 접합부 경계조건은 단순지지로 다룬다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 247,
+        "title": "4.3.5 바닥 유리판 구조",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 진동 및 충격하중에 대한 검토가 필요한 경우 실험 또는 동적해석을 통해 안전성을 확보해야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 248,
+        "title": "4.3.5 바닥 유리판 구조",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 최대집중하중의 효과는  5cm×5cm면적에 1.3 kN의 하중이 작용하는 것으로 검토한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 249,
+        "title": "4.3.5 바닥 유리판 구조",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5) 보행으로 유발되는 유리표면의 손상을 최소화해야 하며 주기적으로 손상여부를 조사해야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 250,
+        "title": "4.4 접합부설계",
+        "level": 2,
+        "label": "4.4",
+        "contents": "<p>4.4 접합부설계</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 251,
+        "title": "4.4.1 실란트",
+        "level": 3,
+        "label": "4.4.1",
+        "contents": "<p>4.4.1 실란트</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 252,
+        "title": "4.4.1 실란트",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유리와 유리지지구조부재의 접합용으로써 강도와 수밀성을 확보하여야 한다. </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 253,
+        "title": "4.4.1 실란트",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 구조용 실란트의 허용강도는 130 kPa 이상 확보해야 하며, 구조용 및 내후용 실란트의 압축 및 인장 변형능력은 25% 이상 확보하여야 한다. </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 254,
+        "title": "4.4.1 실란트",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 구조용 실란트의 접착너비는 최소 6 mm 이상이어야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 255,
+        "title": "4.4.1.1 외부 유리판 지지용 실란트",
+        "level": 4,
+        "label": "4.4.1.1",
+        "contents": "<p>4.4.1.1 외부 유리판 지지용 실란트</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 256,
+        "title": "4.4.1.1 외부 유리판 지지용 실란트",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 4변 실란트지지의 경우, 실란트의 최소접착너비는 다음 식으로 결정한다.               </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 257,
+        "title": "4.4.1.1 외부 유리판 지지용 실란트",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhSAAkAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Ojo6Zjo6kDpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmOmZmkGZmtma222a2/5A6AJA6OpA6ZpBmOpBmkJBmtpCQtpCQ25C2/5Db/7ZmALZmOrZmZra2tra227a2/7bbtrbb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbkNvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////yH5BAAAAD8ALAAAAABIACQAAAb+wJ9wSCwaj8ikcslsOp/QqJSIMwQyR5pQm+w5AADCbUr+9Sas3aRV9GkAg9GyB2GXyTiG0IUl+kBOOAV3ZS4Ne4d+gEQlGTgHfUIkkYRRhohtHREAejsqFCs9FGNmD3KVUpc/qkM+Hjc7DhkyM3p0djhiqKmJrEK5Y5M/OFg6CqQkiT8nu4F6P8JuWDmnJmwlcqo+G6c9Kc1NZ2l1RT0WNzoXP9JqdsZjO6NCJQJ24EZVV0dVujoJEQHkuAFDMFGPDzpEHOFR414gZUx4oECS45lDJTjAUEoSo8WLU0VwQLxYycsCUkX4kFzpZ0MFffgIyhzEEooXDKJQ1gSnQ4+HDw72hmSUCYbmEC9EkypdypRovV+H3v2AoXDnLpWCrDpMuEOCnDNBtd5xAZPGCZ1id/mYmPbeDhQN2zbLU7PRo41yp3gClTPvHVq2yMX1K4XYj3eu0BJugm3VoR4hFkdht+YwgqeSm/gDeOoFBsOZmYgsYg0HyNBIhlKSYQMoaik9HuB9zTIIADs=\" width=\"74\" height=\"35\" vspace=\"1\" hspace=\"0\" border=\"0\">                                (4.4-1)     </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 258,
+        "title": "4.4.1.1 외부 유리판 지지용 실란트",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCAAPAPQAAAA6kABmtjoAADo6kDqQ22Y6OmaQ22a2/5A6ZpCQtpDb/7ZmALZmOrZmZrbb27b/27b//9uQOtuQZtvbttvb/9v///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAACH5BAAAABwALAAAAAAIAA8AAAUyICeOZCluzGFKitlApVYIAYkNFdOKlqqPrA3ikRBdFBGCxTBaACoTiikjLWUcq52JEwIAOw==\" width=\"9\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 최소 실란트 접착너비 (mm)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 259,
+        "title": "4.4.1.1 외부 유리판 지지용 실란트",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPQAAAAAAAAAZgBmtjpmkDpmtjqQ22YAAGY6kGZmkGa2/5A6AJA6OpA6ZpBmtpDb/7ZmOra227a2/7bb/7b//9uQOtuQZtu2kNvb29v///+2Zv/bkP/btv/b2///tv//2////yH5BAAAAB8ALAAAAAAMAA8AAAU+4CeOZGmaFAAI5+ctTvt1ByZnhfw9cesxE9HFpCGINhJU4rNB2B6BiUehUuU6jU1ExoHILJNKz9QxDGy6TwgAOw==\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 각형 유리창의 단변길이 (mm)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 260,
+        "title": "4.4.1.1 외부 유리판 지지용 실란트",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBgANAPQAADoAADo6OjpmtjqQ22Y6kGaQ22a2/5A6AJA6ZpA6kJDb/7ZmOraQkNuQOtuQZtu2Ztvb29v/29v///+2tv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAGAA0AAAUl4CWOZGmeY0VEx3BNT2ElF+QoFiIyEiVcqsjCcKEEAL9Lg4gKAQA7\" width=\"7\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 유리창에 작용하는 허용풍압 (kPa)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 261,
+        "title": "4.4.1.1 외부 유리판 지지용 실란트",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCQAPAPUAAAAAOjoAADo6Ojo6kDpmtjqQ22Y6kGaQ22a2/5A6AJA6ZpA6kJCQ25C2/5Db/7ZmOraQkLa2trbbkLbbtrbb/9uQOtuQZtuQkNu2Ztvb29v/ttv/29v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAJAA8AAAZAwJFwSCwaj8jkKGTYJApED+YgWnCGGYtDpJA0hhDOhwCiCJmbB6IDQIw+ggBhdJkwRhW3EKK5FyMYekQfA1dIQQA7\" width=\"10\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 허용부착강도 (kPa)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 262,
+        "title": "4.4.1.2 복층유리용 실란트",
+        "level": 4,
+        "label": "4.4.1.2",
+        "contents": "<p>4.4.1.2 복층유리용 실란트</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 263,
+        "title": "4.4.1.2 복층유리용 실란트",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 복층유리판이 백킹바의 충분한 접착강도를 확보하기 위하여, 실란트의 최소너비는 다음 식을 만족하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 264,
+        "title": "4.4.1.2 복층유리용 실란트",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhTgAkAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Ojo6kDpmOjpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmOmZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmkJBmtpCQtpCQ25C2vJC225C2/5Db/7ZmALZmOrZmZraQkLa227bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29vb/9v/ttv/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAABOACQAAAf+gEGCg4SFhoeIiYqLjI2Oj5CRkpE9EQADLIY+OII0kDkAoQElk6VAGxlBMQSchC6hCpmfAi2ltjwKnEAcpIQwtZMmDra2OayCJhqFv4UnwyajiD8QvcSSLgWDwoUvCwABqT0sJxc4OQ2ILsfW19nIw4QvI6qjMzcdtbithKfw7JHGWiUjlINWkB8PlOkLYsxGhAHAgvA4UG1HxH+KFu4qcSqbDhKCflDg5AKesBcleGAYhG0QEBAYG51auWrfwQmZSgbpqCoXihY/LAg6pSxIDwklThiMmajSJVmEeFiCN60CAAacfgYNYiKUVwAFfnzgAZLpvxzuBmkVmsiHCrO4Z0P5C/JCg8pEMlqghMv3x8OLhRBi5UvYWgwDABrYFMQD8ddQSwuXKsiCBwLAkglPq3ao8WPIERF+Hk26tOnHSwMSmoE5M1O0gzalWOya6UIZIjaArV34FYFMP0Lw5k12eO0dK2oYz9yStzOu0ZabFUfOHDrpTO3hk5hLOXaMC43d8ED7+ySdXB0EN8+OZ4xcPBJEZi+p6lVOLzLkKEpfEmxCP+XAWX+OgALAXNq1RmB9EPC3IHuBAAA7\" width=\"80\" height=\"35\" vspace=\"1\" hspace=\"0\" border=\"0\">                              (4.4-2)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 265,
+        "title": "4.4.1.2 복층유리용 실란트",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCAAPAPQAAAAAOgAAZgA6kDqQ22Y6AGY6Zma2/5A6AJDb/7ZmOra2/7bb27bb/7b//9uQOtuQZtu2ttvb29v/ttv/2/+2Zv+2tv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAIAA8AAAUqYCaOZGmeqGkRADJehUtSg/nIWCQ6BgZJCtGFIJgcAo1ShWGCLEwJ2SkEADs=\" width=\"9\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">: 백킹바와 접합된 복층유리의 실란트 최소너비 (mm)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 266,
+        "title": "4.4.1.2 복층유리용 실란트",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCgAPAPQAAAA6ZjoAADo6OjpmtjqQ22Y6AGY6kGZmtmaQ22a2/5A6AJA6ZpA6kJDb/7ZmOrZmZraQkLb//9uQOtuQZtu2Ztvb29v/29v///+2tv/bkP/btv//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAKAA8AAAU7YCeOZGmeaGpuhqUQJUYhHHOR1dRwS1RCl8xgUwD4WBZHQpdBdDKCwKDziGwOHUliVL2aJI2mSVP0pUIAOw==\" width=\"11\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">: 바깥 유리창에 작용하는 허용풍압 (kPa)</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 267,
+        "title": "4.4.2 유리접합",
+        "level": 3,
+        "label": "4.4.2",
+        "contents": "<p>4.4.2 유리접합</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 268,
+        "title": "4.4.2 유리접합",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유리재료가 맞대어 인접한 재료의 경도는 유리재료의 경도를 초과하지 않아야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 269,
+        "title": "4.4.2.1 테두리구조",
+        "level": 4,
+        "label": "4.4.2.1",
+        "contents": "<p>4.4.2.1 테두리구조</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 270,
+        "title": "4.4.2.1 테두리구조",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 테두리구조는 강도 및 처짐제한을 만족하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 271,
+        "title": "4.4.2.1 테두리구조",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 유리판 단부는 최소 10 mm 이상의 깊이로 테두리구조 틀에 삽입되어 접합재료로 부착되어야 한다. </p>"
+      },
+      {
+        "no": 5019,
+        "sort": 272,
+        "title": "4.4.2.1 테두리구조",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3) 유리판은 테두리구조 접합면의 안쪽으로 6 mm 이상 확보한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 273,
+        "title": "4.4.2.1 테두리구조",
+        "level": 5,
+        "label": "(4)",
+        "contents": "<p>(4) 테두리구조와 유리판 사이 접합재료의 두께는 5 mm 이상 확보한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 274,
+        "title": "4.4.2.1 테두리구조",
+        "level": 5,
+        "label": "(5)",
+        "contents": "<p>(5) 테두리구조 틀과 테두리구조 접합부는 유리판을 통해 전달되는 설계하중에 견딜 수 있어야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 275,
+        "title": "4.4.2.2 접합재",
+        "level": 4,
+        "label": "4.4.2.2",
+        "contents": "<p>4.4.2.2 접합재</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 276,
+        "title": "4.4.2.2 접합재",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 4.4.1 에서 명시한 실란트 재료강도 및 사용 중 예상되는 하중과 변형에 대해 유리판이 손상을 일으키지 않는 범위의 변형능력을 확보해야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 277,
+        "title": "4.4.2.3 볼트접합",
+        "level": 4,
+        "label": "4.4.2.3",
+        "contents": "<p>4.4.2.3 볼트접합</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 278,
+        "title": "4.4.2.3 볼트접합",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 볼트와 유리판 사이에는 직경 50 mm 이상 조임판과 개스킷을 설치하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 279,
+        "title": "4.4.2.3 볼트접합",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 볼트 접합으로 이루어진 캔틸레버 길이는 볼트접합 사이 경간의 1/4를 초과할 수 없다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 280,
+        "title": "4.4.2.3 볼트접합",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3) 열응력을 고려한 전형적인 유리판 볼트접합의 허용 면내변형방향은 [그림 4.4-1]과 같다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 281,
+        "title": "4.4.2.3 볼트접합",
+        "level": 6,
+        "label": "그림 4.4-1",
+        "contents": "<p><img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAS0AAADkCAYAAADNc3ImAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAC47SURBVHhe7Z1nlBzVtaj9w/fn+/Xeev7x3l3vmfts33vBAQzGYGxwAEwyVwiDJIQEEpJAOeeIIso555yzRkhCcZSzhHIOSJpRTiOhEcx+/W1VSa3W6ZnprqmZ7mF/a5013dXV1dXdc77ee9epOj/Ky8ur8f3334+3Zs1a8bRInyvzIyN5Ih/ibDEMo9iI9LnuXvczkgHze5+lYRjFQ3uv+xnJYNIyjGLHpBUEk5ZhFDsmrSCYtAyj2DFpBcGkZRjFjkkrCCYtwyh2TFpBMGkZRrFj0gpCstI6f/mkLFk7QpZvGCfLN1orjW3Z+tGybscs7xs3ihCTVhCSkdb1m5ekx+gKUqfzr6RBt6elftffWitlje+Vxnf8ZeYw75s3igiTVhCSkda5C0elee8XpXW/v0qb/n+T1v1f1tvWSkfT77Tf3yJ/X5FG3X8vI2fU9755o4gwaQUhGWllXzoR+Yd+WRp+8TuZv7Kf3s+KiMxa6Wh8n5nbpkvTns9L4x6/l3Fzm3vfvFFEmLSCEERa9bo+Jas2T/KWGqWJfUcyI8J61qQVDiatIASRFrUPCrZG6WP3wRUqLJNWKJi0gmDSMlykq7Ru3bol8+fP9+6lLCatIJi0DBfpKq0JEybIj3/8Y8nMzPSWpB55eXntvO5nJINJy3CRjtI6fPiw1K5dW2rVqiWVK1eW69eve4+kFhFptfK6n5EMJi3DRTpKq379+rJq1SqZM2eODBo0SHr16uU9klpE+tzJSMu0llwzaRlO0k1aU6ZMkTZt2ujtAQMGyO3bt+XTTz+V9evX6zKj9GDSMpykm7Tmzp0r2dnZertPnz6kYPL111/L8uXLdZlRejBpGU7StRCPrPr27Ss5OTneEqO0YdIynKS7tBj6UJxcuHBBxowZI4cOHfKWFMyVK1e09rZlyxZvycPwXnzWrFkjY8eOlTt37nhL7nHp0iU9AHHu3Dm9f/78eX3/27dv1/su2O7Vq1fl7t271Nd02fHjx2XgwIFy4sQJvR8LPwKjR4+WU6dOeUtKDpOW4cSklRg3b96Uxx9/XMaPd3cnJLFhwwbZtWuX7NmzR5YtW6YCYkxZgwYNvLVE5cM6kJubqwcT/OEblSpVkv379+ttHmNdUuClS5fq9lasWKGvw4GI5s3z/84WLlyoNcCRI0d6S0S6d+8uPXr08O49YMeOHdKlSxd9zvDhw/W1ShKTluHEpFV4kEzjxo01EqLwP2LECOnQoYNs27bNW0N0+AWdftOmTdrpy5Urp9JCYKzrk5WVJRUqVJCtW7fKjRs39ABDlSpVZN26dSotoirgsenTp6vQqlevrtscPHiwRmRIq3PnzrpeLOwHURgR1dGjR1Wk7C8CXLx4sX52sTRt2lTFCDy/WrVqerukMGkZTkxaBYM4GGIxbtw4OX36tLf0XtpH1LN582ZvycMgGT8l5G+7du30tg8S6927tx5EIPLhPmlgvXr15MCBA95aOnRCIzsOPEyePFmF9eWXX+qyeNK6du2ayg5B1alTRwfjrl27Vo+2sqxfv37emg9AiMOGDVPRTZw4UV+vJDFpGU5MWvmDMA4ePChHjhzRDs/rkbIhMsRw+fJl2bdvn/71OXPmjHzxxRcya9YsGTJkiEZlRFqx0iIV81NEhPLRRx+pBCtWrKiv54NkGNYB/npETFOnTpWOHTvqchcIljSP1JTPir9EgG3bttW6Viy8T6Itor9mzZrd3zbvmc+huDFpGU5MWvlDZ125cqVGRAy3IH3r1KmTRiRESPPmzdO0CylR8ObvtGnTNGIC5EJ0ROF+xowZusyH6Ir3QOrH9hEdsmKkf3SkdfHiRZXMkiVL9LVIP/fu3at1Kp4Xj0aNGmkKCaSKyJD9odDev39/Xc77Y5327dur4BDazJkzZejQobrtRYsW6X76NbbixKSV5vBr3a1bN/115h+Yo0BFgUkrcUjJSNFiYV/4XhhHRjqGvFgP0XHEkfQyGkRG2ojo/KN8wPZdR+9I24j2eA2ksnv3bq1XxYM6FgX+jRs3asTnj2WbPXv2Q+lhdLRIGkxxnyjx22+/vb9PfN7FTYlJ67vvvvNuFQ7MbzwMv641a9bUX1qOIpEWcM4dqURQTFqJww9Hfp89//NEJsiFuhdCIloj9YqFgvu7776rQyl8KNLHgzoVwiLNIxLiiF9+8NpIkSESPkRSfHaxEDW2bt1an4NoOepYkv2x2KXFl+R/AInAkRbCb34NDJGvvvpK6tat+8g/D//Y1DbijbcpLCatxEFaq1ev9u4VDo4wxiuaU3hHcnzHNPrMsWPHnMIoX778/T6VkZFR4JAHF4iPVDAWxpLxAwkM7fjggw8eGS9WnBSbtMi/kQ6/KtF5eSKcPHlSLd+iRQu9/UOmZcuW94u1sfDPFz3+JhlMWolDqkU6lQjUlBgq4YKojXoXww1opG4cSXS9N2pRPXv21AiLWhMRV6JQEyP9i4UDC9S7qGMhr6KI5IMQurQIiQk733vvPf3QOXJB0Y8QOdF29uxZfS4dsmzZsvqrQC7/Q4QCqX+uXSzULIIelk53aZXEaTwcOUy07EF9qKj2lRIBkVt0SpkIRFH57QupZEn8GMQSurT4IN566y157LHHtAhJ3QVbJ9smTZqkkcTTTz+tLb88vzRDih3vV50UmvpGENJNWtRa/A6HtJAHP3DxTpEx0pdiSQ/JwTm8y/WOkglboyHH55AtofgPNcoCxuhEn/7hQyhPTSu/o0eFId2kxf8Dl6QBv5jMmCIGW6Yakf6wL9JmWUuuFWshHuFQPGZwWqJhJr+c/FMymjio+EoLnCvWsGFDHVhIjY+aBKd8uOoSiZJu0qIwzEBLjogRiVML8q+vlYI0967BaSRDcUrLhzEq5P+JwGhjxorw13gARxH5EWBUNQVY6hpFQTrWtDhthnMAOYr34Ycfag00RbGJLYJQEtIyUp90LcQTjf/Lv/zL/RHfKYpJKwgmLcNFukqL02SItEpipHYCmLSCYNIyXKSrtNIEk1YQTFqGC5NWqJi0gmDSMlyYtELFpBUEk5bhwqQVKiatIJi0DBcmrVAxaQXBpGW4MGmFikkrCCYtw4VJK1RMWkEwaRkuTFqhYtIKgknLcGHSChWTVhBMWoYLk1aomLSCYNIyXJi0QsWkFQSTluHCpBUqJq0gmLQMFyatUDFpBcGkZbgwaYVHXl5eM6/7Gclg0jJcmLTCI9LnZkTE9b615JpJy3Bi0jJSFZOW4cSkZaQqJi3DiUnLSFVMWoYTk1ZiMCX9N998490rHEzusnv37kJN8Hr48GGdxzGWu3fverfuceXKFZ15PNFJY5mItaCZ35loORUwaRlOTFqJgTxef/31uNO3IZFIX9OpzpAV0+ldv35dJ9VlOnufaAmxLjNQIUQm5q1YsaKcOXPGe/QeiCwzM1Onw8/Ly1NptW3bVnr37u2t8SjsC/Nmjho1SqedA2alZnq/KVOm6P1omAWbCYCZkp/5S7kOf0li0jKcpLq0mB4sNsooCGagJqIIA2Y+f/fdd3UWoPXr12u04093h6yYNHbatGmycuVKnZdx4MCBKo758+dLy5YtdT0gomrRooWKCvr37y+ff/65Cq5WrVr3ZxXnPttbsWKFjBkzRrffuXNn/VyI3tq3b6/rxYLY4Pjx47JgwQJ9Hs9BZNxnGrpYmPx22LBhenvjxo3SqlUrvV1SmLQMJ6kqLTozv/idOnVKWFoXL17UyW2JbhJ9rgs6+pEjR1RAw4cP121mZ2dr52cWdOTkk5WVpdEV0ujatauKjTkqmVQ2VjDMHD548GCNoJg5m0louV2pUiV9PeC1/SirTJkyMnfuXNm6datMnDhRJcPn4wJps79EcERPiBPZEcFxu1+/ft6aD2BaNt4TnDhxQpo3L9n/B5OW4SQVpbV69WqpV6+edrYgjBgxQpo2bXo/akmWy5cvy969e+9HRfnBjOqkXzwHERFx3bx5UyfbJZ2LBikjELbLeyXSIu3j+dF1J1LCOnXqaLo2c+ZMnbSX7bPteNIC5E1EiHzYF16HZcicyC6WgwcP6rY3bNggzZo10+eUJCYtw0kqSYuOWLlyZXn66ae1Y5HSUDsiSkm00Vl5PmnQL3/5S2ndurXWbBKFqGrZsmWaFvKXyCkjI0NrREiD/aNWRZrop2RELIsWLdJOv27dOo12iKhip+8nEqN2hKBGjx4t5cuX10iHmhbpow+RFTNqU4/ifdWvX1/3o1u3bho9xYP9IN0jbZ03b55UqVJF9wcxEYUB+7xnzx6N5HgvH3/8sWzZskXXqV27tmzfvl3f+8mTJ3X94sSkZThJJWldu3ZNqlatqoVuOhkdZu3atRp5Jdro1Dx/7Nix8sILL2iU49eeEoXohKn4T506pdEO0RtiRCI8xjLqaPzt3r27RkpEQOPGjZNDhw6plPhL5BcN0RWiIBVcunSprgPUuoh6ouE+IkQ6t2/fVrFQ06JWFg/SR9JZoj9kx74BYvTTQ4SGfJE70eDy5cs1beX9HTt2THbu3KlCIx0ubkxahpNUTA/pRHT86FpRohAhDRo0SKMSOndRQoSDGF0gF9I5xEJaOHXqVOnTp49GXRTFYyHKiU3xiOQ48ugCeSA/orsJEyao6ONBPQwZIjuiTuQFpJgILRa2zXZJWYkAEVhJYtIynKRqIZ7aDqlPsoV4amKkmHTcooa0jqN5BUEtCVkAInINTyDSISXmyF5hoLblSxhp5TfkIR5Ii3Q1FmRMmgrsV4UKFZJKqYsKk5bhJFWl5ZPMkAcinMJKIBm6dOmiQwIKAukiCPaf4QrxhieQtpEqkvLREAdiJFqLpVq1ahqJkuqS+iVTLGcIhS+naEiBeW+kq9Ts+MFAXiWFSctwkurSSkUQS2EGXiJPalakZ0gr3nMQEPUsvzFEguaSNXUmIkikwnYTFTowJIOjoS4ouJMWUktMZttFiUnLcGLSMlIVk5bhxKRlpComLcOJSSs8In2OwVD/bi25ZtIynJi0wiMvL6+ld+FgIxlMWoYLk1ao2MQWQTBpGS5MWqFi0gqCSctwYdIKFZNWEExahguTVqiYtIJg0jJcmLRCxaQVBJOW4cKkFSomrSCYtAwXJq1QMWkFwaRluDBphYpJKwgmLcOFSStUTFpBMGkZLkxaoWLSCoJJy3Bh0goVk1YQTFqGC5NWqJi0gmDSMlyYtELFpBUEk5bhwqQVKiatIJi0DBcmrVAxaQXBpGW4MGmFikkrCCYtw4VJK1RMWkEwaRkuTFqhYtIKgknLcGHSCo+8vLx2XvczksGkZbgwaYVHRFptvO5nJINJy3Bh0gqPSJ87G2nbrCXXTFqGE5OWkaqYtAwnJi0jVTFpGU5MWkaqYtIynKS7tI4ePSrHjx/37oXPhQsXZMiQIbJ3715vScFcuXJF+vbtK2vXrvWWPMy5c+dk8ODBcvjwYW9JwZw/f14GDBggO3bs8JY8TKS/e7dEli1bJiNHjpTc3FxvyT3YxsGDB/X14ezZs/LFF1/Izp079X4YzJo1SyZNmsRBCm9JfExahpN0ldby5culQYMG0rZtW2nTpo3UrVtX1q9f7z0aHlevXpUnnnhCxo1z9wcEtXr1atm6dat2/gULFsidO3dk8eLFur8usrKy5Oc//7nMnTvXW/IA5IOYNm7cKF9//bVs2rRJpYk8Wb9ly5bemiInT57U14Vvv/1WOnfurOtDhQoV9HHgMW5v375dli5dqi0jI0Nu3bol06ZNk44dO+p6Lu7evav7i/AuXrwo2dnZ2s6cOaPv3YfPie9ow4YNsm3bNn3/vCbrlClTRq5du+atGR+TluEkHaX15ZdfSqVKlWTfvn3eEtEOWK5cOVmzZo23pOjZvHmzNGzYUDs2Mhg2bJi0atVKheJz8+ZNlQD7Q4SDLIhwEE6HDh28tR6AaOvXr68RCNsh4mKbPB+QVmZmpkZpu3fvln79+slXX30lU6dOld69e0uXLl10PSBSev/991WWyGHEiBHy6aefqkQ/+OADFQsglNmzZ+s2P/zwQ1m1apWKkPvjx4/XqDAet2/flgkTJuh+8jz2bdeuXdKpU6eHnpeTk6OPHThwQL8nROW/fp06dR4SXDxMWoaTdJPWjRs3pEaNGvdTmmhIFevVq6cdqyi5fv26rFy5UiZPnqwRjg+RCaJxpVNEJFWqVLkf+fC3Xbt2ehsQhy+f6A6M9JDHnj17vCWiEQ2SgebNm+vzAHESTUXTokULGTp0qKxYsUJFgtiIamrVqiWnTp3y1ronn+HDh+u6U6ZM0ffHc0aPHi19+vTx1io8vA+iShfdunWThQsXqswXLVok5cuX1/dZECYtw0m6SQtJdO3a1bv3KIiBX/eigkhn//79cujQIe1oCABZXb58WWWCPEnfomV24sQJ7aikXH5EQg3Ml9Z3332nUqKGFb3NS5cu6TaJmNgmr+FTtWpVXZ+0lPeHuLp3765iiqZ9+/b3a2OkZIgTWSAKtutDtOinq6xXrVo1OX36tEZniK4gjh07ptvwfyAQIJFgNLxPhMh+IjU+F95n9erVVdoFYdIynKSbtNatW5dvJEAnTqRIXhBIi/SK1Gf+/PlaoyHNIzVERkQOY8eO1RSI6IpUacaMGfdrNsiMzk3B24+W6MykjmyTCAQRt27dWsaMGaPbJGJBTsiH7SADCuS8b94f67NdXpvl0fA40RPRGuIk7SPCIk2MjrR4Po8hVoTD6yJn3hf3C4L0DxH6guS9IF0fPzpkP4D0l88BqEMWJho2aRlO0k1aFIFr1qypxe1YSB0/++yzhyKUMKCORL0mFjoiYkAIiIzoAuEhOtIuWjyIwlxHAolIkA+PI7hvvvlGxTho0CCNtrZs2eKteQ9SZJZRQyOK84/SUVxHJLGwPWSLGDkaybZZVhiaNWt2f11+THx4TfYj+vUQNe9/4sSJ+h0WBpOW4SQdC/FEAk2bNn1IXHTQxo0bayE5bJAW9Z94EJ2RPlF4RqTsG5Kjk8eDtM4/0pcfc+bM0UiKOhrRDUfmYiHqe+edd7QW55OfyBkOQWSHNEnlYtM8H1Jh3gf7idwqV658P/VFWuwXEWQsRGDU2ogQp0+fLr169dLPqCBMWoaTdJQWDBw4UIvLdBTqRhTnSa+KA6RFBJUIFOJji+bRkHL6Rfv84KgpQgQEEU+ERJysh9hp1LOohcWOjyLK4ogjf4EULrZO5uOnlER51MlI/RAcsuPIKrWx6IjLh2V8Vz4c5UXkBWHSMpykq7SAcT+kTHSW6CJz2FCsTrTYT8dmqEA8kAGF6oKgBtW/f39NATmSyFgoFxwNZBwXYvPrZz169HhkgCnwGEMpiKCokVHbKkoovlOPQ/TUtkaNGmWDS43kSWdplRR0wsKkN9EgCwZ1xoNtFqYjA4ImwnEN+0gWJEzKRzobFqSRicjepGU4MWkZqYpJy3Bi0gqPSJ/bRb+zllwzaRlOTFrhEUn3mnnX4DSSwaRluDBphYpNbBEEk5bhwqQVKiatIJi0DBcmrVAxaQXBpGW4MGmFikkrCCYtw4VJK1RMWkEwaRkuTFqhYtIKgknLcGHSChWTVhBMWoYLk1aomLSCYNIyXJi0QsWkFQSTluHCpBUqJq0gmLQMFyatUDFpBcGkZbgwaYWKSSsIJi3DhUkrVExaQTBpGS5MWqFi0gqCSctwYdIKFZNWEExahguTVqiYtIJg0jJcpLu0mHevMDO7lBAmrSCYtAwX6SwtJgB98skndb7DFKW51/2MZDBpGS7SWVrMVvyHP/xBnn/+edm+fbu3NHWI9LkJeXl5r1pLrpm0DCfpKq2DBw9Ko0aNVFxMHtqgQQOdhssoPZi0DCfpKK3bt2/rjMXM0zd16lRZv369TJo0SScajfxCe2sZ6Y5Jy3CSjtJiBmRmZAZme/7yyy9VVsySfPXqVV1upD8mLcNJOkor8r/s3bonLabG94l+LAyuX78uly5d8u4VDtLWo0ePevceBdFevnzZu1c42I9jx4559/Ln+PHjzpmjY6PSK1eu5Luf8WA/CjqCe/LkSe9W4TFpGU7SuRAPSGvRokXevfC5c+eOlC1bVubNm+cteZhoEfi3EUbHjh2ld+/eej8WOvxbb70lK1as8Ja4YXukxqdOnZJr165Jjx499P37RL82U/Bv3rxZ/27atEmqVKmiUormzJkzmlozXT1cuHBB64RjxozR+4VlzZo1UrFiRad42V9+VKg5zpkzR+7eves9UjAmLcNJOkiLTj127FjtVLHkJy0EM2HCBI00igpk9cYbb8jMmTNlx44dj0Qm58+f132aO3eufPXVV1K3bl3djwMHDkjLli29tR5m2rRpuk06N9uM3l+GdbB8xowZsnLlSn3dPn36qCi43bZtW29NkT179kinTp309QBRDhw4UO9Xq1ZNTpw4ocuR1+zZs3V7HMjIyMiQrl27avS2ceNGrQ26QIqHDh2Sr7/+Wg4fPqx/aVC7dm05cuSI3o6G7bKfRMDUHXv16uU9UjAmLcNJqktr6dKl8sknn8jw4cMlNzfXW/qAkSNHaqeLx4IFCzTKoHMmC5319OnTMnToUOnbt69GTgxqRSR16tTRv9H4qdjkyZO1zgbbtm2T9u3b621gm0iEI5+IJScnR1OoKVOmSM2aNWX+/PnemqLrIQmiFqSE2JDLqFGjpEuXLt5a91Jj5IQceLx///56wIIIrkKFChpZAZ8jKd3q1avl9ddfl2XLlklmZqa+NsJCii7Y/rp163TfqCs2bNhQunfvro/Vr1/fma6yzpYtW/T28uXLdb3CYtIynKSqtLKysqRDhw7agXfu3KnL6LTUh6Lb4MGDNaqJXe43oLO2atVKox46W3QaVRioOXGk8ty5c96SgqGDfvTRR/dTPkQTHRWRSrFNIrOC4PVJ23g/SAVxIJ4lS5aoxKIhmkNCfH6jR49WASFE5EVa6YNEmzRpovIdN26cypVIlh+AeGlsNKzL58m2gfTP9fmwjB8Mok6i3osXL3qPFIxJy3CSitIinXnzzTflJz/5iUYrRFN0pNg2YMAAKV++vNSoUUOjCtc6NMQ2a9YsefbZZ+WnP/2pdtTCQg0G8ZBOkZJRJ1q1apV2QqIT0kU6vJ8mIVbSVTooqR37TzRFekgNCnzhUONhG2yT10B03Gc522Qsmg9yIjLiqOnWrVs1AmV7sdIimlu8eLGmmESnH3zwgUq9XLly9yMtYP+bNWumqTfpKQLasGGDfP755xpN5geiIqLzj+BCvXr19Dsg8uJABZLevXu3ipLG4F+ixX379mn0y2cSLVEXJi3DSapGWtROiBrohGfPntVlREikKH7j/rBhw1QSsY/5DehkCI6OReHZX15Y6OyIin0igiFCIZViOQIkdSQaIhJi+3R+1iPKICJZu3atPp+hGT50WJZRB2Jd9o20K3qb1Jiys7NVvDxOjQqBIzMeJ1JDTNEQNSFY1kHUyBKIhGIlgfyQLrUt5MX2SCuRSjzYJz5LUj4kSwRLsZ+0j/fOd8V9tkFBn31u3ry5FvuJ/Ein+XwQK+87P0xahpNUr2kRBZBmMYiUyCUWUo/YmlI0REdEBUQufoE6KN26ddPtxsL+IU8EgEwRG+tx9I4OTLobDyIcUrZYECyRGCkhRwypl/F+iWioabmiRmREnSwaBOany7GQsvn1MYrm8dZDwmyHiMmHKJboqUWLFs7ICXkhOUCOFOYLi0nLcJLq0gJ+kUlZXPUfOhkpmAskReclgihK6HgFDU+IhUgjuhAfC0JDbgVBlEeEA7xvZBMLKSrpYGEG2iJFoh9/2ANpG0dqXRBFxRMakaCrEM/3Q6QIpKQIv7CYtAwn6SCt/CDqIKIpTjp37qwpTiKQdvlH2lwgLWpABREtLVJD9sUFRX/qXgibhoiIeGLHSREdMsYqWlqkoIlCfSy6ZuZDpOUfueUAAZFZYTFpGU5MWolDsdw1Ziw/GM5AmhcPiuyFiYyocSEBxm4xBCPe0TjSSCToj6VCskRyrhSbojlCo6ZG0d41tKQg2H9X+s17Iq0Ff2xXYTFpGU5MWulJosM2CkMY2wyCSctwko7SIorwz2WbPn36/ZoWgzALE60Y6YFJy3CSjtJiYCZHBDkdhZSGI1ociv/ss88STtvCJNLnRkSil2etJddMWoaTdE0PGYvEkSgGaTL+iXPaiLpSiUjHa+FdONhIBpOW4SKda1qMbeL0FgY4tm7d2luaUtjEFkEwaRku0llaHEljYovHH3+8SK/kUISYtIJg0jJcpLO0gPFH8a5KkAKYtIJg0jJcpLu0UhyTVhBMWoYLk1aomLSCYNIyXJi0QsWkFQSTluHCpBUqJq0gmLQMFyatUDFpBcGkZbgwaYWKSSsIJi3DhUkrVExaQTBpGS5MWqFi0gqCSctwYdIKFZNWEExahguTVqiYtIJg0jJcmLRCxaQVBJOW4cKkFSomrSCkkrS40iQTUholj0krVExaQUgVaXFlyZ/97Gfy3HPP6ZUnjcLD5VcSmVa8MJi0QsWkFYRUkRbTeDdu3Fhnnk1k4sYfOsyi8rvf/U6ngC9KTFqhYtIKQipIiznQmPuNy+MybRFXnPTncDPyhynFy5YtKy+99JLOoVdUmLRCxaQVhJKWFmlh1apVNSVkbjWmAGdyR3+ZER/mimvYsKFOdjl+/HipW7euzkhTFJi0QsWkFYSSlha1GH8W26lTp8ratWv19s6dO3V2FcNNTk6OVK9eXT87phVH9kzgwMzCeUUwT51JK1RMWkFIlZoWTJs27b60jPzZt2+fjBkzRm8Toa5cuVJvM30502YFxaQVKiatIJi00h+kRYroY5FWymPSCoJJK/1BWqSIRYlJK1RMWkEobmlFXk8WLlzoLBjnJ63bt2/L4sWL5dtvv/WWGD4mrbTDpBWE4pTWli1b5NNPP5WePXs65UMhed26dd69h7l7964MHTpUxyPFW+eHikkr7TBpBaE4pMWRrr59+6pwNnpjiai7EHX5jUGSHD3MzMzU29GP0fw6za5du6ROnTrSo0ePIik4lwZMWmmHSSsIESGEKq2bN2/Kq6++Kr/4xS9kwoQJMmrUKOnXr98jbfDgwVKlShUddzRw4EDnOrSRI0fKlClT5De/+Y08//zzcunSJe+VfriYtNIOk1YQwpYWURIj3Rn4iHBu3bqly0kPo1tubq6eML1q1Sq9Hfs4De7cuaMDKWvVqqWdlbTxh45JK+0waQUhbGn5kMqR0tWuXVs2bdrkLX2Y/Gpa4KeG7du3twgrCpNW2mHSCkJxSctn8+bNKp2rV696Sx5Q0NFDTqRevXq1t8TwMWmlHSatIBS3tHxcAyDzk1ZRDJgsrZi00g6TVhBKSloubHBpcpi00ovID3Arr/sZyVDS0uKKDv7VSpGWX9Ni+ENWVpbeNvLHpJVeRPpc34i4/o+15FqJS4sxXAw43b9/vyxatEh2796thXoK9v4RQ+NRzp07p8IHpO9L6+jRo1r/C4pJKzwife67SMu1llxLifSQy6s0adJEOx+DSxnOQOcz4nPkyBGVPQNxuYji+vXr5dSpUyp7k5ZRmkmZmta4ceOkTJky8vHHH+t4LaNgGJDL5WnWrFmjtcDWrVsXWU3QpGWkKikjrch+yLPPPiuvvPKKHSksJAy0bdSokV5Dq0GDBtKnTx/vkeCYtJKDkkZRRLrRMNg62SvSFvZUN9cQpFQlZaQFe/bskYMHD3r3jMLAxQAfe+wxeeGFF/SUqaLCpFU4mAmpS5cucv78eb1/7do1adasmUa/0cQ7cyM7O7vA7426b7du3XQ+gHjwQ89r8OOPOLlN6WDjxo16alxB8mL8Y7169Yp8VqcwSClpGcnBoFuOIBYlJq3CgSRatGihs0lx9VhkVbNmTT0SHg0/xsw2Rd0WQXC6Ghdu5CwR6rg+CIzHuSLK1q1b9RQ4Ljt+6NAhPRskHkR3vObs2bNVVKzrTw5TrVo1rYECciM4YD+5RDflhA0bNuhj1JI56yTVMWkZTkqntL6X1fOHygfl35eajTrJ/lMPnwp2/fwJWbJokSxalCEZGfxdJAdP3Iug8qN37956IQBSLCInZpOKlRbUr19fRUIURGpPRMRzEJ8Py5YuXapDf5iZ6o033tChP0gHOeYHkRWNbb799tta70SkH3300f0jzeAfqUeEiNQvKxAhErmnOiYtw0lplNahzDHy7O9fkXlfLpGB3VrK0KkrvEfucWL7Yqn4z7Lyz/fek/ci7Z2y/5QpGdu9R+MzYsQImThxos7ZyRVIuO7bsWPHvEcf0LZtW72CCZEVbcmSJTJ8+PC4E7hwgQG2CxxhR1rIx7XtaNq1a6fiQ45IkNPmGCITy9mzZ7UW6l/EoHnz5hqlITWel6qYtAwnpVFax7fMkGee+LU07dhPNuw57i19wN07t+R8dpZGS7SsrGy5eeuO9+jDEB2Rvq1YsULTKzo6097NmjVL61yMm+MactGRS9OmTTXSorDuC4Up9FxT5WVkZDw0aTFRUeXKlfWIsS8yF0iTFJTaFCko5/p+8skn+n6i4YID7A/b9WHYUa9evTTVZb9SFZOW4aS01rRO710hjWq8L88982up0qyv5ETVxw9vnCWvvvQneenPf5a/RNqf/vSSjJjlngCX2hCi4jJJiGH79u1aI2K8HHUiBkhTNyKa8eH+2LFjtZZF2sZfvxbmgwypacUO+6EORcQUDwTIZcwZs+czb948FSsSiz46SLRGdPjNN994S+7BkJl0GB9p0jKclEZp7V03XTr2vhelnN02WZ5+6q9y+MqD4TV539+V25FU6dbt23L7duRv5Pbd7x7Um+JB8ZsDIURdRFKkXMnWhhAhERIpJrLxoUAeHXnFgmz8I+8U8xkGg7SQJ2eZ+BBhUS+jwM9BgOihFJ9//rlGialOIGnV6/KUrNk61VtqlCYOHt8ojbo/W6qkdevSIWlQ+U3540t/lb+9/LoMmrhSgo4IpKCOHBANgjhw4ICmWNGFb6ItoioK60iJdfyG3Iiq2AZRFmkjsH700UJkU1ihcF26Nm3aePfuHQDwa1r+9oErBUdvkxnL04FA0mra8w8ycmYDWRGJtpatH2WtlDSi58kL20uLPi9GpPVcqUoPRXLl4L49cvxM0cxeztE65EJkhKioHfnFch4DalaMsZo0aZLWv0gjoxtFc1JEf30gOmK7p0+f1nby5EmdjQrpFQTDJahPEUXxXIY8uIr9FPZ5Xf81eB6vgTxTmaSklXXxuLTs81Kk/Vma9Hw+kiY+Za2Utcbdfy+t+/1N6nf7rYycUd/75g0XCIb5D/z0kNsMOA0y2BeBIRHqYzTqXGw3OtXLD2psRG8zZsyIW6dCVESI/muQ4s6cOfMheaYiSUnr7t07GmE17fmCtB3wirVS2lr1+6u0H/ia7D+23vvmDaPkSUpacCPnsmRHIq4Ll09ZK6WNMsDVGwUPrjSM4iRpaRmGkRyRPjcvLy+vqrXkmknLMIqZSMdr6l042EiGINLicG3sSNsgULhMhxM2DSMgNrFFEIJIa9iwYffPEC8KGKHLgDcjMbh0CaOtjbTBpBWEINLilAQOyxYVDMLjhFIjMThPjEPsRtpg0gpCcUnr1vXLcvlqjnfPTSpL69LFi5KqE/AzWroor1pqhI5JKwhhSyvvzlUZ2auRvPbyX+Qvf35ZOgycKblxBtymorRuXToqreuUk5deelFefvMDWbHzpPdI6mDSSjtMWkEIW1pn9iyTxg07yNFvzsjGjH7yn48/LZuPuUcKp6K0FgypK7/+40dy4dpN2blhqazbmXpnwZu0UoHv5fTxk3Lj2we/yFmnjsmla87rxZu0ghB6eph7XSb0bSn/ePu/5J/v/l3+9X//WpbtcA9YTEVpnd2/Ut7601Py57+XkU4DJ8mlW6k36YZJK0TyciX3bsHn4n137aC0btZGzty4t+71U6vkVz//d1m46cGlaaIwaQUhqLS4llB+rJvVTd58p7ps339CcnOOyavPPSez1z18HR+fVJTWzZybcu3SWflq/lj55L2/yFuVW0lOip1PatIqPDcvHpSBX7SVZi07yab98Wcwz7l6QXZsWCZzF82RrCsP12J3rJouLZo0keFTl8gtr9ZxcN10+by7N/HE3UvSrvpr8j/+539EfqCdr2HSCkJQaXG5jcg24l4CdvnENvLX/6ou27ZtkUlDGst//2//Kgs2PXrpV0BaAwYM8O6lBqtndJcyFerL9t17ZeagZvJ6mXpyI8XOJ0VaXKccmLA1naaDKk5uZn8tld55TRq3+0K6dagrf3rlHdnzTXSpIk8unzstG9ZmyMxZc2Xd+q1yIebg0falQ+TlV1+XHj27S6UK78ukxTt1+cxBn8v4BfcuzTy1TxNp062vNKv2sczLdF5OxqQVhCDSYoJVBphyUX+umugk96oM6PCpvP56Gek/broM6t5Flm52XxcIabEtrv3DRfnzUmH+w9xrMrJnI3nttdekYo3msu/kNe+B1IFL63Ktca6NxKQK8a45/kMn58ppyZg1Q+bNmyUDezaWx/7XYzIz85T3qMjVrAPyRbOmMnvZBrkVJ5peNr6l/MdvX5H5qzbL5RveddTzrkrnFpH/jezv5fTOeVL1s3a6uHWVCvLVjocnz/AwaQUhiLS49AUX8+c6QUUBI+K5rjYXUSvMdYOMe3BhN+bF6969+yOX0DUecDN7j9Ss8Ia8X+kzGTB8sLz49NMyJuPB/1ne999J9skjkrl6kcyeM182bd4lV3NiJ3j4TuaM6ix/e+FJ+fWTz8uIedvkzoUd0rZt/0icdkPe/eO/yWsV6knfXl3l90/8p1Rt3E+uPFpPMGkFIVFp7dy5U+snpIaVKlWSZ555Ri+ANmTIEL3ovrsNefB4nPV4nPbkk09KjRo1dPuu9Uqq3ds/92Ml2dgvPv8nnnhCqlevnvDnxndJiv9DYPWkVvL38i3v3cndL7/7+c9kzOIHEztEc+3CWdmSuVjmLJwj56JSxC1LZ8uS9ffmEFwzuY28+Ep1Wb5gggwctThivRsyrH8nadqkqTRpVFN+9f/+r7xbraOc94rzUZi0gpCotJhBl6socpGx5557TqdCoo5y4sSJQI2UkKmPuMoi5zO61rH2aONz49K6H374YVKfG7VIvtMfApdObJR//v0FefudclK7/mfywlPPyPDZBQv7btRF8Y5unSuvvvislC1XUf7x9j9kxMzFMqpXB1m49tGabp33ysiS7c4Zm01aQUgmPWQ2Wwq/TEHEda6LAi47y4QA/PobhYdzDlu2bJmyZxKkGlfP7pWZU2fJsewcuZJ1XI6cfDD85ttrZ2TO9IkyceIkLXkwVdfUmRly8cbD50JczzooM6ZOkTVb70VcJ44ekpzc2PprruzfvUvOX7FxWkVOMtKiAM+MHswWUhTnHiI+pi9iFl0KykbhYOZhalnUsZh9xQhG7q3LsmXjWslcu1b/v9euzZR1G7fL9dtFfrjYpBWEZKTlTy5J/aQopMXlaDjyxaH6VBvykMow1x3t+vXr94c8GGmBSSsIyUjLp6ik5cMsJpbmJI4NLk07TFpBSCVppeKI+HTApJV2mLSCYNJKf0xaaYdJKwhBpMUElAWde5gIpIf9+/f37hmFxaSVdpi0ghBEWuPHj9ehCkUFkZYNeUgcu3Jp2mHSCkIQaXHUiqNXRQWno9jJvonDNeLXr7cJVdMIk1YQgkjLMIykMGkFwaRlGMWOSSsIJi3DKHZMWkEwaRlGsWPSCoJJyzCKHZNWEExahlHsmLSCEJHWbO+DNAyjGIj0uS+87mckzI9+9P8BMsyIvudBSTwAAAAASUVORK5CYII=\" width=\"301\" height=\"228\" vspace=\"0\" hspace=\"0\" border=\"0\"></p><p>[그림 4.4-1] 유리판 볼트접합의 허용 면내변형 방향</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 282,
+        "title": "4.4.2.4 물림형 유리지지",
+        "level": 4,
+        "label": "4.4.2.4",
+        "contents": "<p>4.4.2.4 물림형 유리지지</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 283,
+        "title": "4.4.2.4 물림형 유리지지",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 물림접합의 고정부는 유리판재 당 최소 4개 이상 설치하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 284,
+        "title": "4.4.2.4 물림형 유리지지",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 물림접합의 고정부 사이 간격은 600 mm를 초과할 수 없다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 285,
+        "title": "4.4.2.4 물림형 유리지지",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3)  각 고정부의 물림길이는 50 mm 이상 그리고 물림깊이는 최소 25 mm 이상 확보하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 286,
+        "title": "4.4.2.4 물림형 유리지지",
+        "level": 5,
+        "label": "(4)",
+        "contents": "<p>(4) 유리판 모서리부터 고정부 중심까지의 길이는 고정부간 길이의 1/4을 초과할 수 없다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 287,
+        "title": "4.4.3 유리판 접합부 구멍",
+        "level": 3,
+        "label": "4.4.3",
+        "contents": "<p>4.4.3 유리판 접합부 구멍</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 288,
+        "title": "4.4.3 유리판 접합부 구멍",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유리판 접합부 구멍은 6.4 mm 이상 또는 유리판 두께보다 커야 한다. 원형이 아닌 구멍의 모서리는 완곡하게 마감하여야 하며, 내부반경은 최소 유리두께 이상이어야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 289,
+        "title": "4.4.3 유리판 접합부 구멍",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 유리판 단부와 구멍의 최소 간격은 6 mm 이상 또는 유리판 두께 2배 이상을 확보하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 290,
+        "title": "4.4.3 유리판 접합부 구멍",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 구멍의 순간격은 10 mm 이상 또는 유리두께 2배 이상 유지하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 291,
+        "title": "4.4.3 유리판 접합부 구멍",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 유리판 구석에 위치한 접합부 구멍의 대각선 단부 간격은 유리두께의 6.5배 이상 확보하여야 한다.</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 292,
+        "title": "4.4.4 중간막 재료",
+        "level": 3,
+        "label": "4.4.4",
+        "contents": "<p>4.4.4 중간막 재료</p>"
+      },
+      {
+        "no": 5019,
+        "sort": 293,
+        "title": "4.4.4 중간막 재료",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 접합유리 및 복층유리에 사용되는 중간막 재료는 KDS 41 10 10에서 정하는 절차에 따라 설계에서 요구하는 인장강도와 탄성계수 그리고 변형능력을 만족하여야 한다.</p>"
+      }
+    ]
+  }
+]
