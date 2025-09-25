@@ -1,0 +1,565 @@
+[
+  {
+    "no": 5039,
+    "codeType": "KDS",
+    "code": "416010",
+    "fullCode": "1020416010",
+    "name": "조적식구조 재료의 기준",
+    "version": "2022",
+    "updateDate": "2022-10-14T10:48:00",
+    "list": [
+      {
+        "no": 5039,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 41 60 10은 조적식구조에 사용되는 재료의 품질요건과 품질기준을 제공하는 것을 그 목적으로 한다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 4,
+        "title": "1.2 적용범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용범위</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 5,
+        "title": "1.2 적용범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 조적식구조의 일반적이고 기본적인 요구사항과 재료, 설계, 품질관리 등 이와 관련한 기준을 규정한 것으로 조적식 건축물 및 공작물에 적용한다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 6,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 7,
+        "title": "1.3.1 관련 법규",
+        "level": 3,
+        "label": "1.3.1",
+        "contents": "<p>1.3.1 관련 법규</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 8,
+        "title": "1.3.1 관련 법규",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 9,
+        "title": "1.3.2 관련 기준",
+        "level": 3,
+        "label": "1.3.2",
+        "contents": "<p>1.3.2 관련 기준</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 10,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KCS 41 34 01 조적공사 일반</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 11,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KCS 41 34 02 벽돌공사</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 12,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KCS 41 34 05 블럭공사</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 13,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KDS 41 60 05 조적식 구조 일반</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 14,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS F 2527 콘크리트용 골재</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 15,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS D 3504 철근콘크리트용 봉강</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 16,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS D 3527 철근콘크리트용 재생봉강</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 17,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS D 3613 철근콘크리트용 아연도금 봉강</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 18,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS D 3629 에폭시 피복 철근</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 19,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS F 4002 속빈 콘크리트 블록</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 20,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS F 4004 콘크리트 벽돌</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 21,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS F 4038 치장 콘크리트 블록</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 22,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS L 4201 점토벽돌</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 23,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS L 4204 규회벽돌</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 24,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS L 5201 포틀랜드 시멘트</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 25,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS L 9015 석회 및 석회 제품의 시료 채취, 검사, 포장 및 표시방법</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 26,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KS L 9501 공업용 석회</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 27,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 28,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 41 60 05에 따른다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 29,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 30,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 41 60 05에 따른다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 31,
+        "title": "2. 조사 및 계획",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 조사 및 계획</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 32,
+        "title": "2. 조사 및 계획",
+        "level": 2,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 33,
+        "title": "3. 재료",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 재료</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 34,
+        "title": "3.1 품질요건",
+        "level": 2,
+        "label": "3.1",
+        "contents": "<p>3.1 품질요건</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 35,
+        "title": "3.1 품질요건",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 조적조에 사용된 재료는 다음의 요건들을 충족해야 한다. 이 절에서 명확히 제시되지 않은 재료에 대한 품질은 일반적으로 공인된 시험소의 승인에 따라 허용범위 내에서의 성능을 유지하여야 한다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 36,
+        "title": "3.2 품질기준",
+        "level": 2,
+        "label": "3.2",
+        "contents": "<p>3.2 품질기준</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 37,
+        "title": "3.2 품질기준",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 다음의 품질기준은 산업표준화법규에 의한 관련 한국산업표준과 KCS 41 34 01에 제시된 기준이며, 다음의 표 3.2-1에 제시한 자재의 품질기준에 준한다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 38,
+        "title": "3.2 품질기준",
+        "level": 4,
+        "label": "표 3.2-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.2-1 자재의 품질기준표</p></caption><tbody><tr>\t<td width=\"149\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>자재</p>\t</td>\t<td width=\"422\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>기준</p>\t</td></tr><tr>\t<td width=\"149\" height=\"39\" valign=\"middle\" align=\"center\">\t<p>골재</p>\t</td>\t<td width=\"422\" height=\"39\" valign=\"middle\" align=\"center\">\t<p>KS F 2527 콘크리트용 골재</p>\t<p>KCS 41 34 02(2.4)  및 KCS 41 34 05(2.4) 에 따른다.</p>\t</td></tr><tr>\t<td width=\"149\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>시멘트</p>\t</td>\t<td width=\"422\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>KS L 5201 포틀랜드 시멘트</p>\t</td></tr><tr>\t<td width=\"149\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>소석회</p>\t</td>\t<td width=\"422\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>KS L 9501 공업용 석회</p>\t</td></tr><tr>\t<td width=\"149\" height=\"55\" valign=\"middle\" align=\"center\">\t<p>점토 또는 혈암의 </p>\t<p>조적용 개체</p>\t</td>\t<td width=\"422\" height=\"55\" valign=\"middle\" align=\"center\">\t<p>KS L 4201 점토 벽돌</p>\t<p>KS L 4204 규회 벽돌</p>\t</td></tr><tr>\t<td width=\"149\" height=\"70\" valign=\"middle\" align=\"center\">\t<p>콘크리트의 조적용</p>\t<p>개체</p>\t</td>\t<td width=\"422\" height=\"70\" valign=\"middle\" align=\"center\">\t<p>KS F 4002 속빈 콘크리트 블록</p>\t<p>KS F 4004 콘크리트 벽돌</p>\t<p>KS F 4038 치장 콘크리트 블록</p>\t</td></tr><tr>\t<td width=\"149\" height=\"39\" valign=\"middle\" align=\"center\">\t<p>기타 자재를 사용한</p>\t<p>조적재</p>\t</td>\t<td width=\"422\" height=\"39\" valign=\"middle\" align=\"center\">\t<p>KS L 9015 석회 및 석회 제품의 시료 채취, 검사, 포장 및 표시방법</p>\t</td></tr><tr>\t<td width=\"149\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>연결철물 </p>\t</td>\t<td width=\"422\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>KCS 41 34 02(2.8)  및 KCS 41 34 05(3.4)에 따른다.</p>\t</td></tr><tr>\t<td width=\"149\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>모르타르</p>\t</td>\t<td width=\"422\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>KCS 41 34 02(2.5)  및 KCS 41 34 05(3.3)에 따른다.</p>\t</td></tr><tr>\t<td width=\"149\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>그라우트</p>\t</td>\t<td width=\"422\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>KCS 41 34 05(3.3)에 따른다.</p>\t</td></tr><tr>\t<td width=\"149\" height=\"70\" valign=\"middle\" align=\"center\">\t<p>철근</p>\t</td>\t<td width=\"422\" height=\"70\" valign=\"middle\" align=\"center\">\t<p>KS D 3504 철근콘크리트용 봉강</p>\t<p>KS D 3527 철근콘크리트용 재생봉강</p>\t<p>KS D 3613 철근콘크리트용 아연도금 봉강</p>\t<p>KS D 3629 에폭시 피복 철근</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5039,
+        "sort": 39,
+        "title": "3.3 모르타르와 그라우트",
+        "level": 2,
+        "label": "3.3",
+        "contents": "<p>3.3 모르타르와 그라우트</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 40,
+        "title": "3.3.1 개요",
+        "level": 3,
+        "label": "3.3.1",
+        "contents": "<p>3.3.1 개요</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 41,
+        "title": "3.3.1 개요",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 모르타르와 그라우트는 이 절의 조건을 만족하여야 한다. 다만, 요구성능을 만족시킬 수 있는 사항에 대하여 공인시험소의 승인을 거쳐 특수한 모르타르나 그라우트 또는 다른 재료를 사용할 수 있다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 42,
+        "title": "3.3.2. 재료기준",
+        "level": 3,
+        "label": "3.3.2",
+        "contents": "<p>3.3.2. 재료기준</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 43,
+        "title": "3.3.2. 재료기준",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 모르타르나 시멘트페이스트의 성분으로 사용되는 재료들은 이 기준을 만족하여야 한다. </p>"
+      },
+      {
+        "no": 5039,
+        "sort": 44,
+        "title": "3.3.2. 재료기준",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>  ① 그라우트는 시멘트 성분의 재료로서 석회 또는 포틀랜드시멘트 중에서 1가지 또는 2가지로 만들 수 있다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 45,
+        "title": "3.3.2. 재료기준",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>  ② 모르타르는 시멘트 성분의 재료로서 석회, 포틀랜드시멘트 중에서 1가지 또는 그 이상의 재료로 이루어질 수 있다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 46,
+        "title": "3.3.2. 재료기준",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>  ③ 시멘트 성분을 지닌 재료 또는 첨가제들은 에폭시수지와 그 부가물이나 페놀, 석면섬유 또는 내화점토를 포함할 수 없다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 47,
+        "title": "3.3.2. 재료기준",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>  ④ 모르타르나 그라우트에 사용되는 물은 깨끗해야 하고, 산·알칼리의 양, 유기물 또는 기타 유해물질의 영향이 없어야 한다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 48,
+        "title": "3.3.3 모르타르",
+        "level": 3,
+        "label": "3.3.3",
+        "contents": "<p>3.3.3 모르타르</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 49,
+        "title": "3.3.3 모르타르",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 모르타르는 다음의 사항을 만족시켜야 한다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 50,
+        "title": "3.3.3 모르타르",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>  ① 모르타르는 시멘트성분을 가진 재료의 혼합물로 구성되어 있고, 시공연도와 반죽질기를 얻을 수 있는 물과 경우에 따라 소량의 첨가물로 이루어져 있다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 51,
+        "title": "3.3.3 모르타르",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>  ② 물의 양은 현장에서 적절한 시공연도를 얻도록 조절할 수 있다. </p>"
+      },
+      {
+        "no": 5039,
+        "sort": 52,
+        "title": "3.3.3 모르타르",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>  ③ 배합이 특별하게 제시되지 않았다면 다음 표 3.3-1과 표 3.3-2의 모르타르의 종류에 따른다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 53,
+        "title": "3.3.3 모르타르",
+        "level": 6,
+        "label": "표 3.3-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.3-1 모르타르의 용적배합</p></caption><tbody><tr>\t<td colspan=\"2\" width=\"346\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>모르타르의 종류</p>\t</td>\t<td width=\"258\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>용적배합비(세골재/결합재)</p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"171\" height=\"39\" valign=\"middle\" align=\"center\">\t<p>줄눈 모르타르</p>\t</td>\t<td width=\"175\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>벽체용</p>\t</td>\t<td width=\"258\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>2.5~3.0</p>\t</td></tr><tr>\t<td width=\"175\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>바닥용</p>\t</td>\t<td width=\"258\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>3.0~3.5</p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"171\" height=\"39\" valign=\"middle\" align=\"center\">\t<p>붙임 모르타르</p>\t</td>\t<td width=\"175\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>벽체용</p>\t</td>\t<td width=\"258\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>1.5~2.5</p>\t</td></tr><tr>\t<td width=\"175\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>바닥용</p>\t</td>\t<td width=\"258\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>0.5~1.5</p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"171\" height=\"39\" valign=\"middle\" align=\"center\">\t<p>깔 모르타르</p>\t</td>\t<td width=\"175\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>바탕 모르타르</p>\t</td>\t<td width=\"258\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>2.5~3.0</p>\t</td></tr><tr>\t<td width=\"175\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>바닥용 모르타르</p>\t</td>\t<td width=\"258\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>3.0~6.0</p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"346\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>안채움 모르타르</p>\t</td>\t<td width=\"258\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>2.5~3.0</p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"346\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>치장줄눈용 모르타르</p>\t</td>\t<td width=\"258\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>0.5~1.5</p>\t</td></tr><tr>\t<td colspan=\"3\" width=\"605\" height=\"78\" valign=\"middle\" align=\"left\">\t<p>주)     1) 계량은 다음 상태를 표준으로 한다.</p>\t<p>          시멘트：단위용적중량은 1.2kg/ℓ 정도</p>\t<p>          세골재：골재는 표면건조 내부포수 상태</p>\t<p>       2) 혼화재료를 사용하는 경우는 요구 성능을 손상시키지 않는 범위로 한다.</p>\t<p>       3) 결합제는 주로 시멘트를 사용하며, 보수성 향상을 위해 석회를 약간 혼합할 때도 있다.</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5039,
+        "sort": 54,
+        "title": "3.3.3 모르타르",
+        "level": 6,
+        "label": "표 3.3-2",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.3-2 벽돌 조적조의 충전 모르타르 배합</p></caption><tbody><tr>\t<td rowspan=\"2\" width=\"119\" height=\"39\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td>\t<td colspan=\"2\" width=\"231\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>단층 및 2층 건물</p>\t</td>\t<td colspan=\"2\" width=\"231\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>3층 건물</p>\t</td></tr><tr>\t<td width=\"116\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>시멘트</p>\t</td>\t<td width=\"116\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>세골재</p>\t</td>\t<td width=\"116\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>시멘트</p>\t</td>\t<td width=\"116\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>세골재</p>\t</td></tr><tr>\t<td width=\"119\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>용적비</p>\t</td>\t<td width=\"116\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>1</p>\t</td>\t<td width=\"116\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>3.0</p>\t</td>\t<td width=\"116\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>1</p>\t</td>\t<td width=\"116\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>2.5</p>\t</td></tr><tr>\t<td colspan=\"5\" width=\"582\" height=\"63\" valign=\"middle\" align=\"left\">\t<p>주)     1) 계량은 다음 상태를 표준으로 한다.</p>\t<p>         시멘트：단위용적중량은 1.2 kg/ℓ 정도</p>\t<p>         세골재：골재는 표면건조 내부포수 상태 </p>\t<p>       2) 혼화재료를 사용하는 경우는 요구성능을 손상시키지 않는 범위로 한다.</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5039,
+        "sort": 55,
+        "title": "3.3.4 그라우트",
+        "level": 3,
+        "label": "3.3.4",
+        "contents": "<p>3.3.4 그라우트</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 56,
+        "title": "3.3.4 그라우트",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 그라우트는 다음의 요구조건을 만족시켜야 한다. </p>"
+      },
+      {
+        "no": 5039,
+        "sort": 57,
+        "title": "3.3.4 그라우트",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>  ① 그라우트는 시멘트성분을 가진 재료와 골재로 구성되고, 재료의 분리가 없을 정도의 유동성을 갖도록 물을 첨가하여야 한다. 그라우트의 압축강도는 조적개체 강도의 1.3배 이상으로 한다. </p>"
+      },
+      {
+        "no": 5039,
+        "sort": 58,
+        "title": "3.3.4 그라우트",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>  ② 배합의 결정은 주어진 현장조건하에서 재료분리현상을 일으키지 않으면서 타설이 용이한 적절한 시공연도를 지닐 수 있도록 물의 양으로 조절한다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 59,
+        "title": "3.3.4 그라우트",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>  ③ 그라우트의 시공은 다음 방법 중 하나로 하여야 한다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 60,
+        "title": "3.3.4 그라우트",
+        "level": 6,
+        "label": "가.",
+        "contents": "<p>가. 사용한 그라우트재료의 배합과 모든 첨가제의 비율의 결정은 실험이나 현장경험을 근거로 결정하여야 한다. 이때의 실험과 현장경험에 사용할 그라우트재료는 조적개체와 같은 것을 사용한 결과이어야 한다. 그라우트는 각 구성성분의 용적비에 따라 규정하여야 한다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 61,
+        "title": "3.3.4 그라우트",
+        "level": 6,
+        "label": "나.",
+        "contents": "<p>나. 압축강도는 소요강도를 만족하는 최소 압축강도 이상이어야 한다. </p>"
+      },
+      {
+        "no": 5039,
+        "sort": 62,
+        "title": "3.3.4 그라우트",
+        "level": 6,
+        "label": "다.",
+        "contents": "<p>다. 배합은 표 3.3-3에 나타난 그라우트 종류에 따른 비율을 따라야 한다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 63,
+        "title": "3.3.4 그라우트",
+        "level": 7,
+        "label": "표 3.3-3",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.3-3 줄눈 모르타르, 사춤 모르타르, 치장줄눈 모르타르 및 사춤 그라우트의 배합비(용적배합비)</p></caption><tbody><tr>\t<td rowspan=\"2\" colspan=\"2\" width=\"198\" height=\"39\" valign=\"middle\" align=\"center\">\t<p>종   류</p>\t</td>\t<td colspan=\"4\" width=\"384\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>배  합  비</p>\t</td></tr><tr>\t<td width=\"93\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>시멘트</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>석  회</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>모  래</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>자  갈</p>\t</td></tr><tr>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>모르타르</p>\t</td>\t<td width=\"101\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>줄눈용</p>\t</td>\t<td width=\"93\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>1</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>1</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>3</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>-</p>\t</td></tr><tr>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td>\t<td width=\"101\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>사춤용</p>\t</td>\t<td width=\"93\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>1</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>-</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>3</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>-</p>\t</td></tr><tr>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td>\t<td width=\"101\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>치장용</p>\t</td>\t<td width=\"93\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>1</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>-</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>1</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>-</p>\t</td></tr><tr>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>그라우트</p>\t</td>\t<td width=\"101\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>사춤용</p>\t</td>\t<td width=\"93\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>1</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>-</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>2</p>\t</td>\t<td width=\"97\" height=\"20\" valign=\"middle\" align=\"center\">\t<p>3</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5039,
+        "sort": 64,
+        "title": "3.3.5 첨가제와 혼화제",
+        "level": 3,
+        "label": "3.3.5",
+        "contents": "<p>3.3.5 첨가제와 혼화제</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 65,
+        "title": "3.3.5 첨가제와 혼화제",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 첨가제와 혼화재료는 다음의 요구사항을 만족시켜야 한다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 66,
+        "title": "3.3.5 첨가제와 혼화제",
+        "level": 5,
+        "label": "①",
+        "contents": "<p> ① 모르타르나 그라우트에 사용하는 첨가제나 혼화재료는 담당원에 의해 승인된 제품을 사용한다. </p>"
+      },
+      {
+        "no": 5039,
+        "sort": 67,
+        "title": "3.3.5 첨가제와 혼화제",
+        "level": 5,
+        "label": "②",
+        "contents": "<p> ② 동결방지용액이나 염화물 등의 성분은 모르타르나 그라우트에 사용할 수 없다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 68,
+        "title": "3.3.5 첨가제와 혼화제",
+        "level": 5,
+        "label": "③",
+        "contents": "<p> ③ 실험에 의해서 규준의 요구조건에 합당한 결과가 나타나지 않으면 모르타르나 그라우트에 공기연행제를 사용할 수 없다.</p>"
+      },
+      {
+        "no": 5039,
+        "sort": 69,
+        "title": "3.3.5 첨가제와 혼화제",
+        "level": 5,
+        "label": "④",
+        "contents": "<p> ④ 착색제는 순수한 광물질산소나 카본블랙(carbon black), 합성연료만을 사용할 수 있다. 단, 카본블랙(carbon black)의 사용은 시멘트 전체중량의 3% 이하로 제한한다.</p>"
+      }
+    ]
+  }
+]
