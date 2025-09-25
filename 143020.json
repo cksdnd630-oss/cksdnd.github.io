@@ -1,0 +1,381 @@
+[
+  {
+    "no": 5293,
+    "codeType": "KDS",
+    "code": "143020",
+    "fullCode": "1010143020",
+    "name": "강구조 피로 및 파단 설계기준 (허용응력설계법)",
+    "version": "2024",
+    "updateDate": "2024-05-08T09:25:00",
+    "list": [
+      {
+        "no": 5293,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 허용응력설계법에 따라 강구조물, 부재, 접합부의 피로 및 파단에 대한 안전성 검토를 목적으로 한다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 4,
+        "title": "1.2 적용 범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용 범위</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 5,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준의 규정은 강구조물, 부재, 접합부의 피로 및 파단에 대한 안전성 검토에 적용한다. </p>"
+      },
+      {
+        "no": 5293,
+        "sort": 6,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 7,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 30 05 (1.3) 에 따른다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 8,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 9,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 30 05 (1.4) 에 따른다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 10,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 11,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 30 05 (1.5) 에 따른다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 12,
+        "title": "2. 조사 및 계획",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 조사 및 계획</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 13,
+        "title": "2. 조사 및 계획",
+        "level": 2,
+        "label": "본문",
+        "contents": "<p>내용 없음</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 14,
+        "title": "3. 재료",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 재료</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 15,
+        "title": "3. 재료",
+        "level": 2,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 30 05 (3)에 따른다. </p>"
+      },
+      {
+        "no": 5293,
+        "sort": 16,
+        "title": "4. 설계",
+        "level": 1,
+        "label": "4.",
+        "contents": "<p>4. 설계</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 17,
+        "title": "4.1 피로",
+        "level": 2,
+        "label": "4.1",
+        "contents": "<p>4.1 피로</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 18,
+        "title": "4.1.1 일반규정",
+        "level": 3,
+        "label": "4.1.1",
+        "contents": "<p>4.1.1 일반규정</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 19,
+        "title": "4.1.1 일반규정",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 피로는 하중유발피로와 변형유발피로로 분류된다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 20,
+        "title": "4.1.2 하중 유발 피로",
+        "level": 3,
+        "label": "4.1.2",
+        "contents": "<p>4.1.2 하중 유발 피로</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 21,
+        "title": "4.1.2.1 적용",
+        "level": 4,
+        "label": "4.1.2.1",
+        "contents": "<p>4.1.2.1 적용</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 22,
+        "title": "4.1.2.1 적용",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 강구조물 구조상세에 대한 피로설계 시 고려해야 할 응력은 활하중에 의해 발생된 응력 범위이다. 잔류응력은 피로설계 시 고려하지 않는다. 이 규정은 순인장응력을 받는 상세에만 적용된다. 하중계수를 적용하지 않은 고정하중이 압축응력을 발생시키는 부분의 경우, 이 압축응력이 피로한계상태조합에 따른 최대 활하중 인장응력의 2배보다 작은 경우에만 피로 문제를 고려한다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 23,
+        "title": "4.1.2.2 허용피로응력 범위",
+        "level": 4,
+        "label": "4.1.2.2",
+        "contents": "<p>4.1.2.2 허용피로응력 범위</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 24,
+        "title": "4.1.2.2 허용피로응력 범위",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 반복응력을 받는 부재와 이음부의 설계 시 각 구조상세에 발생하는 응력범위는 표 4.1-1에 규정된 허용피로응력 범위를 초과하지 않아야 한다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 25,
+        "title": "4.1.2.2 허용피로응력 범위",
+        "level": 6,
+        "label": "표 4.1-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.1-1 허용피로응력 범위</p></caption><tbody><tr>\t<td rowspan=\"2\" width=\"143\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>상세범주<sup>1)</sup></p>\t</td>\t<td colspan=\"4\" width=\"420\" height=\"26\" valign=\"middle\" align=\"center\">\t<p>허용응력 범위 <img src=\"data:image/gif;base64,R0lGODlhDgAPAPUAAAAAAAAAZgBmtjoAADo6OjpmkDpmtjqQ22YAAGZmkGZmtmaQ22a2/5A6ZpBmOpBmkJBmtpCQtpC2kJC2/5Db/7ZmOrZmZra227a2/7b//9uQZtu2kNvbttv///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAAOAA8AAAZMQJJwSCwaj8UKAznUSAxM0ujRiYoQAEGU5FlsSRrKdtTIbEWKYSWQ+RAGB6EnThJBQBiOxSxKOMRCIRd1EUgbGWEfE0hXBR0hVV9DQQA7\" width=\"15\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> (MPa) <sup>2)</sup></p>\t</td></tr><tr>\t<td width=\"94\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>10만회</p>\t</td>\t<td width=\"97\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>50만회</p>\t</td>\t<td width=\"101\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>200만회</p>\t</td>\t<td width=\"128\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>200만회 이상</p>\t</td></tr><tr>\t<td width=\"143\" height=\"139\" valign=\"middle\" align=\"center\">\t<p>A</p>\t<p>B</p>\t<p>B'</p>\t<p>C</p>\t<p>D</p>\t<p>E</p>\t<p>E'</p>\t</td>\t<td width=\"94\" height=\"139\" valign=\"middle\" align=\"center\">\t<p>442</p>\t<p>344</p>\t<p>274</p>\t<p>250</p>\t<p>196</p>\t<p>154</p>\t<p>112</p>\t</td>\t<td width=\"97\" height=\"139\" valign=\"middle\" align=\"center\">\t<p>260</p>\t<p>203</p>\t<p>161</p>\t<p>147</p>\t<p>112</p>\t<p>91</p>\t<p>64</p>\t</td>\t<td width=\"101\" height=\"139\" valign=\"middle\" align=\"center\">\t<p>168</p>\t<p>126</p>\t<p>101</p>\t<p>91</p>\t<p>70</p>\t<p>56</p>\t<p>40</p>\t</td>\t<td width=\"128\" height=\"139\" valign=\"middle\" align=\"center\">\t<p>168</p>\t<p>112</p>\t<p>84</p>\t<p>70 (84)<sup>3)</sup></p>\t<p>49</p>\t<p>31</p>\t<p>18</p>\t</td></tr><tr>\t<td colspan=\"5\" width=\"563\" height=\"59\" valign=\"middle\" align=\"left\">\t<p>주 1) 표 4.1-2 참조 </p>\t<p>     2) 응력범위는 최대응력과 최소응력과의 대수차를 의미한다.</p>\t<p>     3) 거더 복부판과 플랜지의 수직보강재 용접의 경우, 84 MPa 적용</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5293,
+        "sort": 26,
+        "title": "4.1.2.3 상세범주",
+        "level": 4,
+        "label": "4.1.2.3",
+        "contents": "<p>4.1.2.3 상세범주</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 27,
+        "title": "4.1.2.3 상세범주",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 부재와 이음부의 상세는 표 4.1-2에 요약되어 있는 각 상세범주의 요구조건을 만족하도록 설계해야 한다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 28,
+        "title": "4.1.2.3 상세범주",
+        "level": 6,
+        "label": "표 4.1-2",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.1-2 응력의 종류 및 범주</p></caption><tbody><tr>\t<td width=\"63\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>조건</p>\t</td>\t<td width=\"253\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>개요</p>\t</td>\t<td width=\"86\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>응력 종류</p>\t</td>\t<td width=\"78\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>상세 범주<sup>1)</sup></p>\t</td>\t<td width=\"86\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>적용 예<sup>2)</sup></p>\t</td></tr><tr>\t<td width=\"63\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>단순부재</p>\t</td>\t<td width=\"253\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>압연면 또는 매끈한 표면을 갖는 모재</p>\t</td>\t<td width=\"86\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>인장 또는 교번<sup>3</sup><sup>)</sup><sup></sup></p>\t</td>\t<td width=\"78\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>A</p>\t</td>\t<td width=\"86\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>1, 2</p>\t</td></tr><tr>\t<td rowspan=\"5\" width=\"63\" height=\"366\" valign=\"top\">\t<p>조립부재</p>\t</td>\t<td width=\"253\" height=\"62\" valign=\"top\">\t<p>응력방향과 평행하게 연속완전용입 그루브용접(뒷댐판 제거) 또는 연속필릿용접으로 접합된 부착물이 없는 부재의 모재와 용접금속</p>\t</td>\t<td width=\"86\" height=\"62\" valign=\"top\">\t<p>인장 또는 교번</p>\t</td>\t<td width=\"78\" height=\"62\" valign=\"top\">\t<p>B</p>\t</td>\t<td width=\"86\" height=\"62\" valign=\"top\">\t<p>3, 4, 5, 7</p>\t</td></tr><tr>\t<td width=\"253\" height=\"81\" valign=\"top\">\t<p>응력방향과 평행하게 연속완전용입 그루브용접(뒷댐판 미제거) 또는 연속부분용입 그루브용접으로 접합된 부착물이 없는 부재의 모재와 용접금속</p>\t</td>\t<td width=\"86\" height=\"81\" valign=\"top\">\t<p>인장 또는 교번</p>\t</td>\t<td width=\"78\" height=\"81\" valign=\"top\">\t<p>B'</p>\t</td>\t<td width=\"86\" height=\"81\" valign=\"top\">\t<p>3, 4, 5, 7</p>\t</td></tr><tr>\t<td width=\"253\" height=\"43\" valign=\"top\">\t<p>거더의 복부판이나 플랜지에 설치된 수직보강재 용접 끝에서 계산한 휨응력</p>\t</td>\t<td width=\"86\" height=\"43\" valign=\"top\">\t<p>인장 또는 교번</p>\t</td>\t<td width=\"78\" height=\"43\" valign=\"top\">\t<p>C</p>\t</td>\t<td width=\"86\" height=\"43\" valign=\"top\">\t<p>6</p>\t</td></tr><tr>\t<td width=\"253\" height=\"119\" valign=\"top\">\t<p>끝부분의 돌림용접 여부에 관계없이 덮개판 폭이 플랜지보다 좁은 경우, 또는 끝부분을 돌림용접한 덮개판 폭이 플랜지보다 넓은 경우의 덮개판 끝에서의 모재</p>\t<p>(a) 플랜지두께 ≤ 20 mm</p>\t<p>(b) 플랜지두께 > 20 mm</p>\t</td>\t<td width=\"86\" height=\"119\" valign=\"top\">\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>인장 또는 교번</p>\t</td>\t<td width=\"78\" height=\"119\" valign=\"top\">\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>E</p>\t<p>E’</p>\t</td>\t<td width=\"86\" height=\"119\" valign=\"top\">\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>7</p>\t<p>7</p>\t</td></tr><tr>\t<td width=\"253\" height=\"62\" valign=\"top\">\t<p>끝부분이 용접처리 되지 않은 덮개판 폭이 플랜지보다 넓은 부분용접된 덮개판 끝에서의 모재</p>\t</td>\t<td width=\"86\" height=\"62\" valign=\"top\">\t<p>인장 또는 교번</p>\t</td>\t<td width=\"78\" height=\"62\" valign=\"top\">\t<p>E'</p>\t</td>\t<td width=\"86\" height=\"62\" valign=\"top\">\t<p>7</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5293,
+        "sort": 29,
+        "title": "4.1.2.3 상세범주",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p></p></p></caption><tbody><tr>\t<td width=\"82\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>조 건</p>\t</td>\t<td width=\"241\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>개         요</p>\t</td>\t<td width=\"86\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>응력 종류</p>\t</td>\t<td width=\"75\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>상세 범주<sup>1)</sup></p>\t</td>\t<td width=\"79\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>적용 예<sup>2)</sup></p>\t</td></tr><tr>\t<td rowspan=\"4\" width=\"82\" height=\"439\" valign=\"middle\" align=\"center\">\t<p>그루브 용접 연결부</p>\t</td>\t<td width=\"241\" height=\"100\" valign=\"top\">\t<p>비슷한 단면을 갖는 압연단면 또는 용접단면의 완전용입 그루브용접된 이음부나 인접부의 모재와 용접부(작용응력방향으로 용접부를 연마처리하고 용접부의 건전성을 비파괴검사를 통하여 검사한 경우)</p>\t</td>\t<td width=\"86\" height=\"100\" valign=\"middle\" align=\"center\">\t<p>인장 또는 교번</p>\t</td>\t<td width=\"75\" height=\"100\" valign=\"middle\" align=\"center\">\t<p>B</p>\t</td>\t<td width=\"79\" height=\"100\" valign=\"middle\" align=\"center\">\t<p>8, 10</p>\t</td></tr><tr>\t<td width=\"241\" height=\"100\" valign=\"top\">\t<p>부재의 폭방향으로 600 mm의 변화부 반경을 갖는 완전용입 그루브용접된 이음부나 인접부의 모재와 용접부(작용응력방향으로 용접부를 연마처리하고 용접부의 건전성을 비파괴검사를 통하여 검사한 경우)</p>\t</td>\t<td width=\"86\" height=\"100\" valign=\"middle\" align=\"center\">\t<p>인장 또는 교번</p>\t</td>\t<td width=\"75\" height=\"100\" valign=\"middle\" align=\"center\">\t<p>B</p>\t</td>\t<td width=\"79\" height=\"100\" valign=\"middle\" align=\"center\">\t<p>13</p>\t</td></tr><tr>\t<td width=\"241\" height=\"119\" valign=\"top\">\t<p>부재의 폭방향 또는 두께방향 변화부(용접부경사가 1:2.5 이하인 경우)에서의 완전용입 그루브용접된 이음부나 인접부의 모재와 용접부(작용응력의 방향으로 용접부를 연마처리하고 용접부의 건전성을 비파괴검사를 통하여 검사한 경우)</p>\t</td>\t<td width=\"86\" height=\"119\" valign=\"middle\" align=\"center\">\t<p>인장 또는 교번</p>\t</td>\t<td width=\"75\" height=\"119\" valign=\"middle\" align=\"center\">\t<p>B'</p>\t</td>\t<td width=\"79\" height=\"119\" valign=\"middle\" align=\"center\">\t<p>11, 12</p>\t</td></tr><tr>\t<td width=\"241\" height=\"119\" valign=\"top\">\t<p>부재의 폭방향 또는 두께방향 변화부가 없거나 용접부 경사가 1:2.5 이하인 변화부가 있는 완전용입 그루브용접된 이음부나 그 인접부의 모재 또는 용접부(용접 덧살을 제거하지 않고 용접부의 건전성을 비파괴검사를 통하여 검사한 경우)</p>\t</td>\t<td width=\"86\" height=\"119\" valign=\"middle\" align=\"center\">\t<p>인장 또는 교번</p>\t</td>\t<td width=\"75\" height=\"119\" valign=\"middle\" align=\"center\">\t<p>C</p>\t</td>\t<td width=\"79\" height=\"119\" valign=\"middle\" align=\"center\">\t<p>8, 10, 11, 12</p>\t</td></tr><tr>\t<td rowspan=\"4\" width=\"82\" height=\"477\" valign=\"middle\" align=\"center\">\t<p>종방향으로 응력을 받는 그루브용접 부착물 </p>\t</td>\t<td width=\"241\" height=\"62\" valign=\"top\">\t<p>응력방향으로의 이음부 길이 L이 50 mm 이하인 경우, 완전 또는 부분용입 그루브 용접된 부착물의 이음부에 인접한 모재</p>\t</td>\t<td width=\"86\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>인장 또는 교번</p>\t</td>\t<td width=\"75\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>C</p>\t</td>\t<td width=\"79\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>6, 15</p>\t</td></tr><tr>\t<td width=\"241\" height=\"81\" valign=\"top\">\t<p>응력방향으로의 이음부의 길이 L이 50 mm 이상이며 판두께의 12배 이하인 경우 (단, 100 mm 이하), 완전 또는 부분용입 그루브 용접된 부착물의 이음부에 인접한 모재</p>\t</td>\t<td width=\"86\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>인장 또는 교번</p>\t</td>\t<td width=\"75\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>D</p>\t</td>\t<td width=\"79\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>15</p>\t</td></tr><tr>\t<td width=\"241\" height=\"119\" valign=\"top\">\t<p>응력방향으로의 이음부 길이 L이 판두께의 12배 이상이거나 100 mm 이상인 경우 완전 또는 부분용입 그루브용접된 부착물에 인접한 모재</p>\t<p>(a) 연결 부재의 두께 < 25 mm</p>\t<p>(b) 연결 부재의 두께 ≥ 25 mm</p>\t</td>\t<td width=\"86\" height=\"119\" valign=\"middle\" align=\"center\">\t<p>인장 또는 교번</p>\t</td>\t<td width=\"75\" height=\"119\" valign=\"top\">\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>E</p>\t<p>E'</p>\t</td>\t<td width=\"79\" height=\"119\" valign=\"top\">\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>15</p>\t<p>15</p>\t</td></tr><tr>\t<td width=\"241\" height=\"215\" valign=\"top\">\t<p>이음부 길이에 관계없이 변화부 반경 R을 가지며, 완전 또는 부분용입 그루브용접된부착물에 인접한 모재</p>\t<p>- 용접 끝을 매끈하게 연마한 경우</p>\t<p>(a) 변화부 반경 ≥ 600 mm</p>\t<p>(b) 600 mm > 변화부 반경 ≥ 150 mm</p>\t<p>(c) 150 mm > 변화부 반경 ≥  50 mm</p>\t<p>(d)  50 mm > 변화부 반경 ≥   0 mm</p>\t<p> </p>\t<p>- 용접 끝을 매끈하게 연마하지 않은 모든 변화부 반경에 대하여</p>\t</td>\t<td width=\"86\" height=\"215\" valign=\"middle\" align=\"center\">\t<p>인장 또는 교번</p>\t<p> </p>\t</td>\t<td width=\"75\" height=\"215\" valign=\"top\">\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>B</p>\t<p>C</p>\t<p>D</p>\t<p>E</p>\t<p> </p>\t<p>E</p>\t<p> </p>\t</td>\t<td width=\"79\" height=\"215\" valign=\"top\">\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>16</p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>16</p>\t<p> </p>\t</td></tr><tr>\t<td width=\"82\" height=\"407\" valign=\"middle\" align=\"center\">\t<p>횡방향으로 응력을 받는 그루브용접부착물<sup>4</sup><sup>)</sup><sup></sup></p>\t</td>\t<td width=\"241\" height=\"407\" valign=\"top\">\t<p>이음부 길이와 무관하고 비파괴검사를 실시하여 응력의 수직방향의 용접 건전성이 확인되고 변화부 반경이 R인 완전용입 그루브용접 된 부착물</p>\t<p>- 동일한 판두께이고 용접덧살이 없는 경우</p>\t<p>(a) 변화부 반경 ≥ 600 mm</p>\t<p>(b) 600 mm > 변화부 반경 ≥ 150 mm</p>\t<p>(c) 150 mm > 변화부 반경 ≥  50 mm</p>\t<p>(d)  50 mm > 변화부 반경 ≥   0 mm</p>\t<p> </p>\t<p>- 동일한 판두께이고 용접덧살이 있는 경우</p>\t<p>(a) 변화부 반경 ≥ 150 mm</p>\t<p>(b) 150 mm > 변화부 반경 ≥ 50 mm</p>\t<p>(c)  50 mm > 변화부 반경 ≥  0 mm</p>\t<p> </p>\t<p>- 다른 판두께이고 용접덧살이 없는 경우</p>\t<p>(a) 변화부 반경 ≥ 50 mm</p>\t<p>(b) 50 mm > 변화부 반경 ≥ 0 mm</p>\t<p> </p>\t<p>- 다른 판두께이고 용접덧살이 제거되지 않은 경우 모든 변화부 반경에 대하여</p>\t</td>\t<td width=\"86\" height=\"407\" valign=\"top\">\t<p>인장 또는 교번</p>\t<p> </p>\t</td>\t<td width=\"75\" height=\"407\" valign=\"top\">\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>B</p>\t<p>C</p>\t<p>D</p>\t<p>E</p>\t<p> </p>\t<p> </p>\t<p>C</p>\t<p>D</p>\t<p>E</p>\t<p> </p>\t<p> </p>\t<p>D</p>\t<p>E</p>\t<p> </p>\t<p>E</p>\t</td>\t<td width=\"79\" height=\"407\" valign=\"top\">\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>16</p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>16</p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>16</p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>16</p>\t<p> </p>\t</td></tr><tr>\t<td width=\"82\" height=\"119\" valign=\"middle\" align=\"center\">\t<p>필릿용접 연결</p>\t</td>\t<td width=\"241\" height=\"119\" valign=\"top\">\t<p>횡방향으로 하중을 받고 응력방향에 수직으로 필릿용접된 연결부재의 모재</p>\t<p>(a) 연결부재의 두께 ≤ 12.5 mm</p>\t<p>(b) 연결부재의 두께 > 12.5 mm</p>\t<p> </p>\t<p>- 부분적으로 끊어진 필릿용접부의 모재</p>\t</td>\t<td width=\"86\" height=\"119\" valign=\"top\">\t<p>인장 또는 교번</p>\t</td>\t<td width=\"75\" height=\"119\" valign=\"top\">\t<p> </p>\t<p> </p>\t<p>C<sup>5)</sup></p>\t<p> </p>\t<p> </p>\t<p>E</p>\t</td>\t<td width=\"79\" height=\"119\" valign=\"top\">\t<p> </p>\t<p> </p>\t<p>14</p>\t<p> </p>\t<p> </p>\t</td></tr><tr>\t<td width=\"82\" height=\"407\" valign=\"middle\" align=\"center\">\t<p>종방향으로 응력을 받는 필릿용접 부착물<sup>6)</sup></p>\t</td>\t<td width=\"241\" height=\"407\" valign=\"top\">\t<p>- 응력방향으로 용접길이 L이 50 mm 이하로 필릿용접 된 부착물과 스터드 형태의 전단연결재에 인접한 모재</p>\t<p> </p>\t<p>- 응력방향으로의 용접길이 L이 50 mm 이상 판두께의 12배(다만, 100 mm 이하) 이하인 경우 필릿용접부에 인접한 모재</p>\t<p> </p>\t<p>- 응력방향으로의 길이 L이 판두께의 12배 이상, 또는 100 mm 이상인 경우 필릿용접부에 인접한 모재</p>\t<p>(a) 연결부재의 두께 < 25 mm</p>\t<p>(b) 연결부재의 두께 ≥ 25 mm</p>\t<p>연결부의 길이에 관계없이 반경 R의 변화부를 갖는 필릿용접부에 인접한 모재</p>\t<p>- 용접부 끝을 매끈하게 연마한 경우</p>\t<p>(a) 변화부 반경 ≥ 50 mm</p>\t<p>(b) 50 mm > 변화부 반경 ≥ 0 mm</p>\t<p> </p>\t<p>- 용접부 끝을 연마하지 않은 모든 변화부 반경에 대하여</p>\t</td>\t<td width=\"86\" height=\"407\" valign=\"top\">\t<p>인장 또는 교번</p>\t<p> </p>\t</td>\t<td width=\"75\" height=\"407\" valign=\"top\">\t<p>C</p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>D</p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>E</p>\t<p>E'</p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>D</p>\t<p>E</p>\t<p> </p>\t<p>E</p>\t</td>\t<td width=\"79\" height=\"407\" valign=\"top\">\t<p>15, 17, 18, 19, 20</p>\t<p> </p>\t<p> </p>\t<p>15, 17</p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>7, 9, 15,17</p>\t<p>7, 9, 15</p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>16</p>\t<p> </p>\t<p> </p>\t<p>16</p>\t</td></tr><tr>\t<td width=\"82\" height=\"177\" valign=\"middle\" align=\"center\">\t<p>주응력방향으로 용접된 횡방향응력을 받는 필릿용접 부착물 </p>\t</td>\t<td width=\"241\" height=\"177\" valign=\"top\">\t<p>연결부의 길이에 관계없이 변화부 반경 R을 갖는 필릿용접(범주 F로 필릿용접 목에 작용하는 전단응력)으로 연결된 부재의 모재</p>\t<p>- 용접부 끝을 매끈하게 연마한 경우</p>\t<p>(a) 변화부 반경≥50 mm</p>\t<p>(b) 50 mm > 변화부 반경 ≥ 0 mm</p>\t<p> </p>\t<p>- 용접부 끝을 연마하지 않은 모든 변화부 반경에 대하여</p>\t</td>\t<td width=\"86\" height=\"177\" valign=\"top\">\t<p>인장 또는 교번</p>\t<p> </p>\t</td>\t<td width=\"75\" height=\"177\" valign=\"top\">\t<p> </p>\t<p> </p>\t<p> </p>\t<p>D</p>\t<p>E</p>\t<p> </p>\t<p> </p>\t<p>E</p>\t<p> </p>\t</td>\t<td width=\"79\" height=\"177\" valign=\"top\">\t<p> </p>\t<p>16</p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>16</p>\t</td></tr><tr>\t<td width=\"82\" height=\"158\" valign=\"middle\" align=\"center\">\t<p>볼트 및 리벳 연결</p>\t</td>\t<td width=\"241\" height=\"158\" valign=\"top\">\t<p>- 연결재에 면외휨을 일으키는 축방향 응력을 받는 연결부를 제외한, 고장력볼트 마찰이음 전단면에서의 모재</p>\t<p> </p>\t<p>- 고장력 볼트 지압이음의 순단면에서의 모재</p>\t<p> </p>\t<p>- 리벳연결부의 순단면에서의 모재</p>\t</td>\t<td width=\"86\" height=\"158\" valign=\"top\">\t<p>인장 또는 교번</p>\t<p> </p>\t<p> </p>\t<p>인장 또는 교번</p>\t<p>인장 또는 교번</p>\t</td>\t<td width=\"75\" height=\"158\" valign=\"top\">\t<p>B</p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>B</p>\t<p> </p>\t<p>D</p>\t</td>\t<td width=\"79\" height=\"158\" valign=\"top\">\t<p>21</p>\t<p> </p>\t<p> </p>\t<p> </p>\t<p>21</p>\t<p> </p>\t<p>21</p>\t</td></tr><tr>\t<td colspan=\"5\" width=\"563\" height=\"354\" valign=\"middle\" align=\"left\">\t<p>주 1) 표 4.1-1 참조</p>\t<p>     2) 그림 4.1-2 참조</p>\t<p>     3) 인장응력범위와 인장과 압축이 동시에 발생하는 응력범위를 나타낸다.</p>\t<p>     4) 응력방향이 용접종축과 수직한 경우에는 부분용입그루브용접을 피해야 한다.</p>\t<p>     5) 횡방향 응력을 받는 필릿용접 목두께에 대한 허용피로응력범위는 유효목두께 (mm)와 판두께 (mm)의 함수이다.(Frank and Fisher, ASCE Vol. 105, NO. ST9, Sept, 1979 참조)</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhggAgAPUAAAAAAAAAOgAAZgBmtjoAADoAZjo6kDpmkDpmtjqQ22YAAGY6AGY6ZmY6kGZmZmZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJCQtpCQ25C2kJC2/5DbtpDb/7ZmALZmOrZmZraQkLa2tra227a2/7bb/7b/trb//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAACH5BAAAADsALAAAAACCACAAAAb+wJ1wSCwaj0hh7pRsOp/Q6DBner5k0myyltJ6i7pRVzsDAAYqc2LIfd6Y3zgJOwwBEEU7Xmc/0HMQRjh0RDYEAmNKCwB+O2WNRCEUQiEfRCN0NhJIOiVxX51EM2sqk0KjO6WopUIugUU0lkY6F4mpCToVCTZ4IKZKDF05DYQ5G0MrskeYn1pURKyoQtEJ0QM7NyivRLFHtLZDKms7OhbKO7yn40LduWa/RSzgzU5vkZaadfgSqwOdgEa6zaq1DMuMABOKpDET4BwzISLmDRFIDwrFHZXQbaK0TweGAA4SXAF4yoxJAPC+GYFBiI8ylcOKHVOy7YiNDhWjyIM2SVr+qp4JUMkDYfIat3NDVBJh2UlcKqPo8DiSyk6ZJhwxkBjLCeXhKTySbBiQMQMshTAastIMiFSISrEyDL2j0UEHiHWsMMLzOoOCJ60zuTbxSulOHsNGcig4A6utYgANk7RghMVdAA+LESn5y67AGAA7QCfVYERSM9NEdGQgJFjIoNZIasAxAtpMatJEVnCI8Ek3b9vkcMMeHke0aLerkyaPoxrL8R0kiUvXAvzSn8VQnWEPzR16zengv/DdiGShychDZmysHj28+yxekzWTn/jV45P48+vfz7+////7aSbEQ0qVhx965BBU33tOPPfeQ+15EeEU3zFIxHHVgfeQTyaaZcEhcBO6V11ttT0oQw4PYCBLhk+gqKIQGeognIXdGceidM0d4aAXz8nIYD4wBlmjez7qSE+Py4VH35BMgleke4QR5w5KoXU4xI3EbfXeTu5FRGMSWrpHg0SwhfilEDcxeJF0V6l15lEMPhNeX5y9OQSXRNYpHQ2eBbkjg3NYGCV4JL4ZioVtMGjcmzdUYaGciv75XqJ2VvplEAA7\" width=\"132\" height=\"31\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCgARAPUAAAAAAAAAOgBmtiooSToAADo6OjqQ22YAAGZmkGZmtmaBZmaQ22a2/5A6ZpBmOpBmkJCQtpC2kJC2/5Db/7ZmOrZmZrb//9uQZtvbttvb/9v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAKABEAAAZHQJBwSCwaj0gQJcAoUhSGTXN4iQwsxc9DU7F0MkLPASDYEKbCzQJ5mRw/DazRkxByCgRDWg/CdEEeCA5ugBBIHBJIHRpJQ0EAOw==\" width=\"11\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 표 4.1-1에 나타낸 범주 C에 대한 허용응력 범위와 같다. 이것은 용접루트에서 관통되지 않는 것으로 가정한 경우이다.</p>\t<p> </p>\t<p><img src=\"data:image/gif;base64,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\" width=\"156\" height=\"70\" vspace=\"0\" hspace=\"0\" border=\"0\"></p><p>그림 4.1-1 횡방향 응력을 받는 필렛용접 목두께에 대한 허용피로응력범위</p><p>\t<p>     6) 거더 플랜지의 바깥면에 연결되는 거셋판은 횡방향 필릿용접만으로 부착시키지 않는다.</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5293,
+        "sort": 30,
+        "title": "4.1.2.3 상세범주",
+        "level": 6,
+        "label": "그림 4.1-2",
+        "contents": "<p><img src=\"data:image/gif;base64,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\" width=\"399\" height=\"492\" vspace=\"0\" hspace=\"0\" border=\"0\"></p><p>그림 4.1-2  범주의 분류 예</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 31,
+        "title": "4.1.2.4 구속을 줄이기 위한 상세",
+        "level": 4,
+        "label": "4.1.2.4",
+        "contents": "<p>4.1.2.4 구속을 줄이기 위한 상세</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 32,
+        "title": "4.1.2.4 구속을 줄이기 위한 상세",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 용접 구조물은 구속에 의한 파단을 일으킬 수 있는 과도한 구속과 균열과 같은 기하학적 불연속을 갖지 않도록 상세를  설계해야 한다. 작용 응력방향과 평행한 수평보강재 용접부와 수직보강재 용접부의 교차부에는 용접지단 사이의 간격이 최소 25 mm 이상 되도록 설계한다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 33,
+        "title": "4.1.3 변형유발피로",
+        "level": 3,
+        "label": "4.1.3",
+        "contents": "<p>4.1.3 변형유발피로</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 34,
+        "title": "4.1.3 변형유발피로",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 모든 횡방향 부재를 종방향 부재의 단면을 포함하는 적절한 구조요소에 연결하여, 예상하였거나 예상치 못한 하중을 전달하기에 충분한 하중경로를 제공해 주어야 한다. 이러한 하중경로는 여러 구조요소를 용접 또는 볼트로 연결하여 확보할 수 있다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 35,
+        "title": "4.1.3.1 수직연결판",
+        "level": 4,
+        "label": "4.1.3.1",
+        "contents": "<p>4.1.3.1 수직연결판</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 36,
+        "title": "4.1.3.1 수직연결판",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 연결판은 다음과 같은 단면의 압축 및 인장 플랜지 모두에 대해 용접 또는 볼트를 이용해 연결되어야 한다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 37,
+        "title": "4.1.3.1 수직연결판",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>①  내·외부 다이아프램이나 브레이싱은 횡방향 연결판 또는 연결판으로서의 기능을 갖는 수직보강재에 부착해야 한다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 38,
+        "title": "4.1.3.1 수직연결판",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>②  가로보는 횡방향 연결판 또는 연결판으로서의 기능을 갖는 수직보강재에 부착해야 한다.특별한 조건이 주어지지 않는 한, 용접 및 볼트연결은 직선교의 경우 90,000 N의 횡하중에 저항하도록 설계되어야 한다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 39,
+        "title": "4.1.3.2 수평연결판",
+        "level": 4,
+        "label": "4.1.3.2",
+        "contents": "<p>4.1.3.2 수평연결판</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 40,
+        "title": "4.1.3.2 수평연결판",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 플랜지에 수평연결판을 붙이는 것이 곤란할 경우에는, 보강된 복부판에 부착되는 수평연결판은 플랜지에서 플랜지폭의 1/2 이상 떨어져야 한다. 비보강 복부판에 부착된 수평연결판은 플랜지에서 150 mm 이상 및 플랜지 폭의 1/2 이상 떨어져야 한다. 수평연결판으로 연결된 수평 브레이싱 부재의 끝은 복부판 및 수직보강재로부터 최소 100 mm의 거리를 유지해야만 한다. 보강재가 사용된 복부판의 수평연결판은 보강재의 중심선에 맞추어 설치되어야 한다. 수평연결판과 보강재가 복부판의 같은 면에 위치한 경우에는 수평연결판을 보강재에 부착해야 한다. 이 경우에 수직보강재는 압축플랜지로부터 인장플랜지까지 연속되어 있어야 하며, 양쪽 플랜지 모두에 부착되어야 한다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 41,
+        "title": "4.2 인성요구조건",
+        "level": 2,
+        "label": "4.2",
+        "contents": "<p>4.2 인성요구조건</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 42,
+        "title": "4.2 인성요구조건",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 국내의 지역별 온도구역은 표 4.2-1에 따르며, 인장 또는 교번응력을 받는 주부재의 사용강재는 표 4.2-2에 따라서 샤르피 흡수에너지로 나타내는 저온인성 규격을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 43,
+        "title": "4.2 인성요구조건",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 인장 또는 교번응력을 받는 주부재의 최대 허용 판두께는 교량이 건설되는 지역의 온도구역에 따라 표 4.2-2에 규정한 값으로 한다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 44,
+        "title": "4.2 인성요구조건",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3) 인장 또는 교번응력을 받는 주부재는 도면과 공사시방서 등에 명시해야 한다.</p>"
+      },
+      {
+        "no": 5293,
+        "sort": 45,
+        "title": "4.2 인성요구조건",
+        "level": 4,
+        "label": "표 4.2-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.2-1 국내 지역별 최저 공용온도에 따른 온도구역 구분</p></caption><tbody><tr>\t<td width=\"103\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>구분</p>\t</td>\t<td width=\"175\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>최저 공용온도(T)<sup>2)</sup></p>\t</td>\t<td width=\"289\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>대상 지역<sup>1)</sup></p>\t</td></tr><tr>\t<td rowspan=\"5\" width=\"103\" height=\"136\" valign=\"middle\" align=\"center\">\t<p>온도구역</p>\t<p>Ⅰ</p>\t</td>\t<td rowspan=\"5\" width=\"175\" height=\"136\" valign=\"middle\" align=\"center\">\t<p>-15℃ ≤ T</p>\t</td>\t<td width=\"289\" height=\"27\" valign=\"middle\" align=\"center\">\t<p>부산, 울산, 광주 전체지역</p>\t</td></tr><tr>\t<td width=\"289\" height=\"27\" valign=\"middle\" align=\"center\">\t<p>전라남도 전체지역</p>\t</td></tr><tr>\t<td width=\"289\" height=\"27\" valign=\"middle\" align=\"center\">\t<p>경상남도 전체지역</p>\t</td></tr><tr>\t<td width=\"289\" height=\"27\" valign=\"middle\" align=\"center\">\t<p>경상북도 전체지역 (온도구역 II 지역 제외)</p>\t</td></tr><tr>\t<td width=\"289\" height=\"27\" valign=\"middle\" align=\"center\">\t<p>제주도 전체지역</p>\t</td></tr><tr>\t<td rowspan=\"6\" width=\"103\" height=\"172\" valign=\"middle\" align=\"center\">\t<p>온도구역</p>\t<p>Ⅱ</p>\t</td>\t<td rowspan=\"6\" width=\"175\" height=\"172\" valign=\"middle\" align=\"center\">\t<p>-25℃ ≤ T < -15℃</p>\t</td>\t<td width=\"289\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>서울, 인천, 대구, 대전 전체지역</p>\t</td></tr><tr>\t<td width=\"289\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>경기도 동부를 제외한 지역</p>\t</td></tr><tr>\t<td width=\"289\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>충청남도 전체지역</p>\t</td></tr><tr>\t<td width=\"289\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>전라북도 전체지역</p>\t</td></tr><tr>\t<td width=\"289\" height=\"55\" valign=\"middle\" align=\"center\">\t<p>경상북도 내륙지역</p>\t</td></tr><tr>\t<td width=\"289\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>강원도 해안지역</p>\t</td></tr><tr>\t<td rowspan=\"3\" width=\"103\" height=\"70\" valign=\"middle\" align=\"center\">\t<p>온도구역</p>\t<p>Ⅲ</p>\t</td>\t<td rowspan=\"3\" width=\"175\" height=\"70\" valign=\"middle\" align=\"center\">\t<p>-35℃ ≤ T < -25℃</p>\t</td>\t<td width=\"289\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>경기도 동부지역 (동두천, 이천, 양평 등)</p>\t</td></tr><tr>\t<td width=\"289\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>강원도 내륙지역</p>\t</td></tr><tr>\t<td width=\"289\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>충청북도 전체지역</p>\t</td></tr><tr>\t<td colspan=\"3\" width=\"566\" height=\"56\" valign=\"middle\" align=\"left\">\t<p>주 1) 교량이 건설되는 지역의 온도구역 구분이 명확하지 않은 경우에는, 대상지역의 기상청 관측자료를 기준으로 최근 30년 내 최저기온에 따라 온도구역을 구분한다.</p>\t<p>     2) 최저 공용온도(T)라 함은 교량이 건설되는 지역의 최근 30년 내 최저기온(100년 재현주기 최저 기온과 유사)을 말한다.</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5293,
+        "sort": 46,
+        "title": "4.2 인성요구조건",
+        "level": 4,
+        "label": "표 4.2-2",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.2-2 인장 또는 교번응력을 받는 주부재의 강종별 인성규격과 온도구역 별 최대 허용판두께</p></caption><tbody><tr>\t<td colspan=\"4\" width=\"349\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>온도구역 및 강종</p>\t</td>\t<td width=\"80\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>온도구역 Ⅰ</p>\t<p>(-15℃)<sup>1)</sup></p>\t</td>\t<td width=\"80\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>온도구역 Ⅱ</p>\t<p>(-25℃)<sup>1)</sup></p>\t</td>\t<td width=\"80\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>온도구역 Ⅲ</p>\t<p>(-35℃)<sup>1)</sup></p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"66\" height=\"55\" valign=\"middle\" align=\"center\">\t<p>구분</p>\t</td>\t<td rowspan=\"2\" width=\"117\" height=\"55\" valign=\"middle\" align=\"center\">\t<p>기호</p>\t</td>\t<td colspan=\"2\" width=\"166\" height=\"18\" valign=\"middle\" align=\"center\">\t<p>충격시험<sup>3)</sup></p>\t</td>\t<td rowspan=\"2\" colspan=\"3\" width=\"240\" height=\"55\" valign=\"middle\" align=\"center\">\t<p>최대 허용판두께<sup>2)</sup> (mm)</p>\t</td></tr><tr>\t<td width=\"71\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>시험온도</p>\t</td>\t<td width=\"95\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>샤르피</p>\t<p>흡수에너지</p>\t</td></tr><tr>\t<td rowspan=\"4\" width=\"66\" height=\"181\" valign=\"middle\" align=\"center\">\t<p>용접</p>\t<p>구조용</p>\t<p>압연</p>\t<p>강재</p>\t</td>\t<td width=\"117\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>SM275B</p>\t<p>SM275C</p>\t<p>SM275D</p>\t</td>\t<td width=\"71\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>0℃</p>\t<p>-20℃</p>\t<p>-40℃</p>\t</td>\t<td width=\"95\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>27J 이상</p>\t<p>27J 이상</p>\t<p>27J 이상</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>100</p>\t<p>100</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>100</p>\t<p>100</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>90</p>\t<p>100</p>\t</td></tr><tr>\t<td width=\"117\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>SM355B</p>\t<p>SM355C</p>\t<p>SM355D</p>\t</td>\t<td width=\"71\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>0℃</p>\t<p>-20℃</p>\t<p>-40℃</p>\t</td>\t<td width=\"95\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>27J 이상</p>\t<p>27J 이상</p>\t<p>27J 이상</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>100</p>\t<p>100</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>80</p>\t<p>100</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>70</p>\t<p>100</p>\t</td></tr><tr>\t<td width=\"117\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>SM420B</p>\t<p>SM420C</p>\t<p>SM420D</p>\t</td>\t<td width=\"71\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>0℃</p>\t<p>-20℃</p>\t<p>-40℃</p>\t</td>\t<td width=\"95\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>27J 이상</p>\t<p>27J 이상</p>\t<p>27J 이상</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>80</p>\t<p>100</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>65</p>\t<p>100</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>55</p>\t<p>80</p>\t</td></tr><tr>\t<td width=\"117\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>SM460B</p>\t<p>SM460C</p>\t</td>\t<td width=\"71\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>0℃</p>\t<p>-20℃</p>\t</td>\t<td width=\"95\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>47J 이상</p>\t<p>27J 이상</p>\t</td>\t<td width=\"80\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>65</p>\t<p>75</p>\t</td>\t<td width=\"80\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>55</p>\t<p>60</p>\t</td>\t<td width=\"80\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>45</p>\t<p>50</p>\t</td></tr><tr>\t<td rowspan=\"3\" width=\"66\" height=\"114\" valign=\"middle\" align=\"center\">\t<p>용접</p>\t<p>구조용</p>\t<p>내후성</p>\t<p>열간</p>\t<p>압연</p>\t<p>강재</p>\t</td>\t<td width=\"117\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>SMA275B</p>\t<p>SMA275C</p>\t</td>\t<td width=\"71\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>0℃</p>\t<p>-20℃</p>\t</td>\t<td width=\"95\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>27J 이상</p>\t<p>27J 이상</p>\t</td>\t<td width=\"80\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>100</p>\t</td>\t<td width=\"80\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>100</p>\t</td>\t<td width=\"80\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>90</p>\t</td></tr><tr>\t<td width=\"117\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>SMA355B</p>\t<p>SMA355C</p>\t</td>\t<td width=\"71\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>0℃</p>\t<p>-20℃</p>\t</td>\t<td width=\"95\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>27J 이상</p>\t<p>27J 이상</p>\t</td>\t<td width=\"80\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>100</p>\t</td>\t<td width=\"80\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>80</p>\t</td>\t<td width=\"80\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>70</p>\t</td></tr><tr>\t<td width=\"117\" height=\"46\" valign=\"middle\" align=\"center\">\t<p>SMA460</p>\t</td>\t<td width=\"71\" height=\"46\" valign=\"middle\" align=\"center\">\t<p>0℃</p>\t</td>\t<td width=\"95\" height=\"46\" valign=\"middle\" align=\"center\">\t<p>47J 이상</p>\t</td>\t<td width=\"80\" height=\"46\" valign=\"middle\" align=\"center\">\t<p>65</p>\t</td>\t<td width=\"80\" height=\"46\" valign=\"middle\" align=\"center\">\t<p>55</p>\t</td>\t<td width=\"80\" height=\"46\" valign=\"middle\" align=\"center\">\t<p>45</p>\t</td></tr><tr>\t<td rowspan=\"3\" width=\"66\" height=\"148\" valign=\"middle\" align=\"center\">\t<p>교량</p>\t<p>구조용</p>\t<p>압연</p>\t<p>강재</p>\t</td>\t<td width=\"117\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>HSB380</p>\t<p>HSB380L</p>\t<p>HSB380W</p>\t</td>\t<td width=\"71\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>-5℃</p>\t<p>-20℃</p>\t<p>-5℃</p>\t</td>\t<td width=\"95\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>47J 이상</p>\t<p>47J 이상</p>\t<p>47J 이상</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>85</p>\t<p>100</p>\t<p>85</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>70</p>\t<p>95</p>\t<p>70</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>60</p>\t<p>80</p>\t<p>60</p>\t</td></tr><tr>\t<td width=\"117\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>HSB460</p>\t<p>HSB460L</p>\t<p>HSB460W</p>\t</td>\t<td width=\"71\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>-5℃</p>\t<p>-20℃</p>\t<p>-5℃</p>\t</td>\t<td width=\"95\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>47J 이상</p>\t<p>47J 이상</p>\t<p>47J 이상</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>70</p>\t<p>95</p>\t<p>70</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>60</p>\t<p>80</p>\t<p>60</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>50</p>\t<p>65</p>\t<p>50</p>\t</td></tr><tr>\t<td width=\"117\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>HSB690</p>\t<p>HSB690L</p>\t<p>HSB690W</p>\t</td>\t<td width=\"71\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>-20℃</p>\t<p>-40℃</p>\t<p>-20℃</p>\t</td>\t<td width=\"95\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>47J 이상</p>\t<p>47J 이상</p>\t<p>47J 이상</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>55</p>\t<p>80</p>\t<p>55</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>45</p>\t<p>70</p>\t<p>45</p>\t</td>\t<td width=\"80\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>40</p>\t<p>60</p>\t<p>40</p>\t</td></tr><tr>\t<td colspan=\"7\" width=\"590\" height=\"109\" valign=\"middle\" align=\"center\">\t<p>주1) 선형보간법에 따라 최대 허용판두께를 산정할 때 사용되는 각 구역별 기준 공용온도.</p>\t<p>주2) 교량이 건설되는 지역의 최근 30년 내 최저기온(T)를 알고 있는 경우, 주 1의 기준공용온도에 따른 선형보간법을 적용하여 최대 허용판두께를 산정해도 좋다. 예를 들어 SM355C의 경우, 어느 지역의 최저기온(T)이 -20℃라면 구역 Ⅰ의 -15℃와 구역 Ⅱ의 -25℃를 기준으로 하여 최대 허용판 두께는 90 mm가 된다. 단, 최저기온의 범위가 -35℃≤T<-15℃일 때만 선형 보간을 적용할 수 있다.</p>\t<p>주3) KS B 0810 “금속 재료 충격 시험 방법”에 따라 측정하며 강재의 인성을 충격에 대한 에너지흡수능력으로 표현하는 값임. (<img src=\"data:image/gif;base64,R0lGODlhMAAOAPUAAAAAAAAAOgA6kDoAADo6kDpmtjqQ22YAAGY6OmY6ZmaQ22a2/5A6AJA6OpA6ZpBmOpCQ25Db/7ZmOrZmZrb//9uQOtuQkNvb29vb/9v///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAwAA4AAAa1QJBwSCwaj8ikUQNoAgIRpRT0wYA6GSHTCTVKFtQJZTqUAApEzwFgIH7D43QifiFr2xWw0AMpeuZCdUUcaBZxdnkgGm17CANoQoQghkcVTQJZRZZOT1EgElEcCkN8n3qbmEYfDhSidmWho0WLVKyuRpJJm1yeibRCFW20uUiJr0QaaF8cBBkbER8NUcaqDE16IE2vZpBCHw8BCh/WANgA2Unax8fa50fn7uuv6kj08lNO9/pSQQA7\" width=\"50\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>\t</td></tr></tbody></table></p>"
+      }
+    ]
+  }
+]
