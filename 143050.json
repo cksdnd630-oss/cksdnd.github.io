@@ -1,0 +1,349 @@
+[
+  {
+    "no": 5295,
+    "codeType": "KDS",
+    "code": "143050",
+    "fullCode": "1010143050",
+    "name": "강구조 사용성 설계 (허용응력설계법)",
+    "version": "2024",
+    "updateDate": "2024-05-08T09:26:00",
+    "list": [
+      {
+        "no": 5295,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 허용응력설계법에 따른 강구조물의 사용성 설계방법과 최소한의 요구조건을 규정한다.</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 4,
+        "title": "1.2 적용 범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용 범위</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 5,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 강구조물의 사용성 설계에 적용한다.</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 6,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 7,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 30 05 (1.3) 에 따른다.</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 8,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 9,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 30 05 (1.4) 에 따른다.</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 10,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 11,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 30 05 (1.5) 에 따른다.</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 12,
+        "title": "2. 조사 및 계획",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 조사 및 계획</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 13,
+        "title": "2. 조사 및 계획",
+        "level": 2,
+        "label": "본문",
+        "contents": "<p>내용 없음</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 14,
+        "title": "3. 재료",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 재료</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 15,
+        "title": "3. 재료",
+        "level": 2,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 30 05 (3)에 따른다. </p>"
+      },
+      {
+        "no": 5295,
+        "sort": 16,
+        "title": "4. 설계",
+        "level": 1,
+        "label": "4.",
+        "contents": "<p>4. 설계</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 17,
+        "title": "4.1 일반규정",
+        "level": 2,
+        "label": "4.1",
+        "contents": "<p>4.1 일반규정</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 18,
+        "title": "4.1 일반규정",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 사용성 설계는 구조물의 기능, 외관, 유지관리, 내구성, 사용자의 편리함 등을 일정한 기준 이상으로 확보하도록 하는 데 있다. </p>"
+      },
+      {
+        "no": 5295,
+        "sort": 19,
+        "title": "4.1 일반규정",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 구조물의 수평 또는 수직방향의 변위에 대한 제한값은 건축물의 용도에 따라 다르게 정할 수 있다. </p>"
+      },
+      {
+        "no": 5295,
+        "sort": 20,
+        "title": "4.2 솟음",
+        "level": 2,
+        "label": "4.2",
+        "contents": "<p>4.2 솟음</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 21,
+        "title": "4.2 솟음",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 바닥보나 트러스와 같이 부재의 처짐이 구조물의 사용성에 문제를 야기할 우려가 있는 경우에는 적절한 솟음을 한다. </p>"
+      },
+      {
+        "no": 5295,
+        "sort": 22,
+        "title": "4.2 솟음",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 부재의 제작 및 조립 과정에서 발생할 수 있는 과도한 처짐은 사전에 솟음을 하여 조정한다. </p>"
+      },
+      {
+        "no": 5295,
+        "sort": 23,
+        "title": "4.3 팽창과 수축",
+        "level": 2,
+        "label": "4.3",
+        "contents": "<p>4.3 팽창과 수축</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 24,
+        "title": "4.3 팽창과 수축",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 구조물은 그 사용성에 적합하도록 팽창과 수축에 대해 적절한 조치를 한다.</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 25,
+        "title": "4.4 처짐, 진동 및 수평변위",
+        "level": 2,
+        "label": "4.4",
+        "contents": "<p>4.4 처짐, 진동 및 수평변위</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 26,
+        "title": "4.4.1 처짐",
+        "level": 3,
+        "label": "4.4.1",
+        "contents": "<p>4.4.1 처짐</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 27,
+        "title": "4.4.1 처짐",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 구조물 또는 부재의 처짐 검토는 다음 식에 의한다.</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 28,
+        "title": "4.4.1 처짐",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                                <img src=\"data:image/gif;base64,R0lGODlhLQARAPUAAAAAAAA6kDqQ22YAAGYAZmY6OmY6kGaQkGaQtma2/5BmOpBmkJBmtpCQZpC2kJC225Db/7ZmOraQkLbb/7b//9uQOtu2kNu2ttvb29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAtABEAAAaKwJBwSCwaj8ikcslsOp9Q4cZRSERDGOe0SrxkoiAJ4tv0GjWCZ6fxiKKNHwKFaVlMrqH4fOiZvJdrD2RPfX8hIAx5BoNKIBYHd02IimQaVh+LUIFMlpRCFVaGSB8DAKanAYxHoCGGaCAREHhNr7F5hwoAaUukp6iqRiC5uxezxkMgx8ccysYfzcZBADs=\" width=\"47\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                           (4.4-1)</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 29,
+        "title": "4.4.1 처짐",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhBgAOAPQAAAA6kDqQ22Y6AGY6kGaQ22a2/5BmOpBmkJCQ25C2/5Db/7ZmZrb//9uQOtuQZtuQkNu2ttv/ttv///+2Zv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAGAA4AAAUo4CWOJGlBBiFWiHlIZFOMVDTAVXItzOUou96DYXldZJPASgCAlZ6XEAA7\" width=\"7\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 구조물 또는 부재의 처짐으로서 보통 구조체 자중을 제외한 하중작용에 대해서 부  재의 총단면적을 적용하여 산출한다.</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 30,
+        "title": "4.4.1 처짐",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAARAPUAAAAAOgA6Zjo6kDpmtjqQ22YAAGY6OmY6kGZmtmaQ22a222a2/5A6OpBmAJBmOpCQtpCQ25C225Db/7aQkLa2tra227bbtrb//9uQOtuQZtuQkNu2Ztu2ttvb/9v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACUALAAAAAAMABEAAAZOwJJwSCwajSKLYXEscT5NYYYZDQmgTU6D0NRcQoNjKFEaHbBEEHOEOGKYIK4xTmJIzJ8JluQAkDkUHg9NJBUjEE0hERsKHUcjBQFXUURBADs=\" width=\"13\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">: 구조물 또는 부재의 처짐의 한계치. 단, 설계에 있어서 고려해야 할 처짐의 한계치는 관련구조물의 설계기준에 정한 바가 있는 경우에는 그것을 준용하고, 없는 경우에는 합리적인 자료에 기초하여 판단하고 근거를 제시한다.</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 31,
+        "title": "4.4.2 진동",
+        "level": 3,
+        "label": "4.4.2",
+        "contents": "<p>4.4.2 진동</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 32,
+        "title": "4.4.2 진동",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 부재의 진동에 대한 안전성 검토는 처짐 제한의 형식으로 검토하는 경우에는 식 (4.4-1)을 준용하고, 그 이외의 경우에는 합리적인 방법을 취한다.</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 33,
+        "title": "4.4.2 진동",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 바닥구조는 바닥판, 바닥보, 천장, 칸막이벽의 상하진동으로 불쾌감이 유발되지 않도록 강성, 고유진동수, 감쇠효과 등을 고려하여 설계한다. </p>"
+      },
+      {
+        "no": 5295,
+        "sort": 34,
+        "title": "4.4.2 진동",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 건축물의 구조는 바람하중 등에 의한 수평방향 가속도로 인하여 불안감이 유발되지 않도록 구조물의 형상, 강성, 질량, 진동모드 등을 고려하여 설계한다. </p>"
+      },
+      {
+        "no": 5295,
+        "sort": 35,
+        "title": "4.4.3 수평 변위",
+        "level": 3,
+        "label": "4.4.3",
+        "contents": "<p>4.4.3 수평 변위</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 36,
+        "title": "4.4.3 수평 변위",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 건축물의 구조는 바람이나 지진 등 수평하중에 의한 수평변위로 인하여 생기는 마감재의 손상, 구조물 피해, 인접건축물과 충돌 등이 생기지 않도록 수평강성을 충분히 확보한다. </p>"
+      },
+      {
+        "no": 5295,
+        "sort": 37,
+        "title": "4.5 부식",
+        "level": 2,
+        "label": "4.5",
+        "contents": "<p>4.5 부식</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 38,
+        "title": "4.5 부식",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 구조요소는 부식에 견디도록 설계되어야 한다. </p>"
+      },
+      {
+        "no": 5295,
+        "sort": 39,
+        "title": "4.5 부식",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 구조물의 강도나 사용성을 저해할 수 있는 부식에 노출되어 있는 부재는 내부 표면을 피막하거나 청소 또는 도장을 할 수 있도록 충분한 간격으로 설치한다. </p>"
+      },
+      {
+        "no": 5295,
+        "sort": 40,
+        "title": "4.6 물고임",
+        "level": 2,
+        "label": "4.6",
+        "contents": "<p>4.6 물고임</p>"
+      },
+      {
+        "no": 5295,
+        "sort": 41,
+        "title": "4.6 물고임",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 지붕표면은 자연배수가 되도록 경사지게 한다. </p>"
+      },
+      {
+        "no": 5295,
+        "sort": 42,
+        "title": "4.6 물고임",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 물이 고일 경우에 대비하여 적절한 강도와 안정성을 확보한다.</p>"
+      }
+    ]
+  }
+]
