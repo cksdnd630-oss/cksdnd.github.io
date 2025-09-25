@@ -1,0 +1,1309 @@
+[
+  {
+    "no": 5294,
+    "codeType": "KDS",
+    "code": "143025",
+    "fullCode": "1010143025",
+    "name": "강구조 연결 설계기준 (허용응력설계법)",
+    "version": "2024",
+    "updateDate": "2024-05-08T09:25:00",
+    "list": [
+      {
+        "no": 5294,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 허용응력설계법에 따른 강구조물의 연결 설계방법과 최소한의 요구조건을 규정한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 4,
+        "title": "1.2 적용 범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용 범위</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 5,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 강구조물 연결부의 설계에 적용한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 6,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 7,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 30 05 (1.3) 에 따른다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 8,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 9,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 30 05 (1.4) 에 따른다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 10,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 11,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 30 05 (1.5) 에 따른다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 12,
+        "title": "2. 조사 및 계획",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 조사 및 계획</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 13,
+        "title": "2. 조사 및 계획",
+        "level": 2,
+        "label": "본문",
+        "contents": "<p>내용 없음</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 14,
+        "title": "3. 재료",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 재료</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 15,
+        "title": "3. 재료",
+        "level": 2,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 30 05 (3)에 따른다. </p>"
+      },
+      {
+        "no": 5294,
+        "sort": 16,
+        "title": "4. 설계",
+        "level": 1,
+        "label": "4.",
+        "contents": "<p>4. 설계</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 17,
+        "title": "4.1 일반규정",
+        "level": 2,
+        "label": "4.1",
+        "contents": "<p>4.1 일반규정</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 18,
+        "title": "4.1.1 설계일반",
+        "level": 3,
+        "label": "4.1.1",
+        "contents": "<p>4.1.1 설계일반</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 19,
+        "title": "4.1.1 설계일반",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 접합은 보강재, 거세트 플레이트, 브라켓 등 접합소재와 용접, 볼트로 구성된다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 20,
+        "title": "4.1.1 설계일반",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 이러한 요소들은 구조체에 작용하는 하중에 대한 필요강도 이상이 되거나 또는 접합부가 충분한 내력을 발휘할 수 있는 강도 이상이어야 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 21,
+        "title": "4.1.2 단순접합",
+        "level": 3,
+        "label": "4.1.2",
+        "contents": "<p>4.1.2 단순접합</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 22,
+        "title": "4.1.2 단순접합",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 설계도서에서 별도 지정이 없는 경우 작은보, 큰보, 트러스의 접합은 통상적으로 전단력에 대해서만 설계한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 23,
+        "title": "4.1.2 단순접합",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 보접합은 단순보로서 충분한 단부의 회전능력이 있어야 하며, 이를 위해서는 비탄성변형도 허용할 수 있다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 24,
+        "title": "4.1.3 강접합",
+        "level": 3,
+        "label": "4.1.3",
+        "contents": "<p>4.1.3 강접합</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 25,
+        "title": "4.1.3 강접합",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 보 및 트러스의 강접합은 접합강성으로 유발되는 모멘트와 전단의 조합력에 따라 설계해야 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 26,
+        "title": "4.1.4 편심접합",
+        "level": 3,
+        "label": "4.1.4",
+        "contents": "<p>4.1.4 편심접합</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 27,
+        "title": "4.1.4 편심접합",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 편심력이 작용되는 접합에서는 편심의 영향을 고려하여야 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 28,
+        "title": "4.1.5 기둥의 이음 및 지압접합",
+        "level": 3,
+        "label": "4.1.5",
+        "contents": "<p>4.1.5 기둥의 이음 및 지압접합</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 29,
+        "title": "4.1.5 기둥의 이음 및 지압접합",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 기둥 이음부의 고력볼트 및 용접 접합은 이음부의 응력을 전달함과 동시에 이들 접합허용내력은 피접합재 부재내력의 1/2 이상이어야 한다. 다만, 이음부에서 단면에 인장응력이 발생할 염려가 없고, 접합부 단부면이 절삭 마감에 의하여 밀착되는 경우에는 소요 압축력 및 소요 휨모멘트 각각의 1/4은 접촉면에 의해 직접 응력전달을 시킬 수 있다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 30,
+        "title": "4.1.6 접합부의 최소강도",
+        "level": 3,
+        "label": "4.1.6",
+        "contents": "<p>4.1.6 접합부의 최소강도</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 31,
+        "title": "4.1.6 접합부의 최소강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 접합부는 30 KN 이상 지지하도록 설계해야 한다. 다만, 연결재, 새그로드, 띠장은 제외한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 32,
+        "title": "4.1.7 용접 또는 볼트의 배열",
+        "level": 3,
+        "label": "4.1.7",
+        "contents": "<p>4.1.7 용접 또는 볼트의 배열</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 33,
+        "title": "4.1.7 용접 또는 볼트의 배열",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 편심에 대한 별도의 지정이 없는 경우, 축방향 힘을 전달하는 부재의 단부에서 용접이나 볼트의 군은 그 군의 중심이 부재의 중심과 일치하도록 배열하여야 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 34,
+        "title": "4.1.7 용접 또는 볼트의 배열",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 정적으로 재하되는 ㄱ형강, 쌍 ㄱ형강부재 또는 이와 유사한 부재의 단부 접합에서는 상기 (1)은 해당되지 않는다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 35,
+        "title": "4.1.8 용접과 볼트의 병용",
+        "level": 3,
+        "label": "4.1.8",
+        "contents": "<p>4.1.8 용접과 볼트의 병용</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 36,
+        "title": "4.1.8 용접과 볼트의 병용",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 고장력 볼트는 기본적으로 용접과 조합해서 하중을 부담시킬 수 없다. 이러한 경우, 용접에 전체하중을 부담시키도록 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 37,
+        "title": "4.1.8 용접과 볼트의 병용",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 마찰접합의 고장력 볼트와 용접을 병용할 경우 고장력 볼트를 먼저 시공한 후 용접을 시공하는 경우에만 하중을 고장력 볼트와 용접에 분담시킬 수 있다. </p>"
+      },
+      {
+        "no": 5294,
+        "sort": 38,
+        "title": "4.1.8 용접과 볼트의 병용",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 용접에 의하여 기존 구조부에 증축, 개축할 때는 고장력 볼트는 기존 구조물의 고정하중을 지지하고 있으므로 상기 (2)로 설계할 수 있다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 39,
+        "title": "4.1.9 부분용입 용접",
+        "level": 3,
+        "label": "4.1.9",
+        "contents": "<p>4.1.9 부분용입 용접</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 40,
+        "title": "4.1.9 부분용입 용접",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 부분용입 용접은 그 이음에 휨모멘트 또는 편심력이 작용하지 않도록 해야한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 41,
+        "title": "4.1.10 이음부 설계 세칙",
+        "level": 3,
+        "label": "4.1.10",
+        "contents": "<p>4.1.10 이음부 설계 세칙</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 42,
+        "title": "4.1.10 이음부 설계 세칙",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 응력을 전달하는 필릿용접 이음부의 길이는 모살치수의 10배 이상 또한 40 mm 이상을 원칙으로 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 43,
+        "title": "4.1.10 이음부 설계 세칙",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 응력을 전달하는 겹침이음은 2열 이상의 필릿용접을 원칙으로 하고, 겹침길이는 얇은 쪽 판두께의 5배 이상 또한 20 mm 이상 겹치게 해야 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 44,
+        "title": "4.1.10 이음부 설계 세칙",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 고장력 볼트, 리벳, 볼트의 구멍의 지름은 표 4.1-1, 표 4.1-2, 표 4.1-3에 따른다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 45,
+        "title": "4.1.10 이음부 설계 세칙",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 고장력 볼트, 리벳, 볼트의 구멍 중심간 거리는 공칭직경의 2.5배 이상으로 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 46,
+        "title": "4.1.10 이음부 설계 세칙",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5) 고장력 볼트, 리벳, 볼트의 구멍 중심에서 피접합재의 연단 또는 측단까지의 최소거리는 표 4.1-4에 따른다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 47,
+        "title": "4.1.10 이음부 설계 세칙",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6) 고장력 볼트 구멍 중심에서 볼트머리 또는 너트가 접하는 접합부재의 연단까지의 최대거리는 판두께의 12배 이하 또한 150 mm 이하로 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 48,
+        "title": "4.1.10 이음부 설계 세칙",
+        "level": 5,
+        "label": "표 4.1-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.1-1 고장력 볼트의 구멍지름</p></caption><tbody><tr>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>고장력 볼트의 지름 (mm)</p>\t</td>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>볼트구멍의 지름 (mm)</p>\t</td></tr><tr>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>d < 24</p>\t</td>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>d + 2.0</p>\t</td></tr><tr>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>d ≥24</p>\t</td>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>d + 3.0</p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"586\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>d : 고장력 볼트 축부지름</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 49,
+        "title": "4.1.10 이음부 설계 세칙",
+        "level": 5,
+        "label": "표 4.1-2",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.1-2 리벳의 구멍지름</p></caption><tbody><tr>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>리벳의 지름 (mm)</p>\t</td>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>리벳 구멍 지름 (mm)</p>\t</td></tr><tr>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>d < 20</p>\t</td>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>d + 1.0</p>\t</td></tr><tr>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>d &#x2267; 20</p>\t</td>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>d + 1.5</p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"586\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>d : 리벳의 축부지름</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 50,
+        "title": "4.1.10 이음부 설계 세칙",
+        "level": 5,
+        "label": "표 4.1-3",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.1-3 볼트의 구멍지름</p></caption><tbody><tr>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>볼트의 지름 (mm)</p>\t</td>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>볼트 구멍 지름 (mm)</p>\t</td></tr><tr>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>모든 볼트</p>\t</td>\t<td width=\"293\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>d + 0.5</p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"586\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>d : 볼트의 축부지름</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 51,
+        "title": "4.1.10 이음부 설계 세칙",
+        "level": 5,
+        "label": "표 4.1-4",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.1-4 최소연단거리 (mm)</p></caption><tbody><tr>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>리벳 또는 볼트의 공칭직경  </p>\t</td>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>연단거리</p>\t</td>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>  측단거리<sup>1)</sup></p>\t</td></tr><tr>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>16</p>\t</td>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>28</p>\t</td>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>22</p>\t</td></tr><tr>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>20</p>\t</td>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>34</p>\t</td>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>26</p>\t</td></tr><tr>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>22</p>\t</td>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>38</p>\t</td>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>28</p>\t</td></tr><tr>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>24</p>\t</td>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>42</p>\t</td>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>30</p>\t</td></tr><tr>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>27</p>\t</td>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>48</p>\t</td>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>34</p>\t</td></tr><tr>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>30</p>\t</td>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>52</p>\t</td>\t<td width=\"195\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>38</p>\t</td></tr><tr>\t<td colspan=\"3\" width=\"586\" height=\"23\" valign=\"middle\" align=\"left\">\t<p>주 1) 자동가스 절단 및 기계톱 절단 시는 측단거리를 적용한다.</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 52,
+        "title": "4.1.11 접합부 설계세칙",
+        "level": 3,
+        "label": "4.1.11",
+        "contents": "<p>4.1.11 접합부 설계세칙</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 53,
+        "title": "4.1.11 접합부 설계세칙",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 접합부 판넬의 보플랜지 위치에는 다이어프램을 설치해야 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 54,
+        "title": "4.1.11 접합부 설계세칙",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 중공단면 기둥의 외부 다이어프램 형식의 경우, 중공단면 기둥 및 다이어프램에 국부좌굴이 발생하지 않도록 해야 한다.  </p>"
+      },
+      {
+        "no": 5294,
+        "sort": 55,
+        "title": "4.1.11 접합부 설계세칙",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 재단접합부의 거세트트플레이트는 접합부재에서의 작용력이 일방향인 것을 제외하고는 인장력, 압축력이 작용하는 것으로 간주하여 설계해야 한다. 특히 압축력이 작용하는 경우는 면외변형을 고려해야 한다. </p>"
+      },
+      {
+        "no": 5294,
+        "sort": 56,
+        "title": "4.1.11 접합부 설계세칙",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 트러스부재 단부 접합부의 허용내력은 부재허용내력의 1/2 이상으로 한다. </p>"
+      },
+      {
+        "no": 5294,
+        "sort": 57,
+        "title": "4.2 용접",
+        "level": 2,
+        "label": "4.2",
+        "contents": "<p>4.2 용접</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 58,
+        "title": "4.2.1 맞댐용접",
+        "level": 3,
+        "label": "4.2.1",
+        "contents": "<p>4.2.1 맞댐용접</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 59,
+        "title": "4.2.1 맞댐용접",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유효면적</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 60,
+        "title": "4.2.1 맞댐용접",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 맞댐용접의 유효면적은 용접의 유효길이에 유효목두께를 곱한 것으로 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 61,
+        "title": "4.2.1 맞댐용접",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 맞댐용접의 유효길이는 접합되는 부분의 폭으로 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 62,
+        "title": "4.2.1 맞댐용접",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 완전용입된 맞댐용접의 유효목두께는 접합판 중 얇은 쪽 판두께로 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 63,
+        "title": "4.2.2 부분용입용접",
+        "level": 3,
+        "label": "4.2.2",
+        "contents": "<p>4.2.2 부분용입용접</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 64,
+        "title": "4.2.2 부분용입용접",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 부분용입용접의 유효목두께는 <img src=\"data:image/gif;base64,R0lGODlhHAAQAPUAAAAAAAAAOgAAZgA6kABmtjoAADoAOjo6kDpmtjqQ20kAAGYAAGYAZmZmkGZmtmaQ22a2/5A6OpA6ZpBmkJBmtpCQtpCQ25C2kJC2/5Db/7ZmALZmOrZmkLaQOraQkLa2tra2/7bb/7b//9uQOtuQZtuQkNu2ttvb/9v/29v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADEALAAAAAAcABAAAAaPwJhwSCwaj0giSQFoOp9NgSgphFWo2OIqk+3GOCnhCBB4DE3h7ssibJlbBi5MMu2W6qpBWJOItRBeVkcaEBpRdUUwJ0MrGEYvDWEjEEgwHQRDHmlEmkIbXEgvDFNrRmhVE5tHI30loEMspCAvDjEfSS0HKBRFLQVNARluLiFJMBEXjlQvC31UI3peWG7SRUEAOw==\" width=\"30\" height=\"15\" vspace=\"1\" hspace=\"0\" border=\"0\"> (mm) 이상으로 한다. 다만, <img src=\"data:image/gif;base64,R0lGODlhBQAOAPQAAAAAADoAZmaQ22a222a2/5A6AJBmkJCQ25C2/5Db/7ZmZra227bb/7b//9uQZtvb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABYALAAAAAAFAA4AAAUjoCWOpFg9oySMTmJVBQAQotKYBiRSR4pMDEtksBBJArdSKQQAOw==\" width=\"6\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">는 두꺼운 쪽 판두께이다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 65,
+        "title": "4.2.2 부분용입용접",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 부분용입 용접부의 단면형상에 따른 유효목두께 산정은 표 4.2-1에 따른다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 66,
+        "title": "4.2.2 부분용입용접",
+        "level": 5,
+        "label": "표 4.2-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.2-1 부분용입용접의 유효목두께</p></caption><tbody><tr>\t<td width=\"143\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>용접 방법</p>\t</td>\t<td width=\"143\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>용접자세</p>\t</td>\t<td width=\"143\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>루트부의 개선각도</p>\t</td>\t<td width=\"143\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>유효 목두께</p>\t</td></tr><tr>\t<td rowspan=\"3\" width=\"143\" height=\"113\" valign=\"middle\" align=\"center\">\t<p>쉴드메탈 아크용접</p>\t<p>서브머지드 아크용접</p>\t<p>가스메탈 아크용접</p>\t<p>플럭스코아드 아크용접</p>\t</td>\t<td rowspan=\"3\" width=\"143\" height=\"113\" valign=\"middle\" align=\"center\">\t<p>전 자세</p>\t</td>\t<td width=\"143\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>J 또는 U자 홈</p>\t</td>\t<td rowspan=\"2\" width=\"143\" height=\"66\" valign=\"middle\" align=\"center\">\t<p>홈의 깊이</p>\t</td></tr><tr>\t<td width=\"143\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>V(베벨) 또는 V자 홈</p>\t<p> ≥ 60°</p>\t</td></tr><tr>\t<td width=\"143\" height=\"47\" valign=\"middle\" align=\"center\">\t<p>V(베벨) 또는 V자 홈</p>\t<p>45°이상 60°미만 </p>\t</td>\t<td width=\"143\" height=\"47\" valign=\"middle\" align=\"center\">\t<p>홈의 깊이에서</p>\t<p>3 mm 공제</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 67,
+        "title": "4.2.3 필릿용접",
+        "level": 3,
+        "label": "4.2.3",
+        "contents": "<p>4.2.3 필릿용접</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 68,
+        "title": "4.2.3 필릿용접",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유효면적</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 69,
+        "title": "4.2.3 필릿용접",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 필릿용접의 유효면적은 유효길이에 유효목두께를 곱한 것으로 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 70,
+        "title": "4.2.3 필릿용접",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 필릿용접의 유효길이는 필릿용접의 총 길이에서 2배의 모살치수를 공제한 값으로 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 71,
+        "title": "4.2.3 필릿용접",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 필릿용접의 유효목두께는 모살치수의 0.7배로 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 72,
+        "title": "4.2.3 필릿용접",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 구멍모살과 슬로트필릿용접의 유효길이는 목두께의 중심을 잇는 용접 중심선의 길이로 한다. </p>"
+      },
+      {
+        "no": 5294,
+        "sort": 73,
+        "title": "4.2.3 필릿용접",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 필릿용접의 최소치수는 건축구조물의 경우 표 4.2-2, 토목구조물의 경우 표4.2-3에 따른다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 74,
+        "title": "4.2.3 필릿용접",
+        "level": 5,
+        "label": "표 4.2-2",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.2-2 건축구조물 필릿용접의 최소 치수</p></caption><tbody><tr>\t<td width=\"287\" height=\"23\" valign=\"middle\" align=\"center\">\t<p> 접합부의 얇은 쪽 소재 두께 (mm)</p>\t</td>\t<td width=\"276\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>  필릿용접의 최소 치수 (mm)</p>\t</td></tr><tr>\t<td width=\"287\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>t < 6</p>\t<p>6 ≤ t < 12</p>\t<p>12 ≤ t < 20</p>\t<p> 20 ≤ t</p>\t</td>\t<td width=\"276\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>3</p>\t<p>5</p>\t<p>6</p>\t<p>8</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 75,
+        "title": "4.2.3 필릿용접",
+        "level": 5,
+        "label": "표 4.2-3",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.2-3 토목구조물 필릿용접의 최소 치수</p></caption><tbody><tr>\t<td width=\"287\" height=\"23\" valign=\"middle\" align=\"center\">\t<p> 접합부의 두꺼운 쪽 소재 두께 (mm)</p>\t</td>\t<td width=\"276\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>  필릿용접의 최소 치수 (mm)</p>\t</td></tr><tr>\t<td width=\"287\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>t  ≤ 20</p>\t<p> 20  < t</p>\t</td>\t<td width=\"276\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>6</p>\t<p>8</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 76,
+        "title": "4.2.4 플러그 및 슬롯용접",
+        "level": 3,
+        "label": "4.2.4",
+        "contents": "<p>4.2.4 플러그 및 슬롯용접</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 77,
+        "title": "4.2.4 플러그 및 슬롯용접",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 유효면적</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 78,
+        "title": "4.2.4 플러그 및 슬롯용접",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>플러그 및 슬롯용접의 유효 총단면적은 평면 내에서 플러그 및 슬로트의 공칭 단면적으로 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 79,
+        "title": "4.2.4 플러그 및 슬롯용접",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 최소 간격</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 80,
+        "title": "4.2.4 플러그 및 슬롯용접",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 플러그 용접의 최소중심간격은 구멍 직경의 4배로 해야 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 81,
+        "title": "4.2.4 플러그 및 슬롯용접",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 슬로트 용접길이에 횡방향인 슬로트 용접선의 최소 간격은 슬로트 폭의 4배로 한다. 횡방향의 최소 중심간격은 슬로트 길이의 2배로 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 82,
+        "title": "4.2.5 용접부의 허용응력",
+        "level": 3,
+        "label": "4.2.5",
+        "contents": "<p>4.2.5 용접부의 허용응력</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 83,
+        "title": "4.2.5 용접부의 허용응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 용접부의 허용응력은 표 4.2-4에 따른다. 다만, 각 강종에 적합한 용접재료를 사용하여야 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 84,
+        "title": "4.2.5 용접부의 허용응력",
+        "level": 5,
+        "label": "표 4.2-4",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.2-4 용접의 허용응력 (MPa)</p></caption><tbody><tr>\t<td width=\"144\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>용접 구분</p>\t</td>\t<td width=\"270\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>응력 구분</p>\t</td>\t<td width=\"147\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>허용응력</p>\t</td></tr><tr>\t<td rowspan=\"3\" width=\"144\" height=\"72\" valign=\"middle\" align=\"center\">\t<p>완접 용입용접</p>\t</td>\t<td width=\"270\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>유효단면에 직교 인장 또는 압축</p>\t</td>\t<td rowspan=\"2\" width=\"147\" height=\"47\" valign=\"middle\" align=\"center\">\t<p>모재와 동일</p>\t</td></tr><tr>\t<td width=\"270\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>용접선에 평행한 인장 또는 압축</p>\t</td></tr><tr>\t<td width=\"270\" height=\"26\" valign=\"middle\" align=\"center\">\t<p>유효단면에 전단</p>\t</td>\t<td width=\"147\" height=\"26\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhHwAPAPUAAAAAAAAAOgAAZgBmnQBmtjoAADoAOjo6kDqQ22YAAGY6OmY6Zma222a2/5A6AJA6OpCQkJCQ25C225C2/5Db25Db/7ZmALZmOrZmZra2tra227a2/7bb/7b//9uQOtu2Ztvb29vb/9v/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAAfAA8AAAaZwJVwSCwaj8ikMkkqBBjGlGSYSgCuV8QxteCcFJXiRTs0HUZCT+NIIquJpQ85rVWFTpyjxz1XbdpDKg8VKhgdSXt0QxkrgEImBVcESokrlSWHjpZaJGtMbp4WWACTgmEoaElcXgoUDp6bj2dEZiMoRk1PRaIAAw5XAodCIBkiEKlLySsqGikRytAmEyQT0MofBcHWySYGsEJBADs=\" width=\"33\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td rowspan=\"4\" width=\"144\" height=\"98\" valign=\"middle\" align=\"center\">\t<p>부분 용입용접</p>\t</td>\t<td width=\"270\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>유효단면에 직교압축</p>\t</td>\t<td rowspan=\"2\" width=\"147\" height=\"47\" valign=\"middle\" align=\"center\">\t<p>모재와 동일</p>\t</td></tr><tr>\t<td width=\"270\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>용접선에 평행한 인장 또는 압축</p>\t</td></tr><tr>\t<td width=\"270\" height=\"26\" valign=\"middle\" align=\"center\">\t<p>용접선에 평행한 전단</p>\t</td>\t<td width=\"147\" height=\"26\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhHwAPAPUAAAAAAAAAOgAAZgBmnQBmtjoAADoAOjo6kDqQ22YAAGY6OmY6Zma222a2/5A6AJA6OpCQkJCQ25C225C2/5Db25Db/7ZmALZmOrZmZra2tra227a2/7bb/7b//9uQOtu2Ztvb29vb/9v/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAAfAA8AAAaZwJVwSCwaj8ikMkkqBBjGlGSYSgCuV8QxteCcFJXiRTs0HUZCT+NIIquJpQ85rVWFTpyjxz1XbdpDKg8VKhgdSXt0QxkrgEImBVcESokrlSWHjpZaJGtMbp4WWACTgmEoaElcXgoUDp6bj2dEZiMoRk1PRaIAAw5XAodCIBkiEKlLySsqGikRytAmEyQT0MofBcHWySYGsEJBADs=\" width=\"33\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td width=\"270\" height=\"26\" valign=\"middle\" align=\"center\">\t<p>유효단면 직교인장</p>\t</td>\t<td width=\"147\" height=\"26\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhHwAPAPUAAAAAAAAAOgAAZgBmnQBmtjoAADoAOjo6kDqQ22YAAGY6OmY6Zma222a2/5A6AJA6OpCQkJCQ25C225C2/5Db25Db/7ZmALZmOrZmZra2tra227a2/7bb/7b//9uQOtu2Ztvb29vb/9v/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAAfAA8AAAaZwJVwSCwaj8ikMkkqBBjGlGSYSgCuV8QxteCcFJXiRTs0HUZCT+NIIquJpQ85rVWFTpyjxz1XbdpDKg8VKhgdSXt0QxkrgEImBVcESokrlSWHjpZaJGtMbp4WWACTgmEoaElcXgoUDp6bj2dEZiMoRk1PRaIAAw5XAodCIBkiEKlLySsqGikRytAmEyQT0MofBcHWySYGsEJBADs=\" width=\"33\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"144\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>필릿용접</p>\t</td>\t<td width=\"270\" height=\"26\" valign=\"middle\" align=\"center\">\t<p>유효단면의 전단</p>\t</td>\t<td width=\"147\" height=\"26\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhHwAPAPUAAAAAAAAAOgAAZgBmnQBmtjoAADoAOjo6kDqQ22YAAGY6OmY6Zma222a2/5A6AJA6OpCQkJCQ25C225C2/5Db25Db/7ZmALZmOrZmZra2tra227a2/7bb/7b//9uQOtu2Ztvb29vb/9v/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAAfAA8AAAaZwJVwSCwaj8ikMkkqBBjGlGSYSgCuV8QxteCcFJXiRTs0HUZCT+NIIquJpQ85rVWFTpyjxz1XbdpDKg8VKhgdSXt0QxkrgEImBVcESokrlSWHjpZaJGtMbp4WWACTgmEoaElcXgoUDp6bj2dEZiMoRk1PRaIAAw5XAodCIBkiEKlLySsqGikRytAmEyQT0MofBcHWySYGsEJBADs=\" width=\"33\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td width=\"270\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>용접선에 평행한 인장 또는 압축</p>\t</td>\t<td width=\"147\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>모재와 동일</p>\t</td></tr><tr>\t<td width=\"144\" height=\"26\" valign=\"middle\" align=\"center\">\t<p>플러그 및 슬롯용접</p>\t</td>\t<td width=\"270\" height=\"26\" valign=\"middle\" align=\"center\">\t<p>유효단면에 평행한 전단</p>\t</td>\t<td width=\"147\" height=\"26\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhHwAPAPUAAAAAAAAAOgAAZgBmnQBmtjoAADoAOjo6kDqQ22YAAGY6OmY6Zma222a2/5A6AJA6OpCQkJCQ25C225C2/5Db25Db/7ZmALZmOrZmZra2tra227a2/7bb/7b//9uQOtu2Ztvb29vb/9v/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAAfAA8AAAaZwJVwSCwaj8ikMkkqBBjGlGSYSgCuV8QxteCcFJXiRTs0HUZCT+NIIquJpQ85rVWFTpyjxz1XbdpDKg8VKhgdSXt0QxkrgEImBVcESokrlSWHjpZaJGtMbp4WWACTgmEoaElcXgoUDp6bj2dEZiMoRk1PRaIAAw5XAodCIBkiEKlLySsqGikRytAmEyQT0MofBcHWySYGsEJBADs=\" width=\"33\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 85,
+        "title": "4.2.6 용접의 혼용",
+        "level": 3,
+        "label": "4.2.6",
+        "contents": "<p>4.2.6 용접의 혼용</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 86,
+        "title": "4.2.6 용접의 혼용",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 접합부에서 2가지 이상의 용접유형(맞댐용접, 필릿용접, 플러그용접, 슬롯용접)을 혼용할 경우, 용접군의 축에 대하여 독립적으로 계산해야 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 87,
+        "title": "4.3 고장력 볼트",
+        "level": 2,
+        "label": "4.3",
+        "contents": "<p>4.3 고장력 볼트</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 88,
+        "title": "4.3.1 고장력 볼트의 설계볼트장력",
+        "level": 3,
+        "label": "4.3.1",
+        "contents": "<p>4.3.1 고장력 볼트의 설계볼트장력</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 89,
+        "title": "4.3.1 고장력 볼트의 설계볼트장력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 고장력 볼트의 설계볼트장력은 표 4.3-1에 따른다. 마찰이음용 고장력 볼트의 설계볼트장력은 표 4.3-2에 따른다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 90,
+        "title": "4.3.1 고장력 볼트의 설계볼트장력",
+        "level": 5,
+        "label": "표 4.3-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.3-1 고장력 볼트의 설계볼트장력 (kN)</p></caption><tbody><tr>\t<td width=\"80\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>호칭    </p>\t<p>종류</p>\t</td>\t<td width=\"80\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>M16</p>\t</td>\t<td width=\"80\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>M20</p>\t</td>\t<td width=\"80\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>M22</p>\t</td>\t<td width=\"80\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>M24</p>\t</td>\t<td width=\"80\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>M27</p>\t</td>\t<td width=\"80\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>M30</p>\t</td></tr><tr>\t<td width=\"80\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>F8T</p>\t<p>F10T </p>\t<p>F13T</p>\t</td>\t<td width=\"80\" height=\"62\" valign=\"middle\" align=\"center\">\t<p> 84</p>\t<p>105</p>\t<p>136</p>\t</td>\t<td width=\"80\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>131</p>\t<p>164</p>\t<p>213</p>\t</td>\t<td width=\"80\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>163</p>\t<p>203</p>\t<p>264</p>\t</td>\t<td width=\"80\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>189</p>\t<p>236</p>\t<p>307</p>\t</td>\t<td width=\"80\" height=\"62\" valign=\"middle\" align=\"center\">\t<p> </p>\t<p>307</p>\t<p> </p>\t</td>\t<td width=\"80\" height=\"62\" valign=\"middle\" align=\"center\">\t<p> </p>\t<p>376</p>\t<p> </p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 91,
+        "title": "4.3.1 고장력 볼트의 설계볼트장력",
+        "level": 5,
+        "label": "표 4.3-2",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.3-2 마찰이음용 고장력 볼트의 허용력 (kN) (1볼트 1마찰면마다)</p></caption><tbody><tr>\t<td width=\"142\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>볼트의 등급                                </p>\t<p>나사호칭</p>\t</td>\t<td width=\"142\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>F8T</p>\t</td>\t<td width=\"142\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>F10T</p>\t</td>\t<td width=\"142\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>S10T<sup>1)</sup></p>\t</td></tr><tr>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>M 20</p>\t</td>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>31</p>\t</td>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>39</p>\t</td>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>39</p>\t</td></tr><tr>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>M 22</p>\t</td>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>39</p>\t</td>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>48</p>\t</td>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>48</p>\t</td></tr><tr>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>M 24</p>\t</td>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>45</p>\t</td>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>56</p>\t</td>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>56</p>\t</td></tr><tr>\t<td colspan=\"4\" width=\"567\" height=\"23\" valign=\"middle\" align=\"left\">\t<p>주 1) S10T : T/S 볼트의 기계적 성질에 따른 등급을 나타내는 기호</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 92,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 3,
+        "label": "4.3.2",
+        "contents": "<p>4.3.2 고장력 볼트 허용내력</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 93,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 고장력 볼트 허용응력</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 94,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>고장력 볼트의 허용응력은 표 4.3-3에 따르며, 허용응력은 볼트 축단면적에 대해 산정한다. 지압이음용 고장력 볼트의 허용전단응력 및 모재의 허용지압응력은 표 4.3-4 및 표 4.3-5에 따른다. </p>"
+      },
+      {
+        "no": 5294,
+        "sort": 95,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 5,
+        "label": "표 4.3-3",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.3-3 고장력 볼트의 허용응력 (MPa)</p></caption><tbody><tr>\t<td width=\"194\" height=\"26\" valign=\"middle\" align=\"center\">\t<p>고장력 볼트의 종류</p>\t</td>\t<td width=\"194\" height=\"26\" valign=\"middle\" align=\"center\">\t<p>인장(<img src=\"data:image/gif;base64,R0lGODlhDwAPAPQAAAAAAAAAZgBmtjpmtjqQ22Y6kGa2/5A6AJA6OpA6ZpBmkJCQ25C2/5Db/7ZmALZmkLaQkLa2trbb27b//9uQOtvb/9v///+2Zv+2tv/bkP/b2///tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAPAA8AAAVFYCeOZGmeJQWsQDChHNJ0nGKhW2FpVoR2FwLnMan8HCvBj5aYZBjLzKDDE2FuKUMJghVxDistDaxcdjYLs1ViNFPKalMIADs=\" width=\"17\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>\t</td>\t<td width=\"179\" height=\"26\" valign=\"middle\" align=\"center\">\t<p>전단(<img src=\"data:image/gif;base64,R0lGODlhEAAPAPUAAAAAAAAAZgA6kABmtjpmtjqQ22Y6AGY6kGa2/5A6AJA6OpA6ZpA6kJBmkJCQtpC2/5Db/7ZmALZmkLa2tra227b//9uQOtu2ttvb29vb/9v/29v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAQAA8AAAZSwJBwSCwaj0cLYAkIVJAhkAISbWygn8PGs5lAQ5wCSFLJfCPLwTe6qHQe6w4hxF1bEMSshnEVghJLeEIYExsXfVAgFCAOayFvHIJfHwYCiI5FQQA7\" width=\"18\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>\t</td></tr><tr>\t<td width=\"194\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>F8T</p>\t<p>F10T</p>\t</td>\t<td width=\"194\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>250</p>\t<p>310</p>\t</td>\t<td width=\"179\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>120</p>\t<p>150</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 96,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 5,
+        "label": "표 4.3-4",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.3-4 지압이음용 고장력 볼트의 허용전단응력(MPa)</p></caption><tbody><tr>\t<td width=\"189\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>볼트의 등급</p>\t</td>\t<td width=\"189\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>B8T</p>\t</td>\t<td width=\"189\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>B10T</p>\t</td></tr><tr>\t<td width=\"189\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>허용전단응력</p>\t</td>\t<td width=\"189\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>150</p>\t</td>\t<td width=\"189\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>190</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 97,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 5,
+        "label": "표 4.3-5",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.3-5 지압이음용 볼트를 적용한 모재의 허용지압응력(MPa)</p></caption><tbody><tr>\t<td width=\"183\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>모재 및 </p>\t<p>거셋 플레이트의 </p>\t<p>강종</p>\t<p>강재판두께 (mm)</p>\t</td>\t<td width=\"82\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>SS275</p>\t</td>\t<td width=\"82\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>SM275</p>\t<p>SMA275</p>\t</td>\t<td width=\"82\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>SM355</p>\t<p>SMA355</p>\t</td>\t<td width=\"82\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>SM420</p>\t</td>\t<td width=\"82\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>SM460</p>\t<p>SMA460</p>\t</td></tr><tr>\t<td width=\"183\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>16 이하</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>250</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>250</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>320</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>380</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>415</p>\t</td></tr><tr>\t<td width=\"183\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>16 초과 40 이하</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>240</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>240</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>310</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>370</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>405</p>\t</td></tr><tr>\t<td width=\"183\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>40 초과 75 이하</p>\t</td>\t<td rowspan=\"2\" width=\"82\" height=\"47\" valign=\"middle\" align=\"center\">\t<p>220</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>230</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>300</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>360</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>385</p>\t</td></tr><tr>\t<td width=\"183\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>75 초과 100이하</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>220</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>295</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>350</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>380</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 98,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 5,
+        "label": "표 4.3-5",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><tbody><tr>\t<td width=\"176\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>모재 및 </p>\t<p>거셋 플레이트의 </p>\t<p>강종</p>\t<p>강재판두께 (mm)</p>\t</td>\t<td width=\"83\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>SM355-TMC</p>\t</td>\t<td width=\"83\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>SM420-TMC</p>\t</td>\t<td width=\"55\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>HSB380</p>\t</td>\t<td width=\"82\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>SM460-TMC</p>\t</td>\t<td width=\"59\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>HSB460</p>\t</td>\t<td width=\"59\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>HSB690</p>\t</td></tr><tr>\t<td width=\"176\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>100 이하</p>\t</td>\t<td width=\"83\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>310</p>\t</td>\t<td width=\"83\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>370</p>\t</td>\t<td width=\"55\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>340</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>405</p>\t</td>\t<td width=\"59\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>415</p>\t</td>\t<td width=\"59\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>620</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 99,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 허용전단력</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 100,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>고장력 볼트의 허용전단력 <img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAAAAAOgAAZgA6kABmtjoAADoAZjo6kDpmkDqQ22YAAGYAZmY6AGY6kGa2/5A6AJA6OpA6kJBmAJCQkJCQtpC2/5Db/7ZmALa2tra227bb/7b//9uQOtu2ttvb29v/ttv/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACgALAAAAAAPABEAAAZnQJRwSCwaj8XTA8AEIELIE8SCIikSyJFhg1JijxyC0LTgHi8OVGmiQZoUzEAaKRqEThIxkvO9fI1SVG8OJ1BFIwdQIwUOHR8NIBFQIkxiSgIbHhghHYZRGScUSEMjFSJzoyYMdqNHQQA7\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음과 같다. </p>"
+      },
+      {
+        "no": 5294,
+        "sort": 101,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhSwARAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6Ojo6Zjo6kDpmtjqQ22YAAGYAOmYAZmY6AGY6kGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpA6kJBmkJCQOpCQtpCQ25C2tpC225C2/5Db25Db/7ZmALZmOrZmZra2kLa2tra227bb/7b//9uQOtuQZtuQkNu2Ztu2ttvb29vb/9v/ttv/29v///+2Zv+2kP/bkP/btv//tv//2////wAAACH5BAAAAD4ALAAAAABLABEAAAb+QJ9wSCwaj8ikcslsOp/QqHRKneIAWOxgVJXyKsprNotB4go3X+8kaHWfvYxhiWsLe5oS0uQYuuxFOgdjWYBSMB5zSnxCKj4yaUY8EHo+MQssbyYEKRIADUg5JS6KSJN6MWUzSC5ZARdJgoRYhj46JBkELDwRbkU8ID4uaEmttL5HcWU9JsRdMjZ5PjwTkUSOws40RXF9PBRKOgm+w9ZVOgxpOBZGxljEPR3mOgh6PdvFinFzq104fT5QlIA0REcwIc3SACtCqokyIYIc6AgxwQYHc09OlKFWQ8SQHeD8ENOhANBDItQsRhITwF6GABhmqLhBMEqPDW7iODOBZeM8g3c3XlzAUYYn0CEyaWJMtqLHhzdRULTAUQlJj6ZPmegYQRQqFGg4w3Etw4SHBGdem0wim8Qs2rRwqwQBADs=\" width=\"76\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                        (4.3-1)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 102,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhBwANAPQAAAA6kABmkDoAAGYAZmZmtmaQ25CQZpCQkJCQ25Db25Db/7ZmZrZmkLbb/7b//9uQZtu2Ztu2ttvb29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAHAA0AAAUpYCaOZGme6DUYAjBlERRMi5NJj4Idb8ZMF4QkcyFkKolGxlLIUFwoUwgAOw==\" width=\"8\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 전단면의 수</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 103,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDQAPAPQAAAAAAAAAZjoAAGYAOmY6OmZmkGa222a2/5A6AJA6ZpCQ25C225Db/52QZrZmALZmOrZmZra227b//9uQZtuQkNu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAACH5BAAAAB4ALAAAAAANAA8AAAVFoCeOZGme5MSg4kasbPTA5ybNaGd5KpoBwMOmgCFxFiLHgaMoUSTJg0YQgHYQgIPHAQg0DBktCiLJ0EyVSwKK4gzELFIIADs=\" width=\"15\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 볼트 축단면적 (mm²)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 104,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDQAPAPUAAAAAAAAAZgA6kABmtjpmtjqQ22Y6AGY6kGa2/5A6AJA6OpA6ZpA6kJBmkJCQtpC2/5Db/7ZmALZmkLa2tra227b//9uQOtu2ttvb29vb/9v/29v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANAA8AAAZQwJBwSCwajyELYAkIVIwgBSQEamyMn8PGs5kcOQWQpJI5RpYDJGhR6TyQHUKIi7QgiFkNYwNKLO9CGBMbF1dHIBQgDkghbhyARx8GAoaMQ0EAOw==\" width=\"15\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 고장력 볼트의 허용전단응력 (MPa)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 105,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 허용인장력</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 106,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>고장력 볼트의 허용인장력 <img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgAAZgA6kABmtjoAADoAZjo6kDpmkDqQ22YAAGYAZma2/3s6AJA6AJA6OpBmAJCQkJCQ25C2/5Db/7ZmALaQkLbb27bb/7b//9uQOtu2ndu2ttvb/9v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACYALAAAAAAOABEAAAZkQJNwSCwaj8OSA8AEIDzH0oNiEikSx5AhY1JijRqCkLTgGisM0yiCOZIUzED6+Bl4ShDxUfOtfDlmXVMmbwwlHhZQQiEHUCEFDBsNAHofTGJKAhkkEkhEIROeQyAXHaImYadFQQA7\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음과 같다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 107,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhQAARAPUAAAAAAAAAOgAAZgA6OgA6kABmtjoAADoAOjoAZjo6Ojo6ZjqQ21EoAGYAAGYAOmZmtmaQtma222a2/5A6AJA6OpA6ZpBmkJCQOpCQ25C2/5Db/7ZmALZmOrZmZraQkLa2trbb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvb29vb/9v/29v///+2Zv+2kP+2tv/bfP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADQALAAAAABAABEAAAb+QJpwSCwaj8ikcslsOp/QqHRqZAGu10GGmpRBlFYsVnJkEVa0GUcg4hpnk8KSxRbOKJrjZjEc1YswBmJYf0glF3JKe0IfNCdoRTIOeTQmCiFuRS0aI4lIknkmZChHI1gBEUmBg1eFkRg0I2dJpq1tR3BkMxuzmUONsb0pRXB8Mg+qCLeyaCe3XLVXszMWkEIwB3kzw47PQp12cTQoHtZTMLBCvGgy6X2eQ+VEudcGCy8MAPBRMch9szAS/KE3BI6+IWECaJsQQEI7LhuukJHRQNoKEhFYkIloccjDJjC2+DrSQQQLSkhCOnEBgttIIidUVPBmhKVLJeBeRnJABucGPp1AjwQBADs=\" width=\"65\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                           (4.3-2)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 108,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhDQAPAPQAAAAAAAAAZjoAAGYAOmY6OmZmkGa222a2/5A6AJA6ZpCQ25C225Db/52QZrZmALZmOrZmZra227b//9uQZtuQkNu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAACH5BAAAAB4ALAAAAAANAA8AAAVFoCeOZGme5MSg4kasbPTA5ybNaGd5KpoBwMOmgCFxFiLHgaMoUSTJg0YQgHYQgIPHAQg0DBktCiLJ0EyVSwKK4gzELFIIADs=\" width=\"15\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 볼트 축단면적 (mm²)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 109,
+        "title": "4.3.2 고장력 볼트 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPUAAAAAAAAAZgBmtjpmtjqQ22Y6kGa2/5A6AJA6OpA6ZpBmkJC2/5Db/7ZmALZmOrZmkLa2tra2/7bb27bb/7b//9uQOtu2ttvb29vb/9v///+2Zv+2tv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAMAA8AAAZJQJBwSCwajRWAEhCgFD8IBuijyBQ9hUwnAzFqCJ8HBWNsKAXHT4LCWRw5A9D2cylWDENPZPg5KPF9TUdCGxODQhYShyAOUotEQQA7\" width=\"14\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 고장력 볼트의 허용인장응력 (MPa)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 110,
+        "title": "4.3.3 인장력 및 전단력 조합시 허용력",
+        "level": 3,
+        "label": "4.3.3",
+        "contents": "<p>4.3.3 인장력 및 전단력 조합시 허용력</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 111,
+        "title": "4.3.3 인장력 및 전단력 조합시 허용력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 고장력 볼트가 인장력과 전단력을 동시에 받는 경우, 표 4.3-3의 허용전단응력은 다음 감소계수를 곱하여 저감시킨다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 112,
+        "title": "4.3.3 인장력 및 전단력 조합시 허용력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                               <img src=\"data:image/gif;base64,R0lGODlhOQAlAPUAAAAAAAAAZgA6kABmtjoAZjo6ADo6Ojo6kDpmtjqQ22YAAGYAOmYAZmY6kGZmAGaQ22a222a2/5A6AJA6OpA6ZpBmkJCQtpCQ25C2/5Db/7ZmALZmOrZmZraQOraQkLa2tra2/7bbkLbb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttu229vb/9v/ttv/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADYALAAAAAA5ACUAAAb+QJtwSCwaj8ikcslsOp/QqHSqrE0izNiDSuWEEMuaJMGVxhKz0TLlIJefGgBgsKSBNO63c5Nhfmx4ek40DS5LMCQ2JXk2K4JIMWBEKYlDNApyAHk1FYaPRSVYRB6eQh6VgUI0F59FVn1CYnNDJxhDqTYxBgGVnyoshUSrsRIAAi6ymkImEC+ij4QdjLm2TRwkL7BFKFtTGsdFMCKOTCktFL2qCgXTbyV0TTQLz0Uv7a1c9kQvmf30+En0QbnUr6DBgwh57bsHUIrAhmUeQqQicSKUZAo/xSkIzyITGhaQTeijxWOTFIZiHDAkQ41JJ++EzCj1soqEfzWXxCCQjlwtTiQvOtrgRPMnEQ30hhk1QoNBOl0ZlxKUk4eZs6VLrmXDqsQcOq5J5OEEKyUIADs=\" width=\"59\" height=\"36\" vspace=\"1\" hspace=\"0\" border=\"0\">                          (4.3-3)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 113,
+        "title": "4.3.3 인장력 및 전단력 조합시 허용력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCQAPAPQAAAAAAAAAZgBmtjpmtjqQ22YAAGZmkGZmtmaQ22a2/5A6AJA6ZpBmOpBmkJC2kJDb/7ZmOra2/7bb27bb/7b//9uQZtu2ttvb29v///+2Zv+2tv//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAJAA8AAAU1YCeOZGmKUGJWzlByDVZuBSCYGXJWj8ktlA7nMtocRJvIKEMQKgKUjYHR62gmJ4vkBKmeOiEAOw==\" width=\"10\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 볼트에 작용하는 인장응력 (MPa)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 114,
+        "title": "4.3.3 인장력 및 전단력 조합시 허용력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDQAPAPQAAAAAAAAAZjoAAGYAOmY6OmZmkGa222a2/5A6AJA6ZpCQ25C225Db/52QZrZmALZmOrZmZra227b//9uQZtuQkNu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAACH5BAAAAB4ALAAAAAANAA8AAAVFoCeOZGme5MSg4kasbPTA5ybNaGd5KpoBwMOmgCFxFiLHgaMoUSTJg0YQgHYQgIPHAQg0DBktCiLJ0EyVSwKK4gzELFIIADs=\" width=\"15\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 고장력 볼트 축단면적 (mm²)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 115,
+        "title": "4.3.3 인장력 및 전단력 조합시 허용력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDQAPAPUAAAAAAAAAZgA6kDoAADo6kDpmtjqQ22YAOmY6kGZmkGa222a2/5A6ZpCQtpCQ25Db/7ZmOrZmZraQkLa2/7b//9uQOtuQZtu2ttv/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAANAA8AAAZOQJBwSCwajyANYLkUZIqSjAchbRQ9k2QB9MkSO8/KAin8MChk0Ibw5CSeRY1B6HEcIQ/hZhBAC5VLYxYKGmNIERQaeUgXGGdkHgeGaUNBADs=\" width=\"15\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 설계볼트장력 (N) (표 4.3-1 참조)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 116,
+        "title": "4.4 리벳 및 볼트",
+        "level": 2,
+        "label": "4.4",
+        "contents": "<p>4.4 리벳 및 볼트</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 117,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 3,
+        "label": "4.4.1",
+        "contents": "<p>4.4.1 리벳 및 볼트의 허용내력</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 118,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 리벳 및 볼트의 허용응력</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 119,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>리벳 및 볼트의 허용응력은 표 4.4-1에 따른다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 120,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "표 4.4-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.4-1 리벳 및 볼트의 허용응력 (MPa)</p></caption><tbody><tr>\t<td colspan=\"2\" width=\"346\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>재       료</p>\t</td>\t<td width=\"112\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>인 장</p>\t</td>\t<td width=\"112\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>전 단</p>\t</td></tr><tr>\t<td width=\"96\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>리벳</p>\t</td>\t<td width=\"250\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>SV330, SV400</p>\t<p>SBV330, SBV400</p>\t</td>\t<td width=\"112\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>160</p>\t</td>\t<td width=\"112\" height=\"43\" valign=\"middle\" align=\"center\">\t<p>120</p>\t</td></tr><tr>\t<td width=\"96\" height=\"100\" valign=\"middle\" align=\"center\">\t<p>볼트</p>\t</td>\t<td width=\"250\" height=\"100\" valign=\"middle\" align=\"center\">\t<p>SS275, SM275 중볼트</p>\t<p>SS315 중볼트</p>\t<p>SM355 중볼트</p>\t<p>SM420 중볼트</p>\t<p>SM460 중볼트</p>\t</td>\t<td width=\"112\" height=\"100\" valign=\"middle\" align=\"center\">\t<p>120</p>\t<p>140</p>\t<p> </p>\t<p>180</p>\t<p>210</p>\t</td>\t<td width=\"112\" height=\"100\" valign=\"middle\" align=\"center\">\t<p>90</p>\t<p>110</p>\t<p> </p>\t<p>140</p>\t<p>160</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5294,
+        "sort": 121,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 허용전단력</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 122,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>리벳 및 볼트접합의 허용전단내력 <img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAAAAAOgAAZgA6kABmtjoAADoAZjo6kDpmkDqQ22YAAGYAZmY6AGY6kGa2/5A6AJA6OpA6kJBmAJCQkJCQtpC2/5Db/7ZmALa2tra227bb/7b//9uQOtu2ttvb29v/ttv/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACgALAAAAAAPABEAAAZnQJRwSCwaj8XTA8AEIELIE8SCIikSyJFhg1JijxyC0LTgHi8OVGmiQZoUzEAaKRqEThIxkvO9fI1SVG8OJ1BFIwdQIwUOHR8NIBFQIkxiSgIbHhghHYZRGScUSEMjFSJzoyYMdqNHQQA7\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 식 (4.4-1) 및 식 (4.4-2) 중 작은 값으로 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 123,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhRgARAPQAAAAAAAAAZgA6kDo6OmYAOmY6AGY6kGa222a2/5A6ZpA6kJBmkJCQtpCQ25C2/5Db/7ZmZra2tra227b//9uQZtu2ttvb29vb/9v/29v///+2Zv/bkP//tv//2////wAAACH5BAAAAB4ALAAAAABGABEAAAWzoCeOZGmeaKqubOu+cArMdGyPgEzXMp7fsR9K6CGaiEagijckJXFO3Y7p+j1Fwty1CFVii7OTtfddUoHarno7XaqH0zO37ONdStlV3ks3Ij0dCxlRdE2FSnljURwNeFU+RRwGGAqDQZCHORsDAROHHpKUlmBZORYRGRWjXkw7FAcaCG0jp6mrKB0SHQx8LRATGg8pubstGw6xvSwVGAmeKMfJLBwFArfKJhwECCrU1tjgNyEAOw==\" width=\"71\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                         (4.4-1)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 124,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                               <img src=\"data:image/gif;base64,R0lGODlhPgARAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6ADo6Zjo6kDqQ22YAOmYAZmY6AGY6OmY6kGZmAGZmtmaQ22a222a2/5A6AJA6OpA6ZpA6kJBmOpBmkJCQtpC2tpC2/5Db25Db/7ZmALZmOrZmZraQZra2tra227a2/7bb/7b//9uQOtuQZtu2Ztu2ttvb29vb/9v/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAADoALAAAAAA+ABEAAAb+QJ1wSCwaj8ikcslsOp/QaPIGkyJpgGx2ALIebY8V0ZYiYrXay5FWmOlyJIHYS6wx3EOW2iwX5jIiRyMNeX1FNQdoWoZGNIRDf4FEg0InOi94RDgOki4LKnRCLQcEE3s6I1oGQ5uBLmpVRixaARZJiIpZjDosbTUJc0J2mbyLwUU5GGo5I22hrTo4EsSORMmEOBS3wEK9xFJsbtVEJJLCCIE5MUksq28Yq7FW7UIkF5h+Gis4oLzuSsn2IGpQ44MEGRu+MaGx6kWEEB6G2JFh6d0pYRXo6TgTIB2GABdgnJiBD0oODh1/BUvmLFUWZ0JgmFhR4tiRHChyRAxlBYchhxwdFB4CQeMizyeOalRgggMCzKNQWCggYBOqVR0DhwQBADs=\" width=\"64\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                          (4.4-2)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 125,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서 <img src=\"data:image/gif;base64,R0lGODlhDQAPAPUAAAAAAAAAOgAAZgA6kABmtjoAZjpmtjqQ22Y6AGY6kGa2/5A6AJA6OpA6ZpA6kJCQtpC2/5Db/7ZmALa2tra227a2/7b/27b//9uQOtuQZtu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAANAA8AAAZRwJFwSCwajyMMYBlQHEWMyCgz6BhDCauHcPQcRqCH1ShhSo2ixkW0cBo/hhH0XMQ4PwVLBctxJAECFyEIXBsTHRpIchQiD4ofEB5uR4NVikRBADs=\" width=\"14\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 리벳 또는 볼트 1개당 허용전단력 (N)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 126,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBwANAPQAAAA6kABmkDoAAGYAZmZmtmaQ25CQZpCQkJCQ25Db25Db/7ZmZrZmkLbb/7b//9uQZtu2Ztu2ttvb29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAHAA0AAAUpYCaOZGme6DUYAjBlERRMi5NJj4Idb8ZMF4QkcyFkKolGxlLIUFwoUwgAOw==\" width=\"8\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 전단면의 수</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 127,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPQAAAAAAAAAZjoAAGYAOmY6OmZmkGa222a2/5A6AJA6ZpCQ25C225Db/7ZmALZmOrZmZra227b//9uQZtuQkNu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAMAA8AAAVCYCeOZGmeosSgnUasKOTAphbNJ1d16okBwEOrcBFtFqKGcKMYTSJJYUYQ4CAAwgYgEJEYMKxHBIyiWBKszUDIEoUAADs=\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 리벳 또는 볼트 축부단면적 (mm²)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 128,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPUAAAAAAAAAZgA6kABmtjpmtjqQ22Y6AGY6kGa2/5A6AJA6OpA6ZpA6kJBmkJCQtpC2/5Db/7ZmALZmkLa2tra227b//9uQOtu2ttvb29vb/9v/29v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAMAA8AAAZMwJBwSCwajRaAEhCoFEEKSAjU2BQ/h41nMzFyCiBJJWOMKAdH0KLSeRw7hND2aEEQsRoGKKG0CzETGxdHUxQgDoRtHH5GHwYCVoRDQQA7\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 리벳 또는 볼트의 허용전단응력 (MPa) (표 4.4-1참조)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 129,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBgANAPQAAAA6OjoAADqQ22Y6OmY6ZmZmtmaQtmaQ22a2/5BmkJDb/7aQkLbb/7b//9uQOtuQZtuQkNu2ttvbttvb2/+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAGAA0AAAUpYCaOZJlZA4kl5FWIVQAc2UUwD5JRQgY1mYcis5gEFRJDJBNDOHSmUggAOw==\" width=\"7\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 리벳 또는 볼트의 축지름 (mm)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 130,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBAANAPQAAAAAAABmtpA6AJCQ25C2/5Db/7aQkLbbtrb//9uQkNvb29vb/9v///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAEAA0AAAUd4CSOJMSICSIajCQAwRQN4kOITqFMybFMjRiJFAIAOw==\" width=\"5\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\">  : 접합부의 두께 (mm)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 131,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPUAAAAAAAAAZgA6ZgBmtjoAADo6ADpmtjqQ22Y6kGaQ22a2/5A6AJA6OpA6ZpBmkJCQtpC2/5Db/7ZmALZmZrZmkLaQZra2trb//9uQOtvb29vb/9v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAMAA8AAAZPwJBwSCwajRiAEhC4FEGMSAjk2BQ/iI1nYzFyDiDKRWOUKAdHUOPSgRw7htD2iFEQOwnMALRQ2oUZFRcTRyEfD1SFX3iFGAUCTkYdBAdCQQA7\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 허용지압응력 (MPa) (4.9(2) 참조)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 132,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 허용인장력 </p>"
+      },
+      {
+        "no": 5294,
+        "sort": 133,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>리벳 및 볼트접합의 허용인장내력<img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgAAZgA6kABmtjoAADoAZjo6kDpmkDqQ22YAAGYAZma2/3s6AJA6AJA6OpBmAJCQkJCQ25C2/5Db/7ZmALaQkLbb27bb/7b//9uQOtu2ndu2ttvb/9v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACYALAAAAAAOABEAAAZkQJNwSCwaj8OSA8AEIDzH0oNiEikSx5AhY1JijRqCkLTgGisM0yiCOZIUzED6+Bl4ShDxUfOtfDlmXVMmbwwlHhZQQiEHUCEFDBsNAHofTGJKAhkkEkhEIROeQyAXHaImYadFQQA7\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음과 같다. 다만, 편심에 영향이 있는 경우 이를 고려해야 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 134,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                               <img src=\"data:image/gif;base64,R0lGODlhPAARAPQAAAAAAAAAZgBmtjo6OmYAOma222a2/5A6AJA6ZpBmkJCQ25C2/5Db/7ZmZraQkLbb27b//9uQOtuQZtu2ttvb/9v/29v///+2Zv+2tv/bkP//tv//2////wAAAAAAAAAAACH5BAAAABwALAAAAAA8ABEAAAWiICeOZGmeaKqubOu+JSDPcAuoc47eolyvvFSQMyQNi78RDWc8HXc53a7HpCKJyuQUK8xCfVpT8KqUir3fKDk6osTQZ6poAgk/OZuEpUmlx7kcDntJRTwaCm8kgolENwAHAAJahSIZAwF1gHiQkmVjN4eEYI0+EgUXBmwioS0ZC2EpDRAXDCiuLhgPbrAmExUImSa5uysRnbwlGgQGKcbIzy4hADs=\" width=\"61\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                           (4.4-3)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 135,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서,  <img src=\"data:image/gif;base64,R0lGODlhDAAPAPQAAAAAAAAAZjoAAGYAOmY6OmZmkGa222a2/5A6AJA6ZpCQ25C225Db/7ZmALZmOrZmZra227b//9uQZtuQkNu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAMAA8AAAVCYCeOZGmeosSgnUasKOTAphbNJ1d16okBwEOrcBFtFqKGcKMYTSJJYUYQ4CAAwgYgEJEYMKxHBIyiWBKszUDIEoUAADs=\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 리벳 또는 볼트 축단면적 (mm²)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 136,
+        "title": "4.4.1 리벳 및 볼트의 허용내력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCwAPAPQAAAAAAAAAZgBmtjpmtjqQ22Y6kGa2/5A6AJA6OpA6ZpBmkJCQ25C2/5Db/7ZmALZmkLaQkLa2trbb27b//9uQOtvb/9v///+2Zv+2tv/bkP/b2///tv//2////wAAAAAAACH5BAAAAB0ALAAAAAALAA8AAAVCYCeOZGmSFKACwURySNNxikVuhaVZUXkRnMekUnKoBCZOYpJhmDKDzk6EsXUohhLEwjmosjMv8rRZnKgS4okyPotCADs=\" width=\"12\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 리벳 또는 볼트의 허용인장응력 (MPa)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 137,
+        "title": "4.5 블록전단 강도",
+        "level": 2,
+        "label": "4.5",
+        "contents": "<p>4.5 블록전단 강도</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 138,
+        "title": "4.5 블록전단 강도",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 인장재 접합단부의 블록전단강도에 대한 허용전단강도를 다음의 식으로 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 139,
+        "title": "4.5 블록전단 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>                           <img src=\"data:image/gif;base64,R0lGODlhcQARAPUAAAAAAAA6ZgA6kABmtjo6kGYAAGY6AGY6kGa222a2/5A6AJA6kJCQtpCQ25C225C2/7aQkLa2tra227bb27b//9uQOtu2Ztu2ttvb29vb/9v/29v///+2Zv+2tv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAABxABEAAAb+wJBwSCwaj8ikcslsOp/QqHRKnQKuyCvAqO0ut07wUcv1Ervkb1IsHrK5Z3U46y624XX5OB8X3kNtf25Yc3t+dkqBiYSGgImIh4KOk02Sb32NW5KTm5dleJSGm35oaYeng4x8o5xrfI2kpqCsmJChlHdoj6izu6ijuoW9dKtfZpm/r56gt762YNDKr8xiFxSY0cnTsM2uyK28tLdiEBt2qmeqdx8HG+XTYOwaC+ZRsqm1Quzu9eMhIAoADKgSLMSFCBoYxEq1BUOEDRf6VVlzzCBChYAYefnQYCISEBI4NgEJAqNHKSBFMvHw4KQRDw4sIMiw8gGHBC6lwJRJc0kghwk9c4b4UCAAAYlIPhgQgFToEqJGmxqpMNCp1atOgwAAOw==\" width=\"114\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                     (4.5-1)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 140,
+        "title": "4.5 블록전단 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAAAAAOgA6ZgA6kABmtjo6kDqQ22YAAGYAOmY6kGaQ22a222a2/5A6AJA6OpCQtpCQ25C225Db/7ZmALaQZraQkLa2tra227a2/7bb/9uQOtu2Ztu2ttvb/9v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACUALAAAAAAPABEAAAZZwJJwSCwaj0VSA8BkDj5HkkMiDCmQoQK0NMIgNYaSKDOONhglChU5Oji3RxChZEUKJ+EyG7G207VEIwkfFVBKTAF9HBYeD34lJBcjEI8hERsLHX5tAoCPREEAOw==\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> :강재의 인장강도 (MPa)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 141,
+        "title": "4.5 블록전단 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6kDqQ22Y6AGY6kGa2/5A6AJA6kJCQtpC2/7ZmOra2tra227bb/9uQOtu2Ztu2ttvb29vb/9v/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAQABEAAAVK4CaOZGme6JgxaekI7Yg9cLxFVd1iVB5rko2v5QAYdadLQ/RqLUZN1KMwUtQyhMmBojEAAlwvABZZUCCUH0ODsFkSFWosMwDbSiEAOw==\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> :순전단면적 (mm²)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 142,
+        "title": "4.5 블록전단 강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDwARAPQAAAAAAAA6kABmtjqQ22a2/5A6AJCQ25C2/7ZmOraQkLa2tra227bb27bb/7b//9uQOtu2Ztu2ttvb29vb/9v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAACH5BAAAABwALAAAAAAPABEAAAVKICeOZGmeKKctKfkMrZhBcCxVdZpReLtNnF7qASjmTJiG6DWKOEiKEVOUoIwghBECtikABJwuIEARA2AaQ0x0Oaw5FgYw9gC/RyEAOw==\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  :순인장면적 (mm²)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 143,
+        "title": "4.6 접합요소",
+        "level": 2,
+        "label": "4.6",
+        "contents": "<p>4.6 접합요소</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 144,
+        "title": "4.6 접합요소",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 4.6은 보강재, 거세트플레이트, ㄱ형강, 브라켓과 보-기둥의 패널영역과 같은 접합요소의 설계에 적용한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 145,
+        "title": "4.6.1 편심접합",
+        "level": 3,
+        "label": "4.6.1",
+        "contents": "<p>4.6.1 편심접합</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 146,
+        "title": "4.6.1 편심접합",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 축방향으로 응력을 받는 교차부재는 그 중심축이 가능하면 한 점에서 만나도록 한다. 만일 그렇지 않으면 편심력에 의한 휨 및 전단응력에 대한 조건을 충족해야 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 147,
+        "title": "4.7 끼움재",
+        "level": 2,
+        "label": "4.7",
+        "contents": "<p>4.7 끼움재</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 148,
+        "title": "4.7 끼움재",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 용접구조에서 두께 6 mm 이상의 끼움재는 이음판의 연단 밖으로 돌출해야 하며 끼움재의 표면에 작용하는 하중을 이음판에 전달하는데 충분하도록 용접되어야 한다. </p>"
+      },
+      {
+        "no": 5294,
+        "sort": 149,
+        "title": "4.7 끼움재",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 두께가 6 mm 이하인 끼움재의 단부는 이음판 단부와 일치되게 용접해야 한다. 이음 두께에 끼움재 두께를 더한 크기를 수용할 수 있도록 용접해야 한다. </p>"
+      },
+      {
+        "no": 5294,
+        "sort": 150,
+        "title": "4.8 이음",
+        "level": 2,
+        "label": "4.8",
+        "contents": "<p>4.8 이음</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 151,
+        "title": "4.8 이음",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 플레이트거더 또는 보의 맞댐용접이음은 작은 쪽 이음 단면의 전강도로 설계해야 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 152,
+        "title": "4.8 이음",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 플레이트거더 또는 보의 단면 내에서 다른 형태의 이음은 이음점에서의 소요강도에 충분하도록 설계해야 한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 153,
+        "title": "4.9 허용지압응력",
+        "level": 2,
+        "label": "4.9",
+        "contents": "<p>4.9 허용지압응력</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 154,
+        "title": "4.9 허용지압응력",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 선단 밀착 접합부의 기계가공면, 핀 구멍, 지점 보강재 등이 지압을 받을 때 접촉면의 허용지압응력 <img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgA6ZgA6kABmtjoAADo6ADo6kDqQ22YAAGYAOmaQ22a2/5A6AJA6OpBmkJCQtpDb/7ZmALZmZraQZra2/7bb/7b//9uQOtvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAOABEAAAZaQJBwSCwaj8NPA8BkDjTGjyMi5CyOnAMU5KkcMQhQxzKONhggCvXoSTi3xg0BZEWCJOEyW7G2Z+F0CxhzSkwBfRkUFxMXdh4QHw+ARRsIdXYYBgKNSBwFYUJBADs=\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">은 다음과 같이 산정한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 155,
+        "title": "4.9 허용지압응력",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhQAARAPUAAAAAAAAAZgA6ZgBmtjoAADo6ADo6kDqQ22YAAGaQ22a2/5BmkJCQtpCQ25C227ZmZraQZraQkLa2tra227bb27b//9uQOtu2Ztu2kNvb29v/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAABAABEAAAapQJBwSCwaj8ikcslsOp9NgHQKgBqnSCyRqs1urV9htTgGlcVh7/BsLbPNa3L6Gn+buV20Pn12w9V/YHF7g4GBdltUgnxHimuOgIhieFJyhHR7kpmLjIeFfkqaYKCgnlFGHQkWA4t5iaVDHQYbERuTeRkQFQ8VnFGQIBkSGgxMHgwfC7a+ix8THg1MHAepzJwdDhcKTBYFAr3Wgh4IAeBJHQQH4ZwYFAzLQQA7\" width=\"65\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                         (4.9-1)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 156,
+        "title": "4.9 허용지압응력",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 리벳 및 볼트 접합부의 허용지압응력 <img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgA6ZgA6kABmtjoAADo6ADo6kDqQ22YAAGYAOmaQ22a2/5A6AJA6OpBmkJCQtpDb/7ZmALZmZraQZra2/7bb/7b//9uQOtvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAOABEAAAZaQJBwSCwaj8NPA8BkDjTGjyMi5CyOnAMU5KkcMQhQxzKONhggCvXoSTi3xg0BZEWCJOEyW7G2Z+F0CxhzSkwBfRkUFxMXdh4QHw+ARRsIdXYYBgKNSBwFYUJBADs=\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음과 같이 산정한다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 157,
+        "title": "4.9 허용지압응력",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhTAARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6ADo6kDpmOjqQ22YAAGYAOmY6AGY6ZmY6kGZmtmaQ22a222a2/5A6AJA6OpBmkJCQtpCQ25C225C2/5Db/7ZmALZmZraQOraQZraQkLa2tra227bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADgALAAAAABMABEAAAb+QJxwSCwaj8ikcslsOp/QqHRKreJigKwWQLEOax6OUWUADErCGkzYMmK32a5bYBLeLGLrrQII5IczETA3H3Q4J1kJaHN1OHd/RB0LQiI4LGtFM2VwAIZHNg2QV344oGIpjUiSlJaYRKY4Kl1tXkKwSLCoSbCyOLRFiFmeR5qcnalFt0cnkzgoCn0TRsHHSHuTNhG1yaFIMxlDKBqxpEPXpdreB2I3Ltuv3XsFQzTjQjGGNgxyQjPrju6QnJj3zogyehuEyOAgI2EpCK4OEVSyh18/CQNrHcRRTJgJGw/QMCNSMVMCGCHWdNBCwFULECY8IJOyMkvLJTMcAGgmpCY1gJtsRLzAsMQGhhsXIhbcdmOEDXBKYiyYIWGp1Rkaeik5gWDATKte9A0jZoAn2HcrSGBYEwQAOw==\" width=\"78\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                         (4.9-2)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 158,
+        "title": "4.9 허용지압응력",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhDAAPAPUAAAAAAAAAZgBmtjoAADoAOjo6kDpmtjqQ22Y6kGa2/5A6AJA6OpA6ZpBmkJCQkJCQ25C2/5Db/7ZmALZmkLa2tra227b//9uQOtu2Ztvb29vb/9v/29v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAMAA8AAAZMQJFwSCwajReAEhCwFEOLiCjU4BRBCM6HQzF2DqGJRWOUKAXHEMPigRw9BtH2eEkQPQVtSKG0CzMUGw5HUxUgD4RtHW5HGANNiQR2QQA7\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 지압재 모재의 항복강도 (MPa)</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 159,
+        "title": "4.10 앵커볼트",
+        "level": 2,
+        "label": "4.10",
+        "contents": "<p>4.10 앵커볼트</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 160,
+        "title": "4.10 앵커볼트",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 앵커볼트는 주각부의 베이스플레이트가 부담해야 할 휨모멘트, 전단력, 인장력 등 모든 설계조건에 대해 저항할 수 있도록 설계되어야 한다. 앵커볼트, 핀, 다듬볼트의 허용응력은 표4.10-1에 표시한 값과 같다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 161,
+        "title": "4.10 앵커볼트",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 기타 사항은 콘크리트구조설계기준에 따른다.</p>"
+      },
+      {
+        "no": 5294,
+        "sort": 162,
+        "title": "4.10 앵커볼트",
+        "level": 4,
+        "label": "표 4.10-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.10-1 앵커볼트 등의 허용응력 (MPa) </p></caption><tbody><tr>\t<td colspan=\"2\" width=\"298\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>                             강종                </p>\t<p> </p>\t<p> 응력종류          부재종류    </p>\t</td>\t<td width=\"82\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>SS275</p>\t</td>\t<td width=\"79\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>SM 30C</p>\t</td>\t<td width=\"108\" height=\"81\" valign=\"middle\" align=\"center\">\t<p>SM 35C</p>\t</td></tr><tr>\t<td width=\"100\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>전단응력</p>\t</td>\t<td width=\"198\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>앵커볼트</p>\t<p>핀</p>\t<p>다듬볼트</p>\t</td>\t<td width=\"82\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>60</p>\t<p>100</p>\t<p>90</p>\t</td>\t<td width=\"79\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>70</p>\t<p>120</p>\t<p>108</p>\t</td>\t<td width=\"108\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>80</p>\t<p>140</p>\t<p>120</p>\t</td></tr><tr>\t<td width=\"100\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>휨응력</p>\t</td>\t<td width=\"198\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>핀</p>\t</td>\t<td width=\"82\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>190</p>\t</td>\t<td width=\"79\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>230</p>\t</td>\t<td width=\"108\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>260</p>\t</td></tr><tr>\t<td width=\"100\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>지압응력</p>\t</td>\t<td width=\"198\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>다듬볼트</p>\t<p>핀(회전을 동반하지 않는 경우)</p>\t<p>핀 (회전을 동반하는 경우)</p>\t</td>\t<td width=\"82\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>210</p>\t<p>210</p>\t<p>105</p>\t</td>\t<td width=\"79\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>250</p>\t<p>250</p>\t<p>125</p>\t</td>\t<td width=\"108\" height=\"62\" valign=\"middle\" align=\"center\">\t<p>280</p>\t<p>280</p>\t<p>140</p>\t</td></tr></tbody></table></p>"
+      }
+    ]
+  }
+]
