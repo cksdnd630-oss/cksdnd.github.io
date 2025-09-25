@@ -1,0 +1,2173 @@
+[
+  {
+    "no": 5456,
+    "codeType": "KDS",
+    "code": "213000",
+    "fullCode": "10202130",
+    "name": "가설흙막이 설계기준",
+    "version": "2024",
+    "updateDate": "2024-09-30T08:30:00",
+    "list": [
+      {
+        "no": 5456,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 가설흙막이 설계 시 굴착지반 및 주변구조물의 안정성 확보와 피해를 방지하기 위한 설계기준의 제시를 목적으로 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 4,
+        "title": "1.2 적용 범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용 범위</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 5,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 지반굴착으로 인한 굴착지반 및 주변구조물의 안정성 확보와 피해를 방지하기 위하여 지반굴착 시공 중에 설치되는 가설흙막이의 설계에 적용한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 6,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 이 기준에 명시되지 않은 사항은 관련 기준(KCS 21 30 00 등)을 참고하여 적용한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 7,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 8,
+        "title": "1.3.1 관련 법규",
+        "level": 3,
+        "label": "1.3.1",
+        "contents": "<p>1.3.1 관련 법규</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 9,
+        "title": "1.3.1 관련 법규",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>내용 없음</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 10,
+        "title": "1.3.2 관련 기준",
+        "level": 3,
+        "label": "1.3.2",
+        "contents": "<p>1.3.2 관련 기준</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 11,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KCS 21 30 00 가설흙막이 공사</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 12,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KCS 21 45 10 노면 복공</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 13,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KDS 14 30 05 강구조 설계 일반사항(허용응력설계법)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 14,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KS D 3503 일반 구조용 압연 강재</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 15,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KS D 3515 용접 구조용 압연 강재</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 16,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KS F 4602 강관 말뚝</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 17,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KS F 4603 H형강 말뚝</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 18,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>· KS F 8024 흙막이 판</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 19,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 20,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>내용 없음</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 21,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 22,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>내용 없음</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 23,
+        "title": "1.6 검토사항",
+        "level": 2,
+        "label": "1.6",
+        "contents": "<p>1.6 검토사항</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 24,
+        "title": "1.6 검토사항",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 가설흙막이 벽과 지지구조의 형식에 대한 설계 시 지형, 지반조건, 지하수 처리, 교통하중, 인접 건물하중, 작업 장비하중 등 굴착면의 붕괴를 유발시키는 인자뿐만 아니라, 지반변형에 의해 야기될 수 있는 주변 구조물 및 지하 매설물의 피해 가능성, 공사비, 공기 등의 경제성 및 시공성 영향 가능성, 환경 등의 민원발생 가능성 등을 종합적으로 고려하여야 한다. 즉, 가설흙막이 벽의 안정성, 지지구조의 안정성, 굴착저면의 안정성에 대한 검토는 필수항목이며, 주변 구조물에 대한 안정성 검토와 지하수 처리에 관한 문제도 반드시 고려하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 25,
+        "title": "1.6 검토사항",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 가설흙막이 벽체 후면 지하수위가 조사수위 이상으로 상승될 가능성이 있는 경우에는 가설흙막이 벽체 설계 시 현장 여건을 감안하여 침투해석을 실시하고 변경된 지하수위를 적용하여 설계하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 26,
+        "title": "1.6 검토사항",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3) 지반침하(함몰) 관련사항을 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 27,
+        "title": "1.6 검토사항",
+        "level": 3,
+        "label": "(4)",
+        "contents": "<p>(4) 지층조건과 지하수위 등을 고려하여 차수공법 적용을 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 28,
+        "title": "1.6 검토사항",
+        "level": 3,
+        "label": "(5)",
+        "contents": "<p>(5) 가설흙막이 구조물 설계에서는 굴착 단계별로 벽체자체의 안정성을 검토뿐만 아니라 해체 시 안정성도 검토하고 지하매설물과 인접구조물에 미치는 영향을 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 29,
+        "title": "1.6 검토사항",
+        "level": 3,
+        "label": "(6)",
+        "contents": "<p>(6) 설계 시 현장여건에 부합하는 계측 및 분석계획을 수립하여 시공 중 안전성을 확보해야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 30,
+        "title": "1.7 설계조건",
+        "level": 2,
+        "label": "1.7",
+        "contents": "<p>1.7 설계조건</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 31,
+        "title": "1.7.1 설계외력",
+        "level": 3,
+        "label": "1.7.1",
+        "contents": "<p>1.7.1 설계외력</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 32,
+        "title": "1.7.1 설계외력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 지반굴착 시 가설흙막이 벽체에 작용하는 설계외력은 배면토 자중에 의한 토압, 지하수위에 의한 수압, 장비하중 등의 상재하중, 굴착영향 범위 내에 있는 인접건물하중, 인접도로를 통행하는 교통하중 등이며, 이외에 벽체에 작용할 수 있는 하중을 포함하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 33,
+        "title": "1.7.2 토압",
+        "level": 3,
+        "label": "1.7.2",
+        "contents": "<p>1.7.2 토압</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 34,
+        "title": "1.7.2 토압",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 일반사항</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 35,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 가설흙막이는 여러 가지 시공조건을 고려하여 설계하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 36,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 가설흙막이 설계에 적용되는 고정하중, 활하중, 충격하중 등을 고려하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 37,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 토압은 가설흙막이 벽체 종류 선정 시 지층 조건에 따라 종합적으로 평가하여 적용하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 38,
+        "title": "1.7.2 토압",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 굴착 단계별 토압</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 39,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>①  가설흙막이 벽체 설계 시 토압은 굴착 및 지지구조 설치 또는 해체 중에는 굴착 단계별 토압인 삼각형 토압을 적용하고, 굴착과 지지구조 설치가 완료된 후에는 경험토압을 사용하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 40,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 가설흙막이 벽체를 본 구조체로 설계할 경우에는 굴착 및 지지구조 설치·해체 중 또는 설치완료 후의 안정해석 시 정지토압을 적용할 수 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 41,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 굴착 및 지지구조 설치·해체 시 토층 및 암반층의 상태가 설계 시 가정한 상태보다 취약한 경우 지반의 강도 정수를 감소시킬 수 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 42,
+        "title": "1.7.2 토압",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 경험토압</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 43,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 경험토압 분포는 굴착과 지지구조 설치가 완료된 후에 발생하는 벽체의 변위에 따른 토압 분포로 벽체 배면지반의 종류, 상태 등에 따라 여러 연구자들이 제안한 경험토압 분포가 있으며, 제안한 연구자가 기술한 제한조건 등을 검토하여 적용하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 44,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 경험토압 분포는 벽체 배면의 수압은 고려하지 않으므로 차수를 겸한 가설흙막이 벽체의 경우는 수압을 별도로 고려하여야 한다. 이 토압 분포는 굴착깊이가 6m 이상이고 굴착폭이 좁은 굴착공사의 가시설 흙막이 벽을 버팀대로 지지한 현장에서 계측을 통하여 얻어진 것이다. 지하수위는 최종굴착면 아래에 있으며, 모래질은 간극수가 없고 점토질은 간극수압을 무시한 조건이다. 그림 1.3-1은 Peck(1969)이 제안한 수정토압 분포도이고, 그림 1.3-2는 Tschebotarioff(1973)이 제안한 토압 분포도를 나타낸 것이다. 지하수위가 굴착면 상부에 위치하는 경우 토압 외에 수압을 고려하여 설계하여야 한다. </p>"
+      },
+      {
+        "no": 5456,
+        "sort": 45,
+        "title": "1.7.2 토압",
+        "level": 6,
+        "label": "그림 1.3-1",
+        "contents": "<p><img src=\"data:image/gif;base64,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\" width=\"470\" height=\"270\" vspace=\"0\" hspace=\"0\" border=\"0\"></p><p>그림 1.3-1 Peck(1969)의 수정토압분포도</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 46,
+        "title": "1.7.2 토압",
+        "level": 6,
+        "label": "그림 1.3-2",
+        "contents": "<p><img src=\"data:image/gif;base64,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\" width=\"506\" height=\"247\" vspace=\"0\" hspace=\"0\" border=\"0\"></p><p>그림 1.3-2 Tschebotarioff(1973)의 토압분포도</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 47,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 사질토나 자갈층(투수계수가 큰 지층)에서 흙막이 벽이 차수를 겸할 경우에는 토압 분포에 수압을 별도로 고려하여야 한다. </p>"
+      },
+      {
+        "no": 5456,
+        "sort": 48,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 암반층 등 대심도 굴착 시 토사지반에서의 경험토압을 적용하면 실제보다 과다한 토압이 산정될 수 있으므로 토압산정 시 신중하게 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 49,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ 암반층에 뚜렷한 방향성 및 균열 발달과 불연속면이 존재하는 경우 점착력 C값 및 전단저항각 φ를 감소시켜 적용할 수 있다. </p>"
+      },
+      {
+        "no": 5456,
+        "sort": 50,
+        "title": "1.7.2 토압",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 수압</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 51,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 가시설 배면 지반의 지하수위는 지반조사 보고서를 참조하되, 굴착심도, 지반의 특성, 계절적 요인, 가설벽체의 종류에 따라 변하므로 시공여건을 고려하여 가시설 벽체에 작용하는 수압을 설계에 반영하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 52,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 수압의 크기는 흙막이 벽의 차수성 여부와 벽체가 불투수층에 도달한 정도에 따라 달리 적용하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 53,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 균질 토사지반에서 벽체가 불투수층에 도달하지 않은 경우에는 유선망 이론으로 각 위치별 압력수두를 구하여 적용하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 54,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 완전 차수성 흙막이 벽이 불투수층 지반에 이상적으로 시공되어 침투현상이 일어나지 않는 경우에는 수동측의 정수압을 제외한 수압을 적용하여야 한다. 다만, 누수 발생의 우려가 있는 차수성 벽체(SCW계열, 주열식 벽체)에서 수압의 감소가 발생하는 경우에는 감소된 수압을 평가하여 적용할 수 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 55,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ 비차수성 흙막이 벽은 지반조건과 벽체조건을 고려하여 유선망 해석이나 수치해석법에 의해 정량적으로 구하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 56,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "⑥",
+        "contents": "<p>⑥ 암반지반에 작용하는 수압은 암반의 투수성이 작은 경우와 투수성이 큰 경우 또는 암반 내에 파쇄대가 발달하는 경우 등을 조사하여 합리적으로 적용하여야 한다</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 57,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "⑦",
+        "contents": "<p>⑦ 가시설 배면의 지층에 피압대수층, 불투수층, 암반 등이 존재할 경우 지하수위에 의한 정수압과는 다른 수압이 작용할 수 있으므로 벽체 배면 지반의 수리학적 특성을 고려하여 별도의 수압을 적용할 수 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 58,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "⑧",
+        "contents": "<p>⑧ 현장주변 지표에 등분포 하중이 작용할 경우 하중에 토압계수를 곱하여 수평토압으로 환산하여 적용한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 59,
+        "title": "1.7.2 토압",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5) 근입 깊이 결정에 사용되는 토압</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 60,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 굴착과 해체 시의 단계별 토압과 근입 깊이 결정에 적용하는 흙막이 벽 배면에 작용하는 주동토압과 굴착저면의 수동토압은 Rankine 토압식을 적용할 수 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 61,
+        "title": "1.7.2 토압",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 굴착 측에서 작용하는 수동토압에 의한 반력은 흙막이 구조물의 변형 특성에 따라 수동측 변위를 고려하여 정하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 62,
+        "title": "2. 재료",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 재료</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 63,
+        "title": "2. 재료",
+        "level": 2,
+        "label": "본문",
+        "contents": "<p>내용 없음</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 64,
+        "title": "3. 설계",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 설계</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 65,
+        "title": "3.1 흙막이 구조물",
+        "level": 2,
+        "label": "3.1",
+        "contents": "<p>3.1 흙막이 구조물</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 66,
+        "title": "3.1.1 흙막이 구조물의 선정",
+        "level": 3,
+        "label": "3.1.1",
+        "contents": "<p>3.1.1 흙막이 구조물의 선정</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 67,
+        "title": "3.1.1 흙막이 구조물의 선정",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 가시설 흙막이 구조물 벽체형식과 지지구조는 지형과 지반조건, 지하수위와 투수성, 주변구조물과 매설물 현황, 교통조건, 공사비, 공기, 시공성을 고려하여야 하며, 공사 시의 소음과 진동, 굴착배면의 지하수위 저하, 주변지반 침하가 미치는 주변 및 환경영향 등을 고려하여 선정한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 68,
+        "title": "3.1.1 흙막이 구조물의 선정",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 가시설 흙막이 벽은 구조적 안전성, 인접건물의 노후화 정도와 중요도 그리고 이격거리 및 구조형식, 지하수위, 차수성, 굴착깊이, 공기, 공사비, 민원 발생 가능성, 장비의 진출입 가능성, 시공성, 공사시기 등을 검토하여 가장 유리한 형식을 선정한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 69,
+        "title": "3.1.1 흙막이 구조물의 선정",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 가시설 흙막이 벽의 지지구조는 벽의 안전성, 시공성, 민원발생 가능성, 인접 건물의 이격거리 및 지하층 깊이와 기초형태 등을 검토하여 가장 유리한 형식을 선정한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 70,
+        "title": "3.1.1 흙막이 구조물의 선정",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 차수나 지반보강 등이 필요한 경우에는 적용목적에 부합하는 보조공법을 선정한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 71,
+        "title": "3.1.2 흙막이 구조물의 해석방법",
+        "level": 3,
+        "label": "3.1.2",
+        "contents": "<p>3.1.2 흙막이 구조물의 해석방법</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 72,
+        "title": "3.1.2 흙막이 구조물의 해석방법",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 흙막이 벽과 지지구조의 해석은 벽의 종류, 지지구조, 지반조건 및 근접시공 여부 등을 고려하여 실시한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 73,
+        "title": "3.1.2 흙막이 구조물의 해석방법",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 흙막이 벽과 지지구조 해석방법으로는 벽을 보로 취급하는 관용적인 방법과 흙-구조물 상호작용을 고려하여 벽과 지반을 동시에 해석하는 방법이 있으며 설계자는 현장조건을 고려한 해석법을 적용하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 74,
+        "title": "3.1.2 흙막이 구조물의 해석방법",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 지지구조를 가지는 흙막이 벽은 굴착진행과 지지구조 해체에 따라 변화하는 토압에 대하여 단계별로 해석하며, 해석방법으로는 탄소성 지반상 연속보해석법과 유한요소법, 유한차분법 등의 수치해석법이 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 75,
+        "title": "3.1.2 흙막이 구조물의 해석방법",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 굴착이 끝나고 버팀구조가 완료된 후의 벽체해석에는 경험적인 토압을 적용하며 단순보해석, 연속보해석 및 탄성지반상 연속보 해석법 등을 적용한다. 이때 수압, 토층분포 등의 현장조건과 해석조건을 고려하여 설계한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 76,
+        "title": "3.1.2 흙막이 구조물의 해석방법",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5) 굴착은 띠장 설치 위치에서 깊이 1.0m 이하의 작업공간을 주어 단수별로 실시하고, 굴착 즉시 지지 구조물을 설치하여 과도한 굴토 및 변위를 유발하지 않도록 시공하여야 하며, 흙막이 벽체 구조검토 시 이를 반영하여 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 77,
+        "title": "3.2 안정성 검토",
+        "level": 2,
+        "label": "3.2",
+        "contents": "<p>3.2 안정성 검토</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 78,
+        "title": "3.2.1 일반사항",
+        "level": 3,
+        "label": "3.2.1",
+        "contents": "<p>3.2.1 일반사항</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 79,
+        "title": "3.2.1 일반사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 가설흙막이 벽체의 안정검토 시 부재단면의 안정, 굴착저면의 안정성과 지하수 처리 등의 검토가 종합적으로 수행되어야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 80,
+        "title": "3.2.1 일반사항",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 흙막이 벽체의 종류, 지지구조, 지반조건 및 근접시공 여부 등을 고려하여 부재단면에 대한 안정성 검토를 수행하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 81,
+        "title": "3.2.1 일반사항",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 히빙(heaving) 및 보일링(boiling)에 대한 안정성 검토를 수행하여 굴착저면의 안정성을 확인하여야 한다. 단, 굴착저면 지층이 풍화암 이상의 단단한 지반으로 구성되어 있는 경우에는 히빙(heaving)과 보일링(boiling)에 대한 안정성 검토를 생략할 수 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 82,
+        "title": "3.2.1 일반사항",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>  ① 히빙(heaving) 검토는 하중 지반 지지력식에 의한 방법과 모멘트 평형에 의한 방법으로 구분된다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 83,
+        "title": "3.2.1 일반사항",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>  ② 히빙(heaving)에 대한 검토결과는 흙막이 벽체의 종류, 지반조건, 어떤 설계규정에 근거하느냐에 따라 차이를 보이므로 하중 지반 지지력식에 의한 방법과 모멘트 평형에 의한 방법으로 검토하고, 안전율이 작은 것을 채택하여 안정성을 평가하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 84,
+        "title": "3.2.1 일반사항",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>  ③ 굴착깊이가 얕거나 수위차가 작은 경우(3.0m 미만)에는 보일링(boiling) 검토 시 유선망 해석 방식을 실시하거나, Terzaghi 간편식 또는 한계동수경사를 고려한 방법을 비교 검토하여 모두 만족하도록 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 85,
+        "title": "3.2.1 일반사항",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>  ④ 굴착깊이가 깊거나 다층지반을 굴착하는 경우에는 보일링(boiling) 검토 시 투수계수에 따라 침투수압이 변화되는 침투해석을 통한 안정성 검토를 실시하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 86,
+        "title": "3.2.1 일반사항",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 벽체의 근입깊이는 안정검토 시 안전율이 1.2 이상이 되어야 하며, 히빙(heaving)이나 보일링(boiling)에 대하여도 안정한 깊이로 설치하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 87,
+        "title": "3.2.1 일반사항",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5) 해석에 사용되는 지반정수는 지반조사 자료를 토대로 산정하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 88,
+        "title": "3.2.1 일반사항",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6) 각 조건의 설계 시 적용 안전율은 발주처의 기준을 우선하며, 별도의 기준이 없을 경우 표 3.2-1을 참조할 수 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 89,
+        "title": "3.2.1 일반사항",
+        "level": 5,
+        "label": "표 3.2-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.2-1 가설흙막이의 안전율</p></caption><tbody><tr>\t<td colspan=\"3\" width=\"208\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>조건</p>\t</td>\t<td width=\"117\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>안전율</p>\t</td>\t<td width=\"238\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>비고</p>\t</td></tr><tr>\t<td colspan=\"3\" width=\"208\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>지반의 지지력</p>\t</td>\t<td width=\"117\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>2.0</p>\t</td>\t<td width=\"238\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>극한지지력에 대하여</p>\t</td></tr><tr>\t<td colspan=\"3\" width=\"208\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>활동</p>\t</td>\t<td width=\"117\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>1.5</p>\t</td>\t<td width=\"238\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>활동력(슬라이딩)에 대하여</p>\t</td></tr><tr>\t<td colspan=\"3\" width=\"208\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>전도</p>\t</td>\t<td width=\"117\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>2.0</p>\t</td>\t<td width=\"238\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>저항모멘트와 전도모멘트의 비</p>\t</td></tr><tr>\t<td colspan=\"3\" width=\"208\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>사면안정</p>\t</td>\t<td width=\"117\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>1.1</p>\t</td>\t<td width=\"238\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>1년 미만 단기안정성</p>\t</td></tr><tr>\t<td colspan=\"3\" width=\"208\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>근입깊이</p>\t</td>\t<td width=\"117\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>1.2</p>\t</td>\t<td width=\"238\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>수동 및 주동토압에 의한 모멘트 비</p>\t</td></tr><tr>\t<td rowspan=\"3\" width=\"78\" height=\"132\" valign=\"middle\" align=\"center\">\t<p>굴착저부의 안정</p>\t</td>\t<td rowspan=\"2\" width=\"65\" height=\"100\" valign=\"middle\" align=\"center\">\t<p>보일링</p>\t</td>\t<td width=\"65\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>가설</p>\t<p>(단기)</p>\t</td>\t<td width=\"117\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>1.5</p>\t</td>\t<td rowspan=\"2\" width=\"238\" height=\"100\" valign=\"middle\" align=\"center\">\t<p>사질토 대상</p>\t<p>단기는 굴착시점을 기준으로 2년 미만임</p>\t</td></tr><tr>\t<td width=\"65\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>영구</p>\t<p>(장기)</p>\t</td>\t<td width=\"117\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>2.0</p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"131\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>히빙</p>\t</td>\t<td width=\"117\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>1.5</p>\t</td>\t<td width=\"238\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>점성토</p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"78\" height=\"64\" valign=\"middle\" align=\"center\">\t<p>지반앵커</p>\t</td>\t<td colspan=\"2\" width=\"131\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>사용기간 2년 미만</p>\t</td>\t<td width=\"117\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>1.5</p>\t</td>\t<td rowspan=\"2\" width=\"238\" height=\"64\" valign=\"middle\" align=\"center\">\t<p>인발저항에 대한 안전율</p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"131\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>사용기간 2년 이상</p>\t</td>\t<td width=\"117\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>2.5</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5456,
+        "sort": 90,
+        "title": "3.2.1 일반사항",
+        "level": 4,
+        "label": "(7)",
+        "contents": "<p>(7) 흙막이 공사 시공 중 응력 변형 등의 계측결과가 설계 시 예측된 값보다 큰 경우 설계 내용을 재검토하여 굴착 중 및 굴착 완료 시의 안전성을 확보할 수 있어야 한다. 특히 지하수위 저하가 예측되거나 발생하는 경우 지하수 침투해석 등을 통하여 지반침하를 검토하고, 이에 대한 대책을 강구하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 91,
+        "title": "3.3 가시설 구조물 설계",
+        "level": 2,
+        "label": "3.3",
+        "contents": "<p>3.3 가시설 구조물 설계</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 92,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 3,
+        "label": "3.3.1",
+        "contents": "<p>3.3.1 재료의 허용응력</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 93,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 허용응력 할증계수</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 94,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 이 기준에서 제시된 허용응력 값들에 다음과 같은 할증계수를 곱하여 적용한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 95,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "가.",
+        "contents": "<p>가. 가시설구조물의 경우 : 1.5(철도하중 지지 시 1.3)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 96,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "나.",
+        "contents": "<p>나. 영구구조물로 사용되는 경우</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 97,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 7,
+        "label": "(가)",
+        "contents": "<p>(가) 시공도중 : 1.25</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 98,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 7,
+        "label": "(나)",
+        "contents": "<p>(나) 완료 후 : 1.0</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 99,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "다.",
+        "contents": "<p>다. 공사기간이 2년 미만인 경우에는 가설구조물로, 2년 이상인 경우에는 영구구조물로 간주하여 설계한다. 만약, 가설구조물로 설계된 구조물이 2년 이상 경과하면 안정성을 보장할 수 없으므로 안전점검 또는 안전진단을 실시하여 흙막이 벽의 상태를 파악하여야 하며 잔여공사기간을 고려하여 안전성을 확보할 수 있도록 대책을 수립하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 100,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "라.",
+        "contents": "<p>라. 중고 강재 사용 시 : 신 강재의 0.9 이하로 하되 시험치를 적용할 수 있으나, 중고 강재의 손상상태가 충분히 반영된 시험결과이어야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 101,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 철근 및 콘크리트</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 102,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 콘크리트의 허용응력</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 103,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "가.",
+        "contents": "<p>가. 허용휨압축응력</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 104,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhTQATAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6Zjo6kDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmZmZmZmkGZmtmaQ22a222a2/3vb/3ycZpA6AJA6OpBmZpCQtpC225C2/5Db/51mSbZmALZmOrZmZraQOraQkLa2Zra2tra2/7bbkLbb27bb/7b//9uQOtuQZtu2Ztu2ttvbkNvb29v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////yH5BAAAAD8ALAAAAABNABMAAAb+wJ9wSCwaj8ikcslsOp/Q6LEXwUiTPQiA4EqSQsLstlukWpu+zopiuxp9G8svtmgbdQgwXE63C9Nrfko3BjgXbnd1Pz4cYEU+KY0/OoqMjkKEhk4jZ4hFNwV2nEYyNZKgop0/o006BwAABk6usLWwAmSEQyMNZSqWP7pCvEK0sbOKnkUvssO9RCmLksy7z5PJTcLKRNrEQzkt0mDd1tpNrLOvtre5oYsbqiPrBqjvnehFJu5DPQ+X28USdAE2otkfSToEigvjD0kPD0UoCQIIpxcMdwWHGGtQ8cdFOxKR6ACxzBqmAwE0HBig6okYLk1ekvnxwmQwlCFghCAh4MdZCRaSNCpoIVEnQCk/gxYbKqTEhA8/ekhAwWCZlRdWTtCYeFSJVKpW/3SgEIJHEp0+RGTYUUFG121oU8yw0MOCWyQ7IBSYkafmW2V5Q93A0MNBy7+IEyvuGgQAOw==\" width=\"79\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">            (3.3-1)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 105,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "나.",
+        "contents": "<p>나. 허용전단응력</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 106,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhXQAVAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6Zjo6kDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmZmZmZmkGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmZpBmkJBmtpCQkJCQtpCQ25C225C2/5DbtpDb/7ZmALZmOrZmZraQOraQkLa2Zra2trbbkLbb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29v/ttv///+2Zv+2kP/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEUALAAAAABdABUAAAf+gEWCg4SFhoeIiYqLjI2Oj5CRjSkxkpaXmIxCBwCdnp+gngKZpKWDPRimqquTlZknnQKusACpl0MQAASuhLi6rr4EJoxDFoVDEbaPJwaEPxU8mEQZxjUL0YPT1ddEHTBFNteLM8PZHS4U2I7MhDfqlj/iRBrlgvHR8yZDIoOUikQe3vUw4ONCJHb26hn6wSmUrFMFsJ1QVqRHREETiWz4VmTFu4XGCE20JKNZESL8SA0cdKIBoZUYXfZAcCHHR0PkBjHsZBKSjIs0bkoqydLlIKIxT7bgEEBhESAcT34odI9kxB9OFzYE9VAQzCItX/ZsSSSEoBoJeAGBYLTID4rTFXsWUnER0c8dKUtZxJchFbu9J/uiOqpMB+Ai/kTCHTTEbKKfIITCS3uSHthmPyjnG+yV4pAHwxofA43oBwlFPZoWqnFgwGJG01zOqCsodpHZPJANAyKBV1LOOsWdOtCUHIquhXq0tXctp6RgvgVBt5eLQFSIPBIfXf5DAccUE0b4TLVCh2RWiz6XCCloxQvLhGt3oGAiyPlC5IBUuIHe0jQF9QwhAQsM4GcCES3gYEEx/DnyAwImyLBcf4/8dJ8ga0WEyhAOvEYhhUDk9eGIJEISCAA7\" width=\"94\" height=\"20\" vspace=\"1\" hspace=\"0\" border=\"0\">           (3.3-2)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 107,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 철근의 허용(압축 및 인장) 응력</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 108,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "가.",
+        "contents": "<p>가. 허용휨인장응력</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 109,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhbwATAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmOjpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmZpBmkJBmtpCQZpCQtpC2/5Db/7ZmALZmOrZmZraQOraQkLa2Zra2tra227a2/7bbkLbb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEQALAAAAABvABMAAAf+gESCg4SFhoeIiYqLjI2Oj5CRjkE7REM4koyUlpiZREIRGZ6JQhAABDCJJSOCMQAACi+Zpaepha6wsoWgoopDHS0UlaOFQxoXRDQKw4U/CKxEM7aZxsjKzILSiL/B2IY8Bj0YxIY/y5Yb0IRDKunZ05LmlUPuhNqH4OKLJL3khTwFhvEzZENHvXuZAArs9w7RQEU/Drwy8Cjiq4uvBEwDN4hEg10s6EGTseCUukHsVngbxFGQx0IkTQ6yCIAixHP+btkk8pKQCnQjx9HQSAhIiB1BTGCoVEPEoBg7ew6SIZSoIHmMWuYkpFUqER+yRO5ywDBIURAWcnCN+vGQELLrLHcqelhRIsaMGwNa0sCQxF0DPIgKeXCykcK9DAOnGqyOLinCW5slSCWWhFyxPZx+mrBy0Y/JQHlSzCxICOfSkD3jjCzI2EcZei3PtNtAiIQXQ060heSaCOxKsm3j1j1zdaIYuwXxOGCTxoEBDB/RQtXoh6nkkKbDu3qdEHJCbzMM8VAJhYt6g0y86DFCnozCrONDMo+eiI0bL34gs52CQSEgLtjgAhExiIICDp3JpyAi/PlXCAo78BBdITWMMAQHMLwHRAU2LOjhKEN8cOF2xWgQADLOjPDdhyzypgEAerUo44LvNTXjjS0GAgA7\" width=\"112\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">        (3.3-3)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 110,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "나.",
+        "contents": "<p>나. 허용압축응력</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 111,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhQwATAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmZmkGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmZpBmkJBmtpC2/5Db/7ZmALZmOrZmZraQkLa2Zra2tra2/7bbkLbb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttvb29v/29v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAADoALAAAAABDABMAAAb+QJ1wSCwaj8ikcslsOp9QIg5iiS5xDwAhlQR5jNNqMqcxSWRWZO5C0bEUaKMN8SWSzfHjzECrpJE2cDo5GHV2JIVFe31KH2J/egVxjkYuMYlElEk2BwAABk6cnqOeAlxCe0MfDEU4JYSGop9KgXmQRSqgQqtFJIOYQrVLqbd6ujq8QzUov4Y6xI2PTbKkAKZDM5KDF9If1ceaSTgOzsVDNglcsMjHzUPj5XKC5kVrrCvaH8eyrDrCSir6oTqgi8WBAdKeYNFyiknAdw0s5NiARsQJYDpCoKDhodaKePSKWATm4gUKG21wRBixgMiNEy5O6FBRRQQMWyGlrGxJRIQujBkJibTwkCNDio83JrjICSUHh6INjawJ0GaOh4dMnawBoC2rVyEfW3T4StZIEAA7\" width=\"69\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">              (3.3-4)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 112,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 강재의 허용응력</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 113,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 구조용 강재</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 114,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "가.",
+        "contents": "<p>가. 가시설에 적용하는 강재의 허용응력은 표 3.3-1의 값 이하로 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 115,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 7,
+        "label": "표 3.3-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.3-1 가시설물에 사용되는 강재의 허용응력 (MPa)</p></caption><tbody><tr>\t<td colspan=\"3\" width=\"176\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>종류</p>\t</td>\t<td width=\"149\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>SS275, SM275, SHP275, SHP275W</p>\t</td>\t<td width=\"149\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>SM355, SHP355W</p>\t</td>\t<td width=\"122\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>비고</p>\t</td></tr><tr>\t<td colspan=\"3\" width=\"176\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>축방향인장</p>\t<p>(순단면)</p>\t</td>\t<td width=\"149\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>240</p>\t</td>\t<td width=\"149\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>315</p>\t</td>\t<td width=\"122\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>160×1.5=240</p>\t<p>210×1.5=315</p>\t</td></tr><tr>\t<td rowspan=\"3\" colspan=\"3\" width=\"176\" height=\"252\" valign=\"middle\" align=\"center\">\t<p>축방향압축</p>\t<p>(총단면)</p>\t</td>\t<td width=\"149\" height=\"66\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhNQAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6kDqQ22YAAGYAOmY6AGY6OmY6ZmZmZmZmkGZmtmaQkGaQ22a222a2/5A6AJA6OpA6ZpCQZpCQtpCQ25CcZpC225C2/5C8kJDb/7ZmALZmOraQOraQZraQkLaQtra2Zrbb/7b/27b//9uQOtu2Ztu2kNu2ttvbttv/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAADoALAAAAAA1AB8AAAbzQJ1wSCwaj8ikcslsOpEygDQAelqvMoHqyn2GEt3wEreois/GFSGGbgtzFrC7XTuYdbTtnLsqDHMae1xwFUI2DXeCTSFSjQB+eywGAAMoOjYMlJaKOi0Pm0U1ETE5IwIpFhQ6LGt7NhkabFBUOmQfCGw5F4lhOSUSoE1kHK06IYW1Co7LUlpGLBDBTisJfUNfbjckwE41GzrWQtiuGdxJNh1CMsXHnJfSQzYeQjO3ubvuSTWTzagTq8XEMGIGQA4TTJryKQox4ISBAXoULqkBIkSBFw4iSkziAgYGjRsn4go5zSDJJSJ4nTySw4SslTBjKgoCADs=\" width=\"54\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p>240</p>\t</td>\t<td width=\"149\" height=\"66\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhNQAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmZmZmZmkGaQkGa2/5A6AJA6ZpBmOpCQZpCQtpDb/7ZmALZmOrZmZraQZraQkLaQtra2Zrbb/7b//9uQOtu2Ztu2kNu2ttvbttv/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADIALAAAAAA1AB8AAAbnQJlwSCwaj8ikcslsOpErgDSgeVqvK8Hoyn1uFt3wEtaois9GEkGFbgtjFbC73TqYZaztnEsqDGMZe1xwFEIuD3eCTRtSjQB+gi8diRwACopCJhEiR3AAVG8fIi0Iem4uGBlsSmRmHaZuMR8TnE2tMi0JFwADdzAMjsFSWkYlErVOt1FgJWtuLx60tmUyWVu/hXuo0knKxISYMi7IRrekW+DhrNRwzM5njMIAckbxAGswDrzk6m4bAyEMDIDVL0kLDRsKoIBAsOCREyksNHRoMMEqikxI0MO4hEMijkhigLgIsqRJQUEAADs=\" width=\"54\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p>315</p>\t</td>\t<td rowspan=\"3\" width=\"122\" height=\"252\" valign=\"middle\" align=\"center\">\t<p> <img src=\"data:image/gif;base64,R0lGODlhCQAOAPQAAAAAAAA6kABmtjo6kDqQ22YAAGYAOmYAZmY6kGa2/5A6AJA6OpDb/7ZmALa2tra2/7b//9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAJAA4AAAUu4CWOZGlWBQAEEVkdkCkJ5tUkp8HIrNkQI4fIsthdKg/RZNCiICIWhWoKrFlHIQA7\" width=\"10\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">(mm)：유효좌굴장</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhBgAOAPQAAABmtjoAAGYAOmZmtma2/5BmkJCQZpC2/5Db/7ZmZra2/7b//9uQZtu2Ztu2ttvb29v////btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAGAA4AAAUfICWOZGmeoyQYAUE5DcAc1MMgZLKMUwGlA1JEgTqFAAA7\" width=\"7\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">(mm)：단면2차반경</p>\t</td></tr><tr>\t<td width=\"149\" height=\"83\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhUgAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjJRMToAADoAOjo6kDpmZjpmkDqQtjqQ21hmOmYAAGYAOmY6AGY6OmY6ZmZmZmZmkGZmtmaBZmaQkGaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmZpCQZpCQtpCQ25C225C2/5C8kJDb/7ZmALZmOrZmZraQOraQZraQkLaQtra2Zrbb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttvb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEQALAAAAABSAB8AAAf+gESCg4SFhoeIiYqLjI2Oj5CRkpOKPACXASiUm5yOPAIynaKjhykNpKikQhCaqa6bMwQ7r7SRQx2ntbqNPwitRD6hu8OEMwWDQyPEy0S3HIJAEr/MRDUHAAMx0BHY2pIpl+EAx6hC3NlEQOfeRD8WO0MsoLcb1bKJQSsJs642FOyE6BGhQUBHh3o17hHhkYnIKhQ/9jXzME3QkBoSMvBDBUTEiI2GeNxbdULiEIqGHorkl+LZIBwgFgAcNcQFhpmHVjbrcEFhS0MzThkbZGpQNAYgCQl5IK7pJVCGalTAiehTqKUGyBEpSugHCUFDBXE1GkJBCVdBWtxcJHAGAAeDWsemOytI51aXhmxIsJDDVce1iNQBWPABhk+8QEwI6gHRJMpEQ14kJQWE6sN2GiLOOtnqx7WnMm5psDeZWqIVFCiMFk1akWB0xMA5BZCL0WuqpnPXSjEAxoEBwnTT+oEiRQEcE4ILd3VDxwfly4dLjK4rKPVdKipeRxW59Pbv4MMPCgQAOw==\" width=\"84\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlheQAfAPYAAAAAAAAAOgAAZgA6ZgA6kABJSQBmtjoAADoAOjo6Ojo6kDpmOjpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2Zra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvbttvb29v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEAALAAAAAB5AB8AAAf+gECCg4SFhoeIiYqGPiqLj5CRgjwgkpaXlzEumJyWJzedoaI/HYk4AKgBIaKXOaussJI7laYCm7GSPh64vIowr4giDb2SJaDEyIIkt4c+D8DJib/RxD8bx4cvBNjUhzgX3bw7DIk/GMPhiDsV6bHriTsIwDrM6T4U7bDfiS8Gg6T5BPmYwC3gpRfgDplLyCMCtHTWsMk4AGBAi0IjVvGAUPFipx4kHgrqcazGIISHRKBaCcAfq4kdJ3G0WOiHhls7KNz4YcLWIBkJQpizAETGNkzmAKjKhkqBRyDT2uXc2dPF0KJH/90UhGOps1c8WGQIsUMBqB9jO309pMlQxnz+XVd9LXs2rdZ6Ap8B+aECbQgcWUUkxLTWUFuMIu09A3xMMCGbeIG8QDdj59h+g4QR2kGRJaqsgwoXgrFAKVFBb0M78Mza5yDOrAGALjRZsksgmu8W2rELCI+LfjELyk1YryEYH4ouBZI6IG9BwnGjEwSZEI/kwz0XCDz4kuhBOHz6cJAwar7r4Lk/3jqJlqt/Y+nutVv8lTl/OWgNPIbyvHuyZs0HTXVAwIaKawKaw45RBeViHCE+SHBRbdB1142BANiiIFbc7LeIgQ1sFBMnKn1W0A4cTQfEPgYVIiJNEBLUIifvzAjJODYShk8wA6RwwACRhVNjjpJEdMgOIYhIYAANEgTZDYtESrLMITPYwN6M5kUJCQ6JFRjgjEZqGcmQtKlokC5iFslBg8x1mc57aUbCpSE/oMAmRNfEGQlfevq2Qp+AdhIIADs=\" width=\"123\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"149\" height=\"83\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhUgAfAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6ADo6Zjo6kDpmZjpmkDpmtjqQtjqQ22YAAGYAOmY6AGY6OmY6ZmZmZmZmkGZmtmaBZmaQkGaQtmaQ22adkGa222a2/5A6AJA6OpA6ZpBmOpBmZpCQZpCQtpCQ25C225Db/7ZmALZmOrZmZraQZraQkLaQtra2Zra227bbkLbb/7b/27b//7yQOtuQOtuQkNu2Ztu2kNu2ttvbttvb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEkALAAAAABSAB8AAAf+gEmCg4SFhoeIiYqLjI2Oj5CRkpOKQQCXASqUm5yOQQI2naKjhysRpKikRxOaqa6bOAVAr7SRSCGntbqNRAitSUOhu8OEOAaDSCfEy0m3IIJFFb/MgkYt00ksAA+TK5ffAMeoRRQABJrk5jTIIQCZyC80RAnCh9YMs647F+uGSCPriCyoEeJDEh2yCK361aLeISQ6KnDIN87ECYqGjqAYlGMGvmYipi0URIQBCXPYepBw0A8VkhcbWiZCImIiEhlBEiZZ8WzQyCSWTiGkGA0CRoUSwCm9BMqQDgwyF90aMNHYIFMKWQn6FOqIhJ6DipRokMKVERcxGe2gQa7ADXGHO3MJ+sm1WQiwhXZUyODDVRETaQ8R6YmEhQadPLO2mhfKmSIkMI6SKhJ1K9ggHj7SFKnVrlCd1BgJXFfEAsEOB0F7u5TwSDkClWmtXiq3kBAFKJOkgx26N7UVBGIcIODQtysiKlYY6GGhuHFUPH6McP78+MfqunDUxv6KBTbuLiODH0++vKJAADs=\" width=\"84\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlheAAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmOjpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmtmaQ22a222a2/5A6AJA6ZpBmAJBmOpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2Zra227a2/7bb/7b//9uQOtuQZtuQkNu2Ztu2ttvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEAALAAAAAB4AB8AAAf+gECCg4SFhoeIiYqFPiqLj5CRgjwgkpaXljAtmJyWJzedoaE/HYk4AKgBIaKXOaussJE7laYCm7GSPh64vIkvr4giDL2SJaDEyEAkt4c+DsDJvtDRsD8bx4cuBNjUhzgW3bg7C4k/F8PhiDsU6bDriTsHwDrM6T4T7azfiS4Fg6T5BPmQwC2gJRfgDplLyAPCtHDWsP0YAWAAsB4kLh6jgSmGgYosDHkEOQjhIRGoUgLwFwvjNIrk/mG4tRCIC1vmAKgqiSpBSEs7Jtz4YcIWoaBDi976FTDnTkE/TrDYgYDZj5mGcBgF4gyYpk44dnYlFHbVWCAjHoY7q6yeTLf+PzKg4/ps0FdWbBnVRau229kdCTRUhHa1HsqYAvcCeaFAZ4WjH1Wi2mbIxdzKc9MS8tFAsuetgnZElkzZ0NlTw2KUBlK4coFjbF98ABLj6aUdu9TlFqTZ4GmjnBOyxsraERDRCX9vCo6Jx2xEzgsx9b1X66aaUImXPW4g+d4ctAYWfERJkCtzLMsDcSXIJPVXVK9fEN6aNYcaNree9REhpOXbo4HGXUpbuRfQWeaktpp4/wg2wE8oTQbKDg8AcFk3+wQUIQCU+VDhg5sRZBAn74woC2Im5oJPIiIMkIIBA7gVTokpShKROiGIUMAMEciIoXA1RrIMIjLYQNyI0wU0GQkOfR2XwHjp3KikLOwg8p+JukxpIwdQ8pUie1ouqdYPKHTZjZRhPvKDcWnysEKacLISCAA7\" width=\"121\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td width=\"149\" height=\"102\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhLwAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6Zjo6kDpmZjpmtjqQtjqQ22YAAGYAOmYAZmY6OmY6ZmY6kGZmOmZmZmZmkGaQtma222a2/5A6AJA6OpA6ZpBmZpBmkJC225Db25Db/7ZmALZmOrZmZra2tra227a2/7bbtrbb/7b//9uQOtu2Ztu2kNu2ttv///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADUALAAAAAAvAB8AAAbkwJpwSCwaj8ikcslsJmcNAIDgclqbs0fqyl2+Ct0wMoQRm4czB+h8flHZ5hBjSIJfaZp1bWayW2MIVTISVX5LNBlSinNtBgFlNS+OkGYrCShKWSgyWjMRmxFbZzQrFB5IX0JkLwpCKpRsLBAWhUMqjHK3rox7UYq/igKiRzIaF0WpNbmMunCytEYxBykxBgzNzWKkB6dJkgMTINi8YSyYSoAuNB0urKqwhkQ0HBQVVZ6bWvFOko/7fogWZBBw7l8SGCccfBihxyCSFjFaOWTyaiITEQ0tHqGxYZhGIzRKfBxJkk0QADs=\" width=\"48\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhZgAyAPYAAAAAAAAAOgAAZgA6ZgA6kABmtigNUSgXUToAADoAOjoAZjo6kDpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZrZmkLaQkLaQtra2Zra227a2/7bb/7b//7z//9uQOtuQZtuQkNu2Ztu2ttvbttvb29v/29v///+2Zv+2kP+2tv/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEQALAAAAABmADIAAAf+gESCQg8AASWCiYqLjI2Oj5CRko8+CAAEOoxCFJmTnp+goZ6bnYqkokAoiI1CEQADL4I/rrCytLGLs6+4urVEvbifp4tBBjGgQxqGq4vJGEQzmM5ENdIaz9WlRNPZ3NbYmKDFx8TGokIQzIo74eglPguZQxvv8dv0ivDy9Pr39fvqJI1jNDCUu0bs5GnIkFCQCYbhiDxcF/FhQ4kQO038VFBRR2HpEAqAQYSQAxkFEpk4mdKhA0UoVbKUGdOlOHPlyIE6yGiaDAAZakqcaTOR0JVHiQ69qTPRx1EhG+liwAHGRYsVM1DUmNFhV4xMCeLcGTVZy4M+LhDpN+/fPRL+Glqy5Wev7dyAkZ4S0SuJpyAaJImgqFBB7TYNarshphYO8OHE1iDrSCY5bM5QJgBobicCEjBbu0p2Bu3r869bofQGOdBUlCAcrhfBju16deuSnGjr3s17mKncvIMLHwX8dydCmpMrX868ufPn0KNLXz5yUPFEvodr3479unVt3MMHz/5dvPnx3nGDP+9aSItPP0YkqnRIU3ry7EU5/qSikwyGLRln33r5fTIECKHwoI4P8i2CH34FesIgQsnVh10Iiszm4H3pRTjJDHgJskN1jKTQCWwadrcehB5GgkJgjKzkCIhE7KDZSxuu2GGLjwzhAYF+LbKDVpA8uCOPjfj+0IAjMkTESFqRGEkgkkka1owGOLJiQZQcTkmlkEQu4kMCzPQAo3pFdvmlJP81ItSBzfyYpo5TngDAkoyYpidqSY7mZpiJJEPkDxIENERVcw7Ykwov+KDAmYeBM9k1jE0qKUJZMkKjIpktF2CgiD4iJSMvUlIXXQDdhekjJ4QoyaGQ5qhoPgt08ApeV32FFVerOtKqa7AmKus6ALyUzSJJJRugjIJUwpyFifxaUiHQkRisqGquUx0hgBKhLE3LZprIDuIqIm0o1zqCn21CVieokFnlmmuvjWyKbqiOsDvsfI8eloFZzZ7qll0C08tIm6Kky0q2gWJZ6V8kUVapxIqTVfaknwd3S5yXaO6LHZ9C+LlnaKeRHMqQ7R3ZsYCSpBghlKIoySWda0a5ZcxWqstwzY34uJ4JA7CAwACxoiwsyzw7Umo+JZhQwA0TxGqvzjQn7cgOAdmQA75xcryyilY7AjOtUwqB4cyzht3MB+DJUG4iCva1s9rjBnRu13KvWAi0dG/zXqArTPmDC5E462TfVgcCADs=\" width=\"103\" height=\"49\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"149\" height=\"102\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhLwAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6Zjo6kDpmZjpmkDpmtjqQtjqQ22YAAGYAOmYAZmY6OmY6ZmY6kGZmZmZmkGaQtmaQ22a222a2/5A6AJA6OpA6ZpC225C2/5Db25Db/7ZmALZmOrZmZraQtra2tra227a2/7bbtrbb/7b//9uQOtuQZtu2Ztu2kNu2ttv/29v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADkALAAAAAAvAB8AAAbqwJxwSCwaj8ikcslsJm8OAIAQc1qbN4jqyl3KCt0wMpQRm4e3B+h8llHZ5lBjWIJfcZt17nayW2sIVTYTVX5LOBpSinNtBgEYQjKOZWctCSlKNxUxeCA3Eik2EltnOC0UHUg1HkIzIDILQiuUcC4RFoVoEWt1K4y+aFGKw4oCpEc2G5BFNQYKW8A50Wy2uEckMCIDKtHTYaYHqUiuQi0Z3YxiLphKLHo1F7BCZIZIsJwinqA2WvVILI4uRJrkzw8iBhoEsCuYhAaKBx9G6GGI5EWNWBSZzMrIJB9HJTg4HPtoBIcJkihTsgkCADs=\" width=\"48\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhZgAyAPYAAAAAAAAAOgAAZgA6ZgA6kABmtigNUSgXUToAADoAOjo6Ojo6kDpmOjpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmkJCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZrZmkLaQkLaQtra2Zra227a2/7bb27bb/7b//7z//9uQOtuQZtuQkNu2Ztu2ttvbttvb29v/29v///+2Zv+2kP+2tv/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEUALAAAAABmADIAAAf+gEWCQxAAASWCiYqLjI2Oj5CRko8/CAAEO4xDFZmTnp+goZ6bnYqkokEoiI1DEgADMIJArrCytLGLs6+4urVFvbifp4tCBjKgRBuGq4vJGUU0mM5FNtIbz9WlRdPZ3NbYmKDFx8TGokMRzIo84eglPwuZRBzv8dv0ivDy9Pr39fvqJI1jNDCUu0bs5G3QkFCQCYbhijxcF/FhQ4kQO038VFBRR2HpEAqIUYTQgxkFEpk4mdLhA0UoVbKUGdOlOHPlyIE6yGjaDAAaakqcaTOR0JVHiQ69qTPRx1EhG+lq0CHGRYsVNVDUmNFhV4xMCeLcGTVZy4M/MBTpN+/fPRL+G1qy5Wev7dyAkZ4W0SuJp6AaJIugsGBB7bYNarshphYO8OHE1iDvSCY5bM5QJgBobicCEjBbu0p2Bu3r869bofQKOdBUlKAcrhfBju16deuSnGjr3s17mKncvIMLHwX8dydCmpMrX868ufPn0KNLXz5yUPFEvodr3479unVt3MMHz/5dvPnx3nGDP+96SItPQEYkqnRIU3ry7EU5/qSi0wyGLRln33r5fUIECKH0oM4P8i2CH34FesIgQsnVh10Iiszm4H3pRTgJDXgJwkN1jKTQCWwadrcehB5GgkJgjKzkCIhF8KDZSxuu2GGLjxDhAYF+LcKDVpA8uCOPjfz+4IAjM0TESFqRGEkgkkka1swGOLJyQZQcTkmlkEQu8kMCzPgAo3pFdvmlJP81ItSBzfyYpo5enhBiECeSxgtqSY7mZpiJJEMkEBMERERVcw7oiA0KhPgTAAvE4s1k1zBGIA9ZMkKjIpktF2CgiD4ipVQv4MPIfoLcdRdCmS5ip2uHnqlojj210FYjqNaY1VWAJoLpI6+KEmuitC5yw2SmLkIDA4Y8k1RS81mynIWJBIscdCQOK6qaigAhabKK0NCZDYc8G6CMjPzqSLChaOsIfrYt0mlyn9ZYHSFfYcUVq49s2m6ojsRbbE/4mCVIDw2Sompd4PraKky9euIuK9yhEsyMY0NQEMsML1FmqcfZ9PlIm+cciebA+Uj70hB+/uBKlqaZFsqQ7Zk8qiQpRgilKEpySeeaUW7Js5XvVgx0Iz6uZ8IALCAwgKw1RoxyeUc/8qKYJZhQAA4UQO1v0T9X7QgPAd2gA8Bxekm1gGJX+aQ9rGDo86xtN/MBeBw/omBfRtfta0Dsps33ioVQ6/c27wW6wpRAuBBJJZeofTiSgQAAOw==\" width=\"103\" height=\"49\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td rowspan=\"3\" width=\"55\" height=\"183\" valign=\"middle\" align=\"center\">\t<p> </p>\t<p>휨</p>\t<p>응</p>\t<p>력</p>\t<p> </p>\t</td>\t<td colspan=\"2\" width=\"121\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>인장연</p>\t<p>(순단면)</p>\t</td>\t<td width=\"149\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>240</p>\t</td>\t<td width=\"149\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>315</p>\t</td>\t<td width=\"122\" height=\"50\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td></tr><tr>\t<td rowspan=\"2\" colspan=\"2\" width=\"121\" height=\"133\" valign=\"middle\" align=\"center\">\t<p>압축연</p>\t<p>(총단면)</p>\t</td>\t<td width=\"149\" height=\"50\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhXwAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Ojo6kDpmOjpmZjpmkDqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmZmZmkGZmtmaQkGaQ22a222a2/5A6AJA6OpCQZpCQtpCQ25C225C2/5Db/7ZmALZmOraQOraQZraQkLa2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////yH5BAAAAD8ALAAAAABfAB8AAAb+wJ9wSCwaj8ikcslsOp/QqHR6vAGugRF1y+0SbwKXd0yOkhrltBrZe2jX8PWLYIvbyT4O+s7n6g5vPzlifYVNLwVDPh+GjUp5G0I7EoGOlkIkV5oAiWsllUI8dT81UzIGAAMtRZ+SEamrazMVsUcyCKA/L1cJtU86FzY+JmFDt1p5Gj8ydGU7Hh+jSDssHbkxhEg+JJ1GN1k/bW/U1j86CXU+5V0+KBi+2irq19lc4j8+8uU3zT8kkT0cbBp4pZgRGRbgJaEhbB0RGAoABFC25cUehvN0dTszhseJd0p2rMpYBEaIZeCm6AAhaWQ5REM4OvMA0kimTd1+gBETMJKVlB0nMQ0swG/UvyM+Sm0RmSRjnkQ4RAjpQUGaIg45i+yQ+gNHoIzn0jkkMikXnrHhJqyymCQFEh2oCmZzyiHDsn5FekCol+QmwT1G4F4BLETHK8J5V0QRDADNjleqkNzIegkJj0IvFhgYYLZyo6c2JnserVdM2NGVi2pEnRoNJNaXelzQhRd2oxsGGFi1zbu3799PggAAOw==\" width=\"96\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"149\" height=\"50\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhXwAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Ojo6kDpmOjpmZjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmZmZmkGZmtmaQkGaQ22a222a2/5A6AJA6OpBmAJBmOpCQZpCQkJCQtpC225C2/5Db/7ZmALZmOrZmZraQZraQkLa2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEMALAAAAABfAB8AAAf+gEOCg4SFhoeIiYqLjI2Oj5CRkpOHOwCXASaUm5ydhDsCMZ6jpJEnDqWpqohBEJqrsKsyBDqxtqRCHai3vJw+B69DPaK9xY0yBYNCI8bNirkcgj8Twc7WgieX2gDJqyjV0hIAAzCTQijjwUAp6rVDOLA2FuWINQjguRtDNbSR0EMyQuUCkGmQjEsJ6JH6EWKEO0Q/XngA5yNBLSETDQk50U0RKGKtgtEghmtFBoWJhLTACG5HvyEnopn7sGtIyEEjCwV5sK3npVCHalxAqeiGDpaFkA06NSlbA0I3Bc1QQFDfKCAqTir6UQ4pIaXYakpC5i7qkBkk9hUsxVCroWyl2zoOcekupr8WgnwYkBn1o80HMgsJgbeJa8qMuZJVvJhRcAe5nwrq5etKEI8SgoJUeEhoGrhSXpV10LDvpSEWiISIyAEQqM3KNimUkyEWagSSiuD6rD1I76XaP8SRY+UiJYhx9HT38yGO96AdkK8hAlJMxgIDAz5Ld5ZYB/Tt4IPcHrIYvHS6AKObL7YD1b/11oJgAGgafrMdBhhwts+/v///jwQCADs=\" width=\"96\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td rowspan=\"2\" width=\"122\" height=\"133\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhCQAOAPQAAAAAAAA6kABmtjo6kDqQ22YAAGYAOmYAZmY6kGa2/5A6AJA6OpDb/7ZmALa2tra2/7b//9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAJAA4AAAUu4CWOZGlWBQAEEVkdkCkJ5tUkp8HIrNkQI4fIsthdKg/RZNCiICIWhWoKrFlHIQA7\" width=\"10\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">：플랜지의 고정점</p>\t<p>   간 거리</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhBgAOAPQAAABmtjoAZjpmkDqQ22Y6AGY6kGZmZma2/5BmZpDb/7ZmALZmOrbb/7b//9uQOtuQZtv///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAGAA4AAAUr4CWOIkVez0E+yWghzVgZBCBOAbO00XDtF4cKyKoUIBdJwuETKQTIk/QSAgA7\" width=\"7\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">：압축플랜지 폭</p>\t</td></tr><tr>\t<td width=\"149\" height=\"83\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhWAAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Ojo6kDpmOjpmZjpmkDpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmZmZmkGZmtmaQkGaQtmaQ22a222a2/5A6AJA6OpBmAJBmOpBmZpCQZpCQkJCQtpC225C2/5Db/7ZmALZmOrZmZraQZraQkLaQtra227bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEYALAAAAABYAB8AAAf+gEaCg4SFhoeIiYqLjI2Oj5CRkpOUiD4AmAEplZydkT4CM56jpIoqD6WpqkZEEZursJ00BD2xtpNFH6i3vI9BB69GQKK9xYY0BYNFJsbNyh8egkIUwc6CK9WCQ7VGO5UqmOEAyaRFKwADr0IT6DKGNwjZRjSYCe6JQywJ3Ks4F/eEckWjESpXByM3aBESEgOEPBvEEBW5QWEDv1RCSJi4aClUkH1GijhUBkPkw4iFdIhgADBVERcaWioqEgKVD4VGVEQTlKOHSUM1FAAIcHDQNAccCxGBIK4pplDvMMg0BaCBIGSDTklz97NQjRMINRUSMmIB2FVDWsR0hKwHVkGgWnM2JScIlKilOw3hoJCBB6yMaw0VgSEoiAEPN7npLPQzV7IfKAQRsZA04IvKgop4qyRkqg+xhj18rNVV2UhCRCq4o7GLMzVVRUr4JTgjFweEOAsbwNS6MLvelIhIQJkInFMAwDOLaCeN3YCpxXzQtUadxgID6ag7c9xDuvZmwkWN/h5d4VvyvHygEoi+F5EM83K3t+XDAAPM8/Pr398oEAA7\" width=\"89\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t<p><img src=\"data:image/gif;base64,R0lGODlhfQAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Ojo6kDpmOjpmZjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmZmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLa227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvb29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////yH5BAAAAD8ALAAAAAB9AB8AAAb+wJ9wSCwaj8ik8thbLZ/QqHE3klqvV9kLy+2qbN2w2AdK3gDoAEkcxq3ZcKmuahZs49xeCM9Xxt5IJQ59XChghIhCJ3dMEICJUH+QhD4eh0cwBJeTSzcanHw6DUk+G4OgTzoYqHGqSToHgDmMrEM9F7VsnkkwBUNkuUU9FZvBVjCfR6XJOxOPwZWHMwYAAy5FJm87EtXXWNPdRj3c1kTIRyVo6gC+eNlGPIc1RT4dWzoXNj4pdkMzCGtKZfgxQ9MVfPr40RL4I4ZBIZKC/Xv2AwaaBN5+2ftxQ82PHo6E7GjBYY2OBGB8lLzScQ3IRzcMvhzyLtfIlUW0IKlH62P+SB8rVK6JeahEsjwhhxD9sYwmxUlAhRrRqWyjuVM09K3sNUTQEB3U1qF5WATGKaX9ejw4W1OIWrFw+wkBCxcA2SFZpRaJoQBAgIFEeBLRsefHjmtSuQrxyoWwEYYWj7YFdZgpTiIxRBD0qJHRDs2LxRZY+sMol89ItgFgYLXh00Tp1rUTciPtg6NMrVIR4ubXypMpL0vZ/cNNKV8zXQ05t3MepZXHi9MZtkkwXTRyLQfcsKpgsVRhAWRXZMHCKnO4izR7HUavLQrXzAojpuT6INXlau1C0iNCTzb2FaEDN2fZQp8xWCh3xA2zITjYKA5ecQsvCxgwAHusKBhhFNFNKLNBATYwuCFH6Y24xCJM+PcDcBtGZCIUNzy1lGIOdvgiFBoqNUhTEepxI4cffDdhJt/l0tuPMMpoAANF1mIjkksABSURO7Aw5ZVhBAEAOw==\" width=\"127\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"149\" height=\"83\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhWAAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Ojo6kDpmZjpmkDqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6kGZmZmZmkGZmtmaQkGaQtmaQ22a222a2/5A6AJA6OpBmOpBmZpCQZpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQOraQZraQkLaQtra227a2/7bb27bb/7b//9uQOtuQkNu2Ztu2kNu2ttvbttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEMALAAAAABYAB8AAAf+gEOCg4SFhoeIiYqLjI2Oj5CRkpOUiDsAmAEllZydkTsCMZ6jpIomDaWpqkNBD5ursJ0yBDqxtpNCHKi3vI8+B69DPaK9xYYyBYNCIcbNyhwbgj8Swc6CJ9XSEQADMJUmmOEAyaQ0BtzeQziKNAjZuRpDNLSJQCgJtbA1FOmEPhY6hKQIlUscOWkvOmTzgW+IEIWGhNCQgCGfqh8gQlgstEMTK1dBXAyaQcxhi4fZdtAbYiLaoBseFvRLJWTFhZmLWlXjUc1GQIiEkA06NWgag42GgjgQxxRTKEM0KuBkJGOXoCAiCP3whrKQUEFEtX5QMAIWEBU3G/nISghFNXCKBgmpzNcSUQ0JFnLAwpgW0Y+yhIJMQCqoa65kDGt1TSSEBWFl6yptPfSDhCCeguYeWvwsg7yVlKZl8+TjnFNiswiXxmRVG7pOQSCUNNWU9SMeGKzJPajbmgwFBgaM7m3rsI4dvInfii0qsfJemr8+v7UDVS6X020FsTAkdXZeOwwsePy9vPnzigIBADs=\" width=\"89\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t<p><img src=\"data:image/gif;base64,R0lGODlhfQAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Ojo6kDpmOjpmZjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQkLa227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEAALAAAAAB9AB8AAAf+gECCg4SFhoeIiYqHPiuLj5CRhjwkkpaXlzIvmJydKjedoaI/IYk4AKgBJaKhOaussJI7laYCm7GcPiK4vIoxr4gmDr2cKaDEyIIot4wQwMmQv9DEPx/HhzAE19OLOBncvDsNiT8aw+CPOxfoseqJOwfAOszsgz4W9azeiTAFg6T5CvmosC2gJRjfDpVLyGPCs4DVjv04AWAAsB4oLh6rIerEQyATKz5DeMgEqpMA/OHyOElCRReFfnDYtBAIDFvlAKgaBANVApidZiB4WPMmM2kBhRLVgAHIDG2EZNIDgsOWIB/OBmlixaPFho+DqjJjma/r10I7EoD6cfbfzKj+Hc4BwQpsa6gfK9iCBRmXEFl2ePUWwgEViImEgqQOMjnOXlZBMRTobDpohwGUJwsLonFDsCHGhf7OfYC5tFVBlksD0DyIs2eeKg3LBfmWUL9jdAfFGOF0pyUeMF8buj1INDfgINvCXjxbMV7UBhLmpmrVxwPEkUyijA3SERDLiJGi036SO+Fjh6O+xbET/NXHOWgNLChJcDl/7Fe5F0QS0Q+O1Jx133dqJfeMcyDYYNNp0/lAAUwwzHaJcCAluCAz/R3S0F53KZeYBus8tc18iXnwkiDkQbWDSxJakhoAEv5g4gBACbIPIj5EMBUrL0rIg0s0CkSQQZy4gwgO3BFkWVljSlpyDz8LGGBRk6itQ2V91iikQQE3IHnljVdGsgwjOhJIXz7ihfkIDmCdZ1OSEGWpJiRGDjZMTU3qMmckP4BA35PZnFmPK3tGwuYhOBjAgKCAyVnoIs89OggPLEhqaSiBAAA7\" width=\"127\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td colspan=\"3\" width=\"176\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>전단응력</p>\t<p>(총단면)</p>\t</td>\t<td width=\"149\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>135</p>\t</td>\t<td width=\"149\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>180</p>\t</td>\t<td width=\"122\" height=\"50\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td></tr><tr>\t<td colspan=\"3\" width=\"176\" height=\"33\" valign=\"middle\" align=\"center\">\t<p>지압응력</p>\t</td>\t<td width=\"149\" height=\"33\" valign=\"middle\" align=\"center\">\t<p>360</p>\t</td>\t<td width=\"149\" height=\"33\" valign=\"middle\" align=\"center\">\t<p>465</p>\t</td>\t<td width=\"122\" height=\"33\" valign=\"middle\" align=\"center\">\t<p>강판과 강판</p>\t</td></tr><tr>\t<td rowspan=\"2\" colspan=\"2\" width=\"107\" height=\"67\" valign=\"middle\" align=\"center\">\t<p>용접</p>\t<p>강도</p>\t</td>\t<td width=\"69\" height=\"33\" valign=\"middle\" align=\"center\">\t<p>공장</p>\t</td>\t<td width=\"149\" height=\"33\" valign=\"middle\" align=\"center\">\t<p>모재의 100%</p>\t</td>\t<td width=\"149\" height=\"33\" valign=\"middle\" align=\"center\">\t<p>모재의 100%</p>\t</td>\t<td width=\"122\" height=\"33\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td></tr><tr>\t<td width=\"69\" height=\"33\" valign=\"middle\" align=\"center\">\t<p>현장</p>\t</td>\t<td width=\"149\" height=\"33\" valign=\"middle\" align=\"center\">\t<p>모재의 90%</p>\t</td>\t<td width=\"149\" height=\"33\" valign=\"middle\" align=\"center\">\t<p>모재의 90%</p>\t</td>\t<td width=\"122\" height=\"33\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5456,
+        "sort": 116,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 7,
+        "label": "표 3.3-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.3-1 가시설물에 사용되는 강재의 허용응력 (MPa) (계속)</p></caption><tbody><tr>\t<td colspan=\"2\" width=\"97\" height=\"42\" valign=\"middle\" align=\"center\">\t<p>종류</p>\t</td>\t<td width=\"130\" height=\"42\" valign=\"middle\" align=\"center\">\t<p>SM420</p>\t</td>\t<td width=\"130\" height=\"42\" valign=\"middle\" align=\"center\">\t<p>SHP450W</p>\t</td>\t<td width=\"130\" height=\"42\" valign=\"middle\" align=\"center\">\t<p>SM460</p>\t</td>\t<td width=\"119\" height=\"42\" valign=\"middle\" align=\"center\">\t<p>비고</p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"97\" height=\"71\" valign=\"middle\" align=\"center\">\t<p>축방향인장</p>\t<p>(순단면)</p>\t</td>\t<td width=\"130\" height=\"71\" valign=\"middle\" align=\"center\">\t<p>365</p>\t</td>\t<td width=\"130\" height=\"71\" valign=\"middle\" align=\"center\">\t<p>395</p>\t</td>\t<td width=\"130\" height=\"71\" valign=\"middle\" align=\"center\">\t<p>405</p>\t</td>\t<td width=\"119\" height=\"71\" valign=\"middle\" align=\"center\">\t<p>245×1.5=365</p>\t<p>265×1.5=395</p>\t<p>270×1.5=405</p>\t</td></tr><tr>\t<td rowspan=\"3\" colspan=\"2\" width=\"97\" height=\"253\" valign=\"middle\" align=\"center\">\t<p>축방향압축</p>\t<p>(총단면)</p>\t</td>\t<td width=\"130\" height=\"66\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhNQAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6kDpmOjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmkGaQkGa222a2/5A6AJA6ZpCQZpCQtpC225C2/5Db/7ZmALZmOrZmZraQZraQkLaQtra2Zrbb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADgALAAAAAA1AB8AAAbpQJxwSCwaj8ikcslsOpEwgDTAeVqvMEHpyn12FN3w0saois9GE+GFbgtvFrC7PTuYcbLtnGsqDG8Ze1xwFUI0DneCTR1SjQB+gjUfZjVsOC2KQioRJEdwAFRCJlIInXs0GBmWSWRmKHpzNyETpkytQq9GNguOvVJaRikStU23OCcJoBRzNSC0xWVCJxo4KaGnGM+s0Vlbu4WZNMRFtzEbQjYQq5nbVTYPnSZyZ4y+APNF9QBrMw337Ow6DBhhYAAsgEtmcOhQgMWDgwiTrHBxAWLEhAjWXVwib+MTD4k8JrkhQqPIkygVBQEAOw==\" width=\"54\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p>365</p>\t</td>\t<td width=\"130\" height=\"66\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhNQAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Ojo6kDqQ22YAAGYAOmY6OmY6ZmZmZmZmkGaQkGa2/5A6AJA6OpA6ZpCQZpCQtpDb/7ZmALZmOrZmZraQZraQkLaQtra2Zra227bb27bb/7b//9uQOtu2Ztu2kNu2ttvbttv/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADIALAAAAAA1AB8AAAbbQJlwSCwaj8ikcslsOpErgDSAeVqvK8Hoyn1mFN3wEsaois9GEkGFbgtjE7C73TqYZaztnEsqDGMXe1xwEkIuDXeCTRlSjQB+gi8biTIalHMmDyJHcABURCUIl2cuFhdsSmR3LiEUo4MdEZtNqm8gMa5DMAuOvVJaRiUQs061MicquK9cLxyytGUyLpvKiqXPSbWMjpDWxEbGb7mK0InVaNu+ckbpazItBlLr5HsZAx8GA3r0TS0YGQVQONjHb8mJFBUIFuyXANVCJyTmPWRiaaKTGB4cWtzIcWEQADs=\" width=\"54\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p>395</p>\t</td>\t<td width=\"130\" height=\"66\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhNQAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Ojo6kDqQ22YAAGYAOmY6OmY6ZmZmZmZmkGaQkGa2/5A6AJA6OpA6ZpCQZpCQtpDb/7ZmALZmOrZmZraQZraQkLaQtra2Zra227bb27bb/7b//9uQOtu2Ztu2kNu2ttvbttv/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADIALAAAAAA1AB8AAAbbQJlwSCwaj8ikcslsOpErgDSAeVqvK8Hoyn1mFN3wEsaois9GEkGFbgtjE7C73TqYZaztnEsqDGMXe1xwEkIuDXeCTRlSjQB+gi8biTIalHMmDyJHcABURCUIl2cuFhdsSmR3LiEUo4MdEZtNqm8gMa5DMAuOvVJaRiUQs061MicquK9cLxyytGUyLpvKiqXPSbWMjpDWxEbGb7mK0InVaNu+ckbpazItBlLr5HsZAx8GA3r0TS0YGQVQONjHb8mJFBUIFuyXANVCJyTmPWRiaaKTGB4cWtzIcWEQADs=\" width=\"54\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p>405</p>\t</td>\t<td rowspan=\"3\" width=\"119\" height=\"253\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhCQAOAPQAAAAAAAA6kABmtjo6kDqQ22YAAGYAOmYAZmY6kGa2/5A6AJA6OpDb/7ZmALa2tra2/7b//9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAJAA4AAAUu4CWOZGlWBQAEEVkdkCkJ5tUkp8HIrNkQI4fIsthdKg/RZNCiICIWhWoKrFlHIQA7\" width=\"10\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">(mm)：유효좌굴장</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhBgAOAPQAAABmtjoAAGYAOmZmtma2/5BmkJCQZpC2/5Db/7ZmZra2/7b//9uQZtu2Ztu2ttvb29v////btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAGAA4AAAUfICWOZGmeoyQYAUE5DcAc1MMgZLKMUwGlA1JEgTqFAAA7\" width=\"7\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">(mm)：단면2차반경</p>\t</td></tr><tr>\t<td width=\"130\" height=\"84\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhSAAdAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6kDpmtjqQkDqQ22YAAGYAOmY6AGY6ZmY6kGZmkGZmtmaQtmaQ22a2/5A6AJA6OpBmOpBmkJCQkJCQtpC225C2/5Db/7ZmALZmOrZmZraQZraQkLa2tra227a2/7bbtrbb27bb/7b//9uQOtu2Ztu2kNu2ttvbkNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAADoALAAAAABIAB0AAAb+QJ1wSCwaj8ikcslsOp/QqJSIWwAAhNh0yz3WDtquWKxSjM/bnKWDbkO/YbdcWR624vO8mq3DlfJML0KCUXA6Ng4pYjkwTS4bQjkVAAN8TpJXmWZQhFRWVwVDOJB9Vps5GkyZaDchGnhCNihCNIpCH5tCMqepSKtoLBgnTDYcQzQruTq7kRcGAAhEV205IRKwSKhDOSXMQ945GDE2CxRFv2MsGcNLMhNDI8vK3jJZOh7mR79Vmf1XArayicgwCwk+Woq86do0gw+IgICI3CBxZI8QD/1CLRSCA0KMGhEiQrFIpI4OTAAALjNgDxA/fy2XYASgUaTNmzjnSErQIIAipZxnaJhg8BPomRc1ohmVoyLf0jYfij7tguMBtqlYs2YNAgA7\" width=\"73\" height=\"28\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlheAAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmOjpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmtmaQ22a222a2/5A6AJA6ZpBmAJBmOpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2Zra227a2/7bb/7b//9uQOtuQZtuQkNu2Ztu2ttvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEAALAAAAAB4AB8AAAf+gECCg4SFhoeIiYqFPiqLj5CRgjwgkpaXljAtmJyWJzedoaE/HYk4AKgBIaKXOaussJE7laYCm7GSPh64vIkvr4giDL2SJaDEyEAkt4c+DsDJvtDRsD8bx4cuBNjUhzgW3bg7C4k/F8PhiDsU6bDriTsHwDrM6T4T7azfiS4Fg6T5BPmQwC2gJRfgDplLyAPCtHDWsP0YAWAANIrkgPQ4RgNTDAMVWSDCOAjhIRGoUgLwF6sHCWAbBXX8h+HWQiAubAH5cYLFDgSbXKBKINLSjgk3fpjQSYinT6CCfgU0B0BVyaFFBf2oaQiHzmWFNHXCYdXZNLCFRjwMZ3aQWEP+W+vtzDBsRwINFV+9FdV2kF28FgepNQikL5C9TbkOQpnx1LAY24C8UFC1AqEdIFWiilzIBbpBjoFAPjZ4kI8GmlMzFYQ5NQDOjJ4Nmlw5sVycBW543XQa3IsPoq1i2rGr0O7CDRKWDmj4d3BgcbU6AoLZwvGFx3tj4gG8q86bktd265s9Oc1bZFdV/7lpYQ5aAws+oiTIlTl/7HdeSGjSYN/3AhF0nlYc1ICTLeY8to0PEYjk2SWtobKafgoe0x9zshXWIE6fFSagVoAV5cMDIbFGYoe4jFiiIPsEhNJmoOxwIiMfEmYUOzZCMk6Ol9yjiAgDpGDAALd18w6PkkROpE4IIhQwQwRFUtMikpGgZYgMNihGmFRURoKDeNQlIF86SnapI47ZoJiPLmZG8gMHYwKxnEGutOnlWj+gEGc3Zdq5yA/T2cnDCn4WGkogADs=\" width=\"121\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"130\" height=\"84\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhRgAdAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6kDpmtjqQkDqQ22YAAGYAOmY6AGY6ZmY6kGaQtmaQ22a2/5A6AJA6OpBmkJCQkJCQtpC225C2/5Db/7ZmALZmOraQZraQkLa2tra227a2/7bbkLbbtrbb27bb/7b//9uQOtu2Ztu2kNu2ttvbkNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADYALAAAAABGAB0AAAb+QJtwSCwaj8ikcslsOp/QKJSmAAAGLal2i4wZstyw2JQQm7e1SebMhnrB7biSPEzB5fj02kYD4f9CbzYyDSViNSxNKhdFNIxNNRJWk2VQK0ZUkwQmAAEQQ5mVQxuiRJNsMxwWd0IyJEIwIZ8xBRFELqUwJ6WnbCgUI0wyGC5YNhqluEM1IMo2Vm01HA+sSDUWRHq3oh42zkK9ZigVwUsun0Mve0POMIbfptB8VZP1AAKGSTUdFa9IGrZa+dsmREM9AoCKzPhwRJuNGYn6ECRCJyEkNTZoWQmwJ5IVfAWtIJSTyZ4xiyhTqlxZJBICBhxZnoEhYsE6mWJWxDiAs40SiYA9zWy4GXQLDQfViipdqjIIADs=\" width=\"72\" height=\"28\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlheAAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Ojo6kDpmOjpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2Zra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEQALAAAAAB4AB8AAAf+gESCg4SFhoeIiYqFQi2Lj5CRgkAjkpaXljQxmJyWKjudoaFDIIk8AKgBJKKXPaussJE/laYCm7GSQiG4vIkzr4glDb2SKKDEyEQnt4dCD8DJvtDRsEMex4cyBNjUhzwY3bg/DIlDGcPhiD8W6bDriT8HwD7M6UIV7azfiTIFg6T5BAmZwC2gJRngDplLCCTCtHDWsA0xAWDAKyEQKsIQFOQYDkw1DGg0hHGkIISHSqBaCcBfrCAnHpqANmTDrYVEZNgyd4HIjG05USXYaOlHhR1DUtgixNMnUJ8PqZkDoKpQDQQ0bRriYYsHUGerNHXiURUsIa+gzBKZaZCI2kn+LzRkrUdkCIdhaOtmACeW1VsieXGujdrt7ZAWQ+Qy1TpIJTnAS4U4GDZDAdWeg36IZInqKSEZ6AZx3SQZHdtBkjmrXpp5M2fPhN7aQKr4H+PPBZBm6CkDALgZIojUqIrpx65CTXsnPB1QLZCNiecKOixIMzggGRfYHO3WQUJLQIIfwg5A+61fbdWqZOmyLmOyq6ybfdeD1sCCjygJcmXO33x2J32Xz1911TYdY0N8kENOS51AAQUACiHBRqBdotlKrA3iIISfCdgOgdHFRtA/HZh0yA8ZhRbOPgGtB8BTFwIQ2n1tFQdgjY+Mg+Ml9yhSwgAsGDAAXeG8s6MkEalLQ0IJBdwgAZHdsHhkJMsgYoMOtxmE3pSR8EAYET8kgF86SXIJiZHZqNjccWY+kuCYg+HoSptdRjXECnB2Uyadi1DHJxAu8CloKIEAADs=\" width=\"121\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"130\" height=\"84\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhRgAdAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6kDpmtjqQkDqQ22YAAGYAOmY6AGY6OmY6ZmY6kGaQtmaQ22a222a2/5A6AJA6OpBmkJCQkJCQtpC225C2/5Db/7ZmALZmOraQZraQkLa2tra227a2/7bbtrbb27bb/7b/trb//9uQOtu2Ztu2kNu2ttvbkNvb29vb/9v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADcALAAAAABGAB0AAAb+wJtwSCwaj8ikcslsOp/QKLSmAAAGL6l2i5QZstywGJUQm7e2yubMhnrB7biSPFzB5fj0+lYT4f9CbzczDidiNi5NLBlFNYxNNhRWk2VQLUZUkwQwBQESQ5mVQx2iRJNsNB4Yd0IzJUIxJg4lMw17QjClMSmlp2wqFiRMMxq5QigTRMZCNiLLVm02HhCsSDYYN3TZpcs3IDfdN75mKhfCSzAR28fclTGG4UO+mZP1AAKGSTYfF69IHMm0acNViUM9AoCK0AhxRA+4SsiUlVqXEJIaPrNq7YlkBZ8QgwAQyqFXDwu6Tp8qqlzJMk4kBAwC3GopJsaIBTNpimkh44ATzjgRf7LpkFPolhoPqhldylRnEAA7\" width=\"72\" height=\"28\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlheAAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Ojo6kDpmOjpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQkLaQtra2Zra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAAB4AB8AAAf+gEGCg4SFhoeIiYqFPyqLj5CRgj0hkpaXljEumJyWJzidoaFAHok5AKgBIqKXOqussJE8laYCm7GSPx+4vIkwr4gjDL2SJqDEyEElt4c/DsDJvtDRsEAcx4cvBNjUhzkW3bg8C4lAF8PhiDwU6bDriTwHwDvM6T8T7azfiS8Fg6T5BP2QwC2gpRfgDplL2APCtHDWCgYh8arHAwADWgjycawGJiAkMD60iFGjIISHRqBaCcBfLB8lHlIkBCRDvSAyEKwyVwHntiAvUCUwKWkhUFs0L/SU8TPIr4DmAKgqlBNazXo9WGBYxSMBKCBbg2iClQPpoK5fw058GM4ZtKz+agVd/acC7KocTUeAGysKiAZ0g/Ae0ytopkG3dO3StDloBg7F/QYJc6pAas+zBliubCpIJblCkTujMyywgebTZgXxyHyaMyHEghwr/sc4SA+NkF0GmQwDBM6pnPpxC717NNtusG8HmS23tkqWBQR3tlB2048GCSMBcRRkdfYg0ncnfHr4WWfNuufSDIt2+VYdtAZKVJRjqndz/trPRll+GvPltf0TljnsMIXDDxFo9AJg2nVgw1H1EOjTMfwFBJuA0MhHyGqoDENSRqpdxGBRG5RkyIdE7RPQcwA0xSEAgGloECbvzCjLZzZaco8iIwyQggED3BROjTkWdY06IoxGUAANEQjZjYpFSrIMIjPcEKBB5EUZSQ7HdeeVjRFpKQmRhiyYoy5iFtXBfGvl6EqaknCpEApsdhMmnJBsh+ckK+zpZyiBAAA7\" width=\"121\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td width=\"130\" height=\"102\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhLwAfAPUAAAAAAAAAZgA6kABmtjo6Zjo6kDpmZjpmtjqQtjqQ22YAAGYAOmYAZmY6OmY6kGZmZmaQtmaQ22a222a2/5A6AJA6OpA6ZpC225Db25Db/7ZmALZmOrZmZraQkLa2tra227a2/7bbtrbb/7b//9uQOtu2Ztu2kNu2ttvb/9v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADAALAAAAAAvAB8AAAbSQJhwSCwaj8ikcslsJl0KAECQclqbLsboyl2qBt0wUjMRm4euReZ8VlHZZk1i6IFfX5U1zAWyW1kFVS0OVX5LLxRSinNmLyhHKoxmJQYiSlCKYDAvG5KNJQ8XSC2WMCtbMCclnmwmDRCFRnxCpJFEmIq5igGoRy0VEkgdhXW2dq6wSCwRQqcwxp8EokokZTAauZpiJqVLZEUkrIZFeHpD4eNKHd3XUtrpZ4gIFAHs8EcrIQsYHOb3RydYHPjXpBpBJhv8HTTywkKvhQw/QJxIkU0QADs=\" width=\"48\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhZgAyAPYAAAAAAAAAOgAAZgA6ZgA6kABmtigNUSgXUToAADoAOjo6kDpmOjpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmkJCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZrZmkLaQkLaQtra2Zra227a2/7bb/7b//7z//9uQOtuQZtuQkNu2Ztu2ttvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEYALAAAAABmADIAAAf+gEaCRA8AASaCiYqLjI2Oj5CRko9ACAAEPIxEFJmTnp+goZ6bnYqkokIpiI1EEQADMIJBrrCytLGLs6+4urVGvbifp4tDBjKgRRqGq4vJGEY0mM5GNtIaz9WlRtPZ3NbYmKDFx8TGokQQzIo94egmQAqZRRvv8dv0ivDy9Pr39fvqJI1jNDCUu0bs5GnIkFDQCYbhjDxcF/FhQ4kQO038VFBRR2HpEAqIYYSQgxkFEp04mdKhA0UoVbKUGdOlOHPlyIE6yGjaDAAZakqcaTOR0JVHiQ69qTPRx1EhG+liwCHGRYsVM1DUmNFhV4xMCeLcGTVZy4NALhjpN+/fvRL+Glqy5Wev7dyAkZ4a0SuJp6AaJI2kqFBB7TYNarshphYO8OHE1iDzSCY5bM5QJwBobjcCEjBbu0p2Bu3r869bofQOOdBUlKAcrhfBju16deuSnGjr3s17mKncvIMLHwX8dydCmpMrX868ufPn0KNLXz5yUPFEvodr3479unVt3MMHz/5dvPnx3nGDP++aiItPQUgkqnRIU3ry7EU5/rSi0wyGLRln33r5fVJECKH4oA4Q8i2CH34FesIgQsnVh50Iiszm4H3pRTgJDXgJ0kN1jKjQCWwadrcehB5GkkJgjKzkCIhG9KDZSxuu2GGLjxTxAYF+LdKDVpA8uCOPjQD+0YAjM0TESFqRGEkgkkka1owGOLJiQZQcTkmlkEQuAkQCzPwAo3pFdvmlJP81ItSBzfyYpo7rFYHCKyEKcSJpvKCW5GhuhplIMkQGIUFARVQ154BXajUDiTBppkAs3kx2DWME9pAlIzQqktlyAQ6q6CNSPjLimX+dedddCG26CAohSpIoqjky2kgRHbia6lZeXSVoIpo+Aqtrsy5aa4wALNkIDQsY8kxSSc1nyXIWJjJsSYVAR2KxpKrJZAHr0dCZDYdAG6CMjATryLWhcOsIfrY1895aCPx6KrZfYcVVq4902u6ojsR7LLD1VZKBWYL40CApq9aFT7q6GvWrJ+6osuLtoCDoYMSjgTlGxASxzPASZZiSnM2fj7R5zpFoDjyoB6GJNp8rWZpmWihDtsdyqZKkGCGUoijJJZ1rRrll0Fa+e3HRt8q5yAkDtIDAALTmbKyATD/yopgmnFAADhPQ6q/SRGftSA8B3bADwHF6WZ7LZueTtCD9sILh0LbG3QwI4In8iIJ9La03sAGx23bgKxZS7eDbzCtIESxMGcQLkVRyiduMIxkIADs=\" width=\"103\" height=\"49\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"130\" height=\"102\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhLwAfAPUAAAAAAAAAOgAAZgA6kABmtjoAADoAOjo6Zjo6kDpmZjpmtjqQtjqQ22YAAGYAOmYAZmY6OmY6kGZmZmZmkGaQtmaQ22a222a2/5A6AJA6OpA6ZpC225Db25Db/7ZmALZmOrZmZraQkLa2tra227a2/7bbtrbb/7b//9uQOtu2Ztu2kNu2ttvb/9v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADQALAAAAAAvAB8AAAbTQJpwSCwaj8ikcslsJmUNAGDQclqbssfpyl26CN0w0nMRm4cyR+d8dlHZZg9jKIJfZ5k1TUayW2EIVTERVX5LMxhSinNmMyxFKAABFWwpCSZKUIoEMJQwBnqNKRIbSDGYNC8nblVyfioQFIVGfEVkaFGKuooCW6YZFkghs3sTxGawskidRcNsMykHpUooZUMrx2EqqEu3Qqp7fYZIeHowBVIBoeNGIdzs8IgLGALv8EcvJQ4cIOv3RitgKPjXpBpBJh/8HSwyQ4OvhUdmjIBIsSKbIAA7\" width=\"48\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhZgAyAPYAAAAAAAAAOgAAZgA6ZgA6kABmtigNUSgXUToAADoAOjo6kDpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmkJCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2Zra227a2/7bb/7b//7z//9uQOtuQZtuQkNu2Ztu2ttvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEYALAAAAABmADIAAAf+gEaCRA4AASWCiYqLjI2Oj5CRko9ACAAEPIxEE5mTnp+goZ6bnYqkokIoiI1EEAADMIJBrrCytLGLs6+4urVGvbifp4tDBjKgRRmGq4vJF0Y0mM5GNtIZz9WlRtPZ3NbYmKDFx8TGokQPzIo94eglQAqZRRrv8dv0ivDy9Pr39fvqJI1jNDCUu0bs5GXAkFCQCYbhjDxcF/FhQ4kQO038VFBRR2HpEAqIYYRQgxkFEpk4mdJhA0UoVbKUGdOlOHPlyIE6yGjaDAAYakqcaTOR0JVHiQ69qTPRx1EhG+lasCHGRYsVMVDUmNFhV4xMCeLcGTVZy4NALBjpN+/fPRL+GVqy5Wev7dyAkZ4a0SuJp6AaJI2goEBB7bYMarshphYO8OHE1iDzSCY5bM5QJgBobicCEjBbu0p2Bu3r869bofQOOdBUlKAcrhfBju16deuSnGjr3s17mKncvIMLHwX8dydCmpMrX868ufPn0KNLXz5yUPFEvodr3479unVt3MMHz/5dvPnx3nGDP++aiItPQUYkqnRIU3ry7EU5/rSi0wyGLRln33r5fVIECKH4oA4Q8i2CH34FesIgQsnVh10Iiszm4H3pRTgJDXgJ0kN1jKTQCWwadrcehB5GgkJgjKzkCIhG9KDZSxuu2GGLjxThAYF+LdKDVpA8uCOPjQD+wYAjM0TESFqRGEkgkkka1kwGOLJSQZQcTkmlkEQuAkQCzPwAo3pFdvmlJP81ItSBzfyYpo7rFXHCKyHaYElpqJ0WWpKjuRlmIskQGUQEARVR1ZwDXqnVDCTOV8FkKozkzWTXMEZgD1kyQqMimS0XIKGLPiLlIyOeWWN97tx1F0KdLnJCiJIoqmqOjTZSBAexOpjOVV9tJGSviczqmq2M4hojAEtCMsNLSSU1nyXLWVjsKshBRyKypqrJZAFTAoGhEdEGKCMjnD5irCjcOoKfbc28txYCgyYSRKDAAgvrI5+G0m4j8CqbSA/1VYKBWfY2qKCrdeGDLrGCtMluqe6hekvoBzqQS6JjlSRn6WKKVfZkoIxIbNCRaApMaAd/EkEyI6aZFsqQ7aF8qiQpRgilKEpySeeaUW7Js5UV/wx0j3IuYsIALSAwwK00Jyvg0Y+8KGYJJhSAgwS39lt0rlQjFNANO1Acp5flqRx2PkQL0g8r40qt4tq6fgDes48o2JfFdK8T0Lo9JS33IIVY2/c28gpSBAtTBvFCJB07eXjYgQAAOw==\" width=\"103\" height=\"49\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"130\" height=\"102\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhLwAfAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6Zjo6kDpmZjpmtjqQtjqQ22YAAGYAOmYAZmY6OmY6ZmY6kGZmZmaQtmaQ22a222a2/5A6AJA6OpA6ZpC225Db25Db/7ZmALZmOrZmZraQkLa2tra227a2/7bbtrbb/7b//9uQOtu2Ztu2kNu2ttvb/9v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADMALAAAAAAvAB8AAAbawJlwSCwaj8ikcslsJmMMAGDAclqbMYfpyl22CN0wsmMRm4exBud8blHZ5s5iGIJfZZj1LDayW18HVTARVX5LMhdSinNmMitFLQUBZWcoCCVKUIoEMRAlMBBbZzIoEhpIMJgzLiYtCUInlHApDxOFRnwzJ4y7aFGKwIoCokcwGBVIIFW9uoxstLZILxSwvM5hpAanSrHV3mYpqktkQq5C5IZIeHqdn1rpSSDikZPwfogKFwLi9kguJA02fNDTD4mKF68KMummcIkHgg2PyMhALKIRGSIsatzIJggAOw==\" width=\"48\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhZgAyAPYAAAAAAAAAOgAAZgA6ZgA6kABmtigNUSgXUToAADoAOjo6kDpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmkJCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZrZmkLaQkLaQtra2Zra227a2/7bb/7b//7z//9uQOtuQZtuQkNu2Ztu2ttvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEUALAAAAABmADIAAAf+gEWCQw4AASWCiYqLjI2Oj5CRko8/CAAEO4xDE5mTnp+goZ6bnYqkokEoiI1DEAADL4JArrCytLGLs6+4urVFvbifp4tCBjGgRBmGq4vJF0UzmM5FNdIZz9WlRdPZ3NbYmKDFx8TGokMPzIo84eglPwqZRBrv8dv0ivDy9Pr39fvqJI1jNDCUu0bs5GXAkFCQCYbhijxcF/FhQ4kQO038VFBRR2HpEAqAUYRQAxkFEpk4mdJhA0UoVbKUGdOlOHPlyIE6yGiaDAAYakqcaTOR0JVHiQ69qTPRx1EhG+lasAHGRYsVMVDUmNFhV4xMCeLcGTVZy4M/LBTpN+/fPRL+GVqy5Wev7dyAkZ4W0SuJpyAaJIugoEBB7bYMarshphYO8OHE1iDvSCY5bM5QJgBobicCEjBbu0p2Bu3r869bofQKOdBUlCAcrhfBju16deuSnGjr3s17mKncvIMLHwX8dydCmpMrX868ufPn0KNLXz5yUPFEvodr3479unVt3MMHz/5dvPnx3nGDP+96SItPQEYkqnRIU3ry7EU5/qSikwyGLRln33r5fUIECKH0oM4P8i2CH34FesIgQsnVh10Iiszm4H3pRTjJDHgJwkN1jKTQCWwadrcehB5GgkJgjKzkCIhF8KDZSxuu2GGLjxDhAYF+LcKDVpA8uCOPjfz+wIAjMkTESFqRGEkgkkka1kwGOLJSQZQcTkmlkEQu8kMCzPgAo3pFdvmlJP81ItSBzfyYpo7rEXHCKyEWkQozppn25GhuhplIMkQCEUFARFQ154BXaiUDiYMqY6E3k13DGIE8ZMkIjYpktlyAgyr6iJSPjHgmdlHddRdCmi5yQp6RJHpqjow2QgQHraK6ylVfbSRkrom86pqsi9IaIwBLOsJTUknNZ8lyFga7CnLQkUjsqGoyWQCQUTEboIyMZPqIsKJcq2x6tjXz3loICKqriFnxyuojnIZibiPpGpsID/VVgoFZpqRaF10Azcuku57cW6uAihDxQQ5FPBrYfiWYlbWYYpX9+Uib5xyJpr6DdhCaaColF06fqIkyZHsekypJihFCKYqSXNK5ZpRbzmzluTbf3KOci5gwAAsIDDDrysUy7LMjL4pZggkF3CDBrPXyvPDS4QZkgw6i9gQ0tj1j/eTOgvTDCoY1Xy32oB+AJwOwgijYV7ZrCxkQuV57qaImhURb9zbrCkLEClMC4UIklVyi999IBgIAOw==\" width=\"103\" height=\"49\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td rowspan=\"3\" width=\"39\" height=\"179\" valign=\"middle\" align=\"center\">\t<p> </p>\t<p>휨</p>\t<p>응</p>\t<p>력</p>\t<p> </p>\t</td>\t<td width=\"58\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>인장연</p>\t<p>(순단면)</p>\t</td>\t<td width=\"130\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>365</p>\t</td>\t<td width=\"130\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>395</p>\t</td>\t<td width=\"130\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>405</p>\t</td>\t<td width=\"119\" height=\"50\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"58\" height=\"130\" valign=\"middle\" align=\"center\">\t<p>압축연</p>\t<p>(총단면)</p>\t</td>\t<td width=\"130\" height=\"46\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhXwAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmOjpmZjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmZmZmkGZmtmaQkGa222a2/5A6AJBmAJBmOpCQZpCQkJCQtpC225C2/5Db/7ZmALZmOrZmZraQZraQkLa2tra227a2/7bb/7b//9uQOtuQZtuQkNu2Ztu2kNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////yH5BAAAAD8ALAAAAABfAB8AAAb+wJ9wSCwaj8ikcslsOp/QqHR6vAGuARJ1y+0SbwKXd0yOlhzltBrZg2jX8PWLYIvbyT4O+s7n6g5vPzlifYVNLwVDPiGGjUp5G0I7E4GOlkIlV5oAiWU+JgADlUSgDVOfoZWlQjx1PzRwMxYtRpA/L2FFPiktOgiET7a4Yru9v7dXCbRlOx8hrkpgwEIn07UlndG51UUx1l27GctMPh17QzoJHqlb5Wjp66JC3kU9D5v4V7lGMhfjTJlMFbGCRgadKQGFEPxhsA4MBQACaCDDA4U4J4ig/ZD2w14kKhk5evwBQwTDLGmaXay1QogOAx8V5rIFxUfLHy83cIQk8kGdTCI+YG3Z8U8hypx5EvkixuGnkKRIbhyFufQHJBwjhPSooHHIpFFefICocWvfUz0MDx5RgUQs2WF5CtLpQYHWi3P1Inw7kikfALyK4hXtKCHUYK0skvgQrLXwgGU6CgP+ku2SEh6FXiwwIM+yZ6scCti4Ufmzox56cSboarrQjYOIWl+6gYam7EY9MNxSe7vRDQMMWPceTry4cSRBAAA7\" width=\"96\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"130\" height=\"46\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhXwAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6kDpmOjpmZjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmZmZmkGZmtmaQkGaQ22a222a2/5A6AJA6ZpBmAJBmOpCQZpCQkJCQtpC225C2/5Db/7ZmALZmOrZmZraQZraQkLa2tra227a2/7bb/7b//9uQOtuQZtuQkNu2Ztu2kNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEAALAAAAABfAB8AAAf+gECCg4SFhoeIiYqLjI2Oj5CRkpOHOACXASWUm5ydhDgCL56jpJEmDaWpqog+D5qrsKswBDextqQ/HKi3vJw7B69AOqK9xY0wBYM/IsbNirkbgjwSwc7WgiaX2gDJpT8nAAPVgj21QDWT3+GvPhHhLuTm6Ks0FfCF0EAwoYUwlwj3IOXb9yKXBiAxaOn7F3AUDxAizCkCRWyQjIqHfpjoNjEUDoWtNF1M9UMFhobPPOwiNLLTD5VAPtbK13KQDwfbcl7iZ2iGBZSKsjE4FCMBgAAHJwkVRBHITVRFjyb11CPFSUfIJAqKMQLIjEybshpcGI2rV7ClHl419IOFoB22BqINanpT7qO2b+MC4eFuQYcXdB3YJfRjHiUeQHGAhbshV7IcJAT5oKBVkGNEijUxDglkRwYgkCVTPjRtnKcfIWzo4yl5AjwYKw2tQIRaNUEgKCpU+OzUtb7YhHxAwJgom04AwC1/eGdoh7vkNlsk+rF8ANBBzpEnwsHxmqIexWAoMCDOu3nLHArc4H7evHBROxBUbl9Mpr7u9I3hQJUvvzMfF+ijkH/O4GDAAvMRqOCCDDaISCAAOw==\" width=\"96\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"130\" height=\"46\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhXwAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Ojo6kDpmOjpmZjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmZmZmkGZmtmaQkGaQ22a222a2/5A6AJA6OpBmAJBmOpCQZpCQkJCQtpC225C2/5Db/7ZmALZmOraQZraQkLa2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEIALAAAAABfAB8AAAf+gEKCg4SFhoeIiYqLjI2Oj5CRkpOHOgCXASaUm5ydhDoCMJ6jpJEnDqWpqohAEJqrsKsxBDmxtqRBHai3vJw9B69CPKK9xY0xBYNBI8bNirkcgj4Twc7WgieX2gDJpUEoAAPVgj+1QjecKK8+EuEv5OboqzUW74XQQjGhhTGXCfaTaCDQlGuDEBq08vkDOMpHiBHmFIEiNmgGxUNBTnRD5MOFB009EtQK8lGIxVRBVGRg+OzDLkInNwVhQVKTjoRCTkSLOQjIg21AL+0zROMCS0XZGhySoQBAAIOSbOSomW/jKSFMnUL19CPFSkfIIgqSQeJgpkg+3lFFNugqWbOv4zo5/GpopqAeBqINmijEp95H2bYVuGlOJ1+/GOVRSmtIx1m8HHIl21FCEJAKYgVJXkQ15MiPlC1jPjQtbqcgInDkG2qZwrsYLw2t4Fwyl4aDtIC4zhebEJAIFxMFDtpbMwh3hnq0K96zhSK8l1CxQy5EOQDmgnRsvKboR7EYCwyI405ec4cCObSXJ/9blOf11whXhR8fFT76zoBgyIcTfzMdBjCQmX8EFmjggYkEAgA7\" width=\"96\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td rowspan=\"2\" width=\"119\" height=\"130\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhCQAOAPQAAAAAAAA6kABmtjo6kDqQ22YAAGYAOmYAZmY6kGa2/5A6AJA6OpDb/7ZmALa2tra2/7b//9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAJAA4AAAUu4CWOZGlWBQAEEVkdkCkJ5tUkp8HIrNkQI4fIsthdKg/RZNCiICIWhWoKrFlHIQA7\" width=\"10\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">：플랜지의 고정점</p>\t<p>   간 거리</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhBgAOAPQAAABmtjoAZjpmkDqQ22Y6AGY6kGZmZma2/5BmZpDb/7ZmALZmOrbb/7b//9uQOtuQZtv///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAGAA4AAAUr4CWOIkVez0E+yWghzVgZBCBOAbO00XDtF4cKyKoUIBdJwuETKQTIk/QSAgA7\" width=\"7\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">：압축플랜지 폭</p>\t</td></tr><tr>\t<td width=\"130\" height=\"83\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhWAAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmZjpmkDpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6kGZmZmZmkGZmtmaQkGaQtma2/5A6AJBmAJBmOpBmZpCQZpCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQOraQZraQkLaQtra227a2/7bb/7b//9uQOtuQkNu2Ztu2kNvbttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAABYAB8AAAf+gEGCg4SFhoeIiYqLjI2Oj5CRkpOUiDkAmAEllZydkTkCMJ6jpIomDqWpqkE/EJursJ0xBDixtpNAG6i3vI88B69BO6K9xYYxBYNAIcbNyhsagj0Twc1AJwAD1YTYDJUmmOEAyaQzBtkvgjaHudExoYVAKy88CMSHPigJtbA0FemFeFzAASRFqFziyBECdU8QioaGgMyYkIGfqh4fQlgslEMTK1c/XAySAREIh12DeCTokG1bjQ4LAKqSh0Emo1bVdGwD540jAFQzaA2a1mCjoR8PxCnFBK/QDAs2G8VAyUoEImQbGbJ6EI1QDw8KRsDyoaJmIx5WCaGoBqSFIB6QBroK0toOEY0JF27AwmgWUQ+xhH5QyOoRroZcyeqJqpsICAujhICsq9QjqjQSgnTOFaoMhN53DXMB5Uxp2jZPcMM1nWUUCMsBln9IQNfpRwSIiMAt/flIRwZnHBUCHx5DgQFtw50hxpFDeHJetkWphPwcVg6hyKoXy4GKsfZbPy4EYf29Vw4DC6iXX8++vaNAADs=\" width=\"89\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t<p><img src=\"data:image/gif;base64,R0lGODlhfQAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Ojo6kDpmOjpmZjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQkLa227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAAB9AB8AAAf+gEGCg4SFhoeIiYqHPyyLj5CRhj0lkpaXlzMwmJydKzidoaJAIok5AKgBJqKhOqussJI8laYCm7GcPyO4vIoyr4gnD72cKqDEyIIpt4wRwMmQv9DEQCDHhzEE19OLORrcvDwOiUAbw+CPPBjoseqJPAfAO8zsgz8X9azeiTEFg6T5Cv2wsC2gpRjfDpVL2IPCs4DVjgFBAWDAM4rjgvg4ZkMUioeDMBJCeOgEqpMA/LGaWBGkIJGEgHTYtDBIDFtBgKx4wQPBphioFLwIRSMBSJ08fQ6Sxq7mTXo5d/akJxNqDpzLCmli1cMFB5BZDX00GOQq1LCGqsb0MIyHgg/+LQVtDQWEBZCvhdzCtUhoLES2ed/GjTlzkMmMp4bR0BZExgIAATIQ4mEA5UnGg2rguPswcZDF1/wK+gHBsmmcgiibBoC50GFDnkEThtoPh9kgpL/JIPFZ1aUeQzkXup07pEtwtQkRh5BQkNq6qQ1ouL1wefNIJlGqFER9Q3Om6KAHoXy9+3W1OXyTn5rTuw5aAwtKEl7OH/uagkgiAtIRV/pV5NU3nlL4OVcYECHcYJMt5SimzQ8VDBXDOZwIF5M5n7Wm3yENHYcJggo+daGD28Tn3F5D4TZBRSnysCKFmKgGAIwqsqjcdQJJANUoKBryw4oDpGgPQWTFuA4iOWxlV+Qg4ix5yT38MGAAX0664+R81ii0QQG2KUnWPldKghYhP+g4ngLy5QNemI/k4FIOjPXjZERsRmLlcMMUSJYudUaCoHxQZpNmPa70GYmbh+RgQAODNpWloY+IB6kgPbQw6aWhBAIAOw==\" width=\"127\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"130\" height=\"83\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhWAAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6kDpmOjpmZjpmkDpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmZmZmkGZmtmaQkGaQtma222a2/5A6AJBmAJBmOpBmZpCQZpCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQOraQZraQkLaQtra227bb/7b//9uQOtuQZtuQkNu2Ztu2kNvbttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEMALAAAAABYAB8AAAf+gEOCg4SFhoeIiYqLjI2Oj5CRkpOUiDsAmAEnlZydkTsCMZ6jpIooDqWpqkNBEJursJ0yBDqxtpNCHai3vI8+B69DPaK9xYYyBYNCI8bNyh0cgj8Twc1CKQAD1YJAtUM4lSiY4wDJpDUG2TDc3uCCudEyoYUymAjriUAqCN6rNhb4CPnAoEPIinn1ANw7BIrYIBoODwmpMUFDv1Q/Qoy4SGiHJlauhkBMJMTDLkIjD934sCBgKiEtMrhc1GpTSkPiGByakQBAgA2EpjXgWCjIA3JIMc0rVOPCTEYydvH0CfRYAY4zSgyp8TEoCAVaVwFhIbORDxKDsm7tKuSFIB+fBqINasjqgVxDNiZgyAErY1lEP8IOoWtUrsdNcDnkSsbDhKAgFYgSEuJC8jt3lH48HfLD8RAeJxo/jvxOBF95EYNQWBe107RtnuCOC6Wa9ckhQj6oM+RDAoDblIJEiJhIXNLfjnojdzbXHPPnQ2QoMKANurUOV3c4t85LuCgf/Lj32kEr+nbxsXaggoe+O4bo5dvf2mFggWX5+PPrTxQIADs=\" width=\"89\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t<p><img src=\"data:image/gif;base64,R0lGODlhfQAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6kDpmOjpmZjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmZmZmtmaQ22a222a2/5A6AJA6ZpBmAJBmOpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQkLa227a2/7bb/7b//9uQOtuQZtuQkNu2Ztvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAACH5BAAAAD0ALAAAAAB9AB8AAAb+wJ5wSCwaj8ik8rhTLZ/QqDE3klqvV1gLy+2maN2wmAdK1gDoAEkctq3ZcCmuahZs49xdCM9Xvt5IJQ19XChghIhCJ3dMD4CJUH+QhDweh0cuBJeTSzUZnHw4DEk8GoOgTzgXqHGqSTgHgDeMrEM7FrVsnkkuBUNkuUU7FJvBVi6fR6XJORKPwZWHPCYAA287EdUsQjqHMlzdQt9F4T3jQshHJWjsAL5s09XPPeXnQjwbW8s9LnalGD1eaOKHBsE2LC4KHiSSEIBBIpJY7etHi6DDhffyFalhp8bAHY56aBEzEknJIibmoeJY8WQRfLR4cBjkEcw+l1hwEtHZI6X+MZmndlb8pVHIulE9WPbY4WDQiwQAAgAcgsNAO3YDhzyNOhUiVKlEfNpycLWsHapWy2YtcvTIVrBEYBbpReMfwU8vRPSIoQZL3r19IerlC0hsMLpF/hKOq5GHkx5VP+XItiCfUqbJpFx2kDnpWcxaVSZyLCQykc2d5dboGxnkGlc26Awr9iS2kNmlfNleSmxIOiQ87OlibSBD7h67ZzPW92EGv7MnKlRYtXTCNhdBpeywzi979evZfx9pJhoLj+bPaW0HL6x3Dx4dtL3K5l0O/SM47p/uLAzC0DDwyVdEfgDUp5wxWLiCRA3vIDggUg5acQsvChhgTYSlUYdhFNFRKKNBATQwuOEuG0qxCBP+QYYAbblEVCIUNahUEz8NItjhi1AouNEg+0SoB44cfkDbhJmwWIsbQEYR4xE1GLCAkRJZkiQUpE05RA4rWKllGEEAADs=\" width=\"127\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"130\" height=\"83\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhWAAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6kDpmOjpmZjpmkDpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmZmZmkGZmtmaQkGaQtma222a2/5A6AJBmAJBmOpBmZpCQZpCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQOraQZraQkLaQtra227bb/7b//9uQOtuQZtuQkNu2Ztu2kNvbttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEMALAAAAABYAB8AAAf+gEOCg4SFhoeIiYqLjI2Oj5CRkpOUiDsAmAEnlZydkTsCMZ6jpIooDqWpqkNBEJursJ0yBDqxtpNCHai3vI8+B69DPaK9xYYyBYNCI8bNyh0cgj8Twc1CKQAD1YJAtUM4lSiY4wDJpDUG2TDc3uCCudEyoYUymAjriUAqCN6rNhb4CPnAoEPIinn1ANw7BIrYIBoODwmpMUFDv1Q/Qoy4SGiHJlauhkBMJMTDLkIjD934sCBgKiEtMrhc1GpTSkPiGByakQBAgA2EpjXgWCjIA3JIMc0rVOPCTEYydvH0CfRYAY4zSgyp8TEoCAVaVwFhIbORDxKDsm7tKuSFIB+fBqINasjqgVxDNiZgyAErY1lEP8IOoWtUrsdNcDnkSsbDhKAgFYgSEuJC8jt3lH48HfLD8RAeJxo/jvxOBF95EYNQWBe107RtnuCOC6Wa9ckhQj6oM+RDAoDblIJEiJhIXNLfjnojdzbXHPPnQ2QoMKANurUOV3c4t85LuCgf/Lj32kEr+nbxsXaggoe+O4bo5dvf2mFggWX5+PPrTxQIADs=\" width=\"89\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t<p><img src=\"data:image/gif;base64,R0lGODlhfQAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Ojo6kDpmOjpmZjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQkLa227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAAB9AB8AAAf+gEGCg4SFhoeIiYqHPyyLj5CRhj0lkpaXlzMwmJydKzidoaJAIok5AKgBJqKhOqussJI8laYCm7GcPyO4vIoyr4gnD72cKqDEyIIpt4wRwMmQv9DEQCDHhzEE19OLORrcvDwOiUAbw+CPPBjoseqJPAfAO8zsgz8X9azeiTEFg6T5Cv2wsC2gpRjfDpVL2IPCs4DVCqJ41WMCgAEvBPk4ZoPTRkEdD6EAMG4QwkMnUKkE4I8VkJEDHgb5GCTkvw70aCRYVS5DEBragsRApSAjpqEAihoCsuIFDwTMpLFbKNRWIaRKCQHBOaiHCw6reCgABQRsEE2i0CJaJlImuhz+VgmpXco1CBAWZVflCBrkxLe5nAATEvvh4rOJBoF4OCeXnta6NXDkFdqy7zAZCwAE8DmIh4GVKvkKwqyZ86BTw4BeQ2wPAujXcYN4fg1ANKGUJQuR3lxo66YeGSf3GyQsiAwSP1VhOp78GdxNPyAkDMI6YL+CzGkov7kp5coCe4/5fR4k+vRI5M0TIk91tNtkdwV5Pp9e+mN6k8WSBauD1sCCj/QnyH/l+PPUJu0JdV5vNsGSg3LzFRiEgOURdJ9WZpWzjmo/VJBRDIxJ0uGHIdplzk+inYRIQ+9hAkQIN1RFz4hClfhfZ58BMExFFxnFg0UlygIkIxZhtN6ChPx1IIFjoxRmZCE/6mjIjQZh4g4iOVRW5WC5bSkiPojEwIABMXkp3zpmShKRQhsUgEOWae6TpiRsTbmkbGOZKdWckOTgVniUmbkmn5BcWUgOwyRYpS6ERvIigPcIZZtBrjSK3p8GNABgPoNaukh8nnbVQqikhhIIADs=\" width=\"127\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"97\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>전단응력</p>\t<p>(총단면)</p>\t</td>\t<td width=\"130\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>210</p>\t</td>\t<td width=\"130\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>225</p>\t</td>\t<td width=\"130\" height=\"50\" valign=\"middle\" align=\"center\">\t<p>230</p>\t</td>\t<td width=\"119\" height=\"50\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"97\" height=\"30\" valign=\"middle\" align=\"center\">\t<p>지압응력</p>\t</td>\t<td width=\"130\" height=\"30\" valign=\"middle\" align=\"center\">\t<p>520</p>\t</td>\t<td width=\"130\" height=\"30\" valign=\"middle\" align=\"center\">\t<p>550</p>\t</td>\t<td width=\"130\" height=\"30\" valign=\"middle\" align=\"center\">\t<p>570</p>\t</td>\t<td width=\"119\" height=\"30\" valign=\"middle\" align=\"center\">\t<p>강판과 강판</p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"39\" height=\"61\" valign=\"middle\" align=\"center\">\t<p>용접</p>\t<p>강도</p>\t</td>\t<td width=\"58\" height=\"30\" valign=\"middle\" align=\"center\">\t<p>공장</p>\t</td>\t<td width=\"130\" height=\"30\" valign=\"middle\" align=\"center\">\t<p>모재의 100%</p>\t</td>\t<td width=\"130\" height=\"30\" valign=\"middle\" align=\"center\">\t<p>모재의 100%</p>\t</td>\t<td width=\"130\" height=\"30\" valign=\"middle\" align=\"center\">\t<p>모재의 100%</p>\t</td>\t<td width=\"119\" height=\"30\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td></tr><tr>\t<td width=\"58\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>현장</p>\t</td>\t<td width=\"130\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>모재의 90%</p>\t</td>\t<td width=\"130\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>모재의 90%</p>\t</td>\t<td width=\"130\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>모재의 90%</p>\t</td>\t<td width=\"119\" height=\"32\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5456,
+        "sort": 117,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 7,
+        "label": "표 3.3-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.3-1 가시설물에 사용되는 강재의 허용응력 (MPa) (계속)</p></caption><tbody><tr>\t<td colspan=\"2\" width=\"82\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>종류</p>\t</td>\t<td width=\"107\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>STP275S</p>\t</td>\t<td width=\"107\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>STP355S</p>\t</td>\t<td width=\"107\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>STP450S</p>\t</td>\t<td width=\"107\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>STP550S</p>\t</td>\t<td width=\"96\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>비고</p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"82\" height=\"87\" valign=\"middle\" align=\"center\">\t<p>축방향인장</p>\t<p>(순단면)</p>\t<p>휨응력인장</p>\t</td>\t<td width=\"107\" height=\"87\" valign=\"middle\" align=\"center\">\t<p>240</p>\t</td>\t<td width=\"107\" height=\"87\" valign=\"middle\" align=\"center\">\t<p>315</p>\t</td>\t<td width=\"107\" height=\"87\" valign=\"middle\" align=\"center\">\t<p>395</p>\t</td>\t<td width=\"107\" height=\"87\" valign=\"middle\" align=\"center\">\t<p>480</p>\t</td>\t<td width=\"96\" height=\"87\" valign=\"middle\" align=\"center\">\t<p>160×1.5=240</p>\t<p>210×1.5=315</p>\t<p>265×1.5=395</p>\t<p>320×1.5=480</p>\t</td></tr><tr>\t<td rowspan=\"3\" colspan=\"2\" width=\"82\" height=\"297\" valign=\"middle\" align=\"center\">\t<p>축방향압축</p>\t<p>(총단면)</p>\t<p>휨응력압축</p>\t</td>\t<td width=\"107\" height=\"71\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhNQAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6kDqQ22YAAGYAOmY6AGY6OmY6ZmZmZmZmkGZmtmaQkGaQ22a222a2/5A6AJA6OpA6ZpCQZpCQtpCQ25CcZpC225C2/5C8kJDb/7ZmALZmOraQOraQZraQkLaQtra2Zrbb/7b/27b//9uQOtu2Ztu2kNu2ttvbttv/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAADoALAAAAAA1AB8AAAbzQJ1wSCwaj8ikcslsOpEygDQAelqvMoHqyn2GEt3wEreois/GFSGGbgtzFrC7XTuYdbTtnLsqDHMae1xwFUI2DXeCTSFSjQB+eywGAAMoOjYMlJaKOi0Pm0U1ETE5IwIpFhQ6LGt7NhkabFBUOmQfCGw5F4lhOSUSoE1kHK06IYW1Co7LUlpGLBDBTisJfUNfbjckwE41GzrWQtiuGdxJNh1CMsXHnJfSQzYeQjO3ubvuSTWTzagTq8XEMGIGQA4TTJryKQox4ISBAXoULqkBIkSBFw4iSkziAgYGjRsn4go5zSDJJSJ4nTySw4SslTBjKgoCADs=\" width=\"54\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 </p>\t<p>경우 240</p>\t</td>\t<td width=\"107\" height=\"71\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhNQAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmZmZmZmkGaQkGa2/5A6AJA6ZpBmOpCQZpCQtpDb/7ZmALZmOrZmZraQZraQkLaQtra2Zrbb/7b//9uQOtu2Ztu2kNu2ttvbttv/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADIALAAAAAA1AB8AAAbnQJlwSCwaj8ikcslsOpErgDSgeVqvK8Hoyn1uFt3wEtaois9GEkGFbgtjFbC73TqYZaztnEsqDGMZe1xwFEIuD3eCTRtSjQB+gi8diRwACopCJhEiR3AAVG8fIi0Iem4uGBlsSmRmHaZuMR8TnE2tMi0JFwADdzAMjsFSWkYlErVOt1FgJWtuLx60tmUyWVu/hXuo0knKxISYMi7IRrekW+DhrNRwzM5njMIAckbxAGswDrzk6m4bAyEMDIDVL0kLDRsKoIBAsOCREyksNHRoMMEqikxI0MO4hEMijkhigLgIsqRJQUEAADs=\" width=\"54\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 </p>\t<p>경우 315</p>\t</td>\t<td width=\"107\" height=\"71\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhNQAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Ojo6kDqQ22YAAGYAOmY6OmY6ZmZmZmZmkGaQkGa2/5A6AJA6OpA6ZpCQZpCQtpDb/7ZmALZmOrZmZraQZraQkLaQtra2Zra227bb27bb/7b//9uQOtu2Ztu2kNu2ttvbttv/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADIALAAAAAA1AB8AAAbbQJlwSCwaj8ikcslsOpErgDSAeVqvK8Hoyn1mFN3wEsaois9GEkGFbgtjE7C73TqYZaztnEsqDGMXe1xwEkIuDXeCTRlSjQB+gi8biTIalHMmDyJHcABURCUIl2cuFhdsSmR3LiEUo4MdEZtNqm8gMa5DMAuOvVJaRiUQs061MicquK9cLxyytGUyLpvKiqXPSbWMjpDWxEbGb7mK0InVaNu+ckbpazItBlLr5HsZAx8GA3r0TS0YGQVQONjHb8mJFBUIFuyXANVCJyTmPWRiaaKTGB4cWtzIcWEQADs=\" width=\"54\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 </p>\t<p>경우 395</p>\t</td>\t<td width=\"107\" height=\"71\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhNQAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6kDpmkDpmtjqQ22YAAGYAOmY6ZmZmZmZmkGaQkGa2/5A6AJA6ZpBmAJBmOpCQZpCQkJCQtpDb/7ZmALZmOrZmZraQZraQkLaQtra2Zra227bb/7b//9uQOtuQkNu2Ztu2kNu2ttvbttvb/9v/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADMALAAAAAA1AB8AAAbgwJlwSCwaj8ikcslsOp/QqJIEAAQy0izThWBpv0lXAkw2isto4TldXrPB7rc2XhrJoa3xTLYpyGEcWHsbAAOCRFRVihFRJw4iRzISVliSjCQCdmkvFhheSjEMh0ItmWUyHhCQTaGjMhQKQzELirW1pkUmD6tOrUMaAHpoMB2qrKJFJAWfmxbGSb4yIWoGjHcvvEa+LVczLtV3TNEXKjOYml/AtlWxR+oABCwyFYXZ4WkaAyAGA+j3Sy4yaCiQooG/f0lQrJhwECHAA8wcMiHRTmKTDaMsJpHxIaLGjyDvBAEAOw==\" width=\"54\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">일 </p>\t<p>경우 480</p>\t</td>\t<td rowspan=\"3\" width=\"96\" height=\"297\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhCQAOAPQAAAAAAAA6kABmtjo6kDqQ22YAAGYAOmYAZmY6kGa2/5A6AJA6OpDb/7ZmALa2tra2/7b//9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAJAA4AAAUu4CWOZGlWBQAEEVkdkCkJ5tUkp8HIrNkQI4fIsthdKg/RZNCiICIWhWoKrFlHIQA7\" width=\"10\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">(mm)：유효</p>\t<p>좌굴장</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhBgAOAPQAAABmtjoAAGYAOmZmtma2/5BmkJCQZpC2/5Db/7ZmZra2/7b//9uQZtu2Ztu2ttvb29v////btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAGAA4AAAUfICWOZGmeoyQYAUE5DcAc1MMgZLKMUwGlA1JEgTqFAAA7\" width=\"7\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">(mm)：단면</p>\t<p>2차반경</p>\t</td></tr><tr>\t<td width=\"107\" height=\"102\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhUgAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjJRMToAADoAOjo6kDpmZjpmkDqQtjqQ21hmOmYAAGYAOmY6AGY6OmY6ZmZmZmZmkGZmtmaBZmaQkGaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmZpCQZpCQtpCQ25C225C2/5C8kJDb/7ZmALZmOrZmZraQOraQZraQkLaQtra2Zrbb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttvb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEQALAAAAABSAB8AAAf+gESCg4SFhoeIiYqLjI2Oj5CRkpOKPACXASiUm5yOPAIynaKjhykNpKikQhCaqa6bMwQ7r7SRQx2ntbqNPwitRD6hu8OEMwWDQyPEy0S3HIJAEr/MRDUHAAMx0BHY2pIpl+EAx6hC3NlEQOfeRD8WO0MsoLcb1bKJQSsJs642FOyE6BGhQUBHh3o17hHhkYnIKhQ/9jXzME3QkBoSMvBDBUTEiI2GeNxbdULiEIqGHorkl+LZIBwgFgAcNcQFhpmHVjbrcEFhS0MzThkbZGpQNAYgCQl5IK7pJVCGalTAiehTqKUGyBEpSugHCUFDBXE1GkJBCVdBWtxcJHAGAAeDWsemOytI51aXhmxIsJDDVce1iNQBWPABhk+8QEwI6gHRJMpEQ14kJQWE6sN2GiLOOtnqx7WnMm5psDeZWqIVFCiMFk1akWB0xMA5BZCL0WuqpnPXSjEAxoEBwnTT+oEiRQEcE4ILd3VDxwfly4dLjK4rKPVdKipeRxW59Pbv4MMPCgQAOw==\" width=\"84\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t<p>일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhagAdAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6kDpmtjqQkDqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmkGZmtmaQ22a222a2/5A6AJA6OpBmOpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLaQtra2tra2/7bbtrbb/7b//9uQOtuQZtuQkNu2Ztu2ttvbkNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAACH5BAAAADsALAAAAABqAB0AAAb+wJ1wSCwaj8jkUbdROp9QmwdKrVJvU6sWStp6vazUMbcAAAiyLzWsbjt1mvTRdpC7ndK7vpjjJFUKe045EoKCeUsXH4ZJOhl2jGozFUh0kJFEImKYaiuLR4BDLpeMbJxfmomfOSanQp6uTzBCs0KpRpY7Nw+bp5NEKgABE0Q5HUIzBgEUWy/HRDoWAAOfO7dD0WbagWrBw8jKzEO/QjbENgaUQiGBOQ8oNw7VT2QA3NhN0I+u5jvoFe7gyRunbscMNDtAcKvRItAMbioKUnlYhEnFfb4QKqS4I+K4e9gU7dBhgmKojiChcMSGwQAABEIckcKkQ9HJkwZT7qDxqUTaTpRCcM7QRlTiT30ybiygJPPLUKJmjA7hCbTq0SE3UAipIcYkRJ1OViLTyBSjkHpQtQnoZSVr0K8EieCIsYMVCKIFOHq0Inbnp1vXOM2tWxJiQXL+XAqrFipgvHkquUUDGEGGjUK22EZCZybAB8cDkUktchdAAYPhrGQDsJZIMoSZYxlJtowILNlWbuNWonv3E8S+jwQOngSRkWgJGnh21ZT4ID9HapxgABkTIedQRsyEYQOmbOPYk5gysjfW+PCVshgJUR1TF/RO3vOBMJMRePj4j+Con79/kSAAOw==\" width=\"107\" height=\"28\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"107\" height=\"102\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhUgAfAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6ADo6Zjo6kDpmZjpmkDpmtjqQtjqQ22YAAGYAOmY6AGY6OmY6ZmZmZmZmkGZmtmaBZmaQkGaQtmaQ22adkGa222a2/5A6AJA6OpA6ZpBmOpBmZpCQZpCQtpCQ25C225Db/7ZmALZmOrZmZraQZraQkLaQtra2Zra227bbkLbb/7b/27b//7yQOtuQOtuQkNu2Ztu2kNu2ttvbttvb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEkALAAAAABSAB8AAAf+gEmCg4SFhoeIiYqLjI2Oj5CRkpOKQQCXASqUm5yOQQI2naKjhysRpKikRxOaqa6bOAVAr7SRSCGntbqNRAitSUOhu8OEOAaDSCfEy0m3IIJFFb/MgkYt00ksAA+TK5ffAMeoRRQABJrk5jTIIQCZyC80RAnCh9YMs647F+uGSCPriCyoEeJDEh2yCK361aLeISQ6KnDIN87ECYqGjqAYlGMGvmYipi0URIQBCXPYepBw0A8VkhcbWiZCImIiEhlBEiZZ8WzQyCSWTiGkGA0CRoUSwCm9BMqQDgwyF90aMNHYIFMKWQn6FOqIhJ6DipRokMKVERcxGe2gQa7ADXGHO3MJ+sm1WQiwhXZUyODDVRETaQ8R6YmEhQadPLO2mhfKmSIkMI6SKhJ1K9ggHj7SFKnVrlCd1BgJXFfEAsEOB0F7u5TwSDkClWmtXiq3kBAFKJOkgx26N7UVBGIcIODQtysiKlYY6GGhuHFUPH6McP78+MfqunDUxv6KBTbuLiODH0++vKJAADs=\" width=\"84\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t<p>일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhaAAdAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6kDpmkDpmtjqQkDqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmkGZmtmaQ22a222a2/5A6AJA6OpBmOpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLaQtra2/7bbtrbb/7b//9uQOtuQZtuQkNu2Ztu2ttvbkNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAACH5BAAAAD0ALAAAAABoAB0AAAb+wJ5wSCwaj8hkkedROp9QXAhKrT5zU6sWetp6ta7VcdcAAAi0LzWsbid5nfQRh5C7ndK7frj7JFkMe047FYJ6eUc8GiKGbxx2jV41GEh0kJFEJWKYXi2MR4BDMJeNbJxbmomLQjsop0KeVTJCs5ipRpY9ORKbp5NEOxABFkMxID08GQADn1QsAMNFz9FCt0PJZtmBbcZEOAZoQ79COQ8rOAciZACBTFs4xN+UQvA98siPr+vb9iCKzeOAmRNSo10TLTXCjeCXMM1CfKQiFWRVyMjEIi+IEWy3wQAABVv+GRHJI9+rHhdrJBB2gchFVg0CtNwIMUeDeSiz6cQpxEbdMyI+hZSMCKWGzmw8xW1jIUDFjggA+fVIY3PexIY9RiR1kkPFka7XTMI8qlNALysXWRQQolUcThZokm2bGLSHtSc6ZvRoRSTvXld2z3JKuTYrzoA5/FSluYMCDRwVo3iEJiIZhm9mAny6O3jbjgcqckB1600YMWwAzNYAR/QO50aozaI0IJNIrJNVbuN2onu3k4C+kbwOjivLyAwLhP2MNJT4ID9HbqRwsBwTIedPTESUgQMkbkTYk5gywmIrpvHh5xgvQqI6pi7plcAvsmNCa0Hg4+tHouP+/v9DBAEAOw==\" width=\"106\" height=\"28\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"107\" height=\"102\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhRgAdAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6kDpmtjqQkDqQ22YAAGYAOmY6AGY6ZmY6kGaQtmaQ22a2/5A6AJA6OpBmkJCQkJCQtpC225C2/5Db/7ZmALZmOraQZraQkLa2tra227a2/7bbkLbbtrbb27bb/7b//9uQOtu2Ztu2kNu2ttvbkNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADYALAAAAABGAB0AAAb+QJtwSCwaj8ikcslsOp/QKJSmAAAGLal2i4wZstyw2JQQm7e1SebMhnrB7biSPEzB5fj02kYD4f9CbzYyDSViNSxNKhdFNIxNNRJWk2VQK0ZUkwQmAAEQQ5mVQxuiRJNsMxwWd0IyJEIwIZ8xBRFELqUwJ6WnbCgUI0wyGC5YNhqluEM1IMo2Vm01HA+sSDUWRHq3oh42zkK9ZigVwUsun0Mve0POMIbfptB8VZP1AAKGSTUdFa9IGrZa+dsmREM9AoCKzPhwRJuNGYn6ECRCJyEkNTZoWQmwJ5IVfAWtIJSTyZ4xiyhTqlxZJBICBhxZnoEhYsE6mWJWxDiAs40SiYA9zWy4GXQLDQfViipdqjIIADs=\" width=\"72\" height=\"28\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t<p>일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhaAAdAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Zjo6kDpmtjqQkDqQvDqQ22YAAGYAOmYAZmY6AGY6ZmY6kGZmOmZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpBmOpBmkJCQZpCQkJCQtpCQ25CcZpC225C2/5Db25Db/7ZmALZmOrZmZraQkLaQtra2tra2/7bbtrbb/7b//9uQOtuQZtuQkNu2Ztu2ttvbkNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEMALAAAAABoAB0AAAf+gEOCg4SFhoeIiYVCIYqOj5A+JZCUlY8/k5aakCybnpo0MYdBDgAABDqflKGqrYlCIKmHPgmyro6St7qDQSKJMg27jkEWwrq5h0IcJ8avHrbNnjsaiLTQ0YQqotieM8yHwIM2182s3JvaycuCQS7ngt6VOILz2OmG1kM/Etvn04RBIgTAIKiGgQAZhGwAMOAbJRkABhYyiHDQvUEKTWkM1uoGiUJBPg76J+gHhBg+DpzwgQDGjwcmGmnyQdCHAWqCWLp8wEzIs3ekAHAclGLoEJIAT4YbgiKDTEs7UDEduhQFNZ/kou0w2qOG0a2GahCsyqCDAQAKNilzWDUY1nf+gsAKEuJCblyjpCpa++GAwTO+OI9qHBxYEA+HQ/Y6cPtT2mCNhUcObXH0q9FUgIfMMDCAwgipVi39gGFoc+eejdmVeqxRQD+oHHuIsns0sAxUChtYY3RY0MVHQHIMaTdo99Pf3OSiGFxgZOAfvgALWfHhgo4gFXT4KEbJpqkAJxRqmF7dFnJstIcsjVvYh0CChnYYkGrvdbSMAFwLWg6gOTzEcD0ST4ACAkhgIkgdiMh5CuKTiSEKLSCQgca81aAivSDSwws8BUjMhY+skBUOPqQVIDIgJmKOITJExs2KKc7yYCEpUBhNJzEqgiNIE2TVDIo5BokIED4KaWQhgQAAOw==\" width=\"106\" height=\"28\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"107\" height=\"102\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhUQAfAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAZjo6kDpmOjpmZjpmkDpmtjqQtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmkGZmtmaQkGaQtma222a2/5A6AJA6ZpBmAJBmOpBmZpCQZpCQkJCQtpC225C2/5Db/7ZmALZmOrZmZraQZraQkLaQtra2Zra227bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEMALAAAAABRAB8AAAf+gEOCg4SFhoeIiYqLjI2Oj5CRkpOUlZaWMQAAASaXnp+FPgs7oKWfPgymqpaoq66Sra+yjbGztoi1t7qDuTMwu4VAKZ2CQigAA8SRPKlDxgWrx81ApEM4xRybxEIcG0MxAr+HwgjVg5ma6d6QNRUviEIrLz4Hv+gI74NBEMqDPOGFhNCQkMEcqB8hRhg0lELcIF+H9vVz5sEBoRsfFuQrFQ/DxkQ+EHxARgyiIYmETgBoJuiHhAYL9T1IR5MmwEI0LHxUxAOARRoESMlIsEkDIZSFYhQw+AOEAhKqgKjwuOjfryAPvMmASoOTPn7FXAjyYWBdoRoSLuRQhZDqIat5zrrBxWoWKQ+vZM0aEsIi5qcfO8fWi7uhRwlBQSiYQypExFpwDoEp4vYzaJAJ72JYFKRSU1BnIwcEXtW5pk9EQSIgy+dD9WbJsGedGNDCwIDIsU35MHGiwI0JuHODsqGjQ3Dhusshl6V5uSwUE52D4utXuvXr2AUFAgA7\" width=\"82\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t<p>일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhaAAdAPYAAAAAAAAAOgAAZgA6kABmtjoAADoAOjo6kDpmtjqQkDqQ21hmOmYAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmWGZmkGZmtmaQ22a2tma222a2/5A6AJA6OpBmkJCQkJCQtpCQ25CcZpC225C2/5DbtpDb/7ZmALZmOrZmZraQOraQkLaQtra2tra2/7bbtrbb/7b//9uQOtuQZtuQkNu2Ztu2ttvbkNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAABoAB0AAAf+gEGCg4SFhoeIiYVAHoqOj5A8IpCUlY89k5aakCqbnpoyL4c/DAAAAziflKGqrYlAHamHPAeyro6St7qDPx+JMAq7jj8Vwrq5h0AbJMavHLbNnjkZiLTQ0YQnotieMcyHwIM0182s3JvaycuCPyzngt7vmumG1kE9Edvn04Y/IYIzCgSwECSHQAyb/BUyGAChIHqDgGgwRTFYqxr/2D0YSIhfIRPBflDAoWxEBBc9IHyrBJLQj5MpmQF59o4UAIs9HLzgYWClx0E7ZgRDpgOERRjUKgW1KCjHUWozyUVzWuiHzkFUI7LIasICkBvhgoSFBGQrU7FHg0WVV/BskBnsBLGeXdFWUI8VECyEHZuDot+kQehmFbRXLU1pfikC7siUVEPGQEVRzQUExYK0lHZIPls4yFpepRJTFKDP0uBUPRgA/lnCL4F4QXhMeEqpNUUCcgknhbjvKCqJTH8OCpcDAUkTF2Cq1BROYoaXKJcH4c0taw9fqVcvDmIbtwkAHBk6rNS948FB1JtJNEU69sa48FayfQR7vqL69hUJz28oPf9CyBgiUQIbyRfNZ/8h0gsiO7TQgIHYEJOgIylIZQMPCMwX4ISHmGMIUvN5yGE9mRhiAoTYdDJiIipWJYFUzWy44oyF+AAjjTgOEggAOw==\" width=\"106\" height=\"28\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td width=\"107\" height=\"124\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhLwAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6Zjo6kDpmZjpmtjqQtjqQ22YAAGYAOmYAZmY6OmY6ZmY6kGZmOmZmZmZmkGaQtma222a2/5A6AJA6OpA6ZpBmZpBmkJC225Db25Db/7ZmALZmOrZmZra2tra227a2/7bbtrbb/7b//9uQOtu2Ztu2kNu2ttv///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADUALAAAAAAvAB8AAAbkwJpwSCwaj8ikcslsJmcNAIDgclqbs0fqyl2+Ct0wMoQRm4czB+h8flHZ5hBjSIJfaZp1bWayW2MIVTISVX5LNBlSinNtBgFlNS+OkGYrCShKWSgyWjMRmxFbZzQrFB5IX0JkLwpCKpRsLBAWhUMqjHK3rox7UYq/igKiRzIaF0WpNbmMunCytEYxBykxBgzNzWKkB6dJkgMTINi8YSyYSoAuNB0urKqwhkQ0HBQVVZ6bWvFOko/7fogWZBBw7l8SGCccfBihxyCSFjFaOWTyaiITEQ0tHqGxYZhGIzRKfBxJkk0QADs=\" width=\"48\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t<p>일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhZgAyAPYAAAAAAAAAOgAAZgA6ZgA6kABmtigNUSgXUToAADoAOjoAZjo6kDpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZrZmkLaQkLaQtra2Zra227a2/7bb/7b//7z//9uQOtuQZtuQkNu2Ztu2ttvbttvb29v/29v///+2Zv+2kP+2tv/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEQALAAAAABmADIAAAf+gESCQg8AASWCiYqLjI2Oj5CRko8+CAAEOoxCFJmTnp+goZ6bnYqkokAoiI1CEQADL4I/rrCytLGLs6+4urVEvbifp4tBBjGgQxqGq4vJGEQzmM5ENdIaz9WlRNPZ3NbYmKDFx8TGokIQzIo74eglPguZQxvv8dv0ivDy9Pr39fvqJI1jNDCUu0bs5GnIkFCQCYbhiDxcF/FhQ4kQO038VFBRR2HpEAqAQYSQAxkFEpk4mdKhA0UoVbKUGdOlOHPlyIE6yGiaDAAZakqcaTOR0JVHiQ69qTPRx1EhG+liwAHGRYsVM1DUmNFhV4xMCeLcGTVZy4M+LhDpN+/fPRL+Glqy5Wev7dyAkZ4S0SuJpyAaJImgqFBB7TYNarshphYO8OHE1iDrSCY5bM5QJgBobicCEjBbu0p2Bu3r869bofQGOdBUlCAcrhfBju16deuSnGjr3s17mKncvIMLHwX8dydCmpMrX868ufPn0KNLXz5yUPFEvodr3479unVt3MMHz/5dvPnx3nGDP+9aSItPP0YkqnRIU3ry7EU5/qSikwyGLRln33r5fTIECKHwoI4P8i2CH34FesIgQsnVh10Iiszm4H3pRTjJDHgJskN1jKTQCWwadrcehB5GgkJgjKzkCIhE7KDZSxuu2GGLjwzhAYF+LbKDVpA8uCOPjfj+0IAjMkTESFqRGEkgkkka1owGOLJiQZQcTkmlkEQu4kMCzPQAo3pFdvmlJP81ItSBzfyYpo5TngDAkoyYpidqSY7mZpiJJEPkDxIENERVcw7Ykwov+KDAmYeBM9k1jE0qKUJZMkKjIpktF2CgiD4iJSMvUlIXXQDdhekjJ4QoyaGQ5qhoPgt08ApeV32FFVerOtKqa7AmKus6ALyUzSJJJRugjIJUwpyFifxaUiHQkRisqGquUx0hgBKhLE3LZprIDuIqIm0o1zqCn21CVieokFnlmmuvjWyKbqiOsDvsfI8eloFZzZ7qll0C08tIm6Kky0q2gWJZ6V8kUVapxIqTVfaknwd3S5yXaO6LHZ9C+LlnaKeRHMqQ7R3ZsYCSpBghlKIoySWda0a5ZcxWqstwzY34uJ4JA7CAwACxoiwsyzw7Umo+JZhQwA0TxGqvzjQn7cgOAdmQA75xcryyilY7AjOtUwqB4cyzht3MB+DJUG4iCva1s9rjBnRu13KvWAi0dG/zXqArTPmDC5E462TfVgcCADs=\" width=\"103\" height=\"49\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"107\" height=\"124\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhKQAdAPUAAAAAAAAAOgAAZgA6kDoAADo6kDpmtjqQkDqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmkGaQ22a222a2/5A6AJA6OpC2/5Db/7ZmOraQOra2tra2/7bbtrbb/7b//9uQOtuQZtu2Ztu2ttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACwALAAAAAApAB0AAAbBQJZwSCwaj8ikcslUqhIAwIDUrCZRBap1a/QguODhimIJh7Fa89Y7DKXVyXGZpdLAmWhWqtG5xydRgV9gIAQBEEIlhhFhgUgqDyRyKg0cKQxzjVFFKBVCJhYlgx4SfptDFxArIyxsrYOaAEYpGQyIrmxPgbtRAn1DjkedLCsYEriwfkIfcygQokKkykQlBpIXEpSWmNNEFwCHiYvd5OVEKxMHCwGZ5kInGwrt7kIiKAb0R9L5RRfz+SocvOFHsKCRIAA7\" width=\"42\" height=\"28\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t<p>일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhZgAyAPYAAAAAAAAAOgAAZgA6ZgA6kABmtigNUSgXUToAADoAOjo6Ojo6kDpmOjpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmkJCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZrZmkLaQkLaQtra2Zra227a2/7bb27bb/7b//7z//9uQOtuQZtuQkNu2Ztu2ttvbttvb29v/29v///+2Zv+2kP+2tv/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEUALAAAAABmADIAAAf+gEWCQxAAASWCiYqLjI2Oj5CRko8/CAAEO4xDFZmTnp+goZ6bnYqkokEoiI1DEgADMIJArrCytLGLs6+4urVFvbifp4tCBjKgRBuGq4vJGUU0mM5FNtIbz9WlRdPZ3NbYmKDFx8TGokMRzIo84eglPwuZRBzv8dv0ivDy9Pr39fvqJI1jNDCUu0bs5G3QkFCQCYbhijxcF/FhQ4kQO038VFBRR2HpEAqIUYTQgxkFEpk4mdLhA0UoVbKUGdOlOHPlyIE6yGjaDAAaakqcaTOR0JVHiQ69qTPRx1EhG+lq0CHGRYsVNVDUmNFhV4xMCeLcGTVZy4M/MBTpN+/fPRL+G1qy5Wev7dyAkZ4W0SuJp6AaJIugsGBB7bYNarshphYO8OHE1iDvSCY5bM5QJgBobicCEjBbu0p2Bu3r869bofQKOdBUlKAcrhfBju16deuSnGjr3s17mKncvIMLHwX8dydCmpMrX868ufPn0KNLXz5yUPFEvodr3479unVt3MMHz/5dvPnx3nGDP+96SItPQEYkqnRIU3ry7EU5/qSi0wyGLRln33r5fUIECKH0oM4P8i2CH34FesIgQsnVh10Iiszm4H3pRTgJDXgJwkN1jKTQCWwadrcehB5GgkJgjKzkCIhF8KDZSxuu2GGLjxDhAYF+LcKDVpA8uCOPjfz+4IAjM0TESFqRGEkgkkka1swGOLJyQZQcTkmlkEQu8kMCzPgAo3pFdvmlJP81ItSBzfyYpo5enhBiECeSxgtqSY7mZpiJJEMkEBMERERVcw7oiA0KhPgTAAvE4s1k1zBGIA9ZMkKjIpktF2CgiD4ipVQv4MPIfoLcdRdCmS5ip2uHnqlojj210FYjqNaY1VWAJoLpI6+KEmuitC5yw2SmLkIDA4Y8k1RS81mynIWJBIscdCQOK6qaigAhabKK0NCZDYc8G6CMjPzqSLChaOsIfrYt0mlyn9ZYHSFfYcUVq49s2m6ojsRbbE/4mCVIDw2Sompd4PraKky9euIuK9yhEsyMY0NQEMsML1FmqcfZ9PlIm+cciebA+Uj70hB+/uBKlqaZFsqQ7Zk8qiQpRgilKEpySeeaUW7Js5XvVgx0Iz6uZ8IALCAwgKw1RoxyeUc/8qKYJZhQAA4UQO1v0T9X7QgPAd2gA8Bxekm1gGJX+aQ9rGDo86xtN/MBeBw/omBfRtfta0Dsps33ioVQ6/c27wW6wpRAuBBJJZeofTiSgQAAOw==\" width=\"103\" height=\"49\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"107\" height=\"124\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhKQAdAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6kDpmtjqQkDqQ22YAAGYAOmY6AGY6ZmY6kGaQ22a2/5A6AJA6OpCQtpC2/5Db/7ZmALZmOra2/7bbtrbb/7b//9uQOtu2ttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACkALAAAAAApAB0AAAavwJRwSCwaj8ikcslUnhQAwADUrCZJBqp1a+QkuOAhSlIJh7Fa89Y77KTVyXE5dcLAmehUqbHhoj5NKBFRhF9cT4QEKRwAAQ9hhEglGkIjGySPJAUQapFHJRQpIVMpFoZwUUUoE6pknalGIY9EInOIhLgAAn1DnkgWnEOTd3GuQiaAdcRGckKaUQFzy9PU1WaCCAzR1kYjGQvS3EQeJAfiSBzB50UX4et0Dm/v8/RGQQA7\" width=\"42\" height=\"28\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t<p>일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhZgAyAPYAAAAAAAAAOgAAZgA6ZgA6kABmtigNUSgXUToAADoAOjo6kDpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmkJCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2Zra227a2/7bb/7b//7z//9uQOtuQZtuQkNu2Ztu2ttvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEYALAAAAABmADIAAAf+gEaCRA4AASWCiYqLjI2Oj5CRko9ACAAEPIxEE5mTnp+goZ6bnYqkokIoiI1EEAADMIJBrrCytLGLs6+4urVGvbifp4tDBjKgRRmGq4vJF0Y0mM5GNtIZz9WlRtPZ3NbYmKDFx8TGokQPzIo94eglQAqZRRrv8dv0ivDy9Pr39fvqJI1jNDCUu0bs5GXAkFCQCYbhjDxcF/FhQ4kQO038VFBRR2HpEAqIYYRQgxkFEpk4mdJhA0UoVbKUGdOlOHPlyIE6yGjaDAAYakqcaTOR0JVHiQ69qTPRx1EhG+lasCHGRYsVMVDUmNFhV4xMCeLcGTVZy4NALBjpN+/fPRL+GVqy5Wev7dyAkZ4a0SuJp6AaJI2goEBB7bYMarshphYO8OHE1iDzSCY5bM5QJgBobicCEjBbu0p2Bu3r869bofQOOdBUlKAcrhfBju16deuSnGjr3s17mKncvIMLHwX8dydCmpMrX868ufPn0KNLXz5yUPFEvodr3479unVt3MMHz/5dvPnx3nGDP++aiItPQUYkqnRIU3ry7EU5/rSi0wyGLRln33r5fVIECKH4oA4Q8i2CH34FesIgQsnVh10Iiszm4H3pRTgJDXgJ0kN1jKTQCWwadrcehB5GgkJgjKzkCIhG9KDZSxuu2GGLjxThAYF+LdKDVpA8uCOPjQD+wYAjM0TESFqRGEkgkkka1kwGOLJSQZQcTkmlkEQuAkQCzPwAo3pFdvmlJP81ItSBzfyYpo7rFXHCKyHaYElpqJ0WWpKjuRlmIskQGUQEARVR1ZwDXqnVDCTOV8FkKozkzWTXMEZgD1kyQqMimS0XIKGLPiLlIyOeWWN97tx1F0KdLnJCiJIoqmqOjTZSBAexOpjOVV9tJGSviczqmq2M4hojAEtCMsNLSSU1nyXLWVjsKshBRyKypqrJZAFTAoGhEdEGKCMjnD5irCjcOoKfbc28txYCgyYSRKDAAgvrI5+G0m4j8CqbSA/1VYKBWfY2qKCrdeGDLrGCtMluqe6hekvoBzqQS6JjlSRn6WKKVfZkoIxIbNCRaApMaAd/EkEyI6aZFsqQ7aF8qiQpRgilKEpySeeaUW7Js5UV/wx0j3IuYsIALSAwwK00Jyvg0Y+8KGYJJhSAgwS39lt0rlQjFNANO1Acp5flqRx2PkQL0g8r40qt4tq6fgDes48o2JfFdK8T0Lo9JS33IIVY2/c28gpSBAtTBvFCJB07eXjYgQAAOw==\" width=\"103\" height=\"49\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"107\" height=\"124\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhKQAdAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADpmkDpmtjqQkDqQ22YAAGYAOmYAZmY6AGY6OmY6kGZmkGZmtma222a2/5A6AJA6OpBmOpBmkJCQtpC225Db/7ZmALZmOrZmZraQOrbbtrbb/7b//9uQOtuQttvb29v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC4ALAAAAAApAB0AAAa9QJdwSCwaj8ikcslEjgAARXO6HFGoWOc1yx1au+AvmCseY8vmaZlkSrtKQnjx2/ogwCoDwdSqAAYbc1CDW0WDSSoaLRYbLRluLodELBJEjpBDUEMnBw4BEy4tFwYAd2OSXgIhLA+NGCYrC1csC4O2UAIiRKhzBUIcFCd7LsCYm77EFCiBLh66xi4sDSErrSwRJiqV0EInBp/dem3c5NB9CZ7M5UIpIAzq63EqpvFEaPUuHfD1LBDj+AADFgkCADs=\" width=\"42\" height=\"28\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t<p>일 경우</p>\t<p><img src=\"data:image/gif;base64,R0lGODlhZgAyAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtigNUSgXUToAADoAOjo6ADo6Zjo6kDpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmkJCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2Zra227a2/7bb/7b//7z//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29v/29v///+2Zv+2kP+2tv/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEgALAAAAABmADIAAAf+gEiCRhEAASeCiYqLjI2Oj5CRko9CCQAFPoxGFpmTnp+goZ6bnYqkokQqiI1GEwAEMoJDrrCytLGLs6+4urVIvbifp4tFBzSgRx2Gq4vJG0g2mM5IONIdz9WlSNPZ3NbYmKDFx8TGokYSzIo/4egnQg2ZRx7v8dv0ivDy9Pr39fvqJI1jNDCUu0bs5HXgkFAQCobhkDxcF/FhQ4kQO038VFBRR2HpEAqYgYQQhBoGEqE4mdIhBEUoVbKUGdOlOHPlyIE6yGhaDQAcakqcaTOR0JVHiQ69qTPRx1EhG+ly8GHGRYsVOVDUmNFhV4xMCeLcGTVZy4NCNCDpN+/fPRP+HVqy5Wev7dyAkZ4i0SuJp6AbJJGouHBB7bYOarshphYO8OHE1iD7SCY5bM5QKABobkcCEjBbu0p2Bu3r869bofQWQdBUlCAerhfBju16deuSnGjr3s17mKncvIMLHwX8dydCmpMrX868ufPn0KNLXz5yUPFEvodr3479unVt3MMHz/5dvPnx3nGDP+/aCIxPQ0okqnRIU3ry7EU5/tSiUw2GLRln33r5fXKECKEAoY4Q8i2CH34FesIgQsnVh90Iiszm4H3pRTiJDXgJ8kN1jKzQCWwadrcehB5GokJgjKzkCIhI/KDZSxuu2GGLjxwBAoF+LfKDVpA8uCOPjQj+8YAjNUTESFqRGEkgkkka1kwHOLKCQZQcTkmlkEQuIoQCzAQBo3pFdvmlJP81ItSBzfyYpo7r4WCJL7nQsopppj05mpthJpIMkUNQENARVc05oJgYTMYCiYJ+EIsQDMzgzWTXMEbgD1kyQqMimS0XYKRnLpqjkPUFWRKGf81w110IdbpICiFKgmipp+bKSlSCepDBZO9d9dVGQsqqCK2u3aqorozUYOxhA/yKRFJJzWfJchYmgmxJhUBHorKPSOmIEKwykoMMs2BCbYAyMsLpI9uGAq4j+Nkm1Z9iEnlECsP2G+sjn8qb6CP2MitLgwqaJWKYQ75aFz7uPitIm6KmzMuKmvlcCwCJjlEayxAVWLqYYpX5+QjFBh2JpsH0/gnEAq/sidppoYkyZHsqiytJihFCKYqSXNK5ZpRb/mwlvRgP7YiP66FAwAsJEIDrzcsKqPQjL4p5AgoG7BCyp7WqaOrVCAWkQw8D9yRn1WKTXeWT9rBSbrhJu63IESGA5+wjCvZVt92J/BBQvHF62bYphWQL+DbvCerClEPEEEkllxi+OJKBAAA7\" width=\"103\" height=\"49\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"82\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>전단응력</p>\t<p>(총단면)</p>\t</td>\t<td width=\"107\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>135</p>\t</td>\t<td width=\"107\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>180</p>\t</td>\t<td width=\"107\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>225</p>\t</td>\t<td width=\"107\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>275</p>\t</td>\t<td width=\"96\" height=\"56\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"82\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>지압응력</p>\t</td>\t<td width=\"107\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>360</p>\t</td>\t<td width=\"107\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>465</p>\t</td>\t<td width=\"107\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>550</p>\t</td>\t<td width=\"107\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>690</p>\t</td>\t<td width=\"96\" height=\"32\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"35\" height=\"67\" valign=\"middle\" align=\"center\">\t<p>용접</p>\t<p>강도</p>\t</td>\t<td width=\"47\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>공장</p>\t</td>\t<td width=\"107\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>모재의 100%</p>\t</td>\t<td width=\"107\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>모재의 100%</p>\t</td>\t<td width=\"107\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>모재의 100%</p>\t</td>\t<td width=\"107\" height=\"32\" valign=\"middle\" align=\"center\">\t<p>모재의 100%</p>\t</td>\t<td width=\"96\" height=\"32\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td></tr><tr>\t<td width=\"47\" height=\"36\" valign=\"middle\" align=\"center\">\t<p>현장</p>\t</td>\t<td width=\"107\" height=\"36\" valign=\"middle\" align=\"center\">\t<p>모재의 90%</p>\t</td>\t<td width=\"107\" height=\"36\" valign=\"middle\" align=\"center\">\t<p>모재의 90%</p>\t</td>\t<td width=\"107\" height=\"36\" valign=\"middle\" align=\"center\">\t<p>모재의 90%</p>\t</td>\t<td width=\"107\" height=\"36\" valign=\"middle\" align=\"center\">\t<p>모재의 90%</p>\t</td>\t<td width=\"96\" height=\"36\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5456,
+        "sort": 118,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>주) 1) 엄지말뚝으로 H형강을 사용할 경우에는 KS F 4603(SHP)의 적합한 제품을 사용한다(참조. KCS 21 30 00).</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 119,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "2)",
+        "contents": "<p>    2) 그 외 강재와 두께에 따른 강도감소에 대한 허용응력기준은 강구조 설계기준(허용응력설계법)을 참조한다(KDS 14 30 05).</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 120,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "3)",
+        "contents": "<p>    3) 강관(STP)에 작용하는 휨응력의 경우 인장과 압축영역에서의 각 허용응력은 이 표의 축방향인장과 축방향압축 허용값으로 산정한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 121,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 강널말뚝</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 122,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "가.",
+        "contents": "<p>가. 강널말뚝의 허용응력은 표 3.3-2의 값 이하로 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 123,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 7,
+        "label": "표 3.3-2",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.3-2 강널말뚝의 허용응력(MPa)</p></caption><tbody><tr>\t<td width=\"148\" height=\"54\" valign=\"middle\" align=\"center\">\t<p>종류</p>\t</td>\t<td width=\"148\" height=\"54\" valign=\"middle\" align=\"center\">\t<p>SY300</p>\t<p>SY300W</p>\t</td>\t<td width=\"148\" height=\"54\" valign=\"middle\" align=\"center\">\t<p>SY400</p>\t<p>SY400W</p>\t</td>\t<td width=\"148\" height=\"54\" valign=\"middle\" align=\"center\">\t<p>비고</p>\t</td></tr><tr>\t<td width=\"148\" height=\"28\" valign=\"middle\" align=\"center\">\t<p>휨인장응력</p>\t</td>\t<td width=\"148\" height=\"28\" valign=\"middle\" align=\"center\">\t<p>180</p>\t</td>\t<td width=\"148\" height=\"28\" valign=\"middle\" align=\"center\">\t<p>240</p>\t</td>\t<td rowspan=\"3\" width=\"148\" height=\"85\" valign=\"middle\" align=\"center\">\t<p>Type-W : 용접용</p>\t</td></tr><tr>\t<td width=\"148\" height=\"28\" valign=\"middle\" align=\"center\">\t<p>휨압축응력</p>\t</td>\t<td width=\"148\" height=\"28\" valign=\"middle\" align=\"center\">\t<p>180</p>\t</td>\t<td width=\"148\" height=\"28\" valign=\"middle\" align=\"center\">\t<p>240</p>\t</td></tr><tr>\t<td width=\"148\" height=\"28\" valign=\"middle\" align=\"center\">\t<p>전단응력</p>\t</td>\t<td width=\"148\" height=\"28\" valign=\"middle\" align=\"center\">\t<p>100</p>\t</td>\t<td width=\"148\" height=\"28\" valign=\"middle\" align=\"center\">\t<p>135</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5456,
+        "sort": 124,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 현장의 자재수급계획에 따라 설계와 다르게 재사용 강재를 사용할 경우 재사용 강재의 허용응력은 책임기술인이 반복사용 정도, 부식 정도, 변형상태, 볼트구멍 등을 종합적으로 검토하여 강재종류별, 용도별로 응력 보정계수를 설정하여 사용한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 125,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 노면 복공 현장에 사용되는 구조용 형강은 KCS 21 45 10과 KS F 4603(SHP)에 적합하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 126,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ KS D 3503 강재(SS) 적용은 비용접부재로 한정한다. 다만, 판 두께 22mm 이하의 가설자재로 사용하는 경우에는 용접 시공시험을 통해 용접성에 문제가 없음을 확인한 후 사용 가능하다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 127,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 목재의 허용응력</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 128,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 목재의 섬유방향의 허용 휨응력, 허용 압축응력 및 허용 전단응력의 값은 표 3.3-3의 목재 허용응력 값 이하로 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 129,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "표 3.3-3",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.3-3 목재의 허용응력 (일반의 경우)</p></caption><tbody><tr>\t<td rowspan=\"2\" colspan=\"2\" width=\"380\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>목재의 종류</p>\t</td>\t<td colspan=\"3\" width=\"203\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>허용응력(MPa)</p>\t</td></tr><tr>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>휨</p>\t</td>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>압축</p>\t</td>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>전단</p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"81\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>침엽수</p>\t</td>\t<td width=\"300\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>소나무,해송,낙엽송,노송나무,솔송나무,미송</p>\t</td>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>9</p>\t</td>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>8</p>\t</td>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>0.7</p>\t</td></tr><tr>\t<td width=\"300\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>삼나무,가문비나무,미삼나무,전나무</p>\t</td>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>7</p>\t</td>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>6</p>\t</td>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>0.5</p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"81\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>활엽수</p>\t</td>\t<td width=\"300\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>참나무</p>\t</td>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>13</p>\t</td>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>9</p>\t</td>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>1.4</p>\t</td></tr><tr>\t<td width=\"300\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>밤나무, 느티나무, 졸참나무, 너도밤나무</p>\t</td>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>10</p>\t</td>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>7</p>\t</td>\t<td width=\"68\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>1.0</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5456,
+        "sort": 130,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 목재의 섬유방향의 허용 좌굴응력의 값은 식 (3.3-5) 또는 식 (3.3-6)으로 산출한 값 이하로 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 131,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhQwATAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6kDpmtjqQ22YAAGYAOmY6AGY6ZmY6kGZmZmZmkGaQtmaQ22a2/5A6AJA6OpA6ZpBmZpBmkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQOraQZra2Zra2/7bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttu229vbkNvbttvb/9v/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAACH5BAAAADsALAAAAABDABMAAAb+wJ1wSCyqPsWkcslsOpc6De1JrVJVgAXTRrF6d7cLcpdzAAgoYfmcJqYqzONXqCNJTkqdZRBA6rssCTR/O4FTdBhtSVGHVjcZE41LOQ1INoI7OmKXU5pjZBCSRFxCIAUlB2hLLREdVZRINQWHIBWytHBCNlpLcjcnpjEPikOBeFawOzUGQyALy828O29QUjsuM2JNj5GvldPMpQsp4TvOQyGfRaRqoU86LRquTsnQ4vbmvDnuOyOzQ3KE4KOCg8QEGUzq/dNja6GFXDYU3DBBZsMQRkOozWmSzAaCNJ48gtSmbMGKNDY8DGGXieRGJSAAyCwww4IWFbP03Py3w8ZDAV5HQghAEVDICycxZSqVKY2eGVVknhIjIqJVJmsvs37RkUHCBxwwOGgda4VLDgouyKqlUqNCDga51sqdS7eu3TlBAAA7\" width=\"68\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">인 경우 <img src=\"data:image/gif;base64,R0lGODlhfQATAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6Zjo6kDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmkGZmtmaQ22a222a2/5A6AJA6OpA6ZpA6kJBmZpBmkJBmtpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQOraQkLaQtra2Zra2tra2/7bbkLbb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttu229vbttvb29v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEMALAAAAAB9ABMAAAf+gEOCg4SFhoeIiYM+I4qOj5CRikIqkpaXgkEhmJyPOZ2CjIhBEBigh6Smhicxgz8aJJhBDwAErYWztbe5tkNCGQDBAAZDMwAMkSm3hEIdLhQ7p8zO0LgVgr8DAbGWvxZDNQrRg97g4uXhO0EtgzS3MqqPPPGDPAY9F9KE9viGPN+DgjjgJsmHOF+wCBmMJgTWQoQkhIwT5WvDMkdBrhUqQU/fEI6I4BESSDASjwLjQNZDKYjjyZTxhIAIKGEcoRIFVhzo5cuDTR8HghFLBFSYUQEXhxQddshESZKX7A0qgaze0I8MpLasOmTeIq6uYODEEeGWEIsKD3oMpdaQ05H+AxUGNRqM5RAZV6kSwjuVAd+t2NAKElnIho6EzAQL0rq261W3T+NaYqzXal/KVR8KemsoSM1CZy+qFITC7qK5dJEaGm2IcCbJkl76ykBP9i8Mtmkvtut5XOlxjMlxsAk14ExQxQ/xAJs8kg8ErRrGKkHseXSH0CEOtutjwQ92QY7f7TgkY1qbShuB0oxK40dhph/9QjaDJfXZ9FHOL2aXx4J6DLiTHjaI7UOPDGAVQ4IJqmGCYCE8HLCNIDOU1AkvSZVHC08YIgJUVRUyGMMNh7AiSAovFCjICROIwAmKKvqQAAwjfdDYjYWw6KKH6gURwQr/TUMBCUCg94iPQBY84porO+LYWDNDFtlZk0RZEIQFNqxVoRAsGOnkjT5YiSUo8wTRAHmd/PBAfF/iWOaZbcYp55x01mnnJYEAADs=\" width=\"127\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">                    (3.3-5)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 132,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhQQATAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6Zjo6kDpmtjqQ22YAAGYAOmY6AGY6ZmY6kGZmZmZmkGaQ22a2/5A6AJA6OpA6ZpBmZpBmkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQOraQZra2Zra2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttu229vbkNvbttv/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAACH5BAAAADsALAAAAABBABMAAAb+wJ1wSCyuPsWkcslsOpM6De1JrTpXAAbTRrFabxfkLvcAEFJCshlNVFWYR+9TZxkEkPRuS0HL7/ZTQjoYbFBSTy0TKFY5Dkg2fDs6YZBTk2JjEYFJXEIgBSUHZ0ouEidUjUg1BYEgFautb0I2WktxNyifMhCFSaUdTqk7NQZDIAzExrU7bktRUy8zYVW/TMIqxZ4M2MpDIZhFnWmaVi4Q4ETCydrrO8fjgSOsQ3FC7U4tEsDWjsPzdK/+WZBlY8ENE2M2DHk2pFkTHS0SnArWzwYCNJcsYpw2jAELNDY8DBEniaMSHSQkLHoCAoDLAjMsaFnBis7MeTtsHKh1JIQ8gBT1hMBo4mKlnDRlRo1J2ouICH2SDh2dOlVHhgkfcMTgQLWrHC45KLzwStZKjQo5Gsgqy7at27dwywYBADs=\" width=\"66\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">인 경우 <img src=\"data:image/gif;base64,R0lGODlhYgAsAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6Zjo6kDpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmkGZmtmaQ22a222a2/5A6AJA6OpA6ZpA6kJBmOpBmZpBmkJBmtpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQOraQkLaQtra2Zra2tra227a2/7bbkLbb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttu229vbkNvbttvb29v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEcALAAAAABiACwAAAf+gEeCg4SFhoeIiYqLjI2Oj5CRkpOUlZBFEAAENIZGKJomhkURGZamp4NGGhdHOAo/hSilNQKcqR8xFbCovJNCr0dGG6GDRQ6lQLWEQAZBGL3QkUAFuyelh8yF1tHcj9mCJw2HRiC2R0IHAAAG3e2KNezg4tqghL+77vmF30fhiLTm+OkbeGQaLFXXBAlJwAldwm0ECQpBwElYqBPsgGw6d+BakQfEIupTJc4GtX7syM04AlAhMJEDMWkyl8qDppWCaswbBORAgJAwgx5ZIWOYvQQ4hQotIqEFg0I1EpoaJVUpJRsmjLjAN8kILl1WLQ2BcNISM2dh0w6CqDYsOnX+8RC9VUcXgLK2p+7hTSvQkrG6gAMLHky4sGG7NPtJVVF20FzAd/dS+gi0iAjJEfU6LoEZlRGbC7gO0lkIK4rIlYRwZoQVmhEWg4Jk1bBTEFGjhFJQIIGqyIhG5ETnXU2adLGmTwl5rWCCiPBIKTjZAFC7kBBWgobgPiJzI/dM3hGtoLniuaHrRS7kmGphdFVCrVUN+ClIFStXP+y3eoktYQ/zhgCRgTHvSYOdERwklgoI+FDm0kHD6GVRIkW0d8R/RrwQVFSCFDGBedcR4mBBZVljEDilnFBACwd4F9xcBeaDAjFCVAdfZSAJwk84OzYwxAwq8iCBLQgqCNOMOcWwGJyIObIUVzjwrNVADj5sV1+CaSF5hJbnYVdMkz32yN2HhRSZFoce7sIYPq0xScyJCMGpATJxpdIBgAQBIY4QDAwBA3eX1cdgISNOVFGEFAVjFIeEWhhWhQU1cENDq53jJTh0UUPSESblRxunmlqpY4wwYYXOPKbV0qYi3dnSqiA6HBJdW0WEUIhuvC3Zjmp7DcFbfR8wR8QOv7VTxK+dWZreeslGJCCBzUYr7bSTBAIAOw==\" width=\"99\" height=\"43\" vspace=\"1\" hspace=\"0\" border=\"0\">                        (3.3-6)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 133,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCAAPAPQAAAA6kDo6kDpmtjqQ22Y6Zma2/5A6AJCQtpCQ25C225Db25Db/7aQkLa2kLa2tra227bbtrbb/7b//9uQZtuQkNu2ZtvbkNvb/9v///+2Zv+2kP/bkP//tv//2////wAAACH5BAAAAB4ALAAAAAAIAA8AAAU0oCeOZCl2xmBmhTktJoOV3WFuiLcJo6ZcnceIAolwHASJpwLAbJKlTEBJojQSsxHDojKJQgA7\" width=\"9\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 지주길이(지주의 구속점 사이의 길이 가운데 최대의 길이) (mm)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 134,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>          <img src=\"data:image/gif;base64,R0lGODlhBQANAPQAAABmtjoAAGYAOmZmtmaQZmaQ25Db/7ZmZrb//9uQZtu2Ztu2ttvb29v////bkP//tv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAAFAA0AAAUZICSOZGmWj0AE0KIADcQkxngg4jOMTnGWIQA7\" width=\"6\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 지주의 최소단면 2차반지름(mm)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 135,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>          <img src=\"data:image/gif;base64,R0lGODlhCQAPAPQAAAAAAABmtjpmtjqQ22YAAGY6AGZmkGZmtmaQ22a2/5A6ZpBmOpBmkJCQ25C2kJDbtpDb/7ZmOraQkLa2trbb27b//9uQOtuQZtv///+2Zv//tv//2////wAAAAAAAAAAACH5BAAAABwALAAAAAAJAA8AAAU0ICeOZGmKUWJejlBuDFZqBBCYGXJekLkpFZPmINIUBqIMknN5NDSGRY8jkZkmG4rJcjuJQgA7\" width=\"10\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 허용 압축응력(MPa)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 136,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>          <img src=\"data:image/gif;base64,R0lGODlhCgAPAPQAAAAAAAAAZgBmtjpmtjqQ22YAAGYAOmZmkGZmtmaQ22a2/5A6OpA6ZpBmOpBmkJC2kJDb/7ZmOraQkLa2trbb27b//9uQOtuQZtuQkNv///+2Zv+2kP+2tv//tv//2////yH5BAAAAB8ALAAAAAAKAA8AAAU84CeOZGmSkXJez2B6TmZ2BSCcWnJ+F/R5C5/Iw6iIOEZRBzGaWAIiDWG4mHYODWHHoDNtIBKKCVNJ7UQhADs=\" width=\"11\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 허용 좌굴응력(MPa)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 137,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5) 볼트의 허용응력</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 138,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 보통볼트 및 고장력 볼트의 허용응력은 표 3.3-4 값 이하로 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 139,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 6,
+        "label": "표 3.3-4",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.3-4 볼트의 허용응력 (일반의 경우)</p></caption><tbody><tr>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>볼트의 종류</p>\t</td>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>응력의 종류</p>\t</td>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>허용응력(MPa)</p>\t</td>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>비고</p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"142\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>보통볼트</p>\t</td>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>전단</p>\t</td>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>100</p>\t</td>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>SS275기준</p>\t</td></tr><tr>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>지압</p>\t</td>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>220</p>\t</td>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"142\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>고장력볼트</p>\t</td>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>전단</p>\t</td>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>150</p>\t</td>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>F8T 기준</p>\t</td></tr><tr>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>지압</p>\t</td>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>270</p>\t</td>\t<td width=\"142\" height=\"25\" valign=\"middle\" align=\"center\">\t<p>SS275 기준</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5456,
+        "sort": 140,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6) 기둥의 유효좌굴 길이</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 141,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 구조용 강재의 허용응력 계산 시 유효좌굴 길이는 강교 및 강합성교에 따라 설계한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 142,
+        "title": "3.3.1 재료의 허용응력",
+        "level": 4,
+        "label": "(7)",
+        "contents": "<p>(7) 강재 흙막이 판의 제원은 KS F 8024에 따른다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 143,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 3,
+        "label": "3.3.2",
+        "contents": "<p>3.3.2 부재 단면의 설계</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 144,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 공통사항</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 145,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 흙막이 벽은 휨모멘트와 전단력에 대하여 안전하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 146,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 경사앵커의 수직분력, 복공하중, 과재하중 등의 연직하중이 있을 때는 합성응력에 대해서도 안전하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 147,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 연직하중은 말뚝의 허용지지력 보다 작아야 한다. 정역학적 공식에 의한 극한 지지력으로부터 허용지지력 산정시 안전율은 2.0을 적용한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 148,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>   ④ 흙막이 벽의 수평변위는 배면지반 침하량 및 부등침하 경사각을 검토하여 판정하되, 최대수평변위는 최종 굴착깊이, 지층 등을 고려하여 기준을 산정한다. KCS 11 10 15(3.10.3.11) 에 따른 기준변위를 초과할 때는 주변시설물에 대한 별도의 안정성 검토가 필요하다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 149,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>   ⑤ 최상단 버팀보 상부는 외팔보로 계산하고, 지점조건을 확보한 경우 주거더 하단을 지점으로 설계 할 수 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 150,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 엄지말뚝(soldier pile)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 151,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 엄지말뚝은 축방향력과 휨모멘트에 대하여 모두 안전하도록 설계한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 152,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 암반구간에서 엄지말뚝에 작용하는 측압을 무시할 수 있는 경우에도 말뚝의 좌굴영향을 검토하여야 하며 록볼트와 숏크리트 등으로 좌굴 및 변형을 방지하고 안전을 확보하여야 한다. 다만 암반의 심도가 깊을 경우에는 중간 중간에 별도의 방식으로 보강하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 153,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 엄지말뚝 배면지반이 배수 등의 원인에 의해 침하할 우려가 있는 경우에는 이로 인해 발생하는 부마찰력을 별도의 축하중으로 엄지말뚝에 가산하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 154,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 엄지말뚝에 의해 지지되는 흙막이 판은 토압에 의한 등분포하중이 양쪽 말뚝의 지지위치를 지점으로 하는 단순보로 가정하여 설계하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 155,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ 코너부에 사보강재를 반영할 경우에는 수평분력에 의한 축방향력에 대하여 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 156,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 강널말뚝(steel sheet pile)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 157,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 강널말뚝에 작용하는 주동토압과 수동토압의 분포폭은 강널말뚝의 전폭으로 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 158,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 강널말뚝 응력계산에 사용되는 단면계수는 폭 1.0m당 60%를 적용하되, 널말뚝 끝부분을 50cm 이상 용접하거나 콘크리트로 머리부를 연결해서 고정한 것이나 근입이 충분하고 토사의 구속을 기대할 수 있는 경우에는 80% 이하로 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 159,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 강널말뚝은 축방향력과 휨모멘트에 대하여 모두 안전하게 설계하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 160,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 소일시멘트 벽체(SCW)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 161,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 소일시멘트 벽체에 작용하는 축력은 H형강 간격을 지간으로 하는 아치에 작용하는 등분포하중에 의한 아치로 보고 해석한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 162,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 전단력은 H형강 순간격을 지간으로 하는 보로 계산한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 163,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 허용 압축응력은 소일시멘트 일축압축강도의 1/2을 사용하고, 허용 전단응력은 일축압축강도의 1/3을 적용한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 164,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 시멘트 모르터의 물-결합재비와 설계배합비는 현장의 토질, 지하수의 상황 등 종합적인 조건을 고려하여 결정한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 165,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5) 주열식 콘크리트벽체(CIP 벽체)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 166,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 주열식 벽체는 천공경의 면적과 등가인 등가사각형의 단철근보로 설계할 수 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 167,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 흙막이 벽에 작용하는 모멘트와 전단력을 H형강이 모두 부담하는 것으로 하는 경우에는 주열식벽 검토를 생략할 수 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 168,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 철근 피복은 80mm 이상으로 하고 주철근의 형상이 정확히 유지되도록 하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 169,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 띠철근은 지름13mm 이상의 철근으로 하고 그 간격은 천공경, 축방향철근의 12배 이하, 그리고 300mm 중 작은 값 이하이어야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 170,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6) 지하연속벽(diaphragm wall)</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 171,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 지하연속벽 공법은 현장타설 철근콘크리트 지하연속벽과 PC지하연속벽 등이 있으며 대심도 굴착에서 주변지반의 이동이나 침하를 억제하고 인접구조물에 대한 영향을 최소화하도록 설계한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 172,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 지하연속벽 벽체는 하중지지벽체와 현장타설말뚝 역할을 할 수 있으며 내부의 지하 슬래브와 연결 시에는 영구적인 구조체로 설계할 수 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 173,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 지하 슬래브와 지하연속벽체의 연결은 절곡철근을 사용할 경우 되펴기 시 철근의 강도를 보증할 수 없으므로 절곡철근의 사용은 지양하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 174,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 지하연속벽 벽체에 작용하는 하중은 주로 토압과 수압이며 본체 구조물로 사용하는 경우에는 각종 구조물하중에 대한 검토가 필요하다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 175,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ 지하연속벽 시공 시 주변지반의 침하 및 거동을 최소화하고 영구벽체로서 안정된 지하구조물을 형성하기 위한 트렌치 내에 사용하는 안정액의 조건은 굴착면의 안정성을 확보할 수 있도록 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 176,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "⑥",
+        "contents": "<p>⑥ 콘크리트의 설계기준강도는 콘크리트 타설 시의 지하수의 유무와 특성에 따라 다음과 같이 감소시켜서 정하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 177,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 6,
+        "label": "가.",
+        "contents": "<p>가. 지하수위가 없는 경우 : <img src=\"data:image/gif;base64,R0lGODlhMQATAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Zjo6kDpmOjpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmZmZmkGaQ22a222a2/5A6AJA6OpA6ZpBmOpBmZpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQOraQkLa2Zra2tra2/7bbkLbb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEAALAAAAAAxABMAAAf+gECCg4SFhoeIiYqLgjeGPThAP46Mhz4QAAMuhZeZIpIZAKIABUAvogothj4RGIo/GRZAMgqRgj8dqjO1PiqDMZvAiLgrFbaHO7WSGp+CPh+DJS4/tjshgsKHOQU6F4o5BLYjrrcbqkAnxz8ev5uH44zbgyMNhDkHFzbHQDnkQDALPA3aYUBUKUUvDgKhR+hHCg4Bmkna4O6fNxkCKibbh0ieIIa32M1C4G7jKgf+PC4CFwlWSn8vyLEUlCMjEB8PJMIzZCLcQJLLPo0o0G9QUVM+gei4dnOCLZwSCfkQeStDPRg+h7L6xEOCuxwMBvmQ0OKHiXqCTBqyxgmTpkJLO9yeQ4YJraAXdvkZiAhDBAmblQITOsGC2cAE50pQACG4sTMJKMIOinmrQwURkBxrJtTXYQ0LPizQ2EwaCA8I4fr5QFm6tevXiQIBADs=\" width=\"50\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>"
+      },
+      {
+        "no": 5456,
+        "sort": 178,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 6,
+        "label": "나.",
+        "contents": "<p>나. 정수 중에 타설하는 경우 : <img src=\"data:image/gif;base64,R0lGODlhMQATAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Zjo6kDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmZmZmZmkGaQ22a222a2/5A6AJA6OpA6ZpBmOpBmZpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQOraQkLa2Zra2trbbkLbb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbkNvbttv///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAACH5BAAAADsALAAAAAAxABMAAAb+wJ1wSCwaj8ikcslsJnMPwGBVhEpBQus0G91WIRal7kLZuRSzoW6j2r3Q4/J5FjejiWvUJI203XUYWFkdQyMrfmmAIIg7ikQ0BTUVSjQEfCFhQjoZbTslM5WXFqFCmESmS5BDIQyPBxUyaaqlDLM7rEI2BgAABUssvrR4JxoBWMCrDMjCuXepwbetmhxCLggrtqzZ0ju2lJaNF5nd4yyj4GPnieKr40Qk4LnXjYG3BTTj+DbzivtUjjtyOBBUhZqaC61agAtRIAcELDcirBiT0BLFHQr5MDJi40OVLlSI2OjSSUtIk0NYcOtmwFgLECIEhHRC01OKerkSdBohwUMuzZ85IphYQMScpg0TQODg87OpkJc6TsSgkIMCDKdYd9x4YAlfjgbusoodS7ZIEAA7\" width=\"50\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>"
+      },
+      {
+        "no": 5456,
+        "sort": 179,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 6,
+        "label": "다.",
+        "contents": "<p>다. 혼탁한 물에 타설하는 경우 : <img src=\"data:image/gif;base64,R0lGODlhMQATAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAZjo6Zjo6kDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmZmZmZmkGaQ22a222a2/5A6AJA6OpA6ZpBmZpCQtpC225C2/5Db/7ZmALZmOrZmZraQOraQkLa2Zra2tra2/7bbkLbb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvbkNvb29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADkALAAAAAAxABMAAAb+wJxwSCwaj8ik0ghbOp/CmwMwSBFxFoAWUMhJqVbvtGq8PSpK7CTXSsSGt9KQlVKz3fb2e4jLmCR7RzRuOTgXHXx7NBw5g2+GHY6Fh0QyBTMUSjIEex5oRTgaQpudFaRCnkSpS5ZDHgtGMp+tqAu0Oa9CNAZaXUoqvriwVxhhwK4Lx7VDkqzBuUTNt6/Twzm3mpyFFp9Dp9faWKbh3K7dRCHaugdWkLi+Kuo07JOR9O5eDYhlonwWsCu0efAlQ4E/gJywIFREyMiiIl/ILIkYhuIQFdauGQjQYUWHDwLCQBmZQ8QJSroQoBACIsIGkjBvQBhh8OKnPhI62AgEs2ccDo84SLyYcGOCC59Ic9RwwEnWDQbnkkqdSrVIEAA7\" width=\"50\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>"
+      },
+      {
+        "no": 5456,
+        "sort": 180,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "⑦",
+        "contents": "<p>⑦ 철근의 피복은 부식을 고려하여 80mm 이상으로 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 181,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "⑧",
+        "contents": "<p>⑧ 지하연속벽이 가설구조물로 이용되는 경우는 허용응력을 50% 증가시켜서 사용하며, 지하연속벽이 본 구조물로 이용되는 경우는 콘크리트의 허용응력을 시공 중에는 25% 증가시키고 시공 완료 후에는 증가시키지 않는다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 182,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "⑨",
+        "contents": "<p>⑨ 지하연속벽의 변위한계를 설계 시 제시하여야 하며, 시공관리를 위해 지중경사계를 벽체 내에 설치토록 제시하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 183,
+        "title": "3.3.2 부재 단면의 설계",
+        "level": 5,
+        "label": "⑩",
+        "contents": "<p>⑩ 지하연속벽 패널 사이로의 누수에 대비하여 배면지반에 차수대책을 제시하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 184,
+        "title": "3.3.3 중간말뚝의 설계",
+        "level": 3,
+        "label": "3.3.3",
+        "contents": "<p>3.3.3 중간말뚝의 설계</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 185,
+        "title": "3.3.3 중간말뚝의 설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 중간말뚝은 버팀보의 좌굴 방지에 유효한 단면이어야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 186,
+        "title": "3.3.3 중간말뚝의 설계",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 중간말뚝에 작용하는 연직하중은 자중, 버팀대의자중 및 적재하중, 노면 복공으로 부터의 하중(충격하중 포함), 매설물 매달기로 부터의 하중으로 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 187,
+        "title": "3.3.3 중간말뚝의 설계",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 중간말뚝의 종방향 강성을 증가시키기 위해 중간말뚝 사이에 사재 등의 보강 부재를 조립시킨 경우에는 하중분배를 고려할 수 있다. 다만, 트러스 형태의 보강이 없는 중간말뚝은 단독으로 연직하중을 지지하는 것으로 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 188,
+        "title": "3.3.3 중간말뚝의 설계",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 중간말뚝에 작용하는 연직하중이 그 허용지지력을 넘지 않도록 하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 189,
+        "title": "3.3.3 중간말뚝의 설계",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5) 중간말뚝은 지지력에 대한 검토를 하고 인발력이 발생하는 경우에는 이에 대해서도 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 190,
+        "title": "3.3.4 흙막이 판의 설계",
+        "level": 3,
+        "label": "3.3.4",
+        "contents": "<p>3.3.4 흙막이 판의 설계</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 191,
+        "title": "3.3.4 흙막이 판의 설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 흙막이 판은 목재, 콘크리트, 철근콘크리트, PE, 철판 등의 재료를 사용할 수 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 192,
+        "title": "3.3.4 흙막이 판의 설계",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 흙막이 판에 작용하는 토압은 흙막이 벽에 작용하는 토압을 적용한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 193,
+        "title": "3.3.4 흙막이 판의 설계",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 전단력과 휨모멘트를 구하는 지간은 엄지말뚝의 플랜지폭을 고려하여 정한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 194,
+        "title": "3.3.4 흙막이 판의 설계",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 흙막이 판의 두께는 모멘트와 전단력을 각 재료의 허용응력과 비교하여 모두 만족시킬 수 있도록 결정한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 195,
+        "title": "3.3.5 띠장의 설계",
+        "level": 3,
+        "label": "3.3.5",
+        "contents": "<p>3.3.5 띠장의 설계</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 196,
+        "title": "3.3.5 띠장의 설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 띠장은 흙막이 벽에서의 하중을 받아 이것을 버팀대 등에 평균하여 전달시키기 때문에 하중을 전달할 수 있는 강성을 갖는 것이어야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 197,
+        "title": "3.3.5 띠장의 설계",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 띠장은 버팀대 또는 앵커의 반력으로 인한 휨모멘트 및 전단력에 대하여 안전하여야 하고, 앵커의 수직분력을 고려하여 띠장 지지대를 검토하여야 한다. 경사버팀대가 있는 띠장의 경우 경사버팀대로 인한 축방향력 및 축직각방향력을 고려하여 띠장 안정성을 검토하여야 하며, 토압조건이 다른 두 벽체를 지지하는 경사버팀대가 있는 띠장의 경우에는 경사버팀대의 밀림 가능성을 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 198,
+        "title": "3.3.5 띠장의 설계",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 휨모멘트 및 전단력은 버팀대 또는 앵커 위치를 지점으로 하는 단순보로 계산하되 양호한 이음구조일 때는 연속보로 계산하여도 좋다. </p>"
+      },
+      {
+        "no": 5456,
+        "sort": 199,
+        "title": "3.3.5 띠장의 설계",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) H형강을 띠장으로 사용할 때는 버팀대 또는 앵커와 띠장의 접합부에 압축력이 크게 작용하므로 플랜지가 변형되지 않도록 보강재(stiffener)를 반드시 2개소 이상 설치하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 200,
+        "title": "3.3.5 띠장의 설계",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5) H형강을 띠장으로 사용할 때 전단 단면적은 웨브만의 단면적을 사용하여야 하며, 보강재(stiffener)를 충분히 보강하였을 경우에는 플랜지 단면적을 전단 단면적으로 볼 수 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 201,
+        "title": "3.3.5 띠장의 설계",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6) 띠장의 지점간격은 순 간격을 적용하며, 까치발에 따라 다음과 같이 구분하여 적용한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 202,
+        "title": "3.3.5 띠장의 설계",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 까치발이 없거나, 각도가 45°를 초과하는 경우에는 버팀보의 설치간격을 적용한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 203,
+        "title": "3.3.5 띠장의 설계",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 각도가 45° 이내인 까치발을 설치한 경우에는 까치발에 의한 구속을 고려하여 적용한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 204,
+        "title": "3.3.5 띠장의 설계",
+        "level": 4,
+        "label": "(7)",
+        "contents": "<p>(7) 버팀보의 위치에서 띠장의 횡변위를 구하고 그 변위가 버팀보 축력에 미치는 영향을 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 205,
+        "title": "3.3.5 띠장의 설계",
+        "level": 4,
+        "label": "(8)",
+        "contents": "<p>(8) 버팀보 또는 지반 앵커와의 접합부는 보강재를 설치하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 206,
+        "title": "3.3.5 띠장의 설계",
+        "level": 4,
+        "label": "(9)",
+        "contents": "<p>(9) 지반 앵커에 연결되는 띠장은 앵커로 인한 연직분력을 고려하여야 하며, 미끄럼에 대하여 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 207,
+        "title": "3.3.5 띠장의 설계",
+        "level": 4,
+        "label": "(10)",
+        "contents": "<p>(10) 굴착면의 가로와 세로의 차가 매우 클 경우, 단변 띠장은 축력에 대한 검토를 추가하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 208,
+        "title": "3.3.5 띠장의 설계",
+        "level": 4,
+        "label": "(11)",
+        "contents": "<p>(11) 사보강재를 설치할 경우의 띠장 설계는 버팀보 반력에 의한 휨모멘트와 사보강재로 부터 전달되는 축력을 동시에 받는 구조로 보고 안정성을 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 209,
+        "title": "3.3.5 띠장의 설계",
+        "level": 4,
+        "label": "(12)",
+        "contents": "<p>(12) 흙막이 벽으로부터 등분포하중을 받는 띠장은 휨모멘트 및 전단력에 대한 안정 검토를 하며 단순보 또는 연속보로 간주하고 해석한다. 단순보로 설계할 경우에는 띠장과 스트러트의 연결은 핀으로 연결한 것으로 간주하여 설계하며, 여러 개의 버팀보 중에서 최대의 축력이 작용하는 버팀보를 적용한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 210,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 3,
+        "label": "3.3.6",
+        "contents": "<p>3.3.6 버팀대의 설계</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 211,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 설계일반</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 212,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 버팀대는 압축재로서 좌굴되지 않도록 단면과 강성을 가져야 한다. 또, 버팀대가 긴 경우에는 중간말뚝 등을 설치하여 보강하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 213,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 버팀대 위에 하중을 재하해서는 안 된다. 그러나 부득이 재하할 경우에는 축력과 휨이 작용하는 부재로 설계하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 214,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 버팀대에는 이음을 설치하지 않으나 부득이 이음을 설치할 때는 보강을 하여 강도를 확보하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 215,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 버팀대와 띠장의 접합부는 느슨함이 생기지 않는 구조로 하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 216,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ 버팀대의 축방향력 및 휨모멘트에 의한 합성응력은 좌굴을 고려한 허용응력보다 작아야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 217,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "⑥",
+        "contents": "<p>⑥ 버팀대의 수평간격을 넓히고자 할 때에는 버팀대 단부에 까치발을 설치하거나 띠장 및 버팀대의 강성을 키워 안정성을 확보하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 218,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "⑦",
+        "contents": "<p>⑦ 버팀대 설계 시 H형강뿐만 아니라 원형강관에 대하여 상부 안전발판 및 안전난간대 등 근로자 안전확보를 위한 안전조치를 하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 219,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 버팀대의 보강</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 220,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 버팀대는 가시설구조물 전체의 강성을 확보할 수 있도록 일정간격으로 인접 버팀대와 수평 브레이싱(bracing)을 설치하여 보강하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 221,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 브레이싱(bracing)의 설치는 좌굴해석에 의해 위치 및 부재규격을 결정하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 222,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 경사버팀대의 설계</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 223,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 경사버팀대는 맞버팀대의 설치가 불가한 코너부에 경사지게 버팀대를 설치하여 흙막이 벽의 수평력을 지지하고자 할 목적으로 설계한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 224,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 경사버팀대의 접합부는 활동에 대하여 내력이 있는 구조로 하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 225,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 경사버팀대를 설치하는 경우에는 반드시 좌우대칭으로 하여 버팀대에 편심하중에 의한 휨모멘트가 생기지 않도록 하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 226,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 모서리에 사용하는 경사버팀대는 45° 각도로 설치하는 것을 기준으로 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 227,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ 경사버팀대는 축력을 받는 압축재로 설계하는 것을 원칙으로 하되, 실제로는 두 방향의 힘이 발생하는 부재이므로 휨모멘트가 과도하게 발생하지 않도록 설계하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 228,
+        "title": "3.3.6 버팀대의 설계",
+        "level": 5,
+        "label": "⑥",
+        "contents": "<p>⑥ 경사버팀대를 설치하는 띠장은 수평력에 대하여 밀리지 않도록 보강하거나 폐합구조가 되도록 설계하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 229,
+        "title": "3.3.7 경사고임대(레이커, raker)의 설계",
+        "level": 3,
+        "label": "3.3.7",
+        "contents": "<p>3.3.7 경사고임대(레이커, raker)의 설계</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 230,
+        "title": "3.3.7 경사고임대(레이커, raker)의 설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 경사고임대는 수평토압에 대해 충분한 지지가 될 수 있도록 수평면에 대해 60° 이내가 되도록 설계하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 231,
+        "title": "3.3.7 경사고임대(레이커, raker)의 설계",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 경사고임대와 띠장의 연결부, 띠장과 엄지말뚝의 연결부에는 상향력이 작용하므로 이 힘에 견딜 수 있는 구조로 보강하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 232,
+        "title": "3.3.7 경사고임대(레이커, raker)의 설계",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 경사고임대를 지지하는 블록 또는 말뚝은 활동, 전도 및 지지력에 대하여 안전하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 233,
+        "title": "3.3.7 경사고임대(레이커, raker)의 설계",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 경사고임대 지지체(kicker block, pile)에 작용하는 주동토압 계산에 있어서 점착력에 의한 인장력은 고려하지 않는다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 234,
+        "title": "3.3.7 경사고임대(레이커, raker)의 설계",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5) 경사고임대를 지지하는 블록 또는 말뚝에서의 수동토압에 의한 반력은 주동변위와 수동변위를 고려하여 감소시켜 정하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 235,
+        "title": "3.3.7 경사고임대(레이커, raker)의 설계",
+        "level": 5,
+        "label": "표 3.3-5",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p><p>표 3.3-5  지반 종류별 예상 수동토압</p></p></caption><tbody><tr>\t<td width=\"274\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>지반 종류</p>\t</td>\t<td width=\"311\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>예상 수동토압(<img src=\"data:image/gif;base64,R0lGODlhEwATAPUAAAAAAAAAOgAAZgA6kABmtjoAADpmtjqQ22YAAGYAOmY6OmY6kGaQ22a2/5A6AJA6ZpBmkJDb/7ZmALZmOraQOrbb/7b//9uQOtuQZtuQkNu2Ztvb29v/29v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAATABMAAAZpQJJwSCySPIOOcTmcNIoXgFQaeApHEGURqb0ILMJQZSk5DD1fplCUiAwlSfUxPqKk5ZIpwKBVixBWckRoYIJEEgSGZ1NxikwiCxwOZoofGgwjD4WCGxkWkH1yWB0XlIYgCgV8jhiBjmpBADs=\" width=\"20\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>\t</td></tr><tr>\t<td width=\"274\" height=\"24\" valign=\"middle\" align=\"center\">\t<p>매립토, 퇴적토</p>\t</td>\t<td width=\"311\" height=\"24\" valign=\"middle\" align=\"center\">\t<p>(1/2)<img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAAAAAOgA6ZgA6kABmtjoAADoAZjo6ADo6kDpmtjqQ22YAAGaQtmaQ22a2/5A6AJA6OpBmAJBmkJCQtpDb/7ZmALZmOrZmZraQZrb//9uQOtvb29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAPABEAAAZcwJBwSCwaj0XQA8AECDJIEIQSAkUUSI8BGqoQkJpv9eFAVsogSwL5WTADDA6yM5AjhxrsXSil7kMeCHZDHg1hQhVMdUQbGBkXXGwTIBKDRx0KhX8aB097HgV6IUEAOw==\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td width=\"274\" height=\"24\" valign=\"middle\" align=\"center\">\t<p>풍화토, 풍화암</p>\t</td>\t<td width=\"311\" height=\"24\" valign=\"middle\" align=\"center\">\t<p>(2/3)<img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAAAAAOgA6ZgA6kABmtjoAADoAZjo6ADo6kDpmtjqQ22YAAGaQtmaQ22a2/5A6AJA6OpBmAJBmkJCQtpDb/7ZmALZmOrZmZraQZrb//9uQOtvb29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAPABEAAAZcwJBwSCwaj0XQA8AECDJIEIQSAkUUSI8BGqoQkJpv9eFAVsogSwL5WTADDA6yM5AjhxrsXSil7kMeCHZDHg1hQhVMdUQbGBkXXGwTIBKDRx0KhX8aB097HgV6IUEAOw==\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td width=\"274\" height=\"24\" valign=\"middle\" align=\"center\">\t<p>연암 이상</p>\t</td>\t<td width=\"311\" height=\"24\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAAAAAOgA6ZgA6kABmtjoAADoAZjo6ADo6kDpmtjqQ22YAAGaQtmaQ22a2/5A6AJA6OpBmAJBmkJCQtpDb/7ZmALZmOrZmZraQZrb//9uQOtvb29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAPABEAAAZcwJBwSCwaj0XQA8AECDJIEIQSAkUUSI8BGqoQkJpv9eFAVsogSwL5WTADDA6yM5AjhxrsXSil7kMeCHZDHg1hQhVMdUQbGBkXXGwTIBKDRx0KhX8aB097HgV6IUEAOw==\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"585\" height=\"19\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAAAAAOgA6ZgA6kABmtjoAADoAZjo6ADo6kDpmtjqQ22YAAGaQtmaQ22a2/5A6AJA6OpBmAJBmkJCQtpDb/7ZmALZmOrZmZraQZrb//9uQOtvb29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAPABEAAAZcwJBwSCwaj0XQA8AECDJIEIQSAkUUSI8BGqoQkJpv9eFAVsogSwL5WTADDA6yM5AjhxrsXSil7kMeCHZDHg1hQhVMdUQbGBkXXGwTIBKDRx0KhX8aB097HgV6IUEAOw==\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> : Rankine 또는 Coulomb 이론에 의한 수동토압</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5456,
+        "sort": 236,
+        "title": "3.3.7 경사고임대(레이커, raker)의 설계",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6) 경사고임대 지지체의 수동토압은 흙막이 벽체의 주동변위 이내의 수동변위에 해당하는 수동토압을 사용하는 것을 원칙으로 설계하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 237,
+        "title": "3.3.7 경사고임대(레이커, raker)의 설계",
+        "level": 4,
+        "label": "(7)",
+        "contents": "<p>(7) 변위가 크게 예상되는 연약지반에서는 경사고임대 지지구조의 설계를 지양하도록 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 238,
+        "title": "3.3.7 경사고임대(레이커, raker)의 설계",
+        "level": 4,
+        "label": "(8)",
+        "contents": "<p>(8) 경사고임대 지지체의 저항력인 수동토압은 경사고임대 부재에 발생하는 수평하중에 대해 1.2 이상의 안전율을 확보하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 239,
+        "title": "3.3.7 경사고임대(레이커, raker)의 설계",
+        "level": 4,
+        "label": "(9)",
+        "contents": "<p>(9) 경사고임대 지지체가 수동토압을 충분히 발휘할 수 있도록 굴착공간을 소일시멘트, 콘크리트 등으로 밀실하게 채워야 하며, 이들 재료로 채우지 못할 경우에는 원지반과 동일한 수준으로 다짐하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 240,
+        "title": "3.3.7 경사고임대(레이커, raker)의 설계",
+        "level": 4,
+        "label": "(10)",
+        "contents": "<p>(10) 흙막이 벽체의 변위가 우려되는 지반인 경우에는 경사고임대 지지체의 지지기능이 확보되는 데 시일이 소요되는 콘크리트 블록에 의한 지지방식은 가급적 피하고 말뚝에 의한 지지를 적극 검토하여 적용토록 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 241,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 3,
+        "label": "3.3.8",
+        "contents": "<p>3.3.8 지반앵커의 설계</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 242,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 앵커의 사용목적, 사용기간 및 환경조건 등을 고려하여 부식방지에 관해 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 243,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 영구앵커는 정착지반의 장기적 안정성, 부식에 대한 안정성 및 공사 후 유지관리 방법 등을 검토하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 244,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 앵커의 사용기간 중에도 그 성능이 안정되도록 하며, 사용 후 해체방법을 고려하여 설계하여야 한다. 특히, 사유지 등을 부득이 침범(어스앵커 등이 사유지에 설치되는 경우 등)할 경우 사유재산권 침해가 최소화되는 공법을 우선 선정하고 이에 따른 보상 등을 고려하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 245,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 지반앵커는 대상으로 하는 구조물의 규모, 형상, 지반조건을 고려하여 선정하고, 설계하중에 대해서 안전율이 고려된 인발저항력을 갖도록 설계하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 246,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5) 앵커의 허용인장력은 앵커의 사용기간, 강재의 극한강도 및 항복강도를 고려하여 정한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 247,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6) 지반앵커는 설계앵커력에 대해 안전율이 확보되는 양호한 지반에 정착하는 것으로 하고, 그 길이 및 배치는 토질 조건, 시공조건, 환경조건, 지하매설물의 유무, 흙막이 벽의 응력, 변위 및 구조체의 안정성을 고려하여 설계한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 248,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(7)",
+        "contents": "<p>(7) 지반앵커의 초기 긴장력은 지반조건, 흙막이 벽의 규모, 설치기간, 시공방법 등을 고려하여 설계하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 249,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(8)",
+        "contents": "<p>(8) 대좌 및 지압판은 설계 정착력에 대하여 강도를 갖고, 유해한 변형이 발생하지 않도록 설계한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 250,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(9)",
+        "contents": "<p>(9) 앵커의 자유장은 예상 파괴면까지의 길이에 여유길이를 더하여 정한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 251,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(10)",
+        "contents": "<p>(10) 인장형 앵커의 정착장은 앵커체와 지반과의 마찰저항장과 앵커강재와 그라우트체와의 부착저항장을 비교하여 큰 값으로 한다. 정착장 결정시에는 진행성 파괴를 고려하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 252,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(11)",
+        "contents": "<p>(11) 정착부에서 지표면까지의 최소 높이가 확보되어야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 253,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(12)",
+        "contents": "<p>(12) 흙막이 벽과 앵커 전체를 포함한 안정성 검토를 하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 254,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(13)",
+        "contents": "<p>(13) 앵커의 긴장력은 정착장치에 의한 감소와 릴렉세이션(relaxation)에 의한 감소를 고려하여 정한다. 제거식 앵커의 경우 강선이 피복되어 있으므로 자유장이 아닌 끝단의 내하체까지의 전체길이에 대한 늘음량을 고려하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 255,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(14)",
+        "contents": "<p>(14) 앵커정착장이 위치하는 지반이 크리프(creep)가 우려되는 경우에는 지반 크리프(creep)에 의한 앵커력 손실을 고려하여 설계앵커력을 정하도록 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 256,
+        "title": "3.3.8 지반앵커의 설계",
+        "level": 4,
+        "label": "(15)",
+        "contents": "<p>(15) 설계 시 추정되는 극한인발저항력을 시공 시 확인하여 안전한 시공이 될 수 있도록 정착지반별 인발시험계획을 제시하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 257,
+        "title": "3.3.9 그 외의 흙막이 구조물",
+        "level": 3,
+        "label": "3.3.9",
+        "contents": "<p>3.3.9 그 외의 흙막이 구조물</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 258,
+        "title": "3.3.9 그 외의 흙막이 구조물",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준에 언급되지 않은 소일네일, 록볼트, 주열식 강관벽체, 강관버팀대 등은 국내외에서 널리 쓰이는 설계법 중에서 합리적이고 안전한 설계방법을 사용한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 259,
+        "title": "3.4 근접시공",
+        "level": 2,
+        "label": "3.4",
+        "contents": "<p>3.4 근접시공</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 260,
+        "title": "3.4 근접시공",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 근접시공 시에는 가설흙막이 구조물 자체의 안정과 인접구조물에 미치는 영향을 검토한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 261,
+        "title": "3.4 근접시공",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 근접시공 시에는 지반특성, 횡토압, 지반진동, 지하수위 변화와 지반손실, 굴착으로 인한 주변 영향, 대상구조물의 특성 등을 고려하여 설계한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 262,
+        "title": "3.4 근접시공",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3) 근접시공으로 인한 지하수위 변화가 인접 시설물에 영향을 미치는 경우에는 차수식 벽체로 설계하는 것이 바람직하며, 이때 지하수에 의한 배면수압을 고려한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 263,
+        "title": "3.4 근접시공",
+        "level": 3,
+        "label": "(4)",
+        "contents": "<p>(4) 주변 지반 침하 예측 방법은 이론적 및 경험적 추정 방법이 있으며, 이 중 설계자가 현장여건, 지층조건, 굴착방법, 흙막이 벽체와 지지체의 형식을 종합적으로 고려하여 선택한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 264,
+        "title": "3.4 근접시공",
+        "level": 3,
+        "label": "(5)",
+        "contents": "<p>(5) 굴착에 의한 배면 지반의 변위를 산정한 후, 허용 변위량을 기준으로 인접 구조물의 손상 여부를 분석하고 필요시 대책을 강구한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 265,
+        "title": "3.4 근접시공",
+        "level": 3,
+        "label": "(6)",
+        "contents": "<p>(6) 우각부 등 구조적 취약부위에 대해서는 3차원적인 지반거동에 대한 검토 여부를 충분히 고려하여 설계한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 266,
+        "title": "3.4 근접시공",
+        "level": 3,
+        "label": "(7)",
+        "contents": "<p>(7) 배면지반 침하와 인접구조물에 대한 영향 예측</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 267,
+        "title": "3.4 근접시공",
+        "level": 4,
+        "label": "①",
+        "contents": "<p>① 흙막이 벽의 변위에 따른 주변 지반의 침하를 예측하는 방법에는 실측 또는 계산에 의하여 구한 흙막이 벽의 변위로부터 주변지반 침하를 추정하는 방법과 버팀 구조와 주변지반을 일체로 하여 구하는 유한요소법, 유한차분법 등의 수치해석방법이 있다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 268,
+        "title": "3.4 근접시공",
+        "level": 4,
+        "label": "②",
+        "contents": "<p>② 주변 지반의 침하 예측방법은 이론적 및 경험적 추정 방법 중에서 설계자가 현장여건, 지층조건, 굴착방법, 흙막이 벽 및 지지체의 형식을 종합적으로 고려하여 선택, 적용하여야 한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 269,
+        "title": "3.4 근접시공",
+        "level": 4,
+        "label": "③",
+        "contents": "<p>③ 인접구조물에 대한 침하, 부등침하(각변위), 수평변형률, 경사 등에 관한 허용값은 대상 구조물에 따라 관련 설계기준과 건축기준 등을 참고로 하여 결정한다.</p>"
+      },
+      {
+        "no": 5456,
+        "sort": 270,
+        "title": "3.4 근접시공",
+        "level": 3,
+        "label": "(8)",
+        "contents": "<p>(8) 굴착 시 정기적으로 계측관리를 실시하여야 한다.</p>"
+      }
+    ]
+  }
+]
