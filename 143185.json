@@ -1,0 +1,2157 @@
+[
+  {
+    "no": 5315,
+    "codeType": "KDS",
+    "code": "143185",
+    "fullCode": "1010143185",
+    "name": "합성구조 내진 설계기준 (하중저항계수설계법)",
+    "version": "2024",
+    "updateDate": "2024-05-08T10:12:00",
+    "list": [
+      {
+        "no": 5315,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 합성구조의 내진성능 확보를 위한 해석 및 설계방법과 최소한의 요구조건을 규정한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 4,
+        "title": "1.2 적용 범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용 범위</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 5,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 합성구조물과 유사 구조물의 지진력저항시스템에 사용되는 합성부재와 접합부(연결부)의 설계, 제작 및 세우기에 관하여 규정한다. 여기서 유사 구조물이란 건축물과 같이 수직 및 횡력저항시스템을 가지며 건축물과 유사한 방법으로 설계·제작되고 세워지는 구조물을 말한다. 이 규정은 시설물 기준에서 정의된 지진반응수정계수(응답수정계수) <img src=\"data:image/gif;base64,R0lGODlhDAAOAPQAAAAAAAAAZgA6ZgA6kABmtjoAADo6kDpmkDpmtjqQ22YAAGYAOma2/5A6AJA6OpDb/7ZmALaQOrb//9uQOtu2ttv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAMAA4AAAU/4CaOZGmaWgOswFGV2fJsmJKU1vCmTAndmgiilFoJZqWL4fUzTW6bJ9Ex42leIuXrUmBQsJYVYZMKSE7otCgEADs=\" width=\"13\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">의 값이 3보다 큰 경우에 적용한다. 지진반응수정계수(응답수정계수) <img src=\"data:image/gif;base64,R0lGODlhDAAOAPQAAAAAAAAAZgA6ZgA6kABmtjoAADo6kDpmkDpmtjqQ22YAAGYAOma2/5A6AJA6OpDb/7ZmALaQOrb//9uQOtu2ttv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAMAA4AAAU/4CaOZGmaWgOswFGV2fJsmJKU1vCmTAndmgiilFoJZqWL4fUzTW6bJ9Ex42leIuXrUmBQsJYVYZMKSE7otCgEADs=\" width=\"13\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">의 값이 3 이하인 구조물은 시설물 기준에 의해 요구되지 않는 한 이 규정을 만족할 필요가 없다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 6,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 이 기준의 요구사항들은 KDS 14 31 60의 요구사항을 수정하고 보충한 것이다. 합성지진력저항시스템의 철근콘크리트요소의 설계에는 KDS 14 20 00의 관련 요구사항을 이 규정에 맞게 조정하여 사용한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 7,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3) 탄성해석에 근거한 설계의 경우 합성시스템의 요소부재의 강성과 관련된 성질들은 구조물에 상당한 항복이 발생하기 시작하는 시점의 조건을 나타낼 수 있어야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 8,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 9,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 31 05(1.3)에 따른다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 10,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 11,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 31 05(1.4)에 따른다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 12,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 13,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 31 05(1.5)에 따른다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 14,
+        "title": "1.6 내진설계 일반요건",
+        "level": 2,
+        "label": "1.6",
+        "contents": "<p>1.6 내진설계 일반요건</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 15,
+        "title": "1.6 내진설계 일반요건",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 소요강도와 내진설계범주 및 건물사용그룹에 대한 규정들과 높이와 비정형에 대한 제한사항 등은 시설물 기준을 따른다. </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 16,
+        "title": "1.6 내진설계 일반요건",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 설계층간변위와 층간변위제한도 시설물 기준을 따른다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 17,
+        "title": "1.6 내진설계 일반요건",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3) 이 기준에서 언급하지 않은 내진설계 요구사항은 시설물 내진설계기준을 따른다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 18,
+        "title": "1.7 하중, 하중조합 및 공칭강도",
+        "level": 2,
+        "label": "1.7",
+        "contents": "<p>1.7 하중, 하중조합 및 공칭강도</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 19,
+        "title": "1.7.1 하중 및 하중조합",
+        "level": 3,
+        "label": "1.7.1",
+        "contents": "<p>1.7.1 하중 및 하중조합</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 20,
+        "title": "1.7.1 하중 및 하중조합",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 규정에 의해 증폭지진하중이 요구되는 경우 지진하중의 수평성분에 시설물 기준에 명시된 초과강도계수를 곱한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 21,
+        "title": "1.7.2 공칭강도",
+        "level": 3,
+        "label": "1.7.2",
+        "contents": "<p>1.7.2 공칭강도</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 22,
+        "title": "1.7.2 공칭강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 시스템과 부재 그리고 접합부(연결부)의 공칭강도는 이 규정을 통해 수정된 경우를 제외하고는 이 장의 요구사항에 따라 결정된다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 23,
+        "title": "2. 조사 및 계획",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 조사 및 계획</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 24,
+        "title": "2. 조사 및 계획",
+        "level": 2,
+        "label": "본문",
+        "contents": "<p>내용 없음</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 25,
+        "title": "3. 재료",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 재료</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 26,
+        "title": "3.1 구조용 강재",
+        "level": 2,
+        "label": "3.1",
+        "contents": "<p>3.1 구조용 강재</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 27,
+        "title": "3.1 구조용 강재",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 합성 지진력저항시스템에 사용되는 구조용 강재의 부재 및 접합부(연결부)는 KDS 14 31 05(3)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 28,
+        "title": "3.1 구조용 강재",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 4.3, 4.4, 4.7, 4.9, 4.11 그리고 4.12의 합성 지진력저항시스템에 사용되는 구조용 강재는 이 장의 내용을 포함하여 4.1 및 4.2의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 29,
+        "title": "3.2 콘크리트와 철근",
+        "level": 2,
+        "label": "3.2",
+        "contents": "<p>3.2 콘크리트와 철근</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 30,
+        "title": "3.2 콘크리트와 철근",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 합성 지진력저항시스템의 합성요소에 사용되는 콘크리트와 철근은 KDS 14 20 00의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 31,
+        "title": "3.2 콘크리트와 철근",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 4.6, 4.8 그리고 4.10의 합성 보통 내진시스템에 사용되는 콘크리트와 철근은 KDS 14 31 80(4.2) 와 KDS 14 20 00의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 32,
+        "title": "4. 설계",
+        "level": 1,
+        "label": "4.",
+        "contents": "<p>4. 설계</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 33,
+        "title": "4.1 합성부재",
+        "level": 2,
+        "label": "4.1",
+        "contents": "<p>4.1 합성부재</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 34,
+        "title": "4.1.1 범위",
+        "level": 3,
+        "label": "4.1.1",
+        "contents": "<p>4.1.1 범위</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 35,
+        "title": "4.1.1 범위",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 4.3에서 4.12까지의 지진력저항시스템에 사용되는 합성부재의 설계는 4의 요구사항과 3의 재료에 대한 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 36,
+        "title": "4.1.2 합성바닥판과 지붕슬래브",
+        "level": 3,
+        "label": "4.1.2",
+        "contents": "<p>4.1.2 합성바닥판과 지붕슬래브</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 37,
+        "title": "4.1.2 합성바닥판과 지붕슬래브",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 합성 슬래브 다이아프램은 이 조항의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 38,
+        "title": "4.1.2.1 하중전달",
+        "level": 4,
+        "label": "4.1.2.1",
+        "contents": "<p>4.1.2.1 하중전달</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 39,
+        "title": "4.1.2.1 하중전달",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 상세는 다이아프램과 경계부재, 수집재, 수평 골조시스템의 부재 사이의 힘을 전달하도록 설계해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 40,
+        "title": "4.1.2.2 공칭전단강도",
+        "level": 4,
+        "label": "4.1.2.2",
+        "contents": "<p>4.1.2.2 공칭전단강도</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 41,
+        "title": "4.1.2.2 공칭전단강도",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 합성 다이아프램과 콘크리트로 채워진 데크플레이트 다이아프램의 공칭전단강도는 KDS 14 20 22의 내용에 근거하여 데크플레이트의 리브 상단 위에 있는 철근콘크리트의 공칭전단강도로 구한다. 그 대안으로 합성 다이아프램의 공칭전단강도는 콘크리트로 채워진 다이아프램의 면내 전단실험에 의해 결정해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 42,
+        "title": "4.1.3 합성보",
+        "level": 3,
+        "label": "4.1.3",
+        "contents": "<p>4.1.3 합성보</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 43,
+        "title": "4.1.3 합성보",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 합성보는 KDS 14 31 10(4.3)의 요구사항을 만족해야 한다. 합성 특수 모멘트골조의 일부분인 합성보는 4.4.3의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 44,
+        "title": "4.1.4 매입형 합성기둥",
+        "level": 3,
+        "label": "4.1.4",
+        "contents": "<p>4.1.4 매입형 합성기둥</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 45,
+        "title": "4.1.4 매입형 합성기둥",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 조항의 내용은 전체 합성기둥 단면적의 최소한 1%의 강재 단면적을 갖는 매입형 합성기둥과 KDS 14 31 80(4.2) 에서 명시된 추가적인 제한조건을 만족시키는 매입형 합성기둥에 적용한다. 이러한 기둥은 이 기준에서 수정되는 부분을 제외하고 KDS 14 31 10(4.2)의 요구사항을 만족해야 한다. 4.1.4.2와 4.1.4.3에서 중간 및 특수 지진시스템에 대해 명시된 추가적인 요구사항은 4.3에서 4.12에 걸쳐 설명된 합성 지진시스템에서 요구되는 대로 적용해야 한다. </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 46,
+        "title": "4.1.4 매입형 합성기둥",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 철근콘크리트 내에 강재 단면이 매입된 합성기둥은 다음의 수정된 사항을 제외하고 KDS 14 20 20에 명시된 철근콘크리트 기둥의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 47,
+        "title": "4.1.4 매입형 합성기둥",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>①  4.1.4.1(2)의 강재 단면의 전단연결재</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 48,
+        "title": "4.1.4 매입형 합성기둥",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>②  KDS 14 20 20에서 제시된 기둥의 강도에 대한 매입된 강재 단면의 분담</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 49,
+        "title": "4.1.4 매입형 합성기둥",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③  4.3에서 4.12에 걸쳐 합성 지진시스템에 대한 설명에서 명시된 철근콘크리트 기둥에 대한 내진 요구사항</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 50,
+        "title": "4.1.4.1 보통 내진시스템 요구사항",
+        "level": 4,
+        "label": "4.1.4.1",
+        "contents": "<p>4.1.4.1 보통 내진시스템 요구사항</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 51,
+        "title": "4.1.4.1 보통 내진시스템 요구사항",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>매입형 합성기둥에 대한 다음의 요구사항은 보통 내진시스템을 포함하여 모든 합성시스템에 대하여 적용된다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 52,
+        "title": "4.1.4.1 보통 내진시스템 요구사항",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 기둥의 설계전단강도는 KDS 14 31 80(4.6)에 따라 결정되어야 한다. 띠철근의 공칭전단강도는 KDS 14 20 22(4.3.4(2)에서 4.3.4(9))의 규정에 따라 산정한다. KDS 14 20 22(4.3.4(5)와 4.3.4(9))에서 치수 <img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAOgA6OgBmtjoAADo6kDpmtjqQ22YAAGY6AGY6OmY6ZmY6kGZmOmaQ22a222a2/5A6OpA6ZpCQkJCQtpCQ25C2/5Db/7a2tra227a2/7b//9uQOtu2kNu2ttv/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACUALAAAAAANABEAAAZZwJJwSCwajaTO5HMchgrNIcgQFW4eVRKEAcAeRwfHaME0PkukiOY4LYUI5eK1BBI0QxVRwjJSrEMUQxtdJR0XHhIeGEckGCMUIxlHIQ0gFRwWXwgBA3ZVREEAOw==\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 콘크리트 단면폭에서 전단방향과 수직방향으로 측정한 강재 단면의 폭을 뺀 값으로 해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 53,
+        "title": "4.1.4.1 보통 내진시스템 요구사항",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 강재 단면과 철근콘크리트가 작용하중을 나누어 부담하도록 설계된 합성기둥은 KDS 14 31 80(4.4.1)의 요구사항을 만족시키는 전단연결재를 설치한다. </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 54,
+        "title": "4.1.4.1 보통 내진시스템 요구사항",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3) 횡방향 띠철근의 최대간격은 KDS 14 31 80(4.4.1)의 요구사항을 만족해야 한다. 기초의 상단으로부터 그리고 각층에서 가장 낮은 위치의 보나 슬래브 상단으로부터 띠철근 간격의 1/2 위치 내에 첫 번째 띠철근이 배근해야 한다. 그리고 각층에서 가장 낮은 위치의 보나 슬래브 하단으로부터 띠철근 간격의 1/2 위치 내에도 첫 번째 띠철근을 배근해야 한다. 횡방향철근의 직경은 합성부재의 장변치수의 1/50 보다 작지 않도록 해야 한다. 다만, 띠철근은 D10 이상이어야 하며 D16 보다 클 필요는 없다. 중간 및 특수 내진시스템에 대해 금지된 경우를 제외하고 동등한 단면의 용접철망을 횡방향철근으로 사용할 수 있다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 55,
+        "title": "4.1.4.1 보통 내진시스템 요구사항",
+        "level": 5,
+        "label": "(4)",
+        "contents": "<p>(4) 하중저항 철근은 KDS 14 20 50 및 KDS 14 20 52에 제시된 세부사항과 이음요구사항을 만족해야 한다. 하중저항 철근은 장방형 단면의 모든 모서리에 배근해야 한다. 이외의 하중저항 철근 또는 고정용 철근의 최대간격은 합성부재 단면의 최소치수의 절반 이하로 해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 56,
+        "title": "4.1.4.1 보통 내진시스템 요구사항",
+        "level": 5,
+        "label": "(5)",
+        "contents": "<p>(5) 보통 내진시스템에 있어서의 매입형 합성기둥에 대한 이음과 지압상세는 4와 KDS 14 20 52의 요구사항을 만족해야 한다. 설계는 KDS 14 20 80에 따른다. 설계는 부재의 강성이나 공칭인장강도에 있어서의 갑작스러운 변화에 따른 불리한 영향을 고려해야 한다. 합성단면에서 철근콘크리트 단면으로 변화하는 위치, 합성단면에서 강재 단면으로 변화하는 위치, 그리고 주각부 등이 이에 해당한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 57,
+        "title": "4.1.4.2 중간 내진시스템 요구사항",
+        "level": 4,
+        "label": "4.1.4.2",
+        "contents": "<p>4.1.4.2 중간 내진시스템 요구사항</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 58,
+        "title": "4.1.4.2 중간 내진시스템 요구사항",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>중간 내진시스템에서의 매입형 합성기둥은 4.1.4.1의 요구사항 외에 다음의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 59,
+        "title": "4.1.4.2 중간 내진시스템 요구사항",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 상부와 하부에서의 횡방향 철근의 최대 간격은 다음 중 최솟값으로 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 60,
+        "title": "4.1.4.2 중간 내진시스템 요구사항",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>① 단면의 최소치수의 1/2</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 61,
+        "title": "4.1.4.2 중간 내진시스템 요구사항",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>② 길이방향 철근직경의 8배</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 62,
+        "title": "4.1.4.2 중간 내진시스템 요구사항",
+        "level": 6,
+        "label": "③",
+        "contents": "<p>③ 띠철근직경의 24배</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 63,
+        "title": "4.1.4.2 중간 내진시스템 요구사항",
+        "level": 6,
+        "label": "④",
+        "contents": "<p>④ 300 mm</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 64,
+        "title": "4.1.4.2 중간 내진시스템 요구사항",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 횡방향 철근의 최대간격은 휨항복이 발생할 것으로 기대되는 위치에서 접합면(기둥의 양 측면 중 낮은 위치)으로부터 다음의 길이 중 가장 큰 값에 해당하는 수직거리에 걸쳐 유지해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 65,
+        "title": "4.1.4.2 중간 내진시스템 요구사항",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>① 기둥의 수직 순높이의 1/6</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 66,
+        "title": "4.1.4.2 중간 내진시스템 요구사항",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>② 단면치수의 최댓값</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 67,
+        "title": "4.1.4.2 중간 내진시스템 요구사항",
+        "level": 6,
+        "label": "③",
+        "contents": "<p>③ 450 mm</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 68,
+        "title": "4.1.4.2 중간 내진시스템 요구사항",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3) 기둥 나머지 구간에 대한 띠철근 간격은 위에서 명시된 간격의 2배를 초과해서는 안 된다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 69,
+        "title": "4.1.4.2 중간 내진시스템 요구사항",
+        "level": 5,
+        "label": "(4)",
+        "contents": "<p>(4) 용접철망은 중간 내진시스템에서 횡방향철근으로 인정하지 않는다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 70,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 4,
+        "label": "4.1.4.3",
+        "contents": "<p>4.1.4.3 특수 내진시스템 요구사항</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 71,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>특수 내진시스템에서의 매입형 합성기둥은 4.1.4.1과 4.1.4.2의 요구사항 뿐만 아니라 다음의 요구사항을 추가로 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 72,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 매입형 합성기둥에 대한 소요축방향강도와 이음부상세는 KDS 14 31 60(4.1.3과 4.1.4)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 73,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 길이방향의 하중저항 철근은 KDS 14 20 80의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 74,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3) 횡방향철근은 KDS 14 20 80에 명시된 바와 같이 후프이여야 하며 다음의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 75,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>① 띠철근의 최소면적 <img src=\"data:image/gif;base64,R0lGODlhFgARAPUAAAAAAAAAZgA6kABmtjoAADpmkDpmtjqQ22YAAGY6kGaQ22a2/5A6AJBmOpBmtpCQtpC2/5Db/7ZmOra2tra227bb/7b//9uQOtuQZtuQkNu2Ztu2kNvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAAWABEAAAZxwJNwSCwaj8iksURRKi8HJ5KkiUqNHJD1OiR9tNyhqXMCh08XgHpbJB1HFSEUmYkYJ8P5MWMpahZDElsSAX0mDQQDQiYMAAIfjGsnJQ4iEJMJHg9cJE0nIgomnk4bFhh2IREjE2ROJQgFHyd8IAZnSEEAOw==\" width=\"23\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음 식을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 76,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>                     <img src=\"data:image/gif;base64,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\" width=\"194\" height=\"35\" vspace=\"1\" hspace=\"0\" border=\"0\">               (4.1-1) </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 77,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhDQAPAPQAAAAAAAAAOjoAADo6kDqQ22ZmOmZmtmaBZmaQ22a2/5BmkJCQ25Db25Db/5xYZrZmALZmOrZmZraQOraQkLbbtrb//9uQZtu2Ztvb/9v///+2Zv+2kP/b2///tv//2////yH5BAAAAB8ALAAAAAANAA8AAAVE4CeOZGme15CdY4ewo5bAolUABPwQncF6ikxnwep9NgzMSfOaUCofSCAh/VgaH0lOQ9AcuqcIVMwScxwVzlKQ0LBpoxAAOw==\" width=\"14\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 띠철근의 중심 간 거리로 측정된 구속코아의 단면치수 (mm)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 78,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBgANAPQAAAAAOgBmtjoAAGY6kGa2/5A6AJC2/7ZmZraQkLbb27bb/9u2kNvb29v///+2kP+2tv/bkP/btv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAGAA0AAAUf4CSOZGmeJCQE46E8ivgkTDM5xoTYixINNkkBQECVQgA7\" width=\"7\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 구조부재의 길이방향으로 측정된 횡방향철근의 간격 (mm)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 79,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPUAAAAAAAAAZgBmtjoAADoAOjo6kDpmtjqQ22Y6kGa2/5A6AJA6OpA6ZpBmkJCQkJCQ25C2/5Db/7ZmALZmkLa2tra227b//9uQOtu2Ztvb29vb/9v/29v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAMAA8AAAZMQJFwSCwajReAEhCwFEOLiCjU4BRBCM6HQzF2DqGJRWOUKAXHEMPigRw9BtH2eEkQPQVtSKG0CzMUGw5HUxUgD4RtHW5HGANNiQR2QQA7\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 강재 코아의 항복강도 (MPa)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 80,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDQAPAPQAAAAAAAAAZjpmkGYAAGY6Oma2/5A6AJBmtpC225Db/7ZmALZmOra227a2/7b//9uQZtuQkNu2kNvb29v///+2Zv/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAANAA8AAAU+YCaOZGme5JOgYkWsLLPAZ+XMKCZlKkoBwMLpghAphCaIw4hcBBwYA0CoADwvh0qDlbEwuBFHD3UZCCbcUQgAOw==\" width=\"14\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 강재 코아의 단면적 (mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 81,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDQAPAPUAAAAAAAAAOgA6kDo6Zjo6kDpmtjqQ22Y6AGY6kGaQ22a222a2/5A6AJA6OpA6ZpCQtpCQ25Db/7ZmALZmOra2tra227b//9uQOtu2ttvbttvb/9v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANAA8AAAZMwJBwSCwaj6ELYBlIHEGNSIhD2Bg/CKunauQYQtDFUcJUPB0WpNBTUAsv4qFncBBsQAxAQCrMTCIYVk8PIRRqHhAfFRpIHRFbgm4hQQA7\" width=\"14\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : KDS 14 31 80(4.4) 에 따라 계산된 합성기둥의 공칭압축강도 (N)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 82,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDQAPAPUAAAAAAAAAOgAAZgBmtjoAADpmtjqQ22YAAGYAOmZmkGZmtmaQ22a222a2/5A6OpA6ZpBmOpBmkJC2kJDb/7ZmOrZmZraQkLa2trbb27b//9uQOtuQZtuQkNuckNv///+2Zv+2tv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAANAA8AAAZQQJJwSCwaj0NKAyncSArMUcTDFB0AAybps9CSNhPiyBEWjh6ZIigtFCmSgcZFIxB+DHbDh+HAixIQZRVpIghdRoMhHRMWGEYfBA0cGUpeQkEAOw==\" width=\"14\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 콘크리트의 설계기준 압축강도 (MPa)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 83,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhEQAPAPUAAAAAAAAAZgBmtjoAADoAOjo6kDpmtjqQ22YAAGY6kGaQ22a2/5A6AJA6OpCQkJCQtpCQ25C2/5Db/7ZmOrZmZra2tra227bb27bb/7b//9uQOtuQZtuQkNu2Ztvb29vb/9v/ttv/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAARAA8AAAZpQJVwSCwaj0gVCgFoNg9JVakgEmoWUQ009TFhkqmGJEXJRKWDpuCs0qpGWOJGQgzTT1Uixzyc5qVUJyoTA2spDE0BfB4VIQ4gCSEPYBYoECUKKRZJJREjESQSJhcfSB0DinsjBpwEcURBADs=\" width=\"18\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">: 띠철근의 항복강도 (MPa)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 84,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 7,
+        "label": "본문",
+        "contents": "<p>     매입형 합성기둥의 강재 단면만의 공칭강도가 하중조합 1.0 <img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAAAAAA6OgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAOma225A6AJA6OpBmOpDb/7ZmALZmOtuQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABgALAAAAAALAA4AAAU+ICaOZGmS1wKsgOCQVvJez0BOgyRSBfkgI97owniJcEGDTvQgjCJAUcxINGIgUQxFiak0DqMHCxBQnM5oTAgAOw==\" width=\"12\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">+0.5 <img src=\"data:image/gif;base64,R0lGODlhCQAOAPQAAAAAAAA6kABmtjo6kDqQ22YAAGYAOmYAZmY6kGa2/5A6AJA6OpDb/7ZmALa2tra2/7b//9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAJAA4AAAUu4CWOZGlWBQAEEVkdkCkJ5tUkp8HIrNkQI4fIsthdKg/RZNCiICIWhWoKrFlHIQA7\" width=\"10\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\"> 하중효과보다 큰 경우 식 (4.1-1)은 만족하지 않아도 된다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 85,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>②  기둥의 길이를 따라 설치된 횡방향철근의 최대간격은 길이방향 하중저항철근직경의 6배 또는 150 mm 중 작은 값으로 해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 86,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 6,
+        "label": "③",
+        "contents": "<p>③  4.1.4.3(4), 4.1.4.3(5) 또는 4.1.4.3(6)에서 명시된 횡방향철근의 최대 간격은 부재단면 최소치수의 1/4 또는 100 mm 중 작은 값으로 해야 한다. 이러한 횡방형철근에 대해 연결철근, 겹친후프의 다리, 그리고 다른 구속철근의 간격은 횡방향으로 350 mm 보다 크게 할 수 없다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 87,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 5,
+        "label": "(4)",
+        "contents": "<p>(4) <img src=\"data:image/gif;base64,R0lGODlhEAARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6Zjo6kDpmtjqQ22YAAGY6AGaQtma2/5A6AJA6OpBmAJCQtpCQ25Db/7ZmALZmOra2tra227b//9uQOtu2ttvbttvb/9v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAQABEAAAZdwJFwSCwaj0eRA8AECDDIkegxkUISUVABOqIQopmv1NGIUsqiCiIaUjADjE7UM5BHhxnsXTit7kcgB3ZDIAYLdUIUTIhDGxUTGoNIIhEjFn8gEiEXHHsfE4GSfyNBADs=\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">의 0.2배보다 큰 압축력을 받는 가새골조의 매입형 합성기둥은 전체 부재길이에 걸쳐 4.1.4.3(3)③에 명시된 바와 같은 횡방향 철근을 배근해야 한다. 매입형 합성기둥의 강재 단면만의 공칭강도가 하중조합 <img src=\"data:image/gif;base64,R0lGODlhTwAOAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmOjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGaQ22a222a2/5A6AJA6OpBmOpCQtpC225C2/5Db/7ZmALZmZrbb/7b//9uQOtuQZtuQkNu2Ztvb29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC8ALAAAAABPAA4AAAb+wJdwSCwaj8ikcslsOp/QKJLl4RxXDwDhUzwBvt/AJOnKJLFabpFlEpa64ID15bIA5MY65UUqtIknfkIkBxVIZYcWe31/QyFfCmqAAiBGLQ5zRCoKbS4XmUIdDEQdBodmR5udn0UjlUiiR5egQoF/HYZDs6SmR4hHtqG5Q65Iu5aYRiG9L7GOgkJ1o0MqB2DXeELLQ85DIgt3e0Qh0EXH48zddcMvKgi0Q7/K6dPeGnzZdBb15sld0LioJXgVilkeVEaCNWN3gtKLFg2GucuUguCxOqZU0WGlzSC5RgeRaPTEAeMLFBuEtJDQaFs0hA/9EakzhlE0C7lWYCjnC+YyTAs1ebaIwCVEvXVCVkDI1AEMzxdotoS6BmCAOClDokqilqVeU6oGsYodS7as2bNCggAAOw==\" width=\"81\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">의 하중효과보다 큰 경우 이러한 요구사항을 만족하지 않아도 된다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 88,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 5,
+        "label": "(5)",
+        "contents": "<p>(5) 벽체나 가새골조 같은 불연속적인 강성부재로부터의 반력을 지지하는 합성기둥은 축방향 압축력이 <img src=\"data:image/gif;base64,R0lGODlhEAARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6Zjo6kDpmtjqQ22YAAGY6AGaQtma2/5A6AJA6OpBmAJCQtpCQ25Db/7ZmALZmOra2tra227b//9uQOtu2ttvbttvb/9v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAQABEAAAZdwJFwSCwaj0eRA8AECDDIkegxkUISUVABOqIQopmv1NGIUsqiCiIaUjADjE7UM5BHhxnsXTit7kcgB3ZDIAYLdUIUTIhDGxUTGoNIIhEjFn8gEiEXHHsfE4GSfyNBADs=\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">의 0.1배를 초과하면 불연속이 발생하는 위치 하부의 전체길이에 걸쳐서 4.1.4.3(3)③에 명시된 바와 같은 횡방향철근을 배근해야 한다. 횡방향철근은 매입형강과 길이방향 철근이 항복강도를 충분히 발휘할 수 있도록 불연속부재 안으로 충분한 길이만큼 연장해야 한다. 매입형 합성기둥의 강재 단면만의 공칭강도가 하중조합 <img src=\"data:image/gif;base64,R0lGODlhTwAOAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmOjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGaQ22a222a2/5A6AJA6OpBmOpCQtpC225C2/5Db/7ZmALZmZrbb/7b//9uQOtuQZtuQkNu2Ztvb29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC8ALAAAAABPAA4AAAb+wJdwSCwaj8ikcslsOp/QKJLl4RxXDwDhUzwBvt/AJOnKJLFabpFlEpa64ID15bIA5MY65UUqtIknfkIkBxVIZYcWe31/QyFfCmqAAiBGLQ5zRCoKbS4XmUIdDEQdBodmR5udn0UjlUiiR5egQoF/HYZDs6SmR4hHtqG5Q65Iu5aYRiG9L7GOgkJ1o0MqB2DXeELLQ85DIgt3e0Qh0EXH48zddcMvKgi0Q7/K6dPeGnzZdBb15sld0LioJXgVilkeVEaCNWN3gtKLFg2GucuUguCxOqZU0WGlzSC5RgeRaPTEAeMLFBuEtJDQaFs0hA/9EakzhlE0C7lWYCjnC+YyTAs1ebaIwCVEvXVCVkDI1AEMzxdotoS6BmCAOClDokqilqVeU6oGsYodS7as2bNCggAAOw==\" width=\"81\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">의 하중효과보다 큰 경우 이러한 요구사항을 만족하지 않아도 된다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 89,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 5,
+        "label": "(6)",
+        "contents": "<p>(6) 합성 특수 모멘트골조에 사용된 매입형 합성기둥은 다음의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 90,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>①  횡방향철근은 기둥의 상부와 하부에서 4.1.4.2에 명시된 구간에 걸쳐 4.1.4.3(3)③의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 91,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>②  4.4.5의 강기둥-약보에 대한 설계요구사항을 만족해야 한다. 주각부의 상세는 비탄성 휨힌지를 유지할 수 있도록 설계해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 92,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 6,
+        "label": "③",
+        "contents": "<p>③  기둥의 전단강도는 KDS 14 20 80의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 93,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 5,
+        "label": "(7)",
+        "contents": "<p>(7) 기둥이 독립기초 또는 온통기초위에 설치될 때, 이 조항에서 명시된 바와 같은 횡방향 철근은 독립기초 또는 온통기초 안쪽으로 최소한 300 mm를 연장하여 배근해야 한다. 기둥이 벽체 위에 설치될 때 횡방향철근은 매입형강과 길이방향철근이 항복강도를 발휘할 수 있도록 벽체 안으로 충분한 길이만큼 연장해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 94,
+        "title": "4.1.4.3 특수 내진시스템 요구사항",
+        "level": 5,
+        "label": "(8)",
+        "contents": "<p>(8) 용접철망은 특별 지진시스템에 있어서 횡방향철근으로 허용하지 않는다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 95,
+        "title": "4.1.5 충전형 합성기둥",
+        "level": 3,
+        "label": "4.1.5",
+        "contents": "<p>4.1.5 충전형 합성기둥</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 96,
+        "title": "4.1.5 충전형 합성기둥",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>이 조항은 KDS 14 31 80(4.4.2)의 제한사항을 만족하는 기둥에 적용한다. 이러한 기둥은 이 조항에서 수정되는 사항을 제외하고 KDS 14 31 10(4.2)의 요구사항을 만족하도록 설계해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 97,
+        "title": "4.1.5 충전형 합성기둥",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 합성기둥의 공칭전단강도는 유효전단면적에 근거하여 계산된 강재 단면만의 공칭전단강도로 산정한다. 콘크리트와 강재 사이에 적절한 하중전달 메커니즘을 고려하여 설계한 경우 콘크리트의 전단내력을 강재 단면의 전단강도에 합산하여 계산할 수 있다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 98,
+        "title": "4.1.5 충전형 합성기둥",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 4.4, 4.7, 그리고 4.9에서 설명된 특별 내진시스템에 있어서 충전형 합성기둥에 대한 설계하중과 기둥이음은 상기 (1)의 요구사항에 추가하여 KDS 14 31 60(4.1.4)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 99,
+        "title": "4.1.5 충전형 합성기둥",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 합성특수 모멘트골조에 사용된 충전형 합성기둥은 상기 (1)과 (2)의 요구사항과 함께 다음의 추가적인 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 100,
+        "title": "4.1.5 충전형 합성기둥",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 기둥의 최소전단강도는 KDS 14 20 80의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 101,
+        "title": "4.1.5 충전형 합성기둥",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 4.4.5의 강기둥약보의 설계요구사항을 만족해야 한다. 주각부는 비탄성 휨힌지를 유지할 수 있도록 설계해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 102,
+        "title": "4.1.5 충전형 합성기둥",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 중간내진시스템 및 특수내진시스템에 사용되는 충전형 합성부재의 압축강재요소의 판폭두께비는 표 4.1-1의 한계값을 초과해서는 안 된다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 103,
+        "title": "4.1.5 충전형 합성기둥",
+        "level": 5,
+        "label": "표 4.1-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.1-1 충전형합성부재 압축강재요소의 판폭두께비 제한</p></caption><tbody><tr>\t<td rowspan=\"2\" width=\"93\" height=\"55\" valign=\"middle\" align=\"center\">\t<p>구분</p>\t</td>\t<td rowspan=\"2\" width=\"123\" height=\"55\" valign=\"middle\" align=\"center\">\t<p>판폭 두께비</p>\t</td>\t<td colspan=\"2\" width=\"248\" height=\"18\" valign=\"middle\" align=\"center\">\t<p>판폭두께비 제한값</p>\t</td>\t<td rowspan=\"2\" width=\"123\" height=\"55\" valign=\"middle\" align=\"center\">\t<p>사례</p>\t</td></tr><tr>\t<td width=\"124\" height=\"37\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhEAALAPQAAAAAAAAAOjoAADo6OjpmZjqQ22ZmZmZmkGaQ25Db/7ZmZtuQOtuQZtuQkNvb29v///+2Zv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAQAAsAAAUx4CSOZDlKjqlOkYGspnI8MAkFST0yQqFPDQPhAACQiiPIILEIFJHI1XMKmz51VuMkBAA7\" width=\"17\" height=\"11\" vspace=\"1\" hspace=\"0\" border=\"0\"><sup>[a]</sup></p>\t<p>(고연성)</p>\t</td>\t<td width=\"123\" height=\"37\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhEgALAPQAAAAAAAAAOjoAADo6OjpmZjqQ22ZmZmZmkGaQ25Db/7ZmZtuQOtuQZtuQkNvb29v///+2Zv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAASAAsAAAUy4CSOZFlKjqmOkYGsq3I8sAkFSV0yQqGPDQNhpgIARpBBYoEzOidGmHMaXVGn0utzEgIAOw==\" width=\"19\" height=\"11\" vspace=\"1\" hspace=\"0\" border=\"0\"><sup>[b]</sup></p>\t<p>(중간연성)</p>\t</td></tr><tr>\t<td width=\"93\" height=\"65\" valign=\"middle\" align=\"center\">\t<p>각형강관</p>\t</td>\t<td width=\"123\" height=\"65\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhDQAJAPUAAAAAAAAAZgBmtjo6OmYAOma222a2/5A6AJA6ZpBmkJCQ25C2/5Db27ZmZraQkLa2tra227a2/7bbtrbb27bb/7b//9uQOtuQZtu2ttvb/9v/29v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAANAAkAAAZGQJFwCIoMj5lhp3IUhhIb4WOIYYpACiEIMnRERZ5BoPKhiEIHgEB4KXAMmC922KhwGFyhZ0HVICRmQh0TSVcEcF8iFmsiQQA7\" width=\"14\" height=\"9\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"124\" height=\"65\" valign=\"middle\" align=\"center\">\t<p>1.4<img src=\"data:image/gif;base64,R0lGODlhGgAYAPUAAAAAAAAAZgA6kABmtjoAADqQtjqQ22YAAGZmkGZmtmaQ22a2/5A6AJA6ZpBmkJC2tpC2/5Db/7ZmZrZmkLa2tra227a2/7bb27bb/7b/trb//9uQZtu2kNu2ttvbttvb29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACgALAAAAAAaABgAAAatQJRwKBRlDoCkcrkMEIkdzXNKnVJA1SyVMjUhkwat8FShbiKoEUSMMlmmJwdocsGKSZjpiAAYsItSTxsLah9/HXZEElIceWxcRCcMSgKJWWR/Ym6ZVCVYeEJeTEwBgUMbUiKmnKENaIisTyELKJBEokm0WSMKmFNnKCKOVSYJm09xc3VaJggew0N7fWxxHdBCg2p/Eg+rQoucGwWWktNEAFkhfmxJKOh6CpntQ0EAOw==\" width=\"28\" height=\"24\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"123\" height=\"65\" valign=\"middle\" align=\"center\">\t<p>2.26<img src=\"data:image/gif;base64,R0lGODlhGgAYAPUAAAAAAAAAZgA6kABmtjoAADqQtjqQ22YAAGZmkGZmtmaQ22a2/5A6AJA6ZpBmkJC2tpC2/5Db/7ZmZrZmkLa2tra227a2/7bb27bb/7b/trb//9uQZtu2kNu2ttvbttvb29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACgALAAAAAAaABgAAAatQJRwKBRlDoCkcrkMEIkdzXNKnVJA1SyVMjUhkwat8FShbiKoEUSMMlmmJwdocsGKSZjpiAAYsItSTxsLah9/HXZEElIceWxcRCcMSgKJWWR/Ym6ZVCVYeEJeTEwBgUMbUiKmnKENaIisTyELKJBEokm0WSMKmFNnKCKOVSYJm09xc3VaJggew0N7fWxxHdBCg2p/Eg+rQoucGwWWktNEAFkhfmxJKOh6CpntQ0EAOw==\" width=\"28\" height=\"24\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"123\" height=\"65\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/png;base64,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\" width=\"44\" height=\"59\" vspace=\"0\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td width=\"93\" height=\"56\" valign=\"middle\" align=\"center\">\t<p>원형강관</p>\t</td>\t<td width=\"123\" height=\"56\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhEQAJAPUAAAAAAAAAOgBmtjpmtjqQ22YAAGaQ22a222a2/5A6AJA6ZpBmkJCQ25C2/5Db/7ZmZraQZraQkLa2tra227a2/7bb27bb/7b//9uQOtuQZtu2Ztu2ttvb/9v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAARAAkAAAZSQJJwSBRRiMjk55IkiQoAQMAhlAw3zGGGqhE4J8NIZzhajEEDUshCGiUAXiHIIPQQSJuxk0HMINoKFyNgcg1ED4IQf2tDHxUcbW9SB0J5QxhxQQA7\" width=\"18\" height=\"9\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"124\" height=\"56\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhIwAXAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6kDpmkDpmtjqQ22YAAGZmZmZmkGZmtmaQ22a2/5A6AJA6OpCQkJCQ25C2/5Db/7ZmOraQkLa2tra2/7bbkLbb/7b//9uQOtuQkNu2Ztu2kNvb29v/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAAjABcAAAbbwJVwSCwaj8ihBYAoLpuqEdEi4Ag7gCwgUCGSEqvOY/gNP0yFLMGzEQtVke7qYh26y9fxFyU9aRxFJgYjJBQhTl0mgEIWiYspGR0LBQNSYVlVRo0rikqOQh4cHQQjHWBwFSkNR3dgeStlKQylegScg0IllmRNFmeDJL1jJk3BYWBuKyCLTkzNTZyrK0sHIhBaAJlJ29zd3t9EKQrY5OXm59rg6utYWunrSKgrKhK78EeCIx8VGPfb7ZX8JUGVYoLAJPkO/nMlBIDCISquARizIkvFh0gsYjSixVsQADs=\" width=\"36\" height=\"23\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"123\" height=\"56\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhHgAXAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6OjpmtjqQ22YAAGY6AGZmtmaQ22a2/5A6AJCQ25C2tpC2/5Db25Db/7ZmZrbb/7b//9uQZtuQkNu2kNvb29vb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAAeABcAAAawQJJwSCwaj0XRYnAphixHkQJALRgxDk+D6AE4SCADoTP0fEESY+UiYhTR4DRxnZlw1Gw3EQ46BChCUgBjR2ttb2lPHglCIA0iEEiGekNwGBQgCEKXQhtHWFoki41pGhZmQmskGoBGSkx7Bl5KYyMPVINkSLu8vb6/JIK4w8TFxQJNwMq9wgCMy0ioH3LQeBgRUNVJU4Tab4+R3kWc4nhFAN62AFZDVCTo5UTu8e3zSEEAOw==\" width=\"31\" height=\"23\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"123\" height=\"56\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/png;base64,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\" width=\"40\" height=\"43\" vspace=\"0\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td colspan=\"5\" width=\"588\" height=\"72\" valign=\"middle\" align=\"center\">\t<p>[a] 4.4 합성특수모멘트골조의 보와 기둥, 4.7 합성특수중심가새골조의 기둥과 가새, 4.9 합성편심가새골조의 기둥에 요구됨.</p>\t<p>[b] 4.5 합성중간모멘트골조의 보와 기둥, 4.7 합성특수중심가새골조의 보, 4.8 합성보통가새골조의 가새 4.9 합성편심가새골조의 가새에 요구됨. </p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5315,
+        "sort": 104,
+        "title": "4.2 합성접합부(연결부)",
+        "level": 2,
+        "label": "4.2",
+        "contents": "<p>4.2 합성접합부(연결부)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 105,
+        "title": "4.2.1 범위",
+        "level": 3,
+        "label": "4.2.1",
+        "contents": "<p>4.2.1 범위</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 106,
+        "title": "4.2.1 범위",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 조항은 지진하중이 강재와 철근콘크리트 부재 사이에서 전달되는 합성시스템 또는 강재와 콘크리트의 복합시스템을 갖는 건축물의 접합부(연결부)에 대하여 적용한다. 합성 접합부(연결부)는 KDS 14 31 60과 KDS 14 20 80의 요구사항을 만족하는 철근콘크리트 접합부(연결부) 또는 강재 접합부(연결부)에 상응하는 강도, 연성, 그리고 인성을 발휘할 수 있어야 한다. 접합부(연결부) 강도의 계산법은 이 기준의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 107,
+        "title": "4.2.2 일반 요구사항",
+        "level": 3,
+        "label": "4.2.2",
+        "contents": "<p>4.2.2 일반 요구사항</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 108,
+        "title": "4.2.2 일반 요구사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 접합부(연결부)는 설계층간변위에서의 소요강도에 저항할 수 있도록 적절한 변형능력을 발휘할 수 있어야 한다. 이외에도 접합부(연결부)는 지진력을 받는 구조물의 횡방향 안정성을 확보할 수 있도록 그 접합부(연결부)가 사용되는 특정 시스템에 근거하여 4.3에서 4.12까지의 요구사항을 만족해야 한다. 접합된 부재의 설계강도가 공칭치수와 공칭재료강도에 근거할 때 접합부(연결부)의 설계강도의 계산은 접합된 부재의 실제강도의 증가에 따른 효과를 고려해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 109,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 3,
+        "label": "4.2.3",
+        "contents": "<p>4.2.3 접합부(연결부)의 공칭강도</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 110,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>합성 구조시스템에서의 접합부(연결부)의 공칭강도는 한계상태를 고려하여 구성재료 및 요소의 내부힘의 평형과 강도의 제한값을 만족하는 합리적 모델에 근거하여 결정해야 한다. 접합부(연결부) 강도가 해석과 실험에 의해 결정되지 않는다면, 접합부(연결부) 해석에 사용되는 모델은 다음 (1)에서 (5)까지의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 111,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 구조용 강재와 철근콘크리트 사이에 힘은 다음과 같은 방법을 통해 전달되어야 한다. </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 112,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 스터드 전단연결재나 적절한 장치에 의한 직접적인 지압</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 113,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 기계적인 방법</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 114,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 전단력 전달면에 직교하는 방향으로 조이는 힘에 의한 전단마찰</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 115,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 이러한 여러 방법들의 조합</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 116,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 6,
+        "label": "가.",
+        "contents": "<p>가. 구조용 강재와 철근콘크리트 사이의 부착강도는 접합부(연결부)의 하중전달 메커니즘에서 고려하지 않는다. 서로 다른 메커니즘들의 기여도는 이러한 메커니즘들의 강성과 변형능력이 서로 적합조건을 만족할 때에 한하여 합산이 가능하다. </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 117,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 6,
+        "label": "나.",
+        "contents": "<p>나. 공칭지압과 전단마찰강도는 KDS 14 20 20과 KDS 14 20 22의 요구사항을 만족해야 한다. 더 높은 강도가 반복하중 실험에 의해 입증되지 않는다면 4.4, 4.7, 4.9, 4.11, 그리고 4.12에서 설명된 합성 내진시스템에 대하여 공칭지압과 전단마찰강도를 25% 감소해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 118,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 합성 접합부(연결부)에서 구조용 강재요소의 설계강도는 KDS 14 31 05부터 KDS 14 31 55까지의 규정 및 KDS 14 31 60에 의해 구해야 한다. 구속된 철근콘크리트에 매입된 강재 부재는 면외좌굴에 대하여 지지된 것으로 볼 수 있다. 강재보가 철근콘크리트 기둥이나 벽에 묻히는 경우 강재보의 플랜지 사이에 설치된 보강재에 해당하는 표면지압판이 필요하다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 119,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 철근콘크리트에 매입된 보-기둥 접합부(연결부)의 패널존의 공칭전단강도는 4.4.3과 KDS 14 20 80에서 각각 결정되는 강재의 공칭강도와 구속된 철근콘크리트 전단요소의 공칭강도의 합으로 계산해야 한다. </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 120,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 철근은 접합부(연결부)의 철근콘크리트 요소에 작용하는 모든 인장력에 저항할 수 있도록 배근되어야 한다. 이외에도 콘크리트는 횡방향철근에 의해 구속되어야 한다. 모든 철근은 인장 또는 압축을 저항하는데 필요한 위치 너머까지 충분히 정착해야 한다. 정착길이는 KDS 14 20 52 에 따라 결정된다. 그리고 4.4, 4.7, 4.9, 4.11, 그리고 4.12에서 설명한 시스템에 대한 정착길이는 KDS 14 20 80(4.4)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 121,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5) 접합부(연결부)는 다음의 추가적인 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 122,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 슬래브가 수평방향의 다이아프램 힘을 전달할 때, 수집부재보, 기둥, 가새, 그리고 벽체와의 연결부를 포함하여 슬래브의 모든 위험단면에 작용하는 면내인장력을 지지할 수 있도록 슬래브 철근을 설계하고 정착해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 123,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 철골보 또는 합성보를 철근콘크리트 기둥 또는 매입형 합성기둥과 접합하는 경우에는 횡방향 후프를 KDS 14 20 80(4.4)의 요구사항을 만족하도록 기둥의 접합부(연결부) 영역 내에 설치해야 한다. 다만, 다음의 수정사항에 해당할 경우는 예외로 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 124,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 6,
+        "label": "가.",
+        "contents": "<p>가. 접합부(연결부)에 연결된 강재 단면은 보플랜지 사이에 용접된 표면지압판과 동일한 폭만큼 구속할 수 있는 것으로 간주한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 125,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 6,
+        "label": "나.",
+        "contents": "<p>나. 4.5, 4.6, 4.8 그리고 4.10에서 설명된 시스템에서 표면지압판 또는 다른 장치에 의해 콘크리트 피복의 박락을 방지함으로써 이음에 대한 구속이 이루어지는 경우 바깥쪽 띠철근에 겹침이음을 사용하는 것을 허용한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 126,
+        "title": "4.2.3 접합부(연결부)의 공칭강도",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 철근콘크리트 기둥과 합성기둥에서, 보-기둥 접합부(연결부)의 높이에 걸친 기둥모멘트의 변화에 따른 큰 힘의 전달로 인한 접합부(연결부)를 통한 길이방향 철근의 미끄러짐을 최소화할 수 있도록 길이방향 철근의 치수와 배치를 설계해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 127,
+        "title": "4.3 합성부분강접모멘트골조",
+        "level": 2,
+        "label": "4.3",
+        "contents": "<p>4.3 합성부분강접모멘트골조</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 128,
+        "title": "4.3.1 범위",
+        "level": 3,
+        "label": "4.3.1",
+        "contents": "<p>4.3.1 범위</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 129,
+        "title": "4.3.1 범위",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 조항은 부분강접모멘트접합부로 연결된 합성보와 강재기둥으로 구성된 골조에 대해 적용한다. 합성부분강접모멘트골조는 지진하중에 대해 합성부분강접 보-기둥모멘트접합부의 연성요소에서 항복이 발생하도록 설계해야 한다. 주각접합부(연결부)와 같은 곳에서의 항복은 제한적으로 허용된다. 합성부분강접모멘트골조의 강도, 횡변위 및 동적특성을 결정하는 데에는 접합부(연결부)의 연성도와 합성보작용이 고려되어야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 130,
+        "title": "4.3.2 기둥",
+        "level": 3,
+        "label": "4.3.2",
+        "contents": "<p>4.3.2 기둥</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 131,
+        "title": "4.3.2 기둥",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 강재기둥은 3과 KDS 14 31 60 그리고 이 기준에 명시된 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 132,
+        "title": "4.3.3 합성보",
+        "level": 3,
+        "label": "4.3.3",
+        "contents": "<p>4.3.3 합성보</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 133,
+        "title": "4.3.3 합성보",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 합성보는 노출형이며 완전합성이어야 하고 KDS 14 31 80의 요구사항을 만족해야 한다. 해석을 위한 보의 강성은 합성단면의 유효단면2차모멘트를 사용하여 결정해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 134,
+        "title": "4.3.4 합성 부분강접 모멘트골조 모멘트접합부",
+        "level": 3,
+        "label": "4.3.4",
+        "contents": "<p>4.3.4 합성 부분강접 모멘트골조 모멘트접합부</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 135,
+        "title": "4.3.4 합성 부분강접 모멘트골조 모멘트접합부",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 보-기둥 부분강접 모멘트접합부의 소요강도는 접합부의 연성도와 2차모멘트의 영향을 고려하여 결정해야 한다. 이외에도 합성접합부는 최소한 <img src=\"data:image/gif;base64,R0lGODlhEgARAPUAAAAAAAA6ZgBmtjoAADo6ADo6kDqQ22YAAGYAZmY6kGaQ22a2/5A6AJA6OpBmOpBmkJCQOpCQkJCQtpCQ25C225Db/7ZmALZmOrZmZraQZraQkLaQtrbbkLb/27b//9uQOtuQkNu2Ztvb29v/ttv///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAASABEAAAZ/QJVwSCwaj8hhigEQEE8DwOKYchRIwtTlijxFuCoTxJAEcbgoimWK1IwS2M0I4UGiJii6qVJyIvd5HRMqa0kaJHkRHikNFUgpEiooB1MnYEYhCiqQQh9kKicKH34WAFJCk6ZkIhkeGHVJQygSKQ9YsUIlBqG4Qx8EAbC4UJ8qQQA7\" width=\"19\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">의 50%에 해당되는 공칭강도를 가져야 한다. 여기서, <img src=\"data:image/gif;base64,R0lGODlhEgARAPUAAAAAAAA6ZgBmtjoAADo6ADo6kDqQ22YAAGYAZmY6kGaQ22a2/5A6AJA6OpBmOpBmkJCQOpCQkJCQtpCQ25C225Db/7ZmALZmOrZmZraQZraQkLaQtrbbkLb/27b//9uQOtuQkNu2Ztvb29v/ttv///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAASABEAAAZ/QJVwSCwaj8hhigEQEE8DwOKYchRIwtTlijxFuCoTxJAEcbgoimWK1IwS2M0I4UGiJii6qVJyIvd5HRMqa0kaJHkRHikNFUgpEiooB1MnYEYhCiqQQh9kKicKH34WAFJCk6ZkIhkeGHVJQygSKQ9YsUIlBqG4Qx8EAbC4UJ8qQQA7\" width=\"19\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 합성거동을 무시한 강재보의 공칭소성휨강도이다. 접합부(연결부)는 4.2의 요구사항을 만족해야 하며 KDS 14 31 60(C.2)에 명시된 반복 하중실험에 의해 전체 층간변위각 0.04 <img src=\"data:image/gif;base64,R0lGODlhFQAOAPUAAAAAAAAAOgBmtjoAADo6kDpmtjqQ22YAZmY6AGY6OmY6ZmY6kGZmOmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpCQtpDb/7ZmALbbtrbb/7b/27b//9uQOtu229vbtv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAVAA4AAAZpwJFwSCwaj8ikcskcgRCPppETFYIWGophSR2KIpZhCAHYCj+DQKI6Ekk2wq8lpIDLRRO2G97utN8jHwVCXXGAQx4YgB8NhHqHIhV/cIKOXoeVHwd2YCIXbBcAAnEQAQ4XZmgBDAQZUkhBADs=\" width=\"22\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">을 발휘할 수 있음을 입증해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 136,
+        "title": "4.4 합성특수모멘트골조",
+        "level": 2,
+        "label": "4.4",
+        "contents": "<p>4.4 합성특수모멘트골조</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 137,
+        "title": "4.4.1 범위",
+        "level": 3,
+        "label": "4.4.1",
+        "contents": "<p>4.4.1 범위</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 138,
+        "title": "4.4.1 범위",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 조항은 합성기둥 또는 철근콘크리트기둥과 강재보 또는 합성보로 구성된 모멘트골조에 적용한다. 합성특수모멘트골조의 설계는 설계지진하중에 의해 주로 보에 상당한 크기의 비탄성변형이 발생하며 기둥 또는 접합부(연결부)에는 제한된 크기의 비탄성변형이 발생한다는 가정 하에 이루어진다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 139,
+        "title": "4.4.2 기둥",
+        "level": 3,
+        "label": "4.4.2",
+        "contents": "<p>4.4.2 기둥</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 140,
+        "title": "4.4.2 기둥",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 합성기둥은 4.1.4와 4.1.5의 특수 내진시스템에 대한 요구사항을 만족해야 한다. 철근콘크리트 기둥은 KDS 14 20 80(4.7 제외)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 141,
+        "title": "4.4.3 보",
+        "level": 3,
+        "label": "4.4.3",
+        "contents": "<p>4.4.3 보</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 142,
+        "title": "4.4.3 보",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>합성 특수 모멘트골조의 구성요소인 합성보는 다음과 같은 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 143,
+        "title": "4.4.3 보",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 콘크리트의 압축측 연단으로부터 소성중립축까지의 거리는 다음과 같은 값을 초과할 수 없다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 144,
+        "title": "4.4.3 보",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                        <img src=\"data:image/gif;base64,R0lGODlhmQA2APYAAAAAAAAAOgAAZgA6ZgA6kABmtjJRMToAADoAOjoAZjo6Ojo6Zjo6kDpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmkGZmtmaBZmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmZpBmkJBmtpCQtpCQ25C225C2/5C8kJDb25Db/7ZmALZmOrZmZraQkLa2kLa2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29vb/9v/ttv/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEwALAAAAACZADYAAAf+gEyCg4SFhoeIiYqLjI2Oj5CRkpOUlZaXmJmam5yLSyaPST+dpKWNLQAAASyCOKkelJ+PSBI3pre4hDgEQ4NHG72xoI5HDMG5yKREq4JIKJeyjkQPydWdShDUzpRHB6nfqcyGOQcDF7DW6ZktBduY0Ym7Q0cJtur3lcsdmvCHShGslFjoBQSfQUg4CmzqZ4gILybTmCwhceygxUNLPqDLxLBQQkEuPPQIcuKiyUP07IEMAMsFAGpHFkx4mE9hDworTBxRIEDlSYvYUvUUNI2Ih2kTh/hwwaJHRUlLRKxKmaOD0Z9YC72wt1UJhiGyZJDaSoSVJVSqzLoCsDFrpK3+SIBsxQHzhJIZBTn1EBLCJyV5voC5pUTkAKzCDgQVYVHsKaZ/bfOJc5epG7hvQwe7xabtmebPyNhR1mT5MoDM/iCYXs26tevXsGPDRl1IH+jbuT4SCgpggC1sCl0pFLQVt6AjKU4qKelJ4zhWIQXlaDBESYlBSEb4/axju0EY3gmlLJR0SV+JJnSwWCxoCY3iuDseLJIcEW/algeYRa6ERndBTsF3G3KHJPGCWUyMUggSE/RmAxMMOkgIEatFJshyk+QQ2X8xDGMZbZ/lgGB7H6RFIjgFZLTPDgQI8cGKNBGV2RIgjDhIUpIIKBFFEMGyhFjmhZeVjoP8Y1Z/g3T+15hEIKhgDJMjtkANE2I5hUgOQmJU4pQSlbhRRrygwuVnOBpipCHsORRMCxrQ1MJGZ+4Ai4KHXGVcLkpkYB9AhWDIhG5MtGDAcIFyudZpWTJxBAd35rLonjYe2AqhglI6ZUbU5MnIEYk1ektE/vBZ5EBEudnmmugcgQArS+SliKaemmKnmaKWGsySNDrZC41qEdqIQI7FmgkOFl5Y6580ZcQoiy4u+1BGkTUGg2NlCssJsYegBQBNRWxASIQDPAjug9rG+IMMQgxD3nnWPiIfISLes8QMfq6bKGgG2mjIu4Mwdc8RKMiJEbuxZmSiIvyCpC8y2IDYHsHCnomwuojH+KsODzWYEGyQ7TIhcSGlXSYOIRZjxXG7HyOSMBPxXqiabDDLNiPEsaaMEcWHtGwyzZ7avC/OhmCbVbURH3vzIrP+BGzHPksC6iUUmjbmI7BaW26wjzyaCREzRicJpx1zUvUlUgoilhH31jl12JYQTcmZjyZBiYZsb0LkJIeOPMnddc+9MCSYeqxnJW73zQ2jlqgaEA1MoD1JvYa3fZ0lgHrMnCT0RZ4JloQ7J4gPFaR9CHiaY0LgJNqCs7YjkJde9xJYu655IAA7\" width=\"154\" height=\"53\" vspace=\"1\" hspace=\"0\" border=\"0\">                  (4.4-1)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 145,
+        "title": "4.4.3 보",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhFgAPAPUAAAAAAAAAOgAAZgA6kDoAADo6Zjo6kDpmtjp8ezqQ22YAAGYAOmY6AGZmfGaBZma2/3uQtnxYZpA6OpCQ25Db/5xYZpxmOrZmALZmOrZmZraQkLa2tra227b//9uQOtu2ttu229vb29vb/9v///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAAWAA8AAAZwQJVwSCwaj8ikkAQACDoqlAKQUA5JT2FKM7IOUQuKcNP1Di9VUNm8HITWbJXJAI97qvFhSiIWYgIPGAAIBQwDdUwAAWIkCSQOCSkRFhQfdUYZUJkoDRAqG16ZJxUdHggTKBwiViQED60HJRRzl3lCQQA7\" width=\"24\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">: 강재보의 상단에서 콘크리트의 상단까지의 거리 (mm)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 146,
+        "title": "4.4.3 보",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCQAPAPUAAAAAOgA6OjoAADo6kDqQ22Y6OmY6ZmZmtmaQtmaQ22a2/5BmkJCQ25C2/5Db/7aQkLa2trbbtrbb/7b//9uQOtuQZtuQkNu2Ztu2ttvbttvb29v/ttv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAJAA8AAAZBQJFwSCwaRZ+CwxhacIygQ9EjCCSIIIOkoiB2CCLLxNMQVpYPTUZidmQQmA6gS1VQFJYIw/jY7IsQF11TA09HIkEAOw==\" width=\"10\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 강재보의 높이 (mm)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 147,
+        "title": "4.4.3 보",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPUAAAAAAAAAZgBmtjoAADoAOjo6kDpmtjqQ22Y6kGa2/5A6AJA6OpA6ZpBmkJCQkJCQ25C2/5Db/7ZmALZmkLa2tra227b//9uQOtu2Ztvb29vb/9v/29v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAMAA8AAAZMQJFwSCwajReAEhCwFEOLiCjU4BRBCM6HQzF2DqGJRWOUKAXHEMPigRw9BtH2eEkQPQVtSKG0CzMUGw5HUxUgD4RtHW5HGANNiQR2QQA7\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 강재보의 항복강도 (MPa)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 148,
+        "title": "4.4.3 보",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCAANAPQAAAAAAAAAZgBmtjpmtjqQ22Y6kGaQ22a2/5A6AJA6OpA6ZpDb/7ZmALb//9uQOtuQkNu2Ztu2ttvb/9v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAIAA0AAAUyYCaOZEk6QAqMWLJk2HgVkyWNFJE9zcikApaiUTHEMpVBxjKJiBwHEcSIUAECPZNWFAIAOw==\" width=\"9\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 강재보의 탄성계수 (MPa)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 149,
+        "title": "4.4.3 보",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 철근으로 보강된 매입형 합성보의 피복두께가 50mm 이상이며 지진에 의한 변형시 소성힌지가 발생하는 위치에서 후프에 의한 구속이 이루어지는 경우를 제외하고는 보플랜지는 4.4.4의 요구사항들을 만족해야 한다. 후프는 KDS 14 20 80(4.4.2) 의 요구사항을 만족해야 한다. </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 150,
+        "title": "4.4.3 보",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>강재트러스 또는 합성트러스는 실험과 해석을 통해 적절한 연성과 에너지 흡수능력을 발휘할 수 있음을 입증한 경우를 제외하고는 합성특수 모멘트골조의 휨부재로 사용할 수 없다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 151,
+        "title": "4.4.4 합성특수모멘트골조 모멘트접합부",
+        "level": 3,
+        "label": "4.4.4",
+        "contents": "<p>4.4.4 합성특수모멘트골조 모멘트접합부</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 152,
+        "title": "4.4.4 합성특수모멘트골조 모멘트접합부",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 보-기둥 모멘트 접합부의 소요강도는 보의 예상되는 휨강도 <img src=\"data:image/gif;base64,R0lGODlhKQARAPUAAAAAAAAAZgA6ZgA6kABmtjoAADoAZjo6Zjo6kDpmkDpmtjqQ22YAAGYAOmY6AGY6kGaQ22a2/5A6AJA6OpBmOpCQtpCQ25C2kJC225C2/5Db25Db/7ZmALZmOraQOraQkLa2kLa2tra227bb27b//9uQOtuQkNu2Ztu2kNu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADYALAAAAAApABEAAAbNQJtwSCwaj8ikcslsOp/GmgRABSReSSmAQJQVAJEmrbGxzRgLJW3CFdIo7SZsgJWGk7GLYvjx3JscaTUee0ofKghYMRoTZU1aAAKOWRUyiTQWllhNmjaBSzIZmh8vJWlOpkKpSiYkMgYgGzWNTrNldjWbURU2YxA2nZyJwAURKYgvpEQnvzQPWKvABw50RjBUXFIBJCwhLrxDHFQRNS00DFSnKx0bKbpMNSKYUDY1vCFQMhgnf04yFjREtHhybhu9GBuCNUExosI7ekaCAAA7\" width=\"42\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">과 관련된 휨과 전단으로부터 결정한다. 접합부의 공칭강도는 4.2의 요구사항을 만족해야 한다. 이외에도 접합부는 0.04<img src=\"data:image/gif;base64,R0lGODlhFQAOAPUAAAAAAAAAOgBmtjoAADo6kDpmtjqQ22YAZmY6AGY6OmY6ZmY6kGZmOmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpCQtpDb/7ZmALbbtrbb/7b/27b//9uQOtu229vbtv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAVAA4AAAZpwJFwSCwaj8ikcskcgRCPppETFYIWGophSR2KIpZhCAHYCj+DQKI6Ekk2wq8lpIDLRRO2G97utN8jHwVCXXGAQx4YgB8NhHqHIhV/cIKOXoeVHwd2YCIXbBcAAnEQAQ4XZmgBDAQZUkhBADs=\" width=\"22\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">의 총 층간변위각을 발휘할 수 있어야 한다. 접합부의 위치에서 보플랜지가 연속되지 않는 경우 접합부는 KDS 14 31 60(C.2)에 명시된 반복 하중실험을 통해 최소한 0.04<img src=\"data:image/gif;base64,R0lGODlhFQAOAPUAAAAAAAAAOgBmtjoAADo6kDpmtjqQ22YAZmY6AGY6OmY6ZmY6kGZmOmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpCQtpDb/7ZmALbbtrbb/7b/27b//9uQOtu229vbtv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAVAA4AAAZpwJFwSCwaj8ikcskcgRCPppETFYIWGophSR2KIpZhCAHYCj+DQKI6Ekk2wq8lpIDLRRO2G97utN8jHwVCXXGAQx4YgB8NhHqHIhV/cIKOXoeVHwd2YCIXbBcAAnEQAQ4XZmgBDAQZUkhBADs=\" width=\"22\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">의 총 층간변위각을 발휘할 수 있음을 입증해야 한다. 강재보가 철근콘크리트 기둥을 통해 관통함으로써 보플랜지의 용접접합이 필요하지 않으며 접합부가 다른 조기파단의 위험이 없는 경우 비탄성 회전능력은 실험 또는 다른 구체적인 자료로 증명해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 153,
+        "title": "4.4.5 기둥－보 모멘트비",
+        "level": 3,
+        "label": "4.4.5",
+        "contents": "<p>4.4.5 기둥－보 모멘트비</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 154,
+        "title": "4.4.5 기둥－보 모멘트비",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 철근콘크리트 기둥의 설계는 KDS 14 20 80(4.3.2) 의 요구사항을 만족해야 한다. </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 155,
+        "title": "4.4.5 기둥－보 모멘트비",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 합성기둥의 기둥-보 모멘트비는 다음과 같은 수정사항 외에는 KDS 14 31 60(4.3.5) 의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 156,
+        "title": "4.4.5 기둥－보 모멘트비",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 합성기둥의 설계휨강도는 소요축방향강도 <img src=\"data:image/gif;base64,R0lGODlhFgARAPQAAAAAAAAAOgA6kDoAADo6Zjo6kDqQ22YAOma222a2/5A6AJA6OpCQtpC2/5Db/7ZmALZmOrZmZrb//9uQOtvbttvb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAWABEAAAVaYCeOZGmeaKquI6cAMCBY7LgdTucatXjNogevJxTdcjXOIqcc1jIDWADRE02cVd0yO8oUaKQMYTCEBBKkBww4okQkPsMFzeIwRu9qpoGXaCo1GEgdFwN0XCchADs=\" width=\"24\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">를 고려하여 KDS 14 31 80의 요구사항을 만족해야 한다. </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 157,
+        "title": "4.4.5 기둥－보 모멘트비",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② KDS 14 31 60(4.3.5) 의 예외조항(2)의 하중제한은 <img src=\"data:image/gif;base64,R0lGODlhTAARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6Zjo6kDqQ22YAOmY6AGZmZmZmkGaQkGaQtmaQ22a222a2/5A6AJA6OpCQZpCQtpC2/5Db/7ZmALZmOrZmZraQZraQkLbb/7b//9uQOtu2Ztu2kNvbttvb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC4ALAAAAABMABEAAAb+QJdwSCwaj8ikcslsOp/QqHRKrbpOgGw2MLEmVQzA4HNccTJHrBbARZ4IJmFIAKKOGuRiiyJxieBEe2xoaYAuc3VGGgpDJ3RRKhYXcUcpCXEtFYRELAubRYuNj0WdmxoFTy0eD3lJb5QaXaSeR6VDp0chgC0bA4lMIg6tSiGoQqGzn0O6mL2/Q4JbEJRPKx2sxMYuyJy0ehRaAdOVB8pUkdhGr8cTe9q2RSnlTMVeRirDQpaYmkbwRPWW7JFFJAUCA4xcbGhTZU8EP4a6KRt4ZGEXDVoSDiHBIdEJBScI3lqzRiMRMGLybdNiCGMWk1dAijzS4sKQjvZyFsHJJAUahpsgVJTQqbOj0CUoNp0wMJNolaVNnUp1EgQAOw==\" width=\"77\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">로 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 158,
+        "title": "4.4.5 기둥－보 모멘트비",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ KDS 14 31 60(4.3.5) 의 최소 휨강도 요구사항을 적용하지 않는 합성기둥은 횡방향 철근이 4.1.4.3(3)의 요구사항을 만족해야 한다..</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 159,
+        "title": "4.5 합성중간모멘트골조",
+        "level": 2,
+        "label": "4.5",
+        "contents": "<p>4.5 합성중간모멘트골조</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 160,
+        "title": "4.5.1 범위",
+        "level": 3,
+        "label": "4.5.1",
+        "contents": "<p>4.5.1 범위</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 161,
+        "title": "4.5.1 범위",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 조항은 합성기둥 또는 철근콘크리트기둥과 강재보 또는 합성보로 구성된 모멘트골조에 적용한다. 합성중간모멘트골조의 설계는 설계지진하중에 의한 비탄성변형이 주로 보에서 발생하며 기둥 또는 접합부에는 부분적인 비탄성변형이 발생한다는 가정 하에 이루어진다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 162,
+        "title": "4.5.2 기둥",
+        "level": 3,
+        "label": "4.5.2",
+        "contents": "<p>4.5.2 기둥</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 163,
+        "title": "4.5.2 기둥",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 합성기둥은 4.1.4와 4.1.5의 중간 내진시스템에 대한 요구사항을 만족해야 한다. 철근콘크리트 기둥은  KDS 14 20 80(4.9)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 164,
+        "title": "4.5.3 보",
+        "level": 3,
+        "label": "4.5.3",
+        "contents": "<p>4.5.3 보</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 165,
+        "title": "4.5.3 보",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 강재보와 합성보는 KDS 14 31 10(4.3)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 166,
+        "title": "4.5.4 합성중간모멘트골조 모멘트접합부",
+        "level": 3,
+        "label": "4.5.4",
+        "contents": "<p>4.5.4 합성중간모멘트골조 모멘트접합부</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 167,
+        "title": "4.5.4 합성중간모멘트골조 모멘트접합부",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 접합부의 공칭강도는 4.2의 요구사항을 만족해야 한다. </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 168,
+        "title": "4.5.4 합성중간모멘트골조 모멘트접합부",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 보-기둥 접합부의 소요강도는 다음과 같은 요구사항들 중의 하나를 만족해야 한다. </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 169,
+        "title": "4.5.4 합성중간모멘트골조 모멘트접합부",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 보-기둥 접합부의 소요강도는 보의 소성힌지와 관련된 힘에 의해 결정된다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 170,
+        "title": "4.5.4 합성중간모멘트골조 모멘트접합부",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 접합부는 4.2의 요구사항들을 만족해야 하며 KDS 14 31 60(C.2)에 명시된 반복 하중실험을 통해 최소 0.03 <img src=\"data:image/gif;base64,R0lGODlhFQAOAPUAAAAAAAAAOgBmtjoAADo6kDpmtjqQ22YAZmY6AGY6OmY6ZmY6kGZmOmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpCQtpDb/7ZmALbbtrbb/7b/27b//9uQOtu229vbtv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAVAA4AAAZpwJFwSCwaj8ikcskcgRCPppETFYIWGophSR2KIpZhCAHYCj+DQKI6Ekk2wq8lpIDLRRO2G97utN8jHwVCXXGAQx4YgB8NhHqHIhV/cIKOXoeVHwd2YCIXbBcAAnEQAQ4XZmgBDAQZUkhBADs=\" width=\"22\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">의 총 층간변위각을 발휘할 수 있음을 입증해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 171,
+        "title": "4.6 합성보통모멘트골조",
+        "level": 2,
+        "label": "4.6",
+        "contents": "<p>4.6 합성보통모멘트골조</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 172,
+        "title": "4.6.1 범위",
+        "level": 3,
+        "label": "4.6.1",
+        "contents": "<p>4.6.1 범위</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 173,
+        "title": "4.6.1 범위",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 조항은 합성기둥 또는 철근콘크리트기둥과 강재보 또는 합성보로 구성된 모멘트골조에 적용한다. 합성보통모멘트골조의 설계는 설계지진하중에 의해 보와 기둥, 그리고 접합부에 제한된 비탄성변형이 발생한다는 가정 하에 이루어진다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 174,
+        "title": "4.6.2 기둥",
+        "level": 3,
+        "label": "4.6.2",
+        "contents": "<p>4.6.2 기둥</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 175,
+        "title": "4.6.2 기둥",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 합성기둥은 4.1.4와 4.1.5의 보통모멘트시스템에 대한 요구사항을 만족해야 한다. 철근콘크리트 기둥은 KDS 14 20 00(KDS 14 20 80 제외)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 176,
+        "title": "4.6.3 보",
+        "level": 3,
+        "label": "4.6.3",
+        "contents": "<p>4.6.3 보</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 177,
+        "title": "4.6.3 보",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 강재보와 합성보는 KDS 14 31 10(4.3)의 요구사항들을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 178,
+        "title": "4.6.4 모멘트접합부",
+        "level": 3,
+        "label": "4.6.4",
+        "contents": "<p>4.6.4 모멘트접합부</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 179,
+        "title": "4.6.4 모멘트접합부",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 접합부는 KDS 14 31 05의 하중조합에 대해 설계해야 한다. 또한 접합부의 설계강도는 KDS 14 31 60(4.2, 4.5.1)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 180,
+        "title": "4.7 합성특수중심가새골조",
+        "level": 2,
+        "label": "4.7",
+        "contents": "<p>4.7 합성특수중심가새골조</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 181,
+        "title": "4.7.1 범위",
+        "level": 3,
+        "label": "4.7.1",
+        "contents": "<p>4.7.1 범위</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 182,
+        "title": "4.7.1 범위",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 조항은 부재들의 중심선이 서로 일치하도록 접합된 가새골조에 적용한다. 설계단계에서 고려된 경우 미세한 편심은 허용된다. 기둥으로는 강재부재, 합성부재, 또는 철근콘크리트부재를 사용해야 한다. 보와 가새로는 강재부재 또는 합성부재가 사용되어야 한다. 합성특수중심가새골조의 설계는 설계지진하중에 의해 주로 가새의 좌굴이나 인장항복을 통해 비탄성거동이 발생한다는 가정 하에 이루어진다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 183,
+        "title": "4.7.2 기둥",
+        "level": 3,
+        "label": "4.7.2",
+        "contents": "<p>4.7.2 기둥</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 184,
+        "title": "4.7.2 기둥",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 강재기둥은 3과 KDS 14 31 60(4.1)의 요구사항을 만족해야 한다. 합성기둥은 특수 내진시스템에 관한 4.1.4 또는 4.1.5의 요구사항을 만족해야 한다. 철근콘크리트 기둥은 KDS 14 20 80(4.6.5)의 구조용 트러스 부재에 관한 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 185,
+        "title": "4.7.3 보",
+        "level": 3,
+        "label": "4.7.3",
+        "contents": "<p>4.7.3 보</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 186,
+        "title": "4.7.3 보",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 강재보는 특수중심 가새골조에 관한 KDS 14 31 60(4.6) 의 요구사항을 만족해야 한다. 합성보는 KDS 14 31 80(4.5) 의 요구사항 및 KDS 14 31 60(4.6) 의 특수중심 가새골조에 대한 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 187,
+        "title": "4.7.4 가새",
+        "level": 3,
+        "label": "4.7.4",
+        "contents": "<p>4.7.4 가새</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 188,
+        "title": "4.7.4 가새",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 강재가새는 KDS 14 31 60(4.6) 에 명시된 특수중심 가새골조에 관한 요구사항을 만족해야 한다. 합성가새는 4.7.2에 명시된 합성기둥에 관한 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 189,
+        "title": "4.7.5 접합부",
+        "level": 3,
+        "label": "4.7.5",
+        "contents": "<p>4.7.5 접합부</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 190,
+        "title": "4.7.5 접합부",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 가새접합부는 KDS 14 31 60(4.6) 과 4.2에 명시된 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 191,
+        "title": "4.8 합성보통가새골조",
+        "level": 2,
+        "label": "4.8",
+        "contents": "<p>4.8 합성보통가새골조</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 192,
+        "title": "4.8.1 범위",
+        "level": 3,
+        "label": "4.8.1",
+        "contents": "<p>4.8.1 범위</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 193,
+        "title": "4.8.1 범위",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 조항은 철근콘크리트기둥이나 합성기둥, 강재보나 합성보, 그리고 강재가새나 합성가새로 이루어진 중심가새골조시스템에 적용한다. 합성보통중심가새골조의 설계는 설계지진에 의해 보, 기둥, 가새, 그리고 접합부에 제한된 비탄성거동이 발생한다는 가정하에 이루어진다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 194,
+        "title": "4.8.2 기둥",
+        "level": 3,
+        "label": "4.8.2",
+        "contents": "<p>4.8.2 기둥</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 195,
+        "title": "4.8.2 기둥",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 매입형 합성기둥은 보통 내진시스템에 관한 4.1.4의 요구사항을 만족해야 한다. 충전형 합성기둥은 보통 내진시스템에 관한 4.1.5의 요구사항을 만족해야 한다. 철근콘크리트 기둥의 경우는 KDS 14 20 00(KDS 14 20 80 제외)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 196,
+        "title": "4.8.3 보",
+        "level": 3,
+        "label": "4.8.3",
+        "contents": "<p>4.8.3 보</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 197,
+        "title": "4.8.3 보",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 강재보와 합성보는 KDS 14 31 10(4.3)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 198,
+        "title": "4.8.4 가새",
+        "level": 3,
+        "label": "4.8.4",
+        "contents": "<p>4.8.4 가새</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 199,
+        "title": "4.8.4 가새",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 강재가새는 KDS 14 31 05와 14 31 10의 요구사항을 만족해야 한다. 합성가새는 4.1.4.1, 4.1.5 그리고 4.8.2의 합성기둥에 대한 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 200,
+        "title": "4.8.5 접합부",
+        "level": 3,
+        "label": "4.8.5",
+        "contents": "<p>4.8.5 접합부</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 201,
+        "title": "4.8.5 접합부",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 접합부는 KDS 14 31 05에 따라 하중조합에 대하여 설계하며 접합부의 설계강도는 4.2에서 명시된 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 202,
+        "title": "4.9 합성 편심 가새골조",
+        "level": 2,
+        "label": "4.9",
+        "contents": "<p>4.9 합성 편심 가새골조</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 203,
+        "title": "4.9.1 범위",
+        "level": 3,
+        "label": "4.9.1",
+        "contents": "<p>4.9.1 범위</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 204,
+        "title": "4.9.1 범위",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 조항은 가새의 한쪽 끝이 보와 기둥의 중심선의 교차점으로부터 편심을 갖도록 보와 만나거나 혹은 보와 인접가새의 중심선의 교차점으로부터 편심을 갖도록 보와 만나는 가새골조에 적용한다. 합성편심가새골조는 설계지진에 의해 오직 링크의 전단 항복에 의해 비탄성변형이 발생하도록 설계하여야 한다. 대각가새, 기둥, 그리고 링크외부의 보부분은 링크의 완전항복과 변형도경화로 인해 초래될 수 있는 최대하중에 대해 기본적으로 탄성상태에 있도록 설계하여야 한다. 기둥은 합성부재나 철근콘크리트부재를 사용하여야 한다. 가새와 링크는 이 조항에서 설명하는 대로 강재부재를 사용하여야 한다. 부재의 설계강도는 이 조항에서 수정되는 사항을 제외하고 이 절에 명시된 요구사항을 만족시켜야 한다. 합성편심가새골조는 이 조항에서 수정되는 사항을 제외하고 KDS 14 31 60(4.8) 의 요구사항을 만족하여야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 205,
+        "title": "4.9.2 기둥",
+        "level": 3,
+        "label": "4.9.2",
+        "contents": "<p>4.9.2 기둥</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 206,
+        "title": "4.9.2 기둥",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 철근콘크리트 기둥은 구조 트러스 요소에 관한 KDS 14 20 80(4.6.5)의 요구사항을 만족해야 한다. 합성기둥은 특수 내진시스템에 대한 4.1.4 또는 4.1.5의 요구사항을 만족해야 한다. 또한, 링크가 철근콘크리트 기둥이나 매입형 합성기둥에 인접해 있을 때 KDS 14 20 80(4.3.4) (또는 합성기둥에 관한 4.1.4.3(6)①)의 요구사항을 만족하는 횡방향 철근을 링크접합부의 상하부에 배치해야 한다. 모든 기둥은 KDS 14 31 60(4.8.7) 의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 207,
+        "title": "4.9.3 링크",
+        "level": 3,
+        "label": "4.9.3",
+        "contents": "<p>4.9.3 링크</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 208,
+        "title": "4.9.3 링크",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 링크는 매입되지 않은 구조용 강재를 사용하며 편심 가새골조의 링크에 관한  KDS 14 31 60(4.8) 의 요구사항을 만족해야 한다. 링크의 외부 보부분을 철근콘크리트로 피복하는 것을 허용한다. 링크의 공칭강도의 결정 시 합성거동을 고려하는 경우, 링크를 포함한 보는 보의 일부 또는 전부에 걸쳐 전단연결재를 사용하여 바닥슬래브와 합성적으로 거동하는 것을 허용한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 209,
+        "title": "4.9.4 가새",
+        "level": 3,
+        "label": "4.9.4",
+        "contents": "<p>4.9.4 가새</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 210,
+        "title": "4.9.4 가새",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 구조용 강재가새는 편심 가새골조에 관한 KDS 14 31 60(4.8) 의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 211,
+        "title": "4.9.5 접합부",
+        "level": 3,
+        "label": "4.9.5",
+        "contents": "<p>4.9.5 접합부</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 212,
+        "title": "4.9.5 접합부",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 접합부는 편심 가새골조에 관한 KDS 14 31 60(4.8) 의 요구사항과 함께 4.2의 내용 또한 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 213,
+        "title": "4.10 합성보통전단벽",
+        "level": 2,
+        "label": "4.10",
+        "contents": "<p>4.10 합성보통전단벽</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 214,
+        "title": "4.10.1 적용범위",
+        "level": 3,
+        "label": "4.10.1",
+        "contents": "<p>4.10.1 적용범위</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 215,
+        "title": "4.10.1 적용범위",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 철근콘크리트 전단벽이 강재요소와 합성적으로 거동하는 경우에 4.10의 요구사항들을 적용한다. 인접한 두 철근콘크리트 벽체를 연결시키는 강재 연결보, 그리고 노출형 또는 매입형 강재 단면을 경계부재로 갖는 강구조 골조 내의 철근콘크리트 벽체 등은 이에 해당한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 216,
+        "title": "4.10.1 적용범위",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 철근콘크리트 벽체는 KDS 14 20 72의 요구사항들을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 217,
+        "title": "4.10.2 경계부재",
+        "level": 3,
+        "label": "4.10.2",
+        "contents": "<p>4.10.2 경계부재</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 218,
+        "title": "4.10.2 경계부재",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>경계부재는 이 조항의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 219,
+        "title": "4.10.2 경계부재",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 매입되지 않은 강재 단면이 철근콘크리트 벽체의 경계부재로 작용하는 경우 강재 단면은 이 절의 요구사항을 만족해야 한다. 경계부재의 축방향 강도의 산정은 철근콘크리트벽체가 전단력을 지지하고, 구조물의 전체 연직하중과 전도력은 전단벽과 경계부재가 함께 지지한다는 가정 하에 산정한다. 철근콘크리트 벽체는 KDS 14 20 00의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 220,
+        "title": "4.10.2 경계부재",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 철근콘크리트에 매입된 강재부재들이 철근콘크리트 벽체의 경계부재로 작용하는 경우, 해석은 탄성재료성질에 근거한 콘크리트 환산단면을 사용해야 한다. 철근콘크리트 벽체는 KDS 14 20 00의 요구사항을 만족해야 한다. 철근콘크리트에 매입된 강재 경계부재가 KDS 14 31 80에서 명시된 합성기둥에 해당하는 경우 4.1.4.1의 보통 내진시스템의 요구사항을 만족하도록 설계해야 한다. 그렇지 않은 경우에는 KDS 14 20 66(4.3)과 KDS 14 31 10(4.2)의 요구사항을 만족하는 합성기둥으로 설계해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 221,
+        "title": "4.10.2 경계부재",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 구조용 강재와 철근콘크리트 사이의 수직 전단력을 전달할 수 있도록 스터드 전단연결재 또는 용접앵커를 설치해야 한다. 스터드 전단연결재는 KDS 14 31 10(4.2와 4.3)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 222,
+        "title": "4.10.3 강재연결보",
+        "level": 3,
+        "label": "4.10.3",
+        "contents": "<p>4.10.3 강재연결보</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 223,
+        "title": "4.10.3 강재연결보",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>인접한 두 철근콘크리트 벽체 사이에 사용되는 강재연결보는 KDS 14 31 10(4.3)의 요구사항과 이 조항의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 224,
+        "title": "4.10.3 강재연결보",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 연결보의 공칭휨강도와 공칭전단강도에 해당하는 최대 휨모멘트와 전단력의 조합에 대해 저항할 수 있도록 철근콘크리트 벽체 내의 연결보의 묻힘길이(매입깊이)를 충분히 확보해야 한다. 묻힘길이(매입깊이)는 벽체 경계부재의 구속철근의 첫 열에서부터 시작하는 것으로 산정한다. 연결보와 벽체 사이에서 전달되는 하중에 대한 접합강도는 4.2의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 225,
+        "title": "4.10.3 강재연결보",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 연결보의 공칭전단강도와 동일한 공칭축방향강도를 갖는 벽체 내의 수직 보강철근은 강재의 묻힘길이(매입깊이) 시작점으로부터 묻힘길이(매입깊이)의 1/2에 걸쳐 소요철근의 2/3를 배근해야 한다. 이러한 벽체철근은 연결보 플랜지의 상하방향으로 적어도 인장 정착길이 만큼 연장해야 한다. 수직 경계부재를 위한 길이방향 철근과 같이 다른 용도로 배근된 철근을 소요 수직 보강철근의 일부로 사용할 수 있다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 226,
+        "title": "4.10.4 매입형 합성연결보",
+        "level": 3,
+        "label": "4.10.4",
+        "contents": "<p>4.10.4 매입형 합성연결보</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 227,
+        "title": "4.10.4 매입형 합성연결보",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>매입형 합성단면 연결보는 4.10.3의 요구사항과 다음과 같은 수정된 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 228,
+        "title": "4.10.4 매입형 합성연결보",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 매입형 합성연결보의 최대 휨내력와 전단내력의 조합에 대해 저항할 수 있도록 철근콘크리트 벽체 내의 연결보의 묻힘길이(매입깊이)를 충분히 확보해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 229,
+        "title": "4.10.4 매입형 합성연결보",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 매입형 합성연결보의 공칭전단내력을 사용하여 4.10.3(1)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 230,
+        "title": "4.10.4 매입형 합성연결보",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 전단벽과 연결보의 소요강도를 계산할 때 매입형 합성연결보의 강성을 사용한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 231,
+        "title": "4.11 합성특수전단벽",
+        "level": 2,
+        "label": "4.11",
+        "contents": "<p>4.11 합성특수전단벽</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 232,
+        "title": "4.11.1 적용범위",
+        "level": 3,
+        "label": "4.11.1",
+        "contents": "<p>4.11.1 적용범위</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 233,
+        "title": "4.11.1 적용범위",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 합성 특수 전단벽은 4.10에 대한 요구사항과 KDS 14 20 80의 전단벽에 대한 요구사항 그리고 이 절의 내용을 만족해야 한다. </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 234,
+        "title": "4.11.2 경계부재",
+        "level": 3,
+        "label": "4.11.2",
+        "contents": "<p>4.11.2 경계부재</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 235,
+        "title": "4.11.2 경계부재",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 매입되지 않은 강재기둥은 4.10.1(1)의 요구사항과 3과 KDS 14 31 60(4.1)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 236,
+        "title": "4.11.2 경계부재",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 매입된 강재 경계부재를 갖는 벽체는 4.10.1(2)의 요구사항과 이 조항의 요구사항을 만족해야 한다. 이 벽체는 콘크리트구조기준의 요구사항을 만족해야 한다. KDS 14 31 80의 합성기둥에 해당하는 철근콘크리트에 매입된 강재 경계부재는 4.1.4의 특수 내진시스템에 대한 요구사항을 만족해야 한다. 그렇지 않은 경우, 이와 같은 부재들은 KDS 14 20 66(4.3)의 요구사항과 KDS 14 20 80(4.5.6)의 특수 철근콘크리트 구조벽의 경계부재에 대한 요구사항을 만족하는 합성압축부재로 설계해야 한다. 합성경계부재의 구속을 위한 횡방향 철근은 벽체안으로 2 <img src=\"data:image/gif;base64,R0lGODlhCAAOAPQAAAAAOgAAZjpmZjpmtjqQ22Y6AGY6kGZmtmaQ22a2/5A6AJDb/7ZmOrZmZrbb/7b/27b//9uQOtvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAIAA4AAAU1YCaOZCZNJcYkZdZA5WWgZCUUACtSgVMNowirghgxFhkKMiNDNR6SzI95sDiShAxGkW15RyEAOw==\" width=\"9\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">의 길이만큼 연장해야 한다. 여기서, <img src=\"data:image/gif;base64,R0lGODlhCAAOAPQAAAAAOgAAZjpmZjpmtjqQ22Y6AGY6kGZmtmaQ22a2/5A6AJDb/7ZmOrZmZrbb/7b/27b//9uQOtvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAIAA4AAAU1YCaOZCZNJcYkZdZA5WWgZCUUACtSgVMNowirghgxFhkKMiNDNR6SzI95sDiShAxGkW15RyEAOw==\" width=\"9\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">는 벽체 면내방향으로 경계부재의 전체높이를 나타낸다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 237,
+        "title": "4.11.2 경계부재",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 스터드 전단연결재는 4.10.1(2)에 명시된 대로 배치해야 한다. 콘크리트에 매입되지 않은 강재 단면과의 접합에 사용되는 용접앵커의 공칭강도는 항복강도를 25% 감소하여 사용한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 238,
+        "title": "4.11.3 합성 특수 전단벽 강재연결보",
+        "level": 3,
+        "label": "4.11.3",
+        "contents": "<p>4.11.3 합성 특수 전단벽 강재연결보</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 239,
+        "title": "4.11.3 합성 특수 전단벽 강재연결보",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 강재연결보는 4.10.2의 요구사항 이외에 KDS 14 31 60(4.8.1, 4.8.2)의 요구사항을 만족해야 한다. 설계지진 하에 예상되는 비탄성 변형의 합리적인 해석에 의해 보다 작은 값이 입증되지 않는 경우에는 KDS 14 31 60(4.8.2) 에서 규정한 0.08<img src=\"data:image/gif;base64,R0lGODlhEgANAPUAAAAAAAAAOgBmtjoAADo6kDpmtjqQ22YAZmY6AGY6OmY6ZmZmOmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpCQkJDb/7ZmALa2trbbtrbb/7b//9uQOtvbkNvbttvb29v////bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAASAA0AAAZkQJJwSCwaj8hkMTRxKI0b55MYFXIUGIRBhAAYhKBBICEdQSok0Vmk0JgrI0k5ohF6SCM6qCCs4ulDHRdtIAx9c3UjFB95GnuHQo0kjyEHbmcjFlIWAAJ4DwENFl9hAQsEGVNGQQA7\" width=\"19\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\">의 연결보 회전성능을 만족시해야 한다. 철근콘크리트 벽의 표면위치에서 연결보의 웨브 양쪽에 표면지압판을 설치해야 한다. 이러한 보강재는 KDS 14 31 60(4.8.2) 의 상세요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 240,
+        "title": "4.11.3 합성 특수 전단벽 강재연결보",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 4.10.2(2)에 명시된 벽체 내의 수직 보강철근은 KDS 14 20 80(4.5.6)의 요구사항을 만족하는 횡방향 철근으로 구속해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 241,
+        "title": "4.11.4 매입형 합성연결보",
+        "level": 3,
+        "label": "4.11.4",
+        "contents": "<p>4.11.4 매입형 합성연결보</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 242,
+        "title": "4.11.4 매입형 합성연결보",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 연결보의 역할을 하는 매입형 합성단면은 4.11.2의 요구사항을 만족해야 한다. 단, KDS 14 31 60(4.8.2) 의 요구사항은 만족할 필요가 없다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 243,
+        "title": "4.12 합성강판전단벽",
+        "level": 2,
+        "label": "4.12",
+        "contents": "<p>4.12 합성강판전단벽</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 244,
+        "title": "4.12.1 범위",
+        "level": 3,
+        "label": "4.12.1",
+        "contents": "<p>4.12.1 범위</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 245,
+        "title": "4.12.1 범위",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 한쪽 또는 양쪽에 철근콘크리트가 부착된 강판과 강재 또는 합성 경계부재로 구성된 구조용 벽은 이 절에 기술된 조항을 적용한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 246,
+        "title": "4.12.2 벽 부재",
+        "level": 3,
+        "label": "4.12.2",
+        "contents": "<p>4.12.2 벽 부재</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 247,
+        "title": "4.12.2 벽 부재",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 4.12.2 (3)의 요구사항을 따르는 보강된 강판을 갖는 합성강판전단벽의 전단항복 한계상태에 근거한 설계강도 <img src=\"data:image/gif;base64,R0lGODlhHgARAPUAAAAAAAAAOgAAZgA6kDoAADoAZjo6Zjo6kDpmkDqQ22YAAGYAOmYAZmY6AGZmZmZmtmaQkGa222a2/5A6ZpBmtpCQkJCQtpCQ25C2/5Db/7ZmOraQZraQkLaQtra2tra227a2/7bbtrbb/7b/27b//9uQZtu2kNu2ttvbttvb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADMALAAAAAAeABEAAAacwJlwSCwaj8ikcslsEmOioYsACGRmU0DCOWuRiK6DariJck9jqVj4AnFfFYcljS18ZR7uKhIDxR5SdjMnX01hKjAqMhOFLnYvGHpbaIdCMQwjHVwzK1t5JVeWCxCFXBwhHxyhlgoSRS4GDQNjGgKlbGZPFkYoGhloMRQukUReTjK7eTMwH0YnXC4XMR8pJiSgm0UsGYcxCgh02UxBADs=\" width=\"31\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> (<img src=\"data:image/gif;base64,R0lGODlhKwAOAPUAAAAAAAAAZgA6ZgA6kABmtjoAADo6kDpmkDpmtjqQ22YAAGYAOmY6AGY6ZmY6kGZmZmZmtmaQkGaQ22a222a2/5A6AJA6OpA6ZpCQZpCQkJCQtpDb/7ZmALZmOrZmZraQkLaQtra2tra227a2/7bbtrbb/7b//9uQOtuQZtu2Ztu2ttvb/9v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADQALAAAAAArAA4AAAa4QJpwSCwaj8ikcsls0lwmJxHGAAhKRln1elSxpMJZZUJLDb5DMRl1Ls5EYOHL8J1ZNsRWW7bAhz8YERpoLwUAh4gAAVFCemgcFHltYpE0LxAsUDIOaE0nBEMcCXmLNDIKozINUSE0MxdRhYmIpUKfoaNpYzQnAJEtoG+WdFKOQpBFVAAHsJYINDBYHX5Oc3V3YqB8eC8SQygSKiQZWGBi3madQh4PD95FIHFTW+VNMiPy+UQxK/ryQQA7\" width=\"44\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">)는 다음과 같다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 248,
+        "title": "4.12.2 벽 부재",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                            <img src=\"data:image/gif;base64,R0lGODlhXQARAPUAAAAAAAAAZgA6ZgA6kABmtjoAADo6ADo6Zjo6kDpmkDqQ22YAAGY6AGaQ22a2/5BmkJBmtpCQtpCQ25C225C2/5Db/7ZmOrZmZraQZraQkLa2tra227bb27b//9uQOtuQZtu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC4ALAAAAABdABEAAAb+QJdwSCwaj8ikcslsOp/QqHTqAliJV+rRCkByld0nd5wMD81a7NloRhfdTDR8TU+/6/X5Fyov4+NjZGpCcHN0hl5riG12W39Ve3dVfI+SiGmMkpODm06BS12XXoGRhI+ZZ4JNqGWimId5nJ1xlW+uWpmorLOglEQqBwwDJ0IWAR1UpVhZppzGyCoNHgSPKggnGcRLIxYVIsQsECoUjYBtX+HjLiQYHRcdn0MkGiYRTS32GkMrG+WN/EJYRGjxQNuRFhtYSGiiQgKLDSVchOjwoYI/LRMrukChIJoSFRNAOGiSooI1cAsSGLwYhUVKYh4MCECWxOUxljijqCiggEkGCA4RiAUBADs=\" width=\"94\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                     (4.12-1)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 249,
+        "title": "4.12.2 벽 부재",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhEgAPAPUAAAAAAAAAZgA6kDoAADoAOjoAZjo6Zjo6kDpmkGYAAGY6AGaQ22a2/5BmtpCQtpCQ25Db/7ZmOraQkLaQtra2tra227a2/7bbtrbb/7b//9uQZtu2kNu2ttvbttvb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACgALAAAAAASAA8AAAZiQJRwSCwaj8jhaAAIZFBLACMJEnyGEkwSVb2iRM9tF2WybIXd0+QsHB0+HO95VLho2VDCom1QWFERTkRuXh0REHEmDSRmSCcOKBRCJRVbIw8mFR4bGRoQSSEQhCYJCHJ4QkEAOw==\" width=\"19\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 강판의 공칭전단강도 (mm)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 250,
+        "title": "4.12.2 벽 부재",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhEQAPAPUAAAAAAAAAZgA6ZgA6kABmtjoAADo6ADpmkDqQnDqQ22YAAGaQ22a2/5A6AJBmOpBmkJBmtpCQtpDb/7ZmALZmOrZmZraQZra227a2/7bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACkALAAAAAARAA8AAAZcwJRwSCwaj8jiKJEslhzMphB12USlIJFVmiplUtsmqgEoX5EdjXByNnoYQ3aKEtCQFhvCGDAQ7QEIECUYIRYaFU0mFyknESgPSR8aHBJLd0knCgdaBgJqUiQFUUEAOw==\" width=\"18\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 보강된 강판의 수평단면적 (mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 251,
+        "title": "4.12.2 벽 부재",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPUAAAAAAAAAZgBmtjoAADoAOjo6kDpmtjqQ22Y6kGa2/5A6AJA6OpA6ZpBmkJCQkJCQ25C2/5Db/7ZmALZmkLa2tra227b//9uQOtu2Ztvb29vb/9v/29v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAMAA8AAAZMQJFwSCwajReAEhCwFEOLiCjU4BRBCM6HQzF2DqGJRWOUKAXHEMPigRw9BtH2eEkQPQVtSKG0CzMUGw5HUxUgD4RtHW5HGANNiQR2QQA7\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 강판의 항복강도 (MPa)</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 252,
+        "title": "4.12.2 벽 부재",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 합성강판전단벽의 강판이 4.12.2(3)의 보강 요구사항을 만족하지 않는 경우, 합성 강판 전단벽의 설계전단강도는 철근콘크리트의 강도를 무시한 강판만의 강도로 구해야 하며, KDS 14 31 10(4.3.2.1.2.2와 4.3.2.1.2.3)의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 253,
+        "title": "4.12.2 벽 부재",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 만약 탄성 판좌굴해석을 통해 합성벽이 <img src=\"data:image/gif;base64,R0lGODlhFgARAPUAAAAAAAAAOgAAZgA6kDoAZjo6Zjo6kDpmkDpmtjqQ22YAAGYAOmYAZmY6AJA6OpBmtpCQtpCQ25C2/5DbtpDb/7ZmOra2tra227a2/7bb/7b//9uQZtu2kNu2ttvbttvb29vb/9v///+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACkALAAAAAAWABEAAAZvwJRwSCwaj8ik8KQABCgpJiChHJIImuEGWhVes9FLd3higDuh8XIBLWXUawrKAo+PwPDTYoKpC1EOCGl+gFxeBQ0DgxUCeEMfRR4VFGhRDyQSXSgQKXRCJmJdJBEnFyApHBpbXSIUJAZpTAeDfkRBADs=\" width=\"23\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">에 해당하는 공칭전단력을 지지할 수 있다는 것을 증명하는 경우, 강판은 철근콘크리트와의 매입이나 부착으로 적절하게 보강해야 한다. 강판의 양면에 콘크리트가 설치되는 경우 부착되는 콘크리트의 두께는 최소 100 mm가 되어야 하고 강판의 한쪽 면에만 콘크리트가 부착되는 경우 콘크리트의 두께는 200 mm 이상이어야 한다. 국부좌굴과 콘크리트와 강판의 분리를 막기 위해 스터드 전단연결재나 다른 기계적 연결재를 설치해야 한다.  콘크리트 내부의 수평 및 수직방향 철근은 KDS 14 20 72(4.2) 의 상세요구사항을 만족시켜야 한다. 양방향의 철근비는 0.0025보다 작지 않아야 하고, 철근의 최대간격은 450 mm를 넘지 않도록 해야 한다. 합성벽 시스템을 설계할 때는 지진력이 벽면에 수직으로 작용하는 경우를 고려해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 254,
+        "title": "4.12.2 벽 부재",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4) 강판은 공칭전단강도를 발휘할 수 있도록 용접 혹은 고장력볼트 마찰접합에 의해 모든 면을 따라 강재골조와 경계부재에 연속적으로 연결해야 한다. 용접 또는 볼트접합에 의한 연결부의 설계는 KDS 14 31 60(4.2)에 명시된 추가적인 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 255,
+        "title": "4.12.3 경계부재",
+        "level": 3,
+        "label": "4.12.3",
+        "contents": "<p>4.12.3 경계부재</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 256,
+        "title": "4.12.3 경계부재",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 강재 및 합성 경계부재는 설계층간변위에서 벽의 강판 및 철근콘크리트 부분의 전단내력에 저항할 수 있도록 설계해야 한다. </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 257,
+        "title": "4.12.3 경계부재",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 합성 및 철근콘크리트 경계부재는 4.11.1의 요구사항을 만족시키도록 설계해야 한다. </p>"
+      },
+      {
+        "no": 5315,
+        "sort": 258,
+        "title": "4.12.3 경계부재",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 강재 경계부재는 KDS 14 31 60(4.10) 의 요구사항을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 259,
+        "title": "4.12.4 개구부",
+        "level": 3,
+        "label": "4.12.4",
+        "contents": "<p>4.12.4 개구부</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 260,
+        "title": "4.12.4 개구부",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 개구부 주위에는 해석에 의해 요구되는 대로 경계부재를 설치해야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 261,
+        "title": "4.13 구조설계도, 시방서, 공장제작도 및 설치도",
+        "level": 2,
+        "label": "4.13",
+        "contents": "<p>4.13 구조설계도, 시방서, 공장제작도 및 설치도</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 262,
+        "title": "4.13 구조설계도, 시방서, 공장제작도 및 설치도",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 합성구조 건축물과 강구조 건축물의 구조설계도, 시방서, 공장제작도 및 설치도는 KDS 14 31 60(1.4) 의 요구사항을 만족하여야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 263,
+        "title": "4.13 구조설계도, 시방서, 공장제작도 및 설치도",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 철근콘크리트 건축물과 합성구조 건축물의 시공을 위한 계약서, 공장제작도, 설치도는 다음과 같은 사항을 명시하여야 한다.</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 264,
+        "title": "4.13 구조설계도, 시방서, 공장제작도 및 설치도",
+        "level": 4,
+        "label": "①",
+        "contents": "<p>① 철근의 배치, 절단, 겹침, 기계적 이음, 후크, 기계적 정착</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 265,
+        "title": "4.13 구조설계도, 시방서, 공장제작도 및 설치도",
+        "level": 4,
+        "label": "②",
+        "contents": "<p>② 띠철근 및 다른 횡방향철근의 배근에 대한 허용오차</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 266,
+        "title": "4.13 구조설계도, 시방서, 공장제작도 및 설치도",
+        "level": 4,
+        "label": "③",
+        "contents": "<p>③ 온도의 변화, 크리프, 건조수축에 따른 치수변화에 대한 규정</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 267,
+        "title": "4.13 구조설계도, 시방서, 공장제작도 및 설치도",
+        "level": 4,
+        "label": "④",
+        "contents": "<p>④ 프리스트레싱 또는 포스트텐셔닝에 대한 위치, 크기, 순서</p>"
+      },
+      {
+        "no": 5315,
+        "sort": 268,
+        "title": "4.13 구조설계도, 시방서, 공장제작도 및 설치도",
+        "level": 4,
+        "label": "⑤",
+        "contents": "<p>⑤ 콘크리트바닥슬래브 또는 지반슬래브가 다이어프램 역할을 하는 경우 다이어프램과 주된 횡하중저항시스템 사이의 접합상세를 명확하게 나타내어야 한다.</p>"
+      }
+    ]
+  }
+]
