@@ -1,0 +1,701 @@
+[
+  {
+    "no": 5043,
+    "codeType": "KDS",
+    "code": "416040",
+    "fullCode": "1020416040",
+    "name": "조적식구조 경험적 설계법",
+    "version": "2022",
+    "updateDate": "2022-10-14T10:50:00",
+    "list": [
+      {
+        "no": 5043,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 41 60 40은 조적식구조 경험적 설계법의 일반적인 요구사항과 설계방법에 따른 기술적 사항들을 규정함으로써 조적식구조의 안전성과 사용성, 내구성을 확보하는 것을 그 목적으로 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 4,
+        "title": "1.2 적용범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용범위</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 5,
+        "title": "1.2 적용범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 조적식구조의 일반적이고 기본적인 요구사항과 재료, 설계, 품질관리 등 이와 관련한 기준을 규정한 것으로 조적식 건축물 및 공작물에 적용한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 6,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 7,
+        "title": "1.3.1 관련 법규",
+        "level": 3,
+        "label": "1.3.1",
+        "contents": "<p>1.3.1 관련 법규</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 8,
+        "title": "1.3.1 관련 법규",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 9,
+        "title": "1.3.2 관련 기준",
+        "level": 3,
+        "label": "1.3.2",
+        "contents": "<p>1.3.2 관련 기준</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 10,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KDS 41 12 00 건축물 설계하중</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 11,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KDS 41 60 05 조적식구조 일반사항</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 12,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KDS 41 60 10 조적식구조 재료의 기준</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 13,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KDS 41 60 15 조적식구조 설계일반사항</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 14,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 15,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 41 60 05에 따른다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 16,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 17,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 41 60 05에 따른다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 18,
+        "title": "2. 조사 및 계획",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 조사 및 계획</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 19,
+        "title": "2. 조사 및 계획",
+        "level": 2,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 20,
+        "title": "3. 재료",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 재료</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 21,
+        "title": "3. 재료",
+        "level": 2,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 41 60 10에 따른다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 22,
+        "title": "4. 설계",
+        "level": 1,
+        "label": "4.",
+        "contents": "<p>4. 설계</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 23,
+        "title": "4.1 일반사항",
+        "level": 2,
+        "label": "4.1",
+        "contents": "<p>4.1 일반사항</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 24,
+        "title": "4.1 일반사항",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 경험적 설계법에 의해 조적구조물을 설계하려면 담당 감리자의 승인을 얻은 후 KDS 41 60 15와 이 기준의 규정들을 따라야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 25,
+        "title": "4.2 벽체의 높이",
+        "level": 2,
+        "label": "4.2",
+        "contents": "<p>4.2 벽체의 높이</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 26,
+        "title": "4.2 벽체의 높이",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 조적벽이 횡력에 저항하는 경우에는 전체높이가 13 m, 처마높이가 9 m 이하이어야 이 기준의 경험적 설계법을 적용할 수 있다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 27,
+        "title": "4.3 횡안정",
+        "level": 2,
+        "label": "4.3",
+        "contents": "<p>4.3 횡안정</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 28,
+        "title": "4.3 횡안정",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 조적벽이 구조물의 횡안정성 확보를 위해 사용될 때는 전단벽들이 횡력과 평행한 방향으로 배치되어야 한다. 조적전단벽의 공칭두께는 최소 200 mm 이상이어야 한다. 횡안정성을 위해 전단벽이 요구되는 각 방향에 대하여 해당 방향으로 배치된 전단벽길이의 합계가 건물의 장변길이의 최소 50% 이상 이어야 하며 층수에 따라 표 4.3-1의 벽량을 확보 하여야 한다. 이 때 개구부는 전단벽의 길이합계산정에서 제외한다. 전단벽간의 최대간격은 표 4.3-2에 제시된 비율을 초과할 수 없다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 29,
+        "title": "4.3 횡안정",
+        "level": 4,
+        "label": "표 4.3-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.3-1 경험적설계를 위한 길이방향 전단벽 량</p></caption><tbody><tr>\t<td colspan=\"2\" width=\"347\" height=\"17\" valign=\"middle\" align=\"center\">\t<p>층수</p>\t</td>\t<td width=\"226\" height=\"17\" valign=\"middle\" align=\"center\">\t<p>전단벽 량 (%)</p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"347\" height=\"17\" valign=\"middle\" align=\"center\">\t<p>1개층</p>\t</td>\t<td width=\"226\" height=\"17\" valign=\"middle\" align=\"center\">\t<p>50</p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"173\" height=\"34\" valign=\"middle\" align=\"center\">\t<p>2개층</p>\t</td>\t<td width=\"173\" height=\"17\" valign=\"middle\" align=\"center\">\t<p>2층</p>\t</td>\t<td width=\"226\" height=\"17\" valign=\"middle\" align=\"center\">\t<p>50</p>\t</td></tr><tr>\t<td width=\"173\" height=\"17\" valign=\"middle\" align=\"center\">\t<p>1층</p>\t</td>\t<td width=\"226\" height=\"17\" valign=\"middle\" align=\"center\">\t<p>75</p>\t</td></tr><tr>\t<td rowspan=\"3\" width=\"173\" height=\"51\" valign=\"middle\" align=\"center\">\t<p>3개층</p>\t</td>\t<td width=\"173\" height=\"17\" valign=\"middle\" align=\"center\">\t<p>3층</p>\t</td>\t<td width=\"226\" height=\"17\" valign=\"middle\" align=\"center\">\t<p>50</p>\t</td></tr><tr>\t<td width=\"173\" height=\"17\" valign=\"middle\" align=\"center\">\t<p>2층</p>\t</td>\t<td width=\"226\" height=\"17\" valign=\"middle\" align=\"center\">\t<p>75</p>\t</td></tr><tr>\t<td width=\"173\" height=\"17\" valign=\"middle\" align=\"center\">\t<p>1층</p>\t</td>\t<td width=\"226\" height=\"17\" valign=\"middle\" align=\"center\">\t<p>100</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5043,
+        "sort": 30,
+        "title": "4.3 횡안정",
+        "level": 4,
+        "label": "표 4.3-2",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.3-2 경험적 설계를 위한 전단벽 최대간격</p></caption><tbody><tr>\t<td width=\"304\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>바닥판 또는 지붕유형</p>\t</td>\t<td width=\"270\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>벽체간 간격：전단벽 길이</p>\t</td></tr><tr>\t<td width=\"304\" height=\"84\" valign=\"middle\" align=\"center\">\t<p>현장타설 콘크리트</p>\t<p>프리캐스트 콘크리트</p>\t<p>콘크리트 타설 철재 데크</p>\t<p>무타설 철재 데크</p>\t<p>목재 다이어프램</p>\t</td>\t<td width=\"270\" height=\"84\" valign=\"middle\" align=\"center\">\t<p>5：1</p>\t<p>4：1</p>\t<p>3：1</p>\t<p>2：1</p>\t<p>2：1</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5043,
+        "sort": 31,
+        "title": "4.4 압축응력",
+        "level": 2,
+        "label": "4.4",
+        "contents": "<p>4.4 압축응력</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 32,
+        "title": "4.4.1 일반사항",
+        "level": 3,
+        "label": "4.4.1",
+        "contents": "<p>4.4.1 일반사항</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 33,
+        "title": "4.4.1 일반사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 풍하중 및 지진하중을 제외한 수직 고정하중과 활하중에 의한 벽체의 압축응력은 다음 4.4.3의 규정에 따라 산정한다. 이때 KDS 41 12 00에 따라 활하중을 저감할 수 있다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 34,
+        "title": "4.4.2 허용응력",
+        "level": 3,
+        "label": "4.4.2",
+        "contents": "<p>4.4.2 허용응력</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 35,
+        "title": "4.4.2 허용응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 조적벽의 압축응력은 표 4.4-1에 주어진 값을 초과하지 않아야 한다. 다중겹벽의 경우 표 4.4-1에 주어진 허용응력 중 가장 불리한 경우를 모든 겹의 허용응력으로 사용한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 36,
+        "title": "4.4.3 응력의 산정",
+        "level": 3,
+        "label": "4.4.3",
+        "contents": "<p>4.4.3 응력의 산정</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 37,
+        "title": "4.4.3 응력의 산정",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 응력의 산정에서는 공칭치수가 아닌 기준치수를 사용한다. 압축응력은 설계하중을 내력벽의 전체단면적으로 나누어 계산한다. 이 때 벽체내 개구부, 홈파기 등의 면적은 전체단면적 산정에서 제외한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 38,
+        "title": "4.4.3 응력의 산정",
+        "level": 5,
+        "label": "표 4.4-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.4-1 경험적 설계를 위한 허용압축응력</p></caption><tbody><tr>\t<td width=\"105\" height=\"49\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td>\t<td width=\"116\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>조적개체의 압축강도</p>\t<p>(10<sup>-3</sup>MPa)</p>\t</td>\t<td width=\"82\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>허용압축응력</p>\t<p>(10<sup>-3</sup>MPa)</p>\t</td>\t<td width=\"8\" height=\"49\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td>\t<td width=\"87\" height=\"49\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td>\t<td width=\"102\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>조적개체의 압축강도</p>\t<p>(10<sup>-3</sup>MPa)</p>\t</td>\t<td width=\"83\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>허용압축응력</p>\t<p>(10<sup>-3</sup>MPa)</p>\t</td></tr><tr>\t<td width=\"105\" height=\"64\" valign=\"middle\" align=\"center\">\t<p>속찬 점토벽돌 조적조</p>\t</td>\t<td width=\"116\" height=\"64\" valign=\"middle\" align=\"center\">\t<p>55120 이상</p>\t<p>31000</p>\t<p>17225</p>\t<p>10335</p>\t</td>\t<td width=\"82\" height=\"64\" valign=\"middle\" align=\"center\">\t<p>2067</p>\t<p>1378</p>\t<p>964</p>\t<p>689</p>\t</td>\t<td width=\"8\" height=\"64\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td>\t<td width=\"87\" height=\"64\" valign=\"middle\" align=\"center\">\t<p>속빈 조적개체에 의한 내력 조적조</p>\t</td>\t<td width=\"102\" height=\"64\" valign=\"middle\" align=\"center\">\t<p>13780</p>\t<p>10335</p>\t<p>6869</p>\t<p>4823</p>\t</td>\t<td width=\"83\" height=\"64\" valign=\"middle\" align=\"center\">\t<p>826</p>\t<p>689</p>\t<p>482</p>\t<p>378</p>\t</td></tr><tr>\t<td width=\"105\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>충진된 벽돌 조적조</p>\t</td>\t<td width=\"116\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>31000</p>\t<p>17225</p>\t<p>10335</p>\t</td>\t<td width=\"82\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>1378</p>\t<p>964</p>\t<p>689</p>\t</td>\t<td width=\"8\" height=\"49\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td>\t<td width=\"87\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>속찬 조적개체에 의한 중공벽</p>\t</td>\t<td width=\"102\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>17225</p>\t<p>10335</p>\t</td>\t<td width=\"83\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>964</p>\t<p>689</p>\t</td></tr><tr>\t<td width=\"105\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>콘크리트 조적객체에</p>\t<p>의한 속찬 조적조</p>\t</td>\t<td width=\"116\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>20670</p>\t<p>13780</p>\t<p>8268</p>\t</td>\t<td width=\"82\" height=\"49\" valign=\"middle\" align=\"center\">\t<p>1378</p>\t<p>964</p>\t<p>689</p>\t</td>\t<td width=\"8\" height=\"49\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td>\t<td width=\"87\" height=\"49\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td>\t<td width=\"102\" height=\"49\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td>\t<td width=\"83\" height=\"49\" valign=\"middle\" align=\"center\">\t<p> </p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5043,
+        "sort": 39,
+        "title": "4.4.4 앵커볼트",
+        "level": 3,
+        "label": "4.4.4",
+        "contents": "<p>4.4.4 앵커볼트</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 40,
+        "title": "4.4.4 앵커볼트",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 볼트 관련 값들은 표 4.4-2의 값을 초과할 수 없다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 41,
+        "title": "4.4.4 앵커볼트",
+        "level": 5,
+        "label": "표 4.4.2",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.4.2 비소성 점토개체를 제외한 경험적설계를 위한 볼트의 허용전단력 </p></caption><tbody><tr>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>볼트지름(mm)</p>\t</td>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>매입(mm)</p>\t</td>\t<td width=\"142\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>속찬 조적(N)</p>\t</td>\t<td width=\"154\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>그라우트 조적(N)</p>\t</td></tr><tr>\t<td width=\"142\" height=\"101\" valign=\"middle\" align=\"center\">\t<p>13</p>\t<p>15</p>\t<p>19</p>\t<p>22</p>\t<p>25</p>\t<p>29</p>\t</td>\t<td width=\"142\" height=\"101\" valign=\"middle\" align=\"center\">\t<p>100</p>\t<p>100</p>\t<p>130</p>\t<p>150</p>\t<p>180</p>\t<p>200</p>\t</td>\t<td width=\"142\" height=\"101\" valign=\"middle\" align=\"center\">\t<p>1557</p>\t<p>2225</p>\t<p>3337</p>\t<p>4450</p>\t<p>5562</p>\t<p>6675</p>\t</td>\t<td width=\"154\" height=\"101\" valign=\"middle\" align=\"center\">\t<p>2447</p>\t<p>3337</p>\t<p>4895</p>\t<p>6675</p>\t<p>8232</p>\t<p>10012</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5043,
+        "sort": 42,
+        "title": "4.5 측면지지",
+        "level": 2,
+        "label": "4.5",
+        "contents": "<p>4.5 측면지지</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 43,
+        "title": "4.5 측면지지",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 조적벽은 표 4.5-1에 주어진 간격을 초과하지 않도록 수직, 수평방향으로 횡지지를 확보하여야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 44,
+        "title": "4.5 측면지지",
+        "level": 4,
+        "label": "표 4.5-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.5-1 경험적설계를 위한 횡력지지</p></caption><tbody><tr>\t<td width=\"313\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>유     형</p>\t</td>\t<td width=\"271\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>최대 <img src=\"data:image/gif;base64,R0lGODlhKAAMAPUAAAAAAAA6kDoAZjo6kDpmkDqQ22ZmOmZmtmaQ22a2/5A6AJBmkJCQtpCQ25Db25Db/7ZmALZmZraQOraQkLa2tra227a2/7bbtrbb/7b//9uQZtuQkNu2Ztvb/9v///+2Zv+2kP+2tv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACYALAAAAAAoAAwAAAaiQJNwOCRZiMik0mQklhSFZCizTHIIHimV+EkkJ1kRoiokHZRgk1ioeSBJDbab3E3C5cI0EfR4AgBeVRoGAFFDfH6AJQxfWSYRW1UQBWZEepBqcUR3TGdkJQsenEyalSYgDh17c2IjqkuVqK98Qq0dGxcYlo5dFbUDjkMfYxO5ebwJvhwBwSS+QiACkSJzQ20mEobOh9JKIbpLFGRD3+Pm5+NBADs=\" width=\"40\" height=\"11\" vspace=\"0\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td width=\"313\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>내력벽</p>\t<p>속찬 또는 그라우트 충진 조적벽체</p>\t<p>기타</p>\t</td>\t<td width=\"271\" height=\"53\" valign=\"middle\" align=\"center\">\t<p> </p>\t<p>20</p>\t<p>18</p>\t</td></tr><tr>\t<td width=\"313\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>비내력벽</p>\t<p>외부</p>\t<p>내부</p>\t</td>\t<td width=\"271\" height=\"53\" valign=\"middle\" align=\"center\">\t<p> </p>\t<p>18</p>\t<p>36</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5043,
+        "sort": 45,
+        "title": "4.5 측면지지",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 수평적으로는 대린벽, 붙임기둥 및 기타 골조 부재에 의해 수직적으로 바닥판 및 지붕에 의해 횡지지되어야 한다. </p>"
+      },
+      {
+        "no": 5043,
+        "sort": 46,
+        "title": "4.5 측면지지",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3) 파라펫벽을 제외한 캔틸레버벽에서 공칭두께에 대한 높이의 비는 속찬조적개체의 경우 6, 속빈조적개체의 경우 4를 초과할 수 없다. </p>"
+      },
+      {
+        "no": 5043,
+        "sort": 47,
+        "title": "4.5 측면지지",
+        "level": 3,
+        "label": "(4)",
+        "contents": "<p>(4) 중공벽의 높이/두께비 계산에서 두께는 내부벽겹과 외부벽겹의 공칭두께의 합으로 산정한다. 조적개체와 모르타르의 등급이 다른 벽체들로 구성된 경우에는 가장 불리한 조합에 허용된 높이/두께비 또는 길이/두께비를 초과하지 않도록 하여야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 48,
+        "title": "4.6 최소두께",
+        "level": 2,
+        "label": "4.6",
+        "contents": "<p>4.6 최소두께</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 49,
+        "title": "4.6.1 일반사항",
+        "level": 3,
+        "label": "4.6.1",
+        "contents": "<p>4.6.1 일반사항</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 50,
+        "title": "4.6.1 일반사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 2층 이상의 건물에서 조적내력벽의 공칭두께는 200 mm 이상이어야 한다. 층고가 2,700 mm를 넘지 않는 1층 건물의 속찬조적벽의 공칭두께는 150 mm 이상이어야  하며, 이때 높이 1,800 mm 이하의 박공지붕을 추가로 사용될 수 있다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 51,
+        "title": "4.6.2 두께의 변화",
+        "level": 3,
+        "label": "4.6.2",
+        "contents": "<p>4.6.2 두께의 변화</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 52,
+        "title": "4.6.2 두께의 변화",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 조항의 최소두께 규정으로 인하여 층간에 두께변화가 발생한 경우에는 더 큰 두께값을 상층에도 적용하여야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 53,
+        "title": "4.6.3 두께의 감소",
+        "level": 3,
+        "label": "4.6.3",
+        "contents": "<p>4.6.3 두께의 감소</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 54,
+        "title": "4.6.3 두께의 감소",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 속빈조적개체 또는 조적부착중공벽으로 구성된 조적벽의 두께가 감소할 경우, 하부의 벽체와 두께가 감소된 상부의 벽체사이에 속찬조적체에 의한 연결체를 시공하거나 면살 또는 벽겹의 하중을 하부벽체로 전달할 수 있는 별도의 조치를 취하여야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 55,
+        "title": "4.6.4 파라펫",
+        "level": 3,
+        "label": "4.6.4",
+        "contents": "<p>4.6.4 파라펫</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 56,
+        "title": "4.6.4 파라펫",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 파라펫벽의 두께는 200 mm 이상이어야 하며, 높이는 두께의 3배를 넘을 수 없다. 파라펫벽은 하부 벽체보다 얇지 않아야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 57,
+        "title": "4.6.5 기초벽",
+        "level": 3,
+        "label": "4.6.5",
+        "contents": "<p>4.6.5 기초벽</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 58,
+        "title": "4.6.5 기초벽",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 뒷채움의 높이(벽체 내부 지하층 바닥 또는 지표면과 외부 지표면 사이의 높이)와 횡지지 사이 벽체의 높이가 2,400 mm를 넘지 않는 곳에서 뒷채움에 의한 측압이 4.8 kN/m2을 넘지 않을 때, 기초벽의 최소두께는 표 4.6-1과 같다. 표 4.6-1에 허용된 뒷채움의 최대춤은 토질조건이 허용하는 경우 담당원의 승인을 받아 증가시킬 수 있다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 59,
+        "title": "4.6.5 기초벽",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p><sub></p>"
+      },
+      {
+        "no": 5043,
+        "sort": 60,
+        "title": "4.6.5 기초벽",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p></sub></p>"
+      },
+      {
+        "no": 5043,
+        "sort": 61,
+        "title": "4.6.5 기초벽",
+        "level": 5,
+        "label": "표 4.6-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.6-1 경험적 설계를 위한 기초벽의 두께</p></caption><tbody><tr>\t<td width=\"249\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>기초벽 유형</p>\t</td>\t<td width=\"151\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>공칭두께(mm)</p>\t</td>\t<td width=\"185\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>뒷채움의 최대춤(mm)</p>\t</td></tr><tr>\t<td width=\"249\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>그라우트 안 된 중공개체에 의한 조적</p>\t</td>\t<td width=\"151\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>200</p>\t<p>250</p>\t<p>300</p>\t</td>\t<td width=\"185\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>1200</p>\t<p>1500</p>\t<p>1800</p>\t</td></tr><tr>\t<td width=\"249\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>속찬 개체에 의한 조적</p>\t</td>\t<td width=\"151\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>200</p>\t<p>250</p>\t<p>300</p>\t</td>\t<td width=\"185\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>1500</p>\t<p>1800</p>\t<p>2100</p>\t</td></tr><tr>\t<td width=\"249\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>그라우트된 중공 객체 또는 속찬 객체에 의한 조적</p>\t</td>\t<td width=\"151\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>200</p>\t<p>250</p>\t<p>300</p>\t</td>\t<td width=\"185\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>2100</p>\t<p>2400</p>\t<p>2400</p>\t</td></tr><tr>\t<td width=\"249\" height=\"69\" valign=\"middle\" align=\"center\">\t<p>중공 개체에 의한 조적</p>\t<p>중심간격 600 mm마다 압력면으로부터 120 mm 이상 이격된 지름 13 mm 철선으로 수직보강 및 그라우트됨</p>\t</td>\t<td width=\"151\" height=\"69\" valign=\"middle\" align=\"center\">\t<p>200</p>\t</td>\t<td width=\"185\" height=\"69\" valign=\"middle\" align=\"center\">\t<p>2100</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5043,
+        "sort": 62,
+        "title": "4.7 연결",
+        "level": 2,
+        "label": "4.7",
+        "contents": "<p>4.7 연결</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 63,
+        "title": "4.7.1 일반사항",
+        "level": 3,
+        "label": "4.7.1",
+        "contents": "<p>4.7.1 일반사항</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 64,
+        "title": "4.7.1 일반사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 다중겹벽의 내부벽겹과 외부벽겹은 이 조항의 규정에 따라 연결하여야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 65,
+        "title": "4.7.2 마구리쌓기",
+        "level": 3,
+        "label": "4.7.2",
+        "contents": "<p>4.7.2 마구리쌓기</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 66,
+        "title": "4.7.2 마구리쌓기",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 속찬 조적체의 내부벽겹과 외부벽겹이 조적머리에 의해 연결된 곳에서는 각 벽겹 벽면의 4% 이상이 조적머리로 구성되어야 하며, 내부벽겹으로 80 mm 이상 연장되어야 한다. 인접한 조적머리 간의 수평, 수직 간격은 600 mm를 초과하지 않아야 한다. 하나의 조적머리로 벽체 전체를 연결할 수 없을 때는 반대편으로부터의 조적머리와 최소한 80 mm 이상 겹치도록 하여야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 67,
+        "title": "4.7.2 마구리쌓기",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 2개 이상의 속빈개체가 한 벽체를 구성할 때, 가장 넓게 펴진 켜는 75 mm 이상 하부와 겹치도록 하고, 이것은 수직으로 850 mm 이하의 거리마다 두도록 한다. 혹은 하부두께보다 50% 두꺼운 벽체에 수직거리 40 mm 이하의 거리에 겹치도록 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 68,
+        "title": "4.7.3 벽체연결철물",
+        "level": 3,
+        "label": "4.7.3",
+        "contents": "<p>4.7.3 벽체연결철물</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 69,
+        "title": "4.7.3 벽체연결철물",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 지름 4.8 mm의 벽체연결철물 또는 등가의 강성을 갖는 금속연결철물이 수평줄눈에 매입되어 외부벽겹과 내부벽겹을 연결할 경우, 최소 0.42 m<sup>2 </sup>벽체면적마다 하나 이상의 벽체연결철물을 배치하여야 한다. 엇갈린 켜의 연결철물을 빗겨 배치하고, 연결철물을 2열로 배치할 경우 연결철물간 수직간격은 최대 600 mm를, 수평간격은 최대 900 mm를 넘지 않아야 한다. 수직으로 중공을 갖는 조적조에는 사각형으로 구부린 연결철물이 사용되어야 한다. 그 밖의 벽체에서는 연결철물의 끝을 50 mm 이상 90°구부려 갈고리로 작용하도록 하여야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 70,
+        "title": "4.7.4 길이방향 연결",
+        "level": 3,
+        "label": "4.7.4",
+        "contents": "<p>4.7.4 길이방향 연결</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 71,
+        "title": "4.7.4 길이방향 연결",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 조적체의 각 겹에서 세로줄눈은 조적개체 길이의 1/4 이상 상하부 켜와 겹치도록 쌓거나 또는 최소 철근에 0.0007<img src=\"data:image/gif;base64,R0lGODlhDAARAPUAAAAAAAAAOgBmtjo6kDpmtjqQ22YAAGY6OmY6kGZmOma222a2/5A6AJA6OpA6ZpCQ25C2/5Db/7aQkLbb27b//9uQOtu2ttvb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAMABEAAAZNwJBwSCwaiZ7LcaghLIWZwjNUWTxBjUTAavwYFB8ExshxghwUYzTEGYwtaWE1lBEIJWMhB9I5REAMAHZDFVtCHw9Te1MbE0pLFYNTREEAOw==\" width=\"12\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">를 균등하게 벽체길이 방향으로 보강하여야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 72,
+        "title": "4.8 정착",
+        "level": 2,
+        "label": "4.8",
+        "contents": "<p>4.8 정착</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 73,
+        "title": "4.8.1 교차벽",
+        "level": 3,
+        "label": "4.8.1",
+        "contents": "<p>4.8.1 교차벽</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 74,
+        "title": "4.8.1 교차벽",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 상호간 횡지지되고 있는 조적벽들은 벽체간 교차점에서 아래 규정된 방법 중 하나에 의해 앵커 또는 연결되어야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 75,
+        "title": "4.8.1 교차벽",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 교차점 조적개체의 50%가 교차 조적되어야 하며, 교차되는 각 조적개체는 하부 조적개체에 75 mm 이상 지지되어야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 76,
+        "title": "4.8.1 교차벽",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 끝에서 50 mm 이상 구부림되거나 또는 십자형의 앵커철물을 갖는 7 mm×40 mm 이상의 단면의 연결철물에 의하여 벽체가 정착되어야 한다. 이러한 앵커의 길이는 600 mm 이상이어야 하고, 수직간격은 1,200 mm 이하이어야 한다. </p>"
+      },
+      {
+        "no": 5043,
+        "sort": 77,
+        "title": "4.8.1 교차벽",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 연결부 보강물을 수직간격 200 mm 이하로 설치하여 정착시킨다. 이때 길이방향 철물은 직경 28 mm 이상으로 하며, 각 교차벽방향으로 750 mm 이상 매입한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 78,
+        "title": "4.8.1 교차벽",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 내부 비내력벽의 경우에는 연결부 보강물 또는 6 mm 철망을 수직간격 400 mm 이하로 설치함으로써 정착시킬 수 있다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 79,
+        "title": "4.8.1 교차벽",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 기타의 연결철물 또는 앵커들도 이 조항에서 규정된 바와 등가의 면적을 갖는 경우에 사용될 수 있다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 80,
+        "title": "4.8.2 바닥판과 지붕의 정착",
+        "level": 3,
+        "label": "4.8.2",
+        "contents": "<p>4.8.2 바닥판과 지붕의 정착</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 81,
+        "title": "4.8.2 바닥판과 지붕의 정착",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 각 조적벽체에 횡지지성능을 부여하는 바닥판 또는 지붕은 아래 규정된 방법 중 하나에 의해 각 조적벽에 연결하여야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 82,
+        "title": "4.8.2 바닥판과 지붕의 정착",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 조적벽에 지지되는 목조바닥 조이스트는 승인된 연결철물 앵커에 의해 1,800 mm 이하의 간격으로 벽체에 정착되어야 한다. 벽체에 평행한 조이스트는 중심거리 1,800 mm 이하로 배치되며 조이스트 상하부에 걸쳐 연결하는 연결철물에 정착되어야 한다. 이때 3개 이상의 조이스트로 고정한다. 끝막기는 각각의 연결철물 정착 사이마다 있어야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 83,
+        "title": "4.8.2 바닥판과 지붕의 정착",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 강재바닥판 조이스트는 지름 10 mm철근 또는 등가의 철물에 의해 1,800 mm 이하의 간격으로 벽체에 정착되어야 한다. 조이스트가 벽체에 평행한 곳에서는 조이스트 직각방향의 수평재에 정착되어야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 84,
+        "title": "4.8.2 바닥판과 지붕의 정착",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 지붕구조체는 13 mm의 볼트 또는 등가의 철물에 의해 1,800 mm 이하의 간격으로 벽체에 정착되어야 한다. 볼트는 400 mm 이상 조적체에 매입되거나 갈고리고 만들거나 벽체 최상부로부터 150 mm 이하에 위치한 테두리보 보강물에 130 mm<sup>2 </sup>이상 용접하여야 한다.</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 85,
+        "title": "4.8.3 골조에 지지된 벽체",
+        "level": 3,
+        "label": "4.8.3",
+        "contents": "<p>4.8.3 골조에 지지된 벽체</p>"
+      },
+      {
+        "no": 5043,
+        "sort": 86,
+        "title": "4.8.3 골조에 지지된 벽체",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 벽체가 골조에 의해 횡지지되는 경우 벽체는 금속앵커에 의해 골조에 정착되거나 골조에 연결되어야 한다. 금속앵커는 100 mm 이상 조적체에 매입된 지름 13 mm의 볼트를 1,200 mm 이하의 간격으로 배치하거나 이와 등가의 면적을 갖도록 하여야 한다.</p>"
+      }
+    ]
+  }
+]
