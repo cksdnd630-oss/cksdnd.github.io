@@ -1,0 +1,1277 @@
+[
+  {
+    "no": 5038,
+    "codeType": "KDS",
+    "code": "416005",
+    "fullCode": "1020416005",
+    "name": "조적식구조 일반",
+    "version": "2022",
+    "updateDate": "2022-10-14T10:47:00",
+    "list": [
+      {
+        "no": 5038,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 41 60 05는 조적식구조의 일반적이고 기본적인 요구사항과 구조설계법을 규정함으로써 조적식구조의 안전성과 사용성, 내구성을 확보하는 것을 그 목적으로 한다.</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 4,
+        "title": "1.2 적용범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용범위</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 5,
+        "title": "1.2 적용범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 조적식구조의 일반적이고 기본적인 요구사항과 재료, 설계, 품질관리 등 이와 관련한 기준을 규정한 것으로 조적식 건축물 및 공작물에 적용한다.</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 6,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 7,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 8,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 9,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준에서 사용되는 용어들은 다음과 같이 정의한다. </p>"
+      },
+      {
+        "no": 5038,
+        "sort": 10,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 가로줄눈：조적단위가 놓여지는 수평적인 모르타르 접합부</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 11,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 가로줄눈면적：가로줄눈에서 모르타르와 접한 조적단위의 표면적</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 12,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 겹：두께방향으로 단위 조적개체로 구성된 벽체</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 13,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 공칭치수：규정된 부재의 치수에 부재가 놓이는 접합부의 두께를 더한 치수</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 14,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 그라우트：시멘트 성분을 가진 재료와 골재의 혼합물로 구성되어 있으며, 조적개체의 사이 혹은 속빈 조적개체의 채움용으로 쓰이는 모르타르 혹은 콘크리트</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 15,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 기준치수：조적조, 조적단위, 접합부와 다른 구조요소의 시공과 제작을 위해 규정된 치수</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 16,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 대린벽：한 내력벽에 직각으로 교차하는 벽</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 17,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 면살 또는 살：조적을 쌓기 위한 속빈 블록 개체의 바깥살 부분</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 18,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 보강기둥：보강재와 조적체가 모두 압축력을 받는 수직부재</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 19,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 보강조적：보강근이 조적체와 결합하여 외력에 저항하는 조적시공형태</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 20,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 블록의 공동：전체 공동단면적이 967mm2보다 큰 빈 공간</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 21,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 블록전단면적：블록의 수평면의 외곽 4변 안에 있는 면적, 즉 속이 빈 공간 등을 포함한 전체면적</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 22,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 비보강기둥：두께에 수직이 되는 수평치수가 두께의 3배를 넘지 않는 수직구조부재</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 23,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 세로줄눈：수직으로 평면을 교차하는 모르타르 접합부</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 24,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 속빈단위조적개체：중심공간, 미세공간 또는 깊은 홈을 가진 공간에 평행한 평면의 순단면적이 같은 평면에서 측정한 전단면적의 75%보다 적은 조적단위</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 25,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 속찬단위조적개체：중심공간, 미세공간 또는 깊은 홈을 가진 공간에 평행한 평면의 순단면적이 같은 평면에서 측정한 전단면적의 75% 이상인 조적단위</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 26,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 순단면적：전단면적에서 채워지지 않은 빈 공간을 뺀 면적</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 27,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 실제치수：규정된 부재의 실측치수</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 28,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 유효보강면적：보강면적에 유효면적 방향과 보강면과의 사이각의 코사인값을 곱한 값</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 29,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 조적개체：규정한 요구조건을 만족하는 벽돌, 타일, 석재, 유리블록 또는 콘크리트블록</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 30,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 테두리보：조적조에 보강근으로 보강된 수평부재</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 31,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 프리즘：그라우트 또는 모르타르가 포함된 단위조적의 개체로 조적조의 성질을 규정하기 위해 사용하는 시험체</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 32,
+        "title": "1.4 용어의 정의",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● 환산단면적：기준 물질과의 탄성비의 비례에 근거한 등가면적</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 33,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 34,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBwAOAPQAADoAADoAOjpmZjqQ22Zmtma2/5A6ZpBmkJC2/5Db/7ZmOrZmZra2trbb/7b//9uQOtuQZtu2kNvb29v///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAHAA4AAAUq4CWOZGme6FUBAiJaRvMUIjVcUCLO1+KIioTlIJngEhECQ1QJJB63VCkEADs=\" width=\"8\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：등가응력블록의 깊이(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 35,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAAAAAZgA6kDo6OjqQ22YAOma222a2/5A6AJA6ZpBmkJCQ25Db/7ZmOrZmZra2tra227bb/7b//9uQOtuQZtu2Ztu2ttvb29vb/9v/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAPABEAAAZWwJBwSCwaj8jQB5IkTghNoacCjV421aRHg22CMKFucgIoZ8HETkT4FIIUGuJj2FYuiJXDsFHlDAISIAgAAhqCZiEUBht6TQ4SGwxRFhkJElEfBY1RQ0EAOw==\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：앵커볼트의 단면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 36,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6ZgA6kDoAADqQ22aQ22a222a2/5A6AJDb/7ZmALZmOrZmZra2tra227bb/7b//9uQOtu2Ztvb29vb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAQABEAAAVJYCeOZGme6Lg5aRkR7ahJcNxNVt1qVR5zlI6vFQEYdafMQ/RqNUZNlOQwWugWAEOHgwAIKtxj51LAFGwKQCBhY0CUNsyAaiuFAAA7\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：조적조의 유효단면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 37,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEAARAPUAAAAAAAA6kDoAADoAOjo6ZjpmkDqQ22Zmtma2/5A6AJBmZpBmkJCQtpCQ25Db/7ZmOra2tra227bb/7b//9uQOtuQZtu2Ztvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAQABEAAAZVQJFwSCwaj8ghKJIsUgzN4ccCjYoum2rzo8lGQxiRt0kBmLVHj0T4bEKGbaQFMXxoK4OCJpQABPZ9AFAgBxkMVhsIIA1WHA4UdFEdAgQOXwsZChMiQQA7\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：벽의 전체단면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 38,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFgARAPUAAAAAAAA6kABmtjoAADo6kDpmtjqQ22Y6kGaQtmaQ22a2/5A6AJBmOpCQtpCQ25Db/7ZmOrZmZraQkLa2tra227bb/7b//9uQOtuQZtuQkNu2Ztvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACYALAAAAAAWABEAAAZ1QJNwSCwaj8ikkURRKi8GJ3KkiUqNm4/1Ohx5tNxhiWMCh00XgHpbHB1FFSGUiHkIM/biZDg/ZixFGgpDEFsfBB4mJQwDAkIlCwABHpBrihwSiSQHHQ1cJZ4mIQklTVchDkIgDyITZFIfgyZ/HwVSJAgRgEdBADs=\" width=\"24\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：벽 격자접합부에 설치된 특정 가로철근의 전체면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 39,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhGQARAPUAAAAAAAAAOgA6ZgA6kDo6ZjqQ22Y6AGY6kGa222a2/5A6AJA6OpA6kJCQtpCQ25C2/5Db/7ZmOraQkLa2tra227bb/9uQOtu2Ztu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACUALAAAAAAZABEAAAZ4wJJwSCwaj8ikUjiiLJ+WwlMpukinSI3nii2KOttukbQphcVDC2DNFYcqwihaOEm3sZfEMHIFEQwCBgEQTAccDB0kCgADiYsAUhkREBYIH4QlGhMdGB1LJA0lEpyeJSQUoE8gDqkTGkIgDx56S5erJAuYIwaNc0hBADs=\" width=\"26\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">：벽두께와 전단력이 작용하는 방향의 단면의 길이를 경계로 하는 조적단면의 순면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 40,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEQARAPQAAAAAAAA6kDo6Zjo6kDqQ22Y6AGa2/5A6AJCQtpCQ25Db/7ZmOra2tra227bb/9uQOtu2Ztu2ttvbttvb29vb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAACH5BAAAAB0ALAAAAAARABEAAAVNYCeOZGmeaLk1qfkQLalBcCxOVh1rVW5zlI4v9gAYdaiMQ/SKMUbNFMQwWtQwgkKg0uEcAFvvsSNZKCLcGAfRedowiVUwdlFgBmkbKQQAOw==\" width=\"18\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：조적조의 순단면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 41,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEgARAPQAAAAAAAA6ZgA6kABmtjoAADo6ADqQ22YAAGZmAGaQ25A6AJBmkJCQtpC2/7ZmALZmZraQZraQkLa2tra2/7b//9uQOtu2Ztu2ttvb29v///+2Zv+2tv/bkP//tv//2////yH5BAAAAB8ALAAAAAASABEAAAVN4CeOZGmeaKqaXLKSnmK844XMdDc5+Ct9PNqG8qn0Up0DYHlERYjApsnSGAU/rcpgFAMIMl3ADAOhPKCrDsOzyNA0hhatWAigVRxCMwQAOw==\" width=\"19\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：조적조에 삽입되어 묻힌 앵커볼트에 의한 콘크리트 깔때기형태의 원면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 42,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAAAZgA6kDpmkDqQ22YAAGa2/5A6AJBmtpC2/5Db/7ZmOra2tra227bb/7b//9uQOtuQZtu2Ztu2kNvb29vb/9v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAQABEAAAVJYCeOZGme6Lg1aQkR7ahJcNxRV91qVh5zlY6vBQEYdaeMQ/RqMUZNlMQwWugWgUeHcwAILNxjZ4PAJGwdDcs2eUQUtk1hYEGTQgA7\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：기둥이나 휨부재의 철근의 유효단면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 43,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFQARAPUAAAAAAAAAZgA6ZgA6kDoAADpmkDqQ22YAAGaQ22a222a2/5A6AJBmtpC2/5Db/7ZmALZmOrZmZra2tra227bb/7b//9uQOtuQZtu2Ztu2kNvb29vb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAAVABEAAAZnQJJwSCwaj8gkUTRRJi0G5zGEiUqLmo71KgxxtFzhaEMChy2A9FYKogihYckQfsUohpAtJFARQgAJJCMLAAMcg2okIgwfDSQeCB8IVyFNJA8AAg5SGRUXmxEVbVIiBwUcJB8Ed2FHQQA7\" width=\"22\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：철근의 유효단면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 44,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFgARAPUAAAAAAAAAZgA6kABmtjoAADpmkDpmtjqQ22YAAGY6kGaQ22a2/5A6AJBmOpBmtpCQtpC2/5Db/7ZmOra2tra227bb/7b//9uQOtuQZtuQkNu2Ztu2kNvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAAWABEAAAZxwJNwSCwaj8iksURRKi8HJ5KkiUqNHJD1OiR9tNyhqXMCh08XgHpbJB1HFSEUmYkYJ8P5MWMpahZDElsSAX0mDQQDQiYMAAIfjGsnJQ4iEJMJHg9cJE0nIgomnk4bFhh2IREjE2ROJQgFHyd8IAZnSEEAOw==\" width=\"23\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：중심공간을구속하는직사각형이음철근의전체단면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 45,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6kDqQ22Y6AGY6kGa2/5A6AJA6kJCQtpC2/7ZmOra2tra227bb/9uQOtu2Ztu2ttvb29vb/9v/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAQABEAAAVK4CaOZGme6JgxaekI7Yg9cLxFVd1iVB5rko2v5QAYdadLQ/RqLUZN1KMwUtQyhMmBojEAAlwvABZZUCCUH0ODsFkSFWosMwDbSiEAOw==\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：길이방향철근에 직교하는 전단보강근의 면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 46,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFAARAPUAAAAAAAAAZgA6kDpmkDqQ22YAAGa2/5A6AJBmkJBmtpC2/5Db/7ZmALZmOra2tra227a2/7bb/7b//9uQOtuQZtu2Ztu2kNvb29vb/9v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAUABEAAAZfQJBwSCwKORGjssgwLD0P5QeRWU4ISg5k2algl8uL5gsudjLjcvGDAaXVwwlgTlYjhVe40BGvgytOQg1kDQESawcAAhkfiQBYHgkbCnpEHVGVQhYSFAuZIB4FA1WfS0EAOw==\" width=\"21\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：휨부재의 압축철근의 유효단면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 47,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBgAOAPQAAABmtjoAZjpmkDqQ22Y6AGY6kGZmZma2/5BmZpDb/7ZmALZmOrbb/7b//9uQOtuQZtv///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAGAA4AAAUr4CWOIkVez0E+yWghzVgZBCBOAbO00XDtF4cKyKoUIBdJwuETKQTIk/QSAgA7\" width=\"7\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：직사각형부재나 T형 또는 I형 단면의 플랜지의 폭(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 48,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFQARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjo6Zjo6kDpmkDqQ22YAAGYAOmY6AGaQ22a222a2/5A6AJA6OpBmtpCQtpCQ25C2/5Db/7ZmALZmOra2tra227b//9uQOtuQZtu2kNu2ttvbttvb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAAVABEAAAZ2QJVwSCwaj8hkCgJoAgaWZDEViaYuBSmxdBAJOVntNyFcPsTCyzmFcaBVKIWT/B6FzW8OXXXZS6lRcAuBWlxeJhBhGAIbKiUGDARefE4AAQ1CKBIlFSogGBYfk1InGmUTKhliHhsdUSUUKBohWnEIXiQWhm9IQQA7\" width=\"22\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：앵커볼트의 공칭전단력(N) </p>"
+      },
+      {
+        "no": 5038,
+        "sort": 49,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEQARAPUAAAAAOgAAZgA6ZgBmtjo6kDpmkDpmtjqQ22YAAGY6OmY6kGZmOma222a2/5A6OpA6ZpBmtpCQtpCQ25C225C2/5Db/7ZmOraQkLa2tra227b//9uQOtuQZtu2Ztu2kNu2ttvb/9v/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACkALAAAAAARABEAAAZlwJRwSCwaj0fUJyJCGkkGp3F0kBY3DesQ5VgAstYTgnFSNKXQFOqhsVJTJMLZiU2NBloSpZSopCwBbWUiF3MbXyknEHopHxghEU4mGUIoGScSSB4aHH4kEx0MIEdiBU1iAnJaRkEAOw==\" width=\"18\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：앵커볼트에 의해 지지되는 계수전단력(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 50,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDgARAPQAAAAAAAAAOgA6ZgBmtjo6kDqQ22YAAGYAOmaQ22a222a2/5A6AJA6OpCQ25C2/5Db/7ZmALZmOraQkLbb27b//9uQOtu2ttvb/9v///+2Zv+2tv/bkP/btv//tv//2////yH5BAAAAB8ALAAAAAAOABEAAAVR4CeOZGmeo7cALCA8p8fAHjScG4GJ1W1WBZFKcYIQPZHEqWNoBU8Z3/AEHEGCFkpqJuocYJKdKLfjLAYqgA/SAgQQ3QaKtHHMR5rJ5f7p8UshADs=\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：앵커볼트의 허용인장력(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 51,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCgARAPUAAAAAAAAAOgBmtjo6kDpmtjqQ22YAAGY6OmY6kGZmOma222a2/5A6AJA6OpA6ZpCQtpCQ25C2/5Db27aQkLbb27b//9uQOtu2ttvb/9v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAKABEAAAZJQJBwSCwaP5dHxgjiEJggTQFqWTA/jUTASvQYFB7EcugEfRwVorQ5yFzSoGpUAJqMOZHOQcIA0IUWWyAeEFB4UBsUGEwWf1BCQQA7\" width=\"11\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：앵커볼트에 작용하는 계산된 인장력(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 52,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFQARAPUAAAAAAAAAOgA6ZgA6kABmtjo6Zjo6kDqQ22YAAGYAOmY6AGaQ22a222a2/5A6AJA6OpCQtpCQ25C2/5Db/7ZmALZmOraQkLa2tra227bb27b//9uQOtu2ttvbttvb/9v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAAVABEAAAZ2wJNwSCwaj8ikyQFoAgSTZNH0iJooBClxZPgIN1nt9yBcNsRCytlUYaBPJYST/AaFze8N/UQhczRSVFFwCVEWXklcXiQOBEsAYSMFCgOIFE4AAQtCJRFDHRUTHIiJEkMmECcXYiIZHkIjESUYr1JgQyETim9IQQA7\" width=\"23\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：앵커볼트의 공칭인장력(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 53,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEQARAPUAAAAAAAAAOgA6ZgBmtjo6kDpmtjqQ22YAAGY6OmY6kGZmOma222a2/5A6AJA6OpA6ZpCQtpCQ25C225C2/5Db27aQkLa2tra227bb27b//9uQOtu2Ztu2ttvb/9v/29v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACYALAAAAAARABEAAAZmQJNwSCwaj8cSB/JBGkUFpxFkkBY1DOuw5FAEslbSYUFKNKVQU+mRsVJNIsKH00ZiTaCBqXI+iiYjCBQNAHomZR98QxpfhxFDHBYeEEh/Wxckj0chGB1CIhIbC55GGoaHBwJyWkZBADs=\" width=\"19\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：앵커볼트에 의해 지지되는 계수인장력(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 54,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAAAAAOgA6ZgA6kABmtjo6kDqQ22YAAGYAOmY6AGY6kGaQ22a222a2/5A6AJA6OpA6kJCQtpC2/5Db/7ZmALZmOra2tra229uQOtu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAPABEAAAZgQJFwSCwaj8WQA8AECCbI0AMaohCQngJHiLkeMQahsoGkkEMVBhJ0aIaRHe8YCR5S3smpEISAGrNbHw5XIAobEFsUTQABC0IaFhwZW0giIRchEZVCHhIdZJsgCQOUm0RBADs=\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：앵커볼트의 허용전단력(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 55,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCwARAPUAAAAAOgA6kABmtjo6kDpmtjqQ22YAAGY6AGY6OmY6kGZmOma222a2/5A6OpA6ZpA6kJCQtpC2/5Db/7a2tra227b//9uQOtu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAALABEAAAZMQJBwSCwahZ8LRHMEcQhN0KYQtTCan4YCcC16DAtPgkl8gj6OSnHqHJCHVqnAyIl0EBJx5kG2cEEYExoXb0MfFB8QR3UbXV4HAYVNQQA7\" width=\"12\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：앵커볼트에 작용하는 계산된 전단력(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 56,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCgAOAPQAAAAAOgBmtjo6kDpmtjqQ22YAAGY6OmY6kGZmOmZmtma222a2/5A6OpA6ZpC2/5Db/7ZmOrbb/7b//9uQOtvb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAKAA4AAAU7YCeO3aWMGjVCz3gN4paQFiFmETkt5MgxCACPtCkoNocKCQPjNCQ0G0agHO06lkAP48gYWr2JsEcul0MAOw==\" width=\"11\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：T형이나 I형 단면의 복부의 폭(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 57,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBgAOAPQAAAAAOgA6kDpmtmY6AGa2/5A6OpDb/7a2ttuQOtuQZtv////bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAA8ALAAAAAAGAA4AAAUf4COOZGmeJDMAxuMUBkI8i0DKZNKOsnMoj8YgAESRQgA7\" width=\"7\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：중립축에서 부재연단까지의 거리(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 58,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjqQ22YAAGY6AGaQ22a222a2/5A6AJCQkJC2/5Db/7ZmALZmOrZmZrZmkLaQkLbb27bb/7b//9uQOtuQZtuQkNvbkNvb29v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACYALAAAAAAPABEAAAZlQJNwSCwaj0gRAhBQUC5HjMBiCh0I0YFniFkYQwXoMPMwQrBEjpF08CKHYLFwtDWphR8tcVKfiONDIGUmJQ11JQwEHiUaDkIRAAZEJEtTeAYhjm8mEheCmyYUHRIVdUh5GwmgRUEAOw==\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：공칭전단강도계수</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 59,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAAAAAA6OgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAOma225A6AJA6OpBmOpDb/7ZmALZmOtuQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABgALAAAAAALAA4AAAU+ICaOZGmS1wKsgOCQVvJez0BOgyRSBfkgI97owniJcEGDTvQgjCJAUcxINGIgUQxFiak0DqMHCxBQnM5oTAgAOw==\" width=\"12\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：고정하중 또는 고정하중으로 발생하는 부재의 응력</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 60,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBwAOAPQAADoAADo6OjpmtmZmtmaQtmaQ22a2/5A6OpBmkJDb/7ZmZrb//9uQOtuQZtu2ttvb29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABYALAAAAAAHAA4AAAUuoCWOpPiUlrKQFQKR1DBOQFCI1ZEwhhgJFklCxEutLI1E6/HiSQgOEc1QRFktIQA7\" width=\"8\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：휨부재의 압축면과 길이방향 인장철근의 중심 거리(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 61,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCwARAPUAAAAAOgAAZgBmtjo6Ojo6kDpmtjqQ22YAOmY6kGZmOmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJCQ25Db/7ZmOrZmZraQZraQkLa2trbb/7b/trb//9uQOtuQZtu2ttvbttvb/9v/29v///+2Zv+2tv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAALABEAAAZVQJVwSCwajSCM5qhKQThMFGLENBWMqQgg0TBWDKkHpWgiUC3Q0JBkUKEUTQlV1emaFqXNZG04XRgZJgMBUCkOAmEUHgwkXUZoJGNGHyJPRygHjkxCQQA7\" width=\"12\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：철근직경(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 62,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAOgAAZgBmtjo6Ojo6kDpmtjqQ22YAOmY6kGZmOmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJCQ25Db/7ZmOrZmZraQZraQkLa2trbb/7b/trb//9uQOtuQZtu2ttvbttvb/9v/29v///+2Zv+2tv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAAPABEAAAZqQJVwSCwaj0cQRoMkpiCc5hCFGEmFpoI0FQEkGtKKIfWgNE0EqyUaGraFJIMKpVClJNa7VdUBmxYlGxNCKINwBicXDBkmAwEcjY92DgJkFB4MJA2YmkdrJBSfZkYfIlClUEcoB2CrYFdEQQA7\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：접합부를 관통하거나 묻히는 가장 큰 보의 길이방향철근의 직경(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 63,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEAARAPUAAAAAOgAAZgA6ZgBmtjoAADo6ADo6Ojo6kDpmtjqQ22YAOmY6kGZmOmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJCQtpCQ25Db/7ZmOrZmZraQZraQkLa2trbb/7b/trb//9uQOtuQZtu2ttvbttvb29vb/9v/29v///+2Zv+2tv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC8ALAAAAAAQABEAAAZuwJdwSCwaj8gXieNJEl0TkHPYWqCmwhVi6qIAGJBpJuGSYJyrw1UjNSFTiVer8XJVrsZQeOVQfS5vCSwbDx0rBgEgfCEDQi4RA2UYIg8pECUbIGxHbCkYLRZ2eEUjJ1FwfEgtCmEhBQJSaARxQkEAOw==\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：접합부를 관통하는 가장 큰 기둥의 길이방향철근의 직경(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 64,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCgAOAPQAAAAAAAAAOgAAZgA6kABmtjo6kDqQ22YAAGYAZmZmtma2/5A6AJA6OpC2/5Db/7ZmALa227bb/7b//9u2Ztu2kNv///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAACH5BAAAABwALAAAAAAKAA4AAAU8ICeOZGmK2gGsK6khkoiRFsFtkEY+Cjc1LhVAEBtZBhVNovQwcDIRnGjDcIwuEVmhIqIsNwvWKmA9mUshADs=\" width=\"11\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：지진의 하중효과 또는 관련 내부모멘트와 힘</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 65,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBwAOAPQAAAAAAAA6ZgA6kABmtjoAADo6kDpmkDqQ22YAOmZmtpCQkJC225Db/7bb/9uQOtuQZtu2Ztu2kNvbttv///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAHAA4AAAUpYCaOZGmeaAYRwCE6QYMp04UwmZRkFOAbE95gZJlUCsHIQvQgCBqpUwgAOw==\" width=\"7\" height=\"13\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：<img src=\"data:image/gif;base64,R0lGODlhGQARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAOjo6kDqQ22YAAGYAOmY6kGaQtma222a2/5A6AJBmkJCQkJCQtpCQ25C225Db/7ZmALZmOrZmZraQkLa2tra227b//9uQOtu2Ztu2ttvb/9v/29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACgALAAAAAAZABEAAAZ3QJRwSCwaj8ikcskcAZ7PgINpHBFEwo6AQyVaEMPRtis0KSpDS4GcvaJOlwGXfHpAAwwsu2RAdzt+Qx1rXSQRDUR1U0UmCyIZeigdAG5CFlBgRB8aIRKJnl0nGyYTRKRkJRQeDSBhi1QmCQMHkRhzbEMmEBCRQkEAOw==\" width=\"25\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">의 편심길이(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 66,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEwARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjo6Zjo6kDpmtjqQ22YAAGYAOmY6AGZmtmaQ22a222a2/5A6AJA6OpCQtpCQ25Db/7ZmALZmOraQkLa2tra227a2/7bb/7b//9uQOtuQZtu2Ztu2ttvbttvb29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAATABEAAAZvwJVwSCwaj8iiKgJoNgWdpFAlqQhRDanwdCBNNdqVJ7FKbczaJWT1sYZTiibBGy4Vyo6w0EJGcVRgUikLbismUVJcdCAIKycGDAMMAW5LTk2UKyIXFR4PJoVJKhMrGCQhdIkUoysZI2GgJ6tVekhBADs=\" width=\"20\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：조적조의 탄성계수(MPa) </p>"
+      },
+      {
+        "no": 5038,
+        "sort": 67,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFgARAPUAAAAAAAAAOgA6ZgA6kDoAADo6Zjo6kDpmtjqQ22YAAGY6AGY6kGa225A6OpCQtpCQ25C225Db/7ZmOrZmkLaQZraQkLa2tra227bb/7b//9uQOtu2Ztu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACgALAAAAAAWABEAAAZuQJRwSCwaj8ikcslsOp/OkwQwCEFRFAxqkoGSCIAA4ypCXIcaM+r0gYoOqBIERSooBIpARGhahCpWQhJiQh0SERoMI3soHBYgDkknkYAcgScXJg9JJA+TKBYeQiQQGwxtR4udJw2MJgkCBoFnQ0EAOw==\" width=\"23\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：압축최대변형률</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 68,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAAAAAOgAAZgA6kABmtjo6kDpmkDpmtjqQ22YAAGYAOmZmtmaQ22a2/5A6AJA6OpBmtpC2/5Db/7ZmALZmOra227a2/7bb/7b//9uQOtuQZtu2Ztu2kNv///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACUALAAAAAAPABEAAAZewJJwSCwaj0WSA8BkCjBH0kMiDC2QoEJHSKogM4jSyDKOOholDRU5SjAHW6SHIGYghZNw6NI9jhRrJR9QRllxGwdCFE8lSk1MAVQjECARd0MiXpclHBhqm20GcZtDQQA7\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：철근의 탄성계수(MPa) </p>"
+      },
+      {
+        "no": 5038,
+        "sort": 69,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCQAOAPQAAAAAAAAAZgA6kABmtjo6kDqQ22YAAGYAZmZmtma2/5A6AJA6OpDb/7ZmALa227b//9uQZtvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAJAA4AAAUw4CWOZGlWBqACZHU85jRclkM2yQUxI6oKktEEWEHcCrTIyLLglSiE4FKhCsBMWGwIADs=\" width=\"10\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：액체의 압력이나 무게 때문에 발생하는 하중이나 관계된 모멘트와 힘</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 70,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgA6kABmtjo6kDqQ22YAAGYAOmaQ22a222a2/5A6AJA6OpC2/5Db/7ZmALZmOrZmZrZmkLaQZraQkLa2/7bb27bb/7b//9uQOtvbkNv/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAOABEAAAZZwJFwSCwaj0PRAsBkCjhGEcMh/CCOHwJ0FKocM4UR6DKOLhSjCfUYMji3xs5gZEWOHuEy+7C2Z+FCEAEJI0pMAX0dBR8NdiMRGB59RxQbEhaARR0EGmGOREEAOw==\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：기둥에서 중심축하중만 작용할 때의 허용평균축압축응력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 71,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDQARAPQAAAAAAAA6OjoAADoAOjo6kDqQ22Zmtma2/5Db/7aQkNuQOtuQZtu2Ztu2ttv////bkP/btv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABEALAAAAAANABEAAAU0YCSOZGmeJACg4rqyL8y2anzaKG7q+9yWDEHg8CM9CI4FwlVSEBMOlUkJMTRQjwFCUfCJQgA7\" width=\"13\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：설계축하중에 의한 축압축응력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 72,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDQARAPQAAAAAAAA6ZgA6kDoAADpmkDpmtmYAOma2/5Db/7ZmALZmOrZmZrb//9uQOtuQZtu2Ztvb29v///+2Zv+2kP//tv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAANABEAAAU7YCWOZGmeIqCuwNmObxlXcwrTZlzDrHtXENnPgSDtFowfiWIYCFgzCSGyQFUah4rCOkE8CtZKIpAMi0IAOw==\" width=\"13\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：휨하중만 작용하는 부재에 대한 허용휨압축응력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 73,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDAARAPQAAAAAAAA6ZgA6kDoAADpmkDpmtmYAOma2/5Db/7ZmALZmOrZmZrb//9uQOtuQZtu2Ztvb29v///+2Zv+2kP//tv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAMABEAAAU2YCWOZGmeIgCg1bqiL8y2amzapw2VuIOQuAUDSKIYBoJUSUKILFylxqGiUJkmiEeBlQgMZ5UQADs=\" width=\"12\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：설계휨하중에 의한 부재 맨 바깥쪽(최대) 휨응력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 74,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAAAZjoAADo6Ojo6ZjqQ22YAOma222a2/5A6ZpBmkJCQtpCQ25C2/5Db/7ZmZrb//9uQZtu2ttvbttvb/9v/29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAACH5BAAAABwALAAAAAATABEAAAVOICeOZGmeqAmsLJCS7hi/3FzTt+ja6Mynrd/JJ6LQiBuF5cXTMJimzCAA4WQIgkKtRYocLgjO5FF9kS8OzmaBk1QS1UwDpzGEOZg0LhUCADs=\" width=\"19\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">  ：조적조의 허용지압응력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 75,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFgARAPUAAAAAAAA6OgA6kABmtjoAADo6kDqQtmYAOmZmOmZmtmaQtmaQ22a222a2/5BmOpBmZpBmkJCQtpDb/7ZmALZmZraQkLa2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvb29vb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACgALAAAAAAWABEAAAZsQJRwSCwaj8hkEQBQJptN5zEqNVKrRCYTu+RavZ/hVXp6iL2mxHloOiAAAgfAIBQRAgvh2NMZhCYMJhEoJAUYIxJQRhQZJxAhJhYoGg0oFRlbRY4hJHkcFyAbEiUKHkidKCKVEwOEBA2UXkZBADs=\" width=\"22\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：고정하중에 의해서만 발생하는 압축응력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 76,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDQARAPMAAAAAADqQ22YAOmZmOmaQ22a2/5BmkLZmZrb//9u2Ztu2ttv////bkP//tv//2////yH5BAAAAA8ALAAAAAANABEAAAQq8MlJq70UACz35h/IdVp4mRhqqevYUY0wAMVLKUnwqgdCWg7DYsQguCoRADs=\" width=\"13\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：파괴계수(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 77,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDgARAPQAAAAAAAAAOgBmtjoAAGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQkNu2tv+2Zv+2kP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAAOABEAAAU2ICSOZGmeJKCuANqOrxlDM2zXYozDrGv7ORRN+Cs1BgJaj4RIOA7EByNBXBweBoXwUQgQiKUQADs=\" width=\"14\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">  ：철근의 허용응력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 78,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDQARAPQAAAAAAAAAOgBmtjoAAGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQkNu2tv+2Zv+2kP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAANABEAAAUzICSOZGmeJACg4rqyL8y2anzaKG7q+9yWjYFgpEMkHAeX6cFIQFSmxeFhUKAehQDBNwoBADs=\" width=\"13\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：설계하중에 의한 철근의 응력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 79,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEgARAPQAAAAAAAAAOgA6kABmtjoAADo6ZmY6AGaQ22a2/5A6AJA6ZpDb/7ZmZrbb/7b//9uQOtuQZtuQkNu2ttv///+2Zv+2kP/bkP/btv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAASABEAAAVIYCaOZGmeKAmsLJCOLvyKMT3Xbo3iM932PKBM2BuWKISBCBlo6TKMRmVhKTQeL4ykkXkgZpEFRuGALDKSFCYROGQuBsGkWAoBADs=\" width=\"18\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">  ：기둥철근의 허용압축응력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 80,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDQARAPMAAAAAAAAAZma2/5A6AJCQ25C2/7ZmkLb//9u229v///+2Zv/bkP/btv//tv//2////yH5BAAAAA8ALAAAAAANABEAAAQz8MlJq70S6A1un18VPmMGklZYgpx3uubDENSqCO/kDJrAlYYERtKgDR+LAkKIUQQOR0oEADs=\" width=\"13\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：조적조의 허용휨인장응력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 81,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDgARAPQAAAAAAAAAOjpmtmaQ22a2/5A6AJBmtpCQtpCQ27ZmOrZmZra2trbb/7b//9u2ttv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAOABEAAAU44CSOZGmeJKCuANqOrxlPM2zXYozDrGv7ORRN+CNJCgSIgDVzOBiSA3HxiCCEEoNE0cAmAgNiKQQAOw==\" width=\"14\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">  ：조적조의 허용전단력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 82,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDQARAPQAAAAAAAAAOjpmtmaQ22a2/5A6AJBmtpCQtpCQ27ZmOrZmZra2trbb/7b//9u2ttv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAANABEAAAU14CSOZGmeJACg4rqyL8y2anzaKG7q+9ySkgIBIviRHA6G5OAyLR4RhMokMUgUDZQkERj4RiEAOw==\" width=\"13\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：설계하중에 의한 전단력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 83,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDQARAPQAAAAAAAA6kGYAAGZmtma2/5A6AJA6ZpBmtpCQkJC2/5Db/7aQkLbb/7b//9uQZtu2kNu2ttvbttv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAANABEAAAU64CWOZGmeJACg4rqyL8y2anzaKG7q+9ySFQHBgviRIBEGZeAyLSQTgspkOVgMDZSlAAhIUA7FI3EJAQA7\" width=\"13\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：철근의 인장항복응력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 84,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEwARAPUAAAAAAAA6kDo6OjqQtjqQ22YAAGZmkGZmtmaQ22a222a2/5A6AJA6ZpBmtpCQkJC2/5Db/7ZmALaQkLa2/7bbtrbb/7b//9uQZtuQkNu2kNu2ttvbttvb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAATABEAAAZiwJFwSCwaj0gkAJA8MpnNIjRKnFKFy+V1aN12iSKO8Uv8HMbNDwI9DBUUIkfnIgAMuEXNpmIeRRIhZ09GEh0eCiEGHSATI1pFIg0iDBZqIxgUFUgiCwABcwp+BEkXEBkPR0EAOw==\" width=\"19\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">  ：수평철근의 인장항복응력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 85,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEQARAPQAAAAAAAAAOgA6Ojo6kDpmtjqQtmY6AGaQ22a2/5A6AJA6OpA6ZpBmZpDb/7b//9v///+2Zv/bkP/btv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAARABEAAAU/ICWOZGmeJACY6rmW65u6qDza6K3iOZ9TvtqPNYSVJAZBgUiaKBqRwwwXIVAgiBQvOlk4ipNEYPAYThiOaikEADs=\" width=\"17\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">  ：28일 양생일 때 채움재의 규정 압축강도(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 86,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAA6kABmtjqQtmYAOmZmOmaQ22a222a2/5BmOpBmkJCQtrZmALZmZra2/7bb27b//9uQkNu2Ztu2ttvb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAAVABEAAAVMoCaOZGmeKAkA5pqKbMnGKK2+cIvXq73nP13wNiQWgSIMoQAIJACDk28iEVQYB8xCpvFpGpCMooJxyLziysWgiTwou7XGgtAwBMdUCAA7\" width=\"21\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：28일 양생일 때 조적의 규정 압축강도(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 87,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCwAOAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kDoAADoAOjo6ADpmtjqQ22YAAGYAOmY6AGa222a2/5A6AJCQkJC225Db/7ZmALaQOrbb/7b//9uQOtu2Ztvb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAALAA4AAAZGQJFwSCwajaEMAkC4ED+NhEb0iQw9hweRIwQtFMWOECNwIiFgIQfAFnm1QxBj4v5uCxshJSARZgxpIiEVBgADDh8WR4uLQQA7\" width=\"11\" height=\"13\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：조적의 전단계수(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 88,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAAAAAAAZgA6kABmtjoAADoAOjoAZjqQ22YAAGYAOma2/5A6AJDb/7ZmALb//9uQOtv/ttv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABYALAAAAAALAA4AAAU+oCWOZGmSEqAKEAKggSNWC9kc42SMVMKMjcHooSoCFLMFTiQRRESTwk90GwpFvSkNKXo4LY3iYUJYPU9oUwgAOw==\" width=\"11\" height=\"13\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：흙속의 물과 흙의 무게와 압력에 의한 하중 또는 관련된 내부모멘트와 힘</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 89,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCAAOAPUAAAAAOgA6kABmtjoAADo6kDpmtjqQtjqQ22YAAGYAZmZmtma2/5A6OpA6ZpCQZpC2/5Db/7ZmZra227bb/7b//9uQOtu2Ztu2kNvb29vb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAAIAA4AAAY9wI9wSMRkiEILQYPcCJCfygLpaTgGgIewgzBonMJNgLk5CCvmTwTy8TDYHcVH0klQPuXLhFMQcgZTUIJDQQA7\" width=\"8\" height=\"13\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：지지되는 지점 사이 벽의 높이(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 90,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDAARAPUAAAAAOgAAZjo6OjpmZjpmtjqQ22YAOmY6AGY6kGZmtmaQ22a222a2/5A6AJA6ZpBmkJCQ25C2/5Db/7ZmOrZmZraQkLa227bb/7b/27b//9uQOtuQZtu2ttvb/9v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACUALAAAAAAMABEAAAZVwJJwSCwai6JK5DjUMJhCSgY6QnygocEB8DSCApcQ4egshRTCDnEiKYHapMe1VL1SMJYRZCimJ0RhAgFTIAUlJA2GGwsgXUZSb0wcHg5TRyMGjlAlQQA7\" width=\"13\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：보깊이(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 91,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDAARAPQAAAAAOgAAZjoAADpmZjpmtjqQ22Y6AGY6kGZmtmaQ22a2/5A6AJC2/5Db/7ZmOrZmZraQkLa227bb/7b/27b//9uQOtvb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAMABEAAAVHYCeOZGmWGsScY6Ww4kPB23HB2WAAr4kFkgzh5OpkEidHo4NZlmq3xyRSEnY2CI2k4+AxCx3OAowpYHomGawj01hYGAF6HQIAOw==\" width=\"13\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：구속철근의 중심과 중심 거리로 측정한 충전된 중심 공간의 단면치수(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 92,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAOgAAZgA6ZgBmtjoAADo6ADpmZjpmtjqQ22Y6AGY6kGZmtmaQ22a2/5A6AJBmkJCQtpC2/5Db/7ZmOrZmZraQZraQkLa227bb/7b/27b//9uQOtvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAANABEAAAZVwJFwSCwajyBL5EjcNJhDigY6Cik61I8hAXgePQHM58B0jj4M5kQy8rCNViwlczGOqwuQmLEZCD0IIyIOgRwVGlJMIRAiD1hfCGhQGwUCU0cfBIFCQQA7\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：벽 격자평면에서 기둥깊이(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 93,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDAAOAPQAAAAAOgAAZjpmZjpmtjqQ22Y6AGY6kGZmtmaQ22a222a2/5A6AJDb/7ZmOrZmZrbb/7b/27b//9uQOtvb29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAMAA4AAAVB4CaOo5WQE0U2zKg1ypgd5OZEI/aQmaHWo4ugAIgBK4HHZQDcSGIXRJO1qbRqPZUDMqktNzNdrULYaBblpnpNCgEAOw==\" width=\"13\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：벽이나 기둥의 유효높이(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 94,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBQAOAPMAAAAAAAAAOjpmtjqQ22Y6ZmY6kGa2/5A6AJDb/7ZmOtuQOtv////bkP//tv//2////yH5BAAAAA8ALAAAAAAFAA4AAAQb8MlJpwI0zUYmE9YwJYjUFIv0WcbjHEBQVlQEADs=\" width=\"6\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">    ：단면 중립축에서의 단면2차모멘트(mm<sup>4</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 95,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCgARAPQAAAAAAAAAOgA6kDoAADpmkDpmtmY6AGa2/5C2/5Db/7bb/9uQOtuQZtu2ttv///+2Zv/bkP//tv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAAKABEAAAUwoCSOZGmOQAqc6ym1Jhy7ryuXN5mL8DMECdUKQnA8EKVFquAoMQ6ShqIUMQiaNEkIADs=\" width=\"10\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：유효단면2차모멘트(mm<sup>4</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 96,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDAARAPQAAAAAAAAAOgAAZgA6OgA6kABmtjoAOjo6kDpmtjqQtjqQ22YAOmY6AGaQ22a2/5A6AJA6OpA6ZpBmZpDb/7ZmALb//9uQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAMABEAAAVDYCeOZGme6GgBLHGdmFCllJJuy5RaLso9NlTGoENZCqmfQ6RhDBKiBwug4EAmmcYpg+hglqYsJzIz/QKHV4kjqXBHIQA7\" width=\"12\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">,<img src=\"data:image/gif;base64,R0lGODlhDwARAPQAAAAAAAAAOjoAADo6ZjqQ22a2/5CQtpC2/5Db/7ZmOrZmZrb//9vbttvb//+2Zv+2kP/bkP/btv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAPABEAAAU74CSOZGmeJqACKMm2Ljy+8kTLd5vrtbiftESgMIEMBATbauIgOIgMxeIkHUkMKGmkUTygHALi5IHolUIAOw==\" width=\"15\" height=\"16\" vspace=\"0\" hspace=\"0\" border=\"0\">：벽단면에서 전체균열이 발생한 단면2차모멘트(mm<sup>4</sup>)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 97,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBgAOAPQAAAAAOgA6kDqQ22YAZmY6AGY6kGaQ22a2/5A6AJA6ZrZmALaQtrbbtrb//9uQOtv/29v///+2Zv+2tv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAGAA4AAAUoYCWOZFk5gqlWExFAFbU8SVNJzVTAYpSOisNoMrD1XpUBA/EjAAyjEAA7\" width=\"6\" height=\"13\" vspace=\"0\" hspace=\"0\" border=\"0\">    ：보깊이(<img src=\"data:image/gif;base64,R0lGODlhBwAOAPQAAAA6Ojo6kGZmtmaQ25BmkJCQtpC2/5Db25Db/7ZmZrZmkLaQkLbbtrbb27b//9uQOtuQZtuQkNvbkNv///+2Zv+2kP/bkP/b2///2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAHAA4AAAUsYCaO5EWKinMuE4kV5AMMoyVQtAghljEmjgpixIo0WpkFg3BAUgKS3GlKCgEAOw==\" width=\"11\" height=\"13\" vspace=\"4\" hspace=\"0\" border=\"0\">)에서 휨압축력의 중심과 인장력의 중심간의 거리 또는 비</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 98,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAAAAAAAOgAAZgA6kABmtjoAOjpmkDqQ22YAAGYAOma2/5A6AJBmOpDb/7ZmALaQtrbb27b//9uQOtuQZtu2ttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAALAA4AAAVB4CaOZGmSF6AO1uagQjROpHOI2tOKWdJsFEhJMqgwCCXNwgC5xEiYwi+DUJAkSJGDhVtYRZfAz6EC3CQq8Wl9CgEAOw==\" width=\"11\" height=\"13\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：철근피복과 순간격 중 작은 값(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 99,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBwAOAPQAAAAAZgA6kDo6OjpmtmYAAGZmtmaQtmaQ22a2/5A6AJBmZpCQ25C2ZpDb/7ZmALaQOra227b//9uQOtuQkNv///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAHAA4AAAUu4CaOZLk9AUVmRXktpdVIQCROjKHYmzOQmoSgMWJdBhjV5XAxQEQVRIaAMFlFIQA7\" width=\"8\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：휨재에서 춤 <img src=\"data:image/gif;base64,R0lGODlhBwAOAPUAAAAAOgA6ZgA6kABmtjoAADoAZjo6kDqQ22YAOmYAZmY6OmY6kGZmAGa2/5BmOpCQtpDb25Db/7ZmOrb//9uQOtuQZtu2ttvb29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAAHAA4AAAY4wI9wSBRyLsVNoqgxFDMHYYUQYDQ+FAFGU5h0EJFPZ4HJaD9Q7EAoaVgya4sC8vA4ABHupMgfBgEAOw==\" width=\"7\" height=\"13\" vspace=\"0\" hspace=\"0\" border=\"0\">에 대한 압축응력블록의 깊이 비</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 100,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCQAOAPQAAAAAAAA6kABmtjo6kDqQ22YAAGYAOmYAZmY6kGa2/5A6AJA6OpDb/7ZmALa2tra2/7b//9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAJAA4AAAUu4CWOZGlWBQAEEVkdkCkJ5tUkp8HIrNkQI4fIsthdKg/RZNCiICIWhWoKrFlHIQA7\" width=\"10\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：활하중 또는 활하중으로 발생하는 부재응력</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 101,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEAARAPUAAAAAAAAAZgA6OgBmtjoAADo6kDqQ22YAOmYAZmY6AGY6ZmY6kGaQ22a2/5A6AJA6OpCQkJCQ25C2/5Db/7ZmALa2tra227a2/7b//9uQOtu2kNu2ttv/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAQABEAAAZbwJFwSCwaj0eRAwAIYJBD0WMCJX4KneowY9AKlQ3vKIR4ej0D8YjSFVagoQN19JFAr1nQohNSPD8RI0pMhF0bFRwQHBZVIhYhESEXVR8MHhIac0ghCQIEaWpDQQA7\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：벽체의 길이(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 102,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBAAOAPQAAAA6kDqQ22a2/5A6AJBmkJCQ25C2/5Db25Db/7ZmZrbb27b//9uQZtuQkNvb/9v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAEAA4AAAUgYCWOIzUEIiSIDCImS0URTzUVomSI0eFUDcUPAqiRRiEAOw==\" width=\"5\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">    ：벽체 또는 일부분의 길이(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 103,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCAARAPQAAAAAZjoAOjo6OjpmtjqQ22YAOmZmtma222a2/5A6ZpBmkJCQ25Db/7ZmALZmZra227b//9uQOtuQZtu2ttvb/9v/ttv/29v///+2Zv+2kP/bkP//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAIABEAAAU7YCeOZDk2AFRyylVqg4kRpsSYjkqyLjVqhg5PhEFMKotR5PDQCFKdTIAhORRJOcxtNLEkdKJNAWEahQAAOw==\" width=\"9\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：앵커볼트의 정착길이(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 104,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAAAZgA6ZjoAADoAOjo6OjpmtjqQ22YAOmZmtmaQ22a222a2/5A6ZpBmkJCQ25Db/7ZmALZmOrZmZra227bb/7b//9uQOtuQZtu2ttvb/9v/ttv/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAANABEAAAZXQJJwSCwaj5GA5TgcOTpMIcgQFXoOVRIGkp0so06ohglKkMJHDyOzeTAvCwqooCRJAAvhhwDBLNQfCiAKRV4eEBEAAlxEGRwNFl4hFUUiCAwkIAOYWUNBADs=\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：앵커볼트 단부의 거리, 조적조 단부에서 앵커볼트 표면까지 최소거리(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 105,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCQARAPUAAAAAAAAAZgA6kDoAOjpmtjqQ22ZmtmaQ22a222a2/5BmkJCQkJC2/5Db/7ZmALZmOrZmZrZmkLaQkLa227bb27b//9uQOtuQZtu2ttvbkNvb29v/29v///+2Zv+2kP/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAJABEAAAZFwJBwSCwWHYGKEaTgGD8EY6hTkF4aUoiyyHQKNcKPgRhRdhIYJ2jhtCAmoQegGvIMGtQPo6j1YIkSGxAUXkIdAhkHUkNBADs=\" width=\"10\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：필요한 철근콘크리트의 정착길이(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 106,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDQAOAPUAAAAAAABmtjoAADoAZjo6kDpmtjqQ22YAAGYAOmY6kGaQ22a2/5A6AJA6OpBmOpCQtpCQ25C2kJC2/5Db25Db/7ZmALaQOraQkLa2kLb//9uQOtuQkNu2ZtvbkNvb/9v///+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAANAA4AAAZaQJJwSCwaj6QRAxAghgREUaMpFDmoQlCkMLxYFsRLh/AhgSYNynD0CJFFEHdZGJLILx+NgbjJhAYYFCNpaw8kIggKJHJDHIoiCWV6QxUAAAsjHiIHlntIn59BADs=\" width=\"14\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：설계모멘트(N·mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 107,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEgARAPUAAAAAAAAAOgBmtjoAADo6kDqQ22YAAGYAZmY6kGaQ22a222a2/5A6AJA6OpBmOpCQOpCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQkLaQtrbbkLbb27b/27b//9uQOtuQkNu2ZtvbkNv/ttv/29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACwALAAAAAASABEAAAZ8QJZwSCwaj8jhigEQEFMDwOK4chBMwtXlikxBuCzUo5AMcbiqiWWK1JAQ2A3p8EGqJCo6qnJyIvd5HhIsa0kaJnkQHysNFUgrESwqBlMpYEYiCSyQQiBkQhcBCkIWAFJCk6ZkJwUpFElFGB97sEQaJRkdWLUsJwQjn7xFQQA7\" width=\"19\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：처짐이 계산된 단계에서 부재의 최대모멘트(N·mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 108,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEQARAPUAAAAAAAAAOgBmtjoAADo6kDqQ22YAAGYAZmY6kGaQ22a2/5A6AJA6OpBmOpCQOpCQkJCQtpCQ25C225Db/7ZmALZmOrZmZraQkLaQtrbbkLb/27b//9uQOtuQkNu2Ztvb/9v/ttv///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACgALAAAAAARABEAAAZ3QJRwSCwaj0jUaQEQEEkDgMJ4ahBCwlPleiQ9uKiRo4DsZLgmCWV6vIAQWAzosDmaIib6aCJyHvd5GhEoa0gXIXkPGycME0cnECgmBlMkYEUeCUqRKBxkQhUBUxQAUkKTpWQiBSJsSUIWda9EsSUfs0IiA664Q0EAOw==\" width=\"18\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：인장력 중심에 대한 휨부재의 압축철근모멘트(N·mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 109,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFwARAPUAAAAAAAAAOgBmtjoAADo6Zjo6kDqQ22YAAGYAZmY6kGaQ22a2/5A6AJA6OpBmOpCQOpCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLaQtrbbkLb/27b//9uQOtuQkNu2Ztvbttvb/9v/ttv///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAAXABEAAAaFwJVwSCwaj8gkUcUACIinAWChFKocBZL1kq0KT5DuyvQweIWfTTc1sVDPmVFCqxkhOueUJHU3VUpPZ358HBIrbmcrGSR8EB0qDRVnKhErKQdUJ2JVIAorlEIeZkIXAZkEA6MWAFNCl6xmJQYlVCEYeIm3Q6CJK7coIisnFL0rJQNvfsVKQQA7\" width=\"25\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">：조적조의 공칭균열모멘트(N·mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 110,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFgARAPUAAAAAAAAAOgA6ZgBmtjoAADo6Zjo6kDqQ22YAAGYAZmY6AGY6kGaQ22a222a2/5A6AJA6OpBmOpCQOpCQkJCQtpCQ25C225Db/7ZmALZmOraQkLaQtra2trbbkLb/27b//9uQOtuQkNu2Ztu2ttvbttvb29v/ttv///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC0ALAAAAAAWABEAAAaFwJZwSCwaj8ikkPUADIgqAsChbLEihtMyk622VJNuKyU5eFuhTndlwVC9GtNCuzElPt5VZXVPXVBPXn58HhUtbmcaJ3wTHywQF14sFC0rCFQqYkoiDFaULSBmXwUKAgoBkUIYAFNClqxmJBkXIA1+Z0uUiiNauCoVky0cJbhjF7+PqcVHQQA7\" width=\"23\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">：철근의 인장력중심에 대한 조적조의 압축력모멘트(N·mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 111,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEwARAPUAAAAAAAA6kABmtjoAADo6Zjo6kDqQ22YAAGYAZmY6AGY6kGaQ22a2/5A6AJA6OpBmOpCQOpCQkJCQtpCQ25C225Db/7ZmALZmOraQkLaQtra2tra227bbkLb/27b//9uQOtuQkNu2Ztu2ttvbttvb/9v/ttv///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACwALAAAAAATABEAAAZ7QJZwSCwaj8jiqgEQEFMDAAO5ehRMwtXlmkxFuCwUxJBkgThcFcUyTWJKCmymhPAkVRNVHVU5OZN8eh0TLGxlGCZ6ER4rDhVJKxIsKgdTKWBHIQsskUIfZCwpBAkBWIUAUkKUqGQjFxUipmVZkhqzT3kbJLdCfJeyvERBADs=\" width=\"20\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：공칭모멘트(N·mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 112,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEgARAPUAAAAAAAAAZgBmtjoAADo6kDpmkDqQ22YAAGYAZmY6kGaQ22a2/5A6AJA6OpBmOpBmtpCQOpCQkJCQtpCQ25C225C2/5Db/7ZmALZmOraQkLaQtra227bbkLb/27b//9uQOtuQZtuQkNu2Ztu2kNv/ttv///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACwALAAAAAASABEAAAZ4QJZwSCwaj8jhigEQEFEDwOK4chBKwhXmikRFuKwTxJAMcbgqymWKzJASWA0J4UGqJir6yWJyIvd5HRMsa0kZJXkRHisNFkgrEiwqB1MoYEYiCiyQQh9kQhgBdYQAUkKTpWQqDygVSUYpG69FIx4gjrOnBwVYuUZBADs=\" width=\"19\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：조적조의 압축력중심에 대한 철근의 인장력모멘트(N·mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 113,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhHAARAPUAAAAAAAAAZgA6ZgBmtjoAADo6Zjo6kDpmkDqQ22YAAGYAZmY6kGaQ22a222a2/5A6AJA6OpBmOpBmtpCQOpCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLaQtra227bbkLbb/7b/27b//9uQOtuQZtuQkNu2Ztu2kNvbttv/ttv///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADMALAAAAAAcABEAAAabwJlwSCwaj8ikkih7AAZEFwHgWBplEcNKKNtorUYX5TtrTRBgown0jV001TSxo1psPSrFSD6MWWJ6LRksUHxCgoAiFjNwhkIdK4AUIzIQGY4yFTMxCVUuZHwnDDOZQiRoQhsBezMbAA0zLgUEqBoAVEKct2gxEi4YZQwuoykcrGkwH0K2ApelcigjJZfGLyGxwHKcB1tScYKOYEEAOw==\" width=\"29\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：패널중간높이에서 <img src=\"data:image/gif;base64,R0lGODlhDAAPAPAAAAAAAP///yH5BAAAAAEALAAAAAAMAA8AAAIYjI+pa+C+YFMA1XRDti+ys3nME37miSoFADs=\" width=\"14\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">-<img src=\"data:image/gif;base64,R0lGODlhCgAPAPAAAAAAAP///yH5BAAAAAEALAAAAAAKAA8AAAIWjI+py8DhlotpKkoNRhkeAIbdQ5ZJAQA7\" width=\"10\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> 효과를 고려한 사용모멘트(N·mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 114,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEwARAPUAAAAAAAA6ZgBmtjoAADo6kDqQ22YAAGYAZmY6kGaQ22a222a2/5A6AJA6OpBmOpCQOpCQkJCQtpCQ25C225Db/7ZmALZmOraQkLaQtra2tra227bbkLb/27b//9uQOtuQkNu2Ztu2ttvb/9v/ttv/29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAATABEAAAZ6wJVwSCwaj8iiigEQEFEDwAKpchBKQpXlmkRBuKvTo5BcfTbc1KQyTV5GCCxmdOgkU5JU/UQxOZN8ehwSK2xlFyV6EB0qDRRJKhErKQZTKGBHIAkrkUIeZJNxiEIVAFJClKZkIRkkkmVEKhp4sE8TIAoitagGAZi7REEAOw==\" width=\"20\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：계수모멘트(N·mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 115,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCAAOAPQAAAAAAAA6kDpmtjqQtmYAAGY6kGaQ22a222a2/5A6AJA6ZpBmOpBmkJDb/7ZmOrZmZra2/7bbtrb//9uQOtu2ttv///+2Zv+2tv/bkP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAIAA4AAAUv4CaOZGmeaKklwwII4hURh6ZIG4XBGlOJFsQmYxg5GpsgZWPDPSKQYeE3CfxSphAAOw==\" width=\"9\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：탄성계수비<img src=\"data:image/gif;base64,R0lGODlhOAARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjo6Zjo6kDpmkDpmtjqQ22YAAGYAZmY6AGZmtma222a2/5A6AJA6OpBmtpCQtpCQ25C2/5Db/7ZmALZmOraQkLa2tra227a2/7bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttvb29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC8ALAAAAAA4ABEAAAbewJdwSCwaj8bUBclsOp9EzQlKrTpbFauW2FoAvl/C9KjkesEA8fbYYnyEqgRTWmy/X/EmCg0uHFF+LhwtHUhYRoAvgoRrRxgQLyIWTWVFj5GTTnt8AH51ZwJ3SHRmX6GNf2ItDk2HRSiqrKhGGAovKx6CSJVEtbe5HLNDLhJLQikeo2PDxUPIwnAHYyOyLxmnL65EKtJC1HAGDQMNAcZQLhF85UItEyqZK6KK6WjrLyUZFyAPvNAswWtcUHghhcQyYSM+hDBnRUUFgS82mIDGbgGCg1WUOCTGkKLHIUEAADs=\" width=\"58\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>"
+      },
+      {
+        "no": 5038,
+        "sort": 116,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCgAOAPQAAAAAAAAAOgA6kDoAADo6kDqQ22YAOma225A6AJA6OpDb/7ZmANuQOtv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAAKAA4AAAUyoCSOZGmKEQKsgEBChiKlpCM04kIuhQiPkYQs2BM9BqvAgcQoloIy04OAKy1Wt5N2GwIAOw==\" width=\"11\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：설계용축하중(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 117,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAAGaQtma222a2/5A6AJA6OpBmAJC2/5Db/7ZmALZmOrZmZrZmkLaQkLbb27b//9uQOtvbkNv/29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAPABEAAAZbQJFwSCwaj8VQA8AECDDIkCMiCj0QyE8BKpIQkJlvtcFASsqhyQEJSjADCg6yM5AjhxnsXSil7kUfBnZEEwELQhJMdUQdCB8QfxQYHn53FhsVF4NHHQYaen9DQQA7\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：보강조적조기둥에서 허용중심축하중(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 118,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAZjo6Ojo6kDpmtjqQ22YAAGYAOmaQtma222a2/5A6AJA6OpA6ZpBmAJBmkJCQ25Db/7ZmALZmOrZmZrb//9uQOtuQZtu2ttvb/9v/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACUALAAAAAAOABEAAAZfwJJwSCwaj0MSBMAEDDRHUsRSIk0UR5EBWroUjptvFfI4XsokTOI4WjADDdAxRJATPcUNlkii2KtTRSMVRCIIf0IiBwJQF0x1RBwOIWVIJRkaIVSWHR8SXEgjDJWWREEAOw==\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：평형상태에서 공칭설계용축하중(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 119,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDAAPAPQAAAAAAAAAOgA6kDo6kDpmtjqQ22Y6kGaQ22a222a2/5A6AJA6OpA6ZpA6kJCQkJCQtpDb/7ZmALb//9uQOtuQZtuQkNv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAMAA8AAAVA4CaOZGmaE6AGh6kt0HYNVpkZNUaXV7G9CVNkhXAxJCgRhmDCOESTYKki0SgAgdgoJTiJNA+vsiWmaE0ZR6MWAgA7\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：바닥 또는 지붕의 기여면적에 대한 하중(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 120,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEAARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6Zjo6kDpmtjqQ22YAAGY6AGaQtma2/5A6AJA6OpBmAJCQtpCQ25Db/7ZmALZmOra2tra227b//9uQOtu2ttvbttvb/9v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAQABEAAAZdwJFwSCwaj0eRA8AECDDIkegxkUISUVABOqIQopmv1NGIUsqiCiIaUjADjE7UM5BHhxnsXTit7kcgB3ZDIAYLdUIUTIhDGxUTGoNIIhEjFn8gEiEXHHsfE4GSfyNBADs=\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：조적조에서 공칭축하중(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 121,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDwARAPQAAAAAAAAAOgA6ZgA6kABmtjoAADoAZjo6kDpmtjqQ22YAAGZmkGaQtma2/5A6AJA6OpBmAJBmkJDb/7ZmALZmOrZmZrb//9uQOtv///+2Zv/bkP//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAPABEAAAVQYCeOZGmeJecALCBYKPdIHQclqGbA3USgl1/N0UBNihwKArVRsAIMDCozkKJGF9xVJKNtO5qDlUQBaCesKimT4ETGp4pls4Cb5NlvprD8lkIAOw==\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：휨이 발생하지 않은 조적조에서 공칭축하중(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 122,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEAARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAAGY6kGaQtma222a2/5A6AJA6OpBmAJCQtpCQ25C225Db/7ZmALZmOraQkLa2tra227b//9uQOtu2Ztu2ttvb/9v/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACUALAAAAAAQABEAAAZbwJJwSCwaj0eSA8AECDTIEulBkUIQUVEBWqoQopuv1NGIVsokyyE6SjADC1A0NJBHhxvsXTit7ksiBnZDIwogF3YVTHVEHRgfEX8kGSMSfyITHAwee20Cgn9FQQA7\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：계수축하중(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 123,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFgARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAAGY6kGaQtma222a2/5A6AJA6OpBmAJBmkJCQkJCQtpCQ25C225Db/7ZmALZmOrZmZraQkLa2tra227b//9uQOtu2Ztu2ttvb/9v/29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACkALAAAAAAWABEAAAZ2wJRwSCwaj8ikEOUAOAGCjrKIelhSKAhiSjQVpKkLgTv0jLGOBll4UaMwh3XqlHAGFiM5aZCXl7drHldYVmslEgxCJgZ9QycKIxqNHgB8YU6WQyAbIhNEKJ5TKBwnFESlXCYVHwwhQyRqU3QCjEMZYH4nERF9QQA7\" width=\"24\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：바닥 또는 지붕의 부담하중에 대한 계수하중(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 124,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhGQARAPUAAAAAAAAAOgA6OgA6ZgA6kABmtjoAADo6kDqQ22YAAGYAOmY6AGY6ZmY6kGaQ22a225A6AJA6OpCQkJCQtpCQ25C225C2/5Db/7ZmALaQkLa2tra227a2/7b//9uQOtu2Ztu2kNu2ttvb/9v/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACkALAAAAAAZABEAAAZ6wJRwSCwaj8ikcslEQQBQAIHENJ4Ul5QTUS2WpkIMtzsUC69ZsjaSRUXGapMBGniohx74XehO74UmB1REJw0kGVQnDB0pJhREGFBgQyEaIxNClSMSIxtVKBsnj1qhFCccVSYVHw8ijQ4lFiB+SicJA4IpJwsCBgV/SkEAOw==\" width=\"26\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：시공 중인 단면에 대한 벽이 부담하는 계수자체하중(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 125,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEQARAPUAAAAAAAAAOgA6OgA6ZgA6kABmtjoAADoAZjo6kDpmtjqQ22YAAGY6AGY6ZmaQtmaQ22a2/5A6AJA6OpBmAJCQkJCQ25C2/5Db/7ZmALZmOra2tra227a2/7b//9uQOtu2kNu2ttv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAARABEAAAZiwJNwSCwaj8iTKQJoAgadpFJyUU4UUtIhesIUpJ6vMgKRYsqmTEJaWjQDDpF0RJBLhx7sXWii7oUkCHZDJQ1RJBVCGE11RCAaIRQhG3cmGyUVJRx3JA8jFh9VbAwCBmJ/REEAOw==\" width=\"18\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：시공 중인 단면에 대한 벽의 부담자중(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 126,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBgAOAPQAAABmtjoAAGYAOmZmtma2/5BmkJCQZpC2/5Db/7ZmZra2/7b//9uQZtu2Ztu2ttvb29v////btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAGAA4AAAUfICWOZGmeoyQYAUE5DcAc1MMgZLKMUwGlA1JEgTqFAAA7\" width=\"7\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">    ：단면2차반경(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 127,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCgARAPQAAAAAZjo6OjpmtjqQtjqQ22YAOmY6kGa222a2/5A6AJA6ZpBmkJCQ25Db25Db/7ZmOrZmZrbbtrbb/7b//9uQZtu2ttvb/9v/29v///+2Zv+2tv/bkP//tv//2////wAAACH5BAAAAB4ALAAAAAAKABEAAAU+oCeOZGmeaKqaXTIkgERqUdFADlltwmiRGYKos8CMHjkPhzHqKCaiTQAA5RiMHsohgzBBJpmk7vI0cQpdVQgAOw==\" width=\"11\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：단면에서 총철근단면적에 대한 절단철근면적의 비율</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 128,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCAAOAPQAAAAAAAAAOjoAADoAOjpmkDqQ22Y6OmY6ZmZmtma225BmOpCQtpDb/7ZmOra2kLbb27bb/7b//9u2kNu2ttv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAAIAA4AAAUwoCaOZFlmDRCMmZJo1lgVYibTmi1iBvGYKNyEskPkFjfYgKG5HCIaiUMAIEBMWFIIADs=\" width=\"9\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">    ：단면계수(mm<sup>3</sup>) </p>"
+      },
+      {
+        "no": 5038,
+        "sort": 129,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBwAOAPQAAAAAOgBmtjoAAGZmkGa225A6AJCQ25Db/7ZmOrZmZraQkLbb/7b//9u2kNu2ttv///+2Zv+2tv/bkP/btv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAHAA4AAAUmYCWOZGmeaCUJAYkc0TIqj8OMlGKMEFElt0qDMRk8RJQC4JA6hQAAOw==\" width=\"8\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">    ：주철근간격에 평행한 방향에서 스터럽 또는 굽힘철근의 간격(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 130,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCgAOAPQAAAAAAABmtjoAZjo6kDqQ22YAAGYAZma2/5A6AJA6OpCQtpDb/7ZmALb//9uQOtu2ttv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAKAA4AAAUtYCWOZGmODKCq46RAVLKQD1RJg206wUkhh5NE0DhFeidG0DQxFEmTwopwqp5CADs=\" width=\"11\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：온도, 크리프, 수축, 정착의 효과</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 131,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBQAOAPQAAAAAADoAZmaQ22a222a2/5A6AJBmkJCQ25C2/5Db/7ZmZra227bb/7b//9uQZtvb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABYALAAAAAAFAA4AAAUjoCWOpFg9oySMTmJVBQAQotKYBiRSR4pMDEtksBBJArdSKQQAOw==\" width=\"6\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">    ：겹, 벽 또는 기둥의 유효두께(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 132,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAAAAAA6ZgA6kABmtjqQtjqQ22YAAGYAOmYAZmY6AGa2/5A6AJBmZpBmkJCQtpCQ25C2/5Db/7ZmALaQkLbb/7b//9uQOtv///+2Zv+2kP/bkP/btv//tv//2////wAAACH5BAAAAB4ALAAAAAALAA4AAAVAoCeOZGmSnAEAg2cBKFKJHUNircg9pKSMmciIcxCKJjMRRnChOXqFkQYy6ix+nk6jOZIQPBuGUZoABCintNoTAgA7\" width=\"12\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：계수하중 또는 이와 관련된 내부모멘트와 힘에 저항하는데 필요한 강도</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 133,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCAAOAPQAAAA6ZgA6kDoAADoAZjpmtmY6kGa2/5BmOpBmZpCQtpDb25Db/7ZmALZmOra227bbtrbb27bb/7b//9uQOtu2ttvb29v///+2Zv/bkP/btv//tv///wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAIAA4AAAUu4CaOZGmeqMkE1laJGYRIWtFSWrJhxHgZmwlQ1FhsGgoHcYEZPCKiiwBwYKVOIQA7\" width=\"9\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：철근의 단위표면적에 대한 부착응력(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 134,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAAAAAAAOgAAZgA6kABmtma2/5CQkJCQ25C2/5Db/7ZmALaQkLa2trb//9uQOtv///+2Zv+2kP+2tv/bkP//tv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAALAA4AAAUvYCWOZGmSCgAEiaigBEmRTjwu9PCIUpPvE0TJoaMcTBAd4wQRGHxI1qkSKUyv2BAAOw==\" width=\"11\" height=\"13\" vspace=\"0\" hspace=\"0\" border=\"0\">   ：총 설계전단력(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 135,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFQARAPUAAAAAAAAAOgBmtjoAADoAZjo6kDpmtjqQ22YAAGYAOmYAZmY6kGaQtmaQ22a2/5A6OpBmOpCQtpCQ25DbtpDb/7ZmZraQkLa2tra227a2/7bb/7b//9uQZtuQkNu2ttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAAVABEAAAZ3wJVwSCwaj8hkCgEIUFZLwCE5NBE2Q86TKrRioRjuMKX4ekRiYSrxPGnSarbqAo9TSt8iCrmeZIpaKx1bRSoPBmhHHXlEhoRCIwUiKhADAkcfhSAWIikLIRFwKqEmDSphaSYSKyQUJxcgaSMOghsjBmIpDBWMQ0EAOw==\" width=\"22\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：총 수평접합전단력(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 136,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFAARAPUAAAAAAAAAOgA6ZjoAZjo6ZjpmtjqQ22YAAGYAOmYAZmY6AGa225A6OpCQtpCQ25DbtpDb/7ZmOraQkLa2tra227a2/7bb/7b//9uQOtuQZtu2ttvbttvb29v///+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAAUABEAAAZiQJJwSCwaj8ij6AAIQEhLgCEpBA0uw8yTSrJioRSuUJT4ajpiKOIZsqTVkNHkDf980yLEo0InjRgFaHR/W1UECgIKTkccRRsREBgLHoVUIw0kEh1naSAOlyQTjWKUnoR9RkEAOw==\" width=\"21\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：조적조의 공칭전단강도(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 137,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEQARAPUAAAAAAAAAOgA6kDoAZjo6Zjo6kDpmtjqQ22YAAGYAOmYAZmY6AJA6OpCQtpCQ25DbtpDb/7ZmOra2tra227a2/7bb/7b//9uQZtu2ttvbttvb29vb/9v///+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAARABEAAAZZwJFwSCwaj8hRCAEIQJTMA/IzsAwvz2lVGJoklQrrCMP5hhJPUOWrRIsk7DbEIzYnHpT4SMQwlON8WUIfBAsCf0QaRRkREGSADSNwcR8OXRtxHRAfBYh6QkEAOw==\" width=\"18\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：공칭전단강도(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 138,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEAARAPUAAAAAAAAAOgAAZjoAZjpmkDpmtjqQ22YAAGYAOmYAZpA6OpBmtpC2/5DbtpDb/7ZmOra2tra227a2/7bb/7b//9uQZtu2kNu2ttvb29v///+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAQABEAAAZUQJBwSCwaj0fPARBwgJQAw3EzoAwrzmlV6Ikgnwkr6JL5ehBOzuT7RH8g7LZDIzYjGpI46KMolON8WUMPAnVDGEUeCxsMeiAdXnoWFFh6SgR/jkJBADs=\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">    ：전단보강근의 공칭전단강도(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 139,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEQARAPUAAAAAAAAAOgA6ZjoAZjo6kDpmtjqQ22YAAGYAOmYAZmY6kGa225A6OpCQtpCQ25C225DbtpDb/7aQkLa2tra227a2/7bb/7b//9uQZtu2Ztu2ttvb29vb/9v/29v///+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAARABEAAAZZQJJwSCwaj0iS6AAIRJRMAxI0uAwxz2lVKKIklQkrSeP5ihDPkOWrRI8m7HbkIzYjIJU4acQolON8WVwKHhJ/RBtFGhMdDXojFCIOeiAPGQsccUsCBId6QkEAOw==\" width=\"18\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：조적조의 소요전단강도(N)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 140,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDgAOAPQAAAAAAAAAZgBmZgBmtjoAADqQ22YAOmYAZmY6OmaQtpA6OpCQ25DbtpDb/7ZmALa2kLa227a2/7bbtrbb/7b//9uQOtu2kNu2ttv///+2Zv+2tv/bkP/btv//tv//2////yH5BAAAAB8ALAAAAAAOAA4AAAVI4CeOZGme40YAAeUAQPE5ZDaIntKIW31/HcPuc/GJHogdZ2LkSIQeSMkWDTY0lOngggkyIqaMABxMnCq/ziFrsrA7C5R8XgoBADs=\" width=\"15\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：풍하중 또는 이와 관련된 내부모멘트나 힘</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 141,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEAARAPUAAAA6ZgA6kDoAADoAZjo6kDpmtjqQ22YAAGY6kGaQ22a222a2/5A6ZpBmkJCQZpCQtpCQ25C225Db/7ZmALZmOraQkLa2tra227bb27bb/7b//9uQkNu2Ztu2ttvb/9v/ttv/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACgALAAAAAAQABEAAAZbQJRwSCwaj8ikcslsHieBkPBEkRxLmEaIVECJFsfOB+I1oEoZ5BdVRW00yOqJAa9InwvSQMNJoEwIIXZDIwIADgJRKB0WIA9MJxcmZEskERwKHksmBwAEd04oQQA7\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：계수등분포횡하중</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 142,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDAAOAPQAAAAAAAA6kABmtjoAADoAZjqQ22YAOma2/5A6OpDb/7ZmALaQZra2tra2/7b//9uQOtu2ttv///+2tv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABYALAAAAAAMAA4AAAU1oCWOZGmeo1KglrQE0Uk1E+GcjFUhiSndFlVpNnoISJXcqAa0QGIjiqFnmQwA2CzgwOp6TyEAOw==\" width=\"13\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：재하시험에서 24시간 하중작용시 최대처짐</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 143,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEQARAPUAAAAAAAAAZgBmtjoAADoAZjo6kDpmkDqQ22YAAGYAOma2/5A6AJA6OpBmtpC225C2/5Db/7ZmALZmOraQtra2tra227bb/7b//9uQZtu2kNu2ttv///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAARABEAAAZXwJFwSCwaj8gi55AshhiCJpHiKWyko44llIBIQ46RaKGQTq6jCDP5sQw5UaSoQvQQLkgNWsj1Gj0DAIKDAGUjEgF4WCENHg9YQiB0kBkXGH5fCAZ7kEJBADs=\" width=\"18\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：계수하중하에서 건축물 중간높이에 일어나는 횡변위(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 144,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEgARAPUAAAAAAAA6ZgBmtjoAADoAZjo6kDqQ22YAAGYAOmY6kGa222a2/5A6AJA6OpCQtpCQ25C225Db/7ZmALaQkLaQtra2tra227bb/7b//9u2Ztu2ttvb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAASABEAAAZcQJJwSCwaj8ijx5A0ihqCZrECKnSkws9FhIhgRRDSiLHAUq4kCbMZugw90eTIQgQRMEkNWsj1HkEDAIKDAGUiCR0Te00aFRwOWEJzIg+RJCAQGQobkSIHAVaWRUEAOw==\" width=\"19\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：계수하중에 대한 변위(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 145,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBwAOAPQAADoAADpmtjqQ22Y6kGZmZma2/5A6ZpBmkJDb/7ZmOrZmZrb//9uQZtv/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAHAA4AAAUp4CSOZGmeqPgAwhgNjbGIDDIp871I8iQdDkhA9HIkCiIIATBUIUk1UggAOw==\" width=\"8\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">    ：면적 <img src=\"data:image/gif;base64,R0lGODlhDwAOAPUAAAAAOgBmtjo6kDpmtjqQ22YAAGY6OmY6kGZmOmZmZmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpC2/5Db/7ZmOrZmZraQZra227bbkLb//9uQOtu2Ztvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAAPAA4AAAZgwJNwSCwKSR2jiVMEDYwlSIb4IUAPHqKmYRQ9h6YHAsA1RQAJ7rBUYJSwFEJ4QvSeTBCMIFuZDqsnIgIbViUKRVsnHwGJIgshWUIiEiMGE1UkFgwXiGR3DgFzRqOkpUNBADs=\" width=\"16\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">에 대한 휨인장철근면적 <img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAAAZgA6kDpmkDqQ22YAAGa2/5A6AJBmtpC2/5Db/7ZmOra2tra227bb/7b//9uQOtuQZtu2Ztu2kNvb29vb/9v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAQABEAAAVJYCeOZGme6Lg1aQkR7ahJcNxRV91qVh5zlY6vBQEYdaeMQ/RqMUZNlMQwWugWgUeHcwAILNxjZ4PAJGwdDcs2eUQUtk1hYEGTQgA7\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">의 비율</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 146,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCwARAPUAAAAAOgAAZgBmtjo6OjpmtmYAOmYAZmY6AGY6OmY6ZmaQ22a222a2/5A6AJA6ZpBmOpBmkJCQ25Db/7ZmOrZmZrb/27b//9uQZtu2ttvb/9v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAALABEAAAZMwJBwSCwaj8ikcjkEPQCK42TxSViKHUII5LBkiBxG6GOoQDbDiSTEEXwizQbDg5B0BoFr9QBYhC4LYSFZRBQWHGuCQxgaXUcfBWJLQQA7\" width=\"12\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">   ：균형철근비</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 147,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAOgA6kABmtjo6Zjo6kDpmtmYAZmY6AGY6OmY6ZmaQ22a222a2/5A6AJA6ZpBmOpCQtpCQ25Db/7ZmOra2tra227b//9u2ttvbttvb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANABEAAAZQwJBwSCwaj8ikcskcgh4ARXKy+CQsx04hBHJgjRtG6GP4FieS0EZwBDUYHoSkMzgENELrAbAIYdAXeCFaRCAQIRRDYUQdER8VGUgccwSCTEEAOw==\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：<img src=\"data:image/gif;base64,R0lGODlhGQARAPUAAAAAAAAAOgA6ZgA6kDo6ZjqQ22Y6AGY6kGa222a2/5A6AJA6OpA6kJCQtpCQ25C2/5Db/7ZmOraQkLa2tra227bb/9uQOtu2Ztu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACUALAAAAAAZABEAAAZ4wJJwSCwaj8ikUjiiLJ+WwlMpukinSI3nii2KOttukbQphcVDC2DNFYcqwihaOEm3sZfEMHIFEQwCBgEQTAccDB0kCgADiYsAUhkREBYIH4QlGhMdGB1LJA0lEpyeJSQUoE8gDqkTGkIgDx56S5erJAuYIwaNc0hBADs=\" width=\"26\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">면에 수직인 면에 분포된 전단철근 비율</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 148,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEAARAPUAAAAAAAA6kABmtjoAADo6kDpmtjqQ22YAAGYAOmZmkGa2/5A6AJA6ZpBmkJC2/5Db/7ZmOrZmZraQZra227bb/7b//9uQOtu2kNvb29vb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAQABEAAAZXwJBwSCwaj8cNYMkUID+Ix/BSQIYshiFoYu0QNEJQxgpaKKxFiRQt5FCGGKvnLew4kPOhh1E5fg5MSwFgIRAAWWwbBiANhFYRFR8JjkiQWGwhGwNVmEVBADs=\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：모든 종방향보강근의 주장의 합(mm)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 149,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhJQATAPUAAAAAAAAAOgAAZgA6ZgBmtjo6Zjo6kDpmtjqQ20kAAGYAZmY6AGY6kGa222a2/5A6OpA6ZpBmkJCQtpCQ25C2kJC2/5Db/7ZmALZmOraQOraQZraQkLa2kLa2tra2/7bbtrbb/7b//9uQOtuQZtuQkNu2ttu229vbkNvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADMALAAAAAAlABMAAAauwJlwSCwaj8gkUZMAOJ/QqFQQUs5iEusRBtIOXRVv8eIQz0hVouxRRsoiLLEsWxxRDkmYx/wKE2MMKF1mSmhFLQiEVnNjTgSKRSpDfUYYFpBEIo9ChmoQaZgwHwpVjEUveJhDa5eUh4mqQyKJnURkRC8FCwMLAZdaLwYrdJ6gMyiWIg0uv4sQHH5DJiepq1kbLCVxXhcGxoAZbZMTjB0pYi2bWswv5A/NVjGDsUZBADs=\" width=\"39\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">：28일 재령의 조적조강도에 대한 제곱근(MPa)</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 150,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhCAAOAPUAAABmtjo6kDpmtmY6ZmY6kGZmtmaQkGaQ25A6ZpCQZpCQkJCQtpDb/7ZmOraQkLaQtra2tra227a2/7bbtrbb/7b//9uQZtu2ttvb/9v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAIAA4AAAY6wJBwSCwaNxXjJVMERYggR8KwYHIKGeSH8BkkISEQQgMIPzkBjiDUoYQajJDlcJko3MOH8SMxejBEQQA7\" width=\"8\" height=\"13\" vspace=\"0\" hspace=\"0\" border=\"0\">    ：강도저감계수</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 151,
+        "title": "1.6 구조설계법",
+        "level": 2,
+        "label": "1.6",
+        "contents": "<p>1.6 구조설계법</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 152,
+        "title": "1.6 구조설계법",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 일반 조적식구조는 다음 3가지 설계법 중 어느 한 규정을 따른다.</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 153,
+        "title": "1.6.1 허용응력설계",
+        "level": 3,
+        "label": "1.6.1",
+        "contents": "<p>1.6.1 허용응력설계</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 154,
+        "title": "1.6.1 허용응력설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 허용응력설계는 KDS 41 60 15와 KDS 41 60 20를 따른다.</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 155,
+        "title": "1.6.2 강도설계",
+        "level": 3,
+        "label": "1.6.2",
+        "contents": "<p>1.6.2 강도설계</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 156,
+        "title": "1.6.2 강도설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 강도설계는 KDS 41 60 15와 KDS 41 60 30를 따른다.</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 157,
+        "title": "1.6.3 경험적설계",
+        "level": 3,
+        "label": "1.6.3",
+        "contents": "<p>1.6.3 경험적설계</p>"
+      },
+      {
+        "no": 5038,
+        "sort": 158,
+        "title": "1.6.3 경험적설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 경험적설계는 KDS 41 60 15와 KDS 41 60 40을 따른다.</p>"
+      }
+    ]
+  }
+]
