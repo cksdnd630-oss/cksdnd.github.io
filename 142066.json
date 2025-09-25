@@ -1,0 +1,1029 @@
+[
+  {
+    "no": 4011,
+    "codeType": "KDS",
+    "code": "142066",
+    "fullCode": "1010142066",
+    "name": "합성콘크리트 설계기준",
+    "version": "2021",
+    "updateDate": "2021-02-18T15:10:00",
+    "list": [
+      {
+        "no": 4011,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1)이 기준은 합성콘크리트 휨부재와 압축부재에 관한 설계방법과 최소한의 요구조건을 규정한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 4,
+        "title": "1.2 적용 범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용 범위</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 5,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1)이 기준은 별도로 시공된 강재, 강관 또는 프리캐스트콘크리트 부재와 현장치기콘크리트가 일체로 된 합성콘크리트 부재의 설계 방법을 규정한 것이다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 6,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2)이 기준에서 특별히 규정된 내용을 제외하고는 이 구조기준의 모든 규정은 합성콘크리트 휨부재와 압축부재의 설계에 적용하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 7,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3)합성콘크리트 건물 부재의 설계는 철골 철근콘크리트 구조 계산기준에 따를 수 있다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 8,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 9,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 24 00 00 교량설계기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 10,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KCS 14 20 12 거푸집 및 동바리</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 11,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 01 콘크리트구조 설계(강도설계법) 일반사항</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 12,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 10 콘크리트구조 해석과 설계 원칙</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 13,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 20 콘크리트구조 휨 및 압축 설계기준 </p>"
+      },
+      {
+        "no": 4011,
+        "sort": 14,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 22 콘크리트구조 전단 및 비틀림 설계기준 </p>"
+      },
+      {
+        "no": 4011,
+        "sort": 15,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 24 콘크리트구조 스트럿-타이모델 기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 16,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 26 콘크리트구조 피로 설계기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 17,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 30 콘크리트구조 사용성 설계기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 18,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 40 콘크리트구조 내구성 설계기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 19,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 50 콘크리트구조 철근상세 설계기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 20,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 52 콘크리트구조 정착 및 이음 설계기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 21,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 54 콘크리트용 앵커 설계기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 22,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 60 프리스트레스트 콘크리트구조 설계기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 23,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 62 프리캐스트 콘크리트구조 설계기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 24,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 64 구조용 무근콘크리트 설계기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 25,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 70 콘크리트 슬래브와 기초판 설계기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 26,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 72 콘크리트 벽체 설계기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 27,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 74 기타 콘크리트구조 설계기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 28,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 80 콘크리트 내진설계구조 설계기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 29,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 90 기존 콘크리트구조물의 안전성 평가기준</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 30,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 31,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1)KDS 14 20 01(1.4)에 따른다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 32,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 33,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEgARAPQAAAAAAAAAOgA6kDoAADo6ZmY6AGa2/5Db/7bb/9uQOtuQZtu2ttv///+2Zv/bkP/btv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAASABEAAAU4ICSOZGmeaAqk6MqSQPyOrjvXM2TbbOzfsBdPJyzZGoPAQfRj/hwERMKQm+ZGiuWCkXsUBNxrKQQAOw==\" alt=\"\" width=\"16px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_c\"> : 수평전단에 대하여 검토되는 접촉 면적, mm<sup>2</sup></p>"
+      },
+      {
+        "no": 4011,
+        "sort": 34,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAAAOgA6Ojo6kDpmtjqQtmY6AGaQ22a2/5A6AJA6OpA6ZpBmZpDb/7b//9v///+2Zv/bkP/btv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAATABEAAAVAICWOZGmeaCoCKsq2JCDD4/vSNk3ddyv/uBistxuWbhKDoFCbrYATRSNy0EUIFAjCepgsHLpJIjB40CYMx3UUAgA7\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_g\"> : 전체 단면적, mm<span><sup>2</sup></span></p>"
+      },
+      {
+        "no": 4011,
+        "sort": 35,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhGQARAPQAAAAAAAAAOgA6kABmtjoAADo6kGYAOmZmOmaQ22a225A6AJA6ZpA6kJDb25Db/7ZmZraQZra227bb/7b//9uQOtuQZtuQkNu2ttv/ttv///+2Zv+2kP//tv//2////wAAACH5BAAAAB4ALAAAAAAZABEAAAVToCeOZGmeaKqSwOp67YsCtHzGsc2KuQ6PPR1t6OPtfMHgKznSEAYiTQFjcABrPKLnIdk4OJFNwte5SEYVq83i6CwmkAYjE7F1FAGEhxI4CDJFKiEAOw==\" alt=\"\" width=\"23px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_sx\"> : 합성단면에서 구조용 형강 또는 강관의 단면적, mm<span><sup>2</sup></span></p>"
+      },
+      {
+        "no": 4011,
+        "sort": 36,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAAAOjpmtmaQ22a2/5A6AJBmtpCQtpCQ27ZmOrZmZra2trbb/7b//9u2ttv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAATABEAAAU84CSOZGmeaCoCKsq2JCDD4/vSNj3ddyv/uBistxuWXpICASKozVZAh4MhOegmi0cEoZMYJIpGNxEYXE8hADs=\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_v\"> : 거리 <img src=\"data:image/gif;base64,R0lGODlhCgAOAPQAAAAAOjoAADqQ22Y6ZmZmkGaQ22a2/5BmAJCQ25C225Db/7aQkLaQtrbb/7b//9v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABYALAAAAAAKAA4AAAUsoCWOZGmeaIpCAaCU1NBUzENSxEMl5rQQDpJkEIQISBGEpXIwlCKtgmo6CgEAOw==\" alt=\"\" width=\"8px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"s\"> 이내의 전단 연결재의 단면적, mm<span><sup>2</sup></span></p>"
+      },
+      {
+        "no": 4011,
+        "sort": 37,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDgARAPQAAAAAAAAAOgBmtjoAAGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQkNu2tv+2Zv+2kP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAAOABEAAAUwICSOZGmeIwCg5cqmr+jG6oy6dgvf+4nTs8ZAEEMkHIfXg5F4LQ4Pg4L1KAQIMVMIADs=\" alt=\"\" width=\"12px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"b_s\"> : 각형강의 폭, mm</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 38,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDgARAPQAAAAAAAAAOjpmtmaQ22a2/5A6AJBmtpCQtpCQ27ZmOrZmZra2trbb/7b//9u2ttv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAOABEAAAUz4CSOZGmeIwCg5cqmr+jG6oy6dgvf+4nTLkmBABGwHA6G5PBaPCIIlsQgUTSkicAgZgoBADs=\" alt=\"\" width=\"12px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"b_v\"> : 수평전단에 대하여 검토되는 접촉 면적의 단면 폭, mm</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 39,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFAARAPUAAAAAAAAAOgAAZgA6kDoAADo6Ojo6ZmYAAGY6AGZmtmaQ22a222a2/5BmAJCQ25Db25Db/7ZmOraQOrbb/7b//9uQOtuQZtu2ttvbkNvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAUABEAAAZUQJBwSCwaj8ikEABQHptNZzEqJVKrS+a1usV2pV+hZKB5Jj0O5HZDCEA4j4iAYi1yDJMKw1JY1Ld6Qh8NBhBWXRaGFxgJHAoZTh0IZBsMHgcMWEhBADs=\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_ck\"> : 콘크리트의 설계기준압축강도, MPa</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 40,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6kGYAAGZmtma2/5A6AJA6ZpBmtpCQkJC2/5Db/7aQkLbb/7b//9uQZtu2kNu2ttvbttv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAQABEAAAU/4CWOZGme6AgAKcmyrQjH1xyvK13rMm/fvN2oIiBYEBJXCRJhUAYqIWkhmRBUv4vlYDE0YpYCIJBsORSPxCgEADs=\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_y\"> : 철근의 설계기준항복강도, MPa</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 41,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhCwAOAPUAAAAAOgA6kABmtjoAADo6kDpmtjqQtjqQ22YAAGYAZmZmtma2/5A6OpA6ZpCQZpC2/5Db/7ZmZra227bb/7b//9uQOtu2Ztu2kNvb29vb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAALAA4AAAZBwI9wSCRiMkWihaBJCjcCp7CykHoajgHgUewgDBpocRNobg7FCvoTgRA9DHdH8ZEMOwnK53yZDDkFQhwDVVKGTkEAOw==\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h\"> : 합성부재의 전체 깊이, mm</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 42,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAAAOgBmtjoAAGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQkNu2tv+2Zv+2kP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAAQABEAAAU1ICSOZGmeJwCgKWuu7gjH4qrSNzSj8/7KsZ6O1YM1BgIaBJFwHGgPRoK2ODwMitijECAoTSEAOw==\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h_s\"> : 강관 단면의 지름, mm</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 43,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDQARAPQAAAAAAAAAOgA6Ojo6kDpmtjqQtmY6AGaQ22a2/5A6AJA6OpA6ZpBmZpDb/7b//9v///+2Zv/bkP/btv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAANABEAAAU3ICWOZGmeI6ACqMi2Lky9MN3aJ57Ls0xLBkEhtaJMFI3IARUhUCAI5mGycKAmicDgcZowHM1RCAA7\" alt=\"\" width=\"11px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"I_g\"> : 철근을 무시한 콘크리트 전체 단면의 중심축에 대한 단면2차모멘트</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 44,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAAAOgA6kABmtjoAADo6kGYAOmZmOmaQ22a225A6AJA6ZpA6kJDb25Db/7ZmZraQZra227bb/7b//9uQOtuQZtuQkNu2ttv/ttv///+2Zv+2kP//tv//2////wAAACH5BAAAAB4ALAAAAAATABEAAAVJoCeOZGme6AmsQKq6aAuX8kzWtojbO5/fP91IQxiINAWMwTFiyR6SjYMT2SRgnYtkVGGmLI7OYgJpMDKRVEcRQHgogYMgEzSFAAA7\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"I_sx\"> : 합성부재 단면의 중심축에 대한 구조용 형강 또는 강관의 단면2차모멘트</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 45,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhCQAOAPQAAAA6ZgBmtjoAADo6kDqQ22Y6ZpA6ZpDb/7ZmALZmOraQtra2Zrb//9uQOtu2ttvbttv/29v////bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAJAA4AAAUmICWOZGmeaCoiwCIAjCgdSPAUMeVARk5Kg4ipQTglDqaJQqhqUkIAOw==\" alt=\"\" width=\"7px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"r\"> : 압축부재의 단면 회전반지름</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 46,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhCgAOAPQAAAAAOjoAADqQ22Y6ZmZmkGaQ22a2/5BmAJCQ25C225Db/7aQkLaQtrbb/7b//9v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABYALAAAAAAKAA4AAAUsoCWOZGmeaIpCAaCU1NBUzENSxEMl5rQQDpJkEIQISBGEpXIwlCKtgmo6CgEAOw==\" alt=\"\" width=\"8px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"s\"> : 부재 길이방향의 전단연결재 간격</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 47,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhGgARAPUAAAAAAAA6kABmtjo6OjqQtjqQ22YAOmZmOmZmkGZmtmaQ22a222a2/5BmkJDb27ZmALZmZraQkLa227a2/7bbtrbb/7b//9uQZtuQkNu2Ztu2ttvb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAaABEAAAZmQJFwSCwaj8ikUghoEp1LI6A4jUqf1mNVtM1imd4rN3ztGkObJTTpSajNRo9CXQQZDoAAR3QZAAheGhkCHBF7Dwsgbl4QFiESIiAIHB8TXiENHB4OG3IiGBQVWZ4dehcMIg8FZFFBADs=\" alt=\"\" width=\"24px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"V_nh\"> : 공칭 수평전단강도, N</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 48,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFAARAPQAAAAAAAAAOgBmtmZmOmZmtma2/5A6AJA6ZpBmtraQkLbbtrbb/9u2ttvbttv///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAAUABEAAAU+oCSOZGmeaAqsJJuKQBm/cEuPs5Tf+U7Pvp/uJgvyjEJSxFCIJBxECaOxgBCiouejgI0gIgfFIroMDARYVAgAOw==\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"V_u\"> : 설계할 때 고려하는 단면의 계수전단력</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 49,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6OjoAADo6kGZmtmaQtmaQ22a2/5BmZpDb/7aQkLbb/7b//9uQOtuQZtu2ttvb29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABgALAAAAAAQABEAAAVEICaOZGmeKAas6Qi4rQqnr1jTKtveMsr3IgiJx7sgGK4bz0IY5m4SQcAwK1EGi0miSmocMAqk7eRIVAqPSIsiOHhjpxAAOw==\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"beta_d\"> : 횡구속 골조에서는 <img src=\"data:image/gif;base64,R0lGODlhOwARAPUAAAAAAAAAOgA6OgA6kABmtjoAADo6kGYAOmZmOmZmtmaQtmaQ22a2/5A6AJA6ZpBmZpBmkJDb25Db/7ZmZraQkLa227bb/7b//9uQOtuQZtuQkNu2Ztu2ttvb29vb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAA7ABEAAAbFwJNwSCwaj8ikcslsOp9DgBQaBSClVmoxe+I2p9eolsj1KsHJ8lioZqLT4nW3+z7W4Vj5PH4228lrZl4daX58bESETl5eJg8XfX+HjpBfbUIlCZZblyeZT1Z5QiEFAguBdFykpiUHCAADICekBIBGIwYWIhJjhri6EhwbBCAUshPAh0MYDCcUlVSGzM6QExcmFUImHBa2RRkSJAocstFH4OIcHxAgIxEeGhImDtBIIwUM03pE9/kMI6dCxDLRIMCpfQidBAEAOw==\" alt=\"\" width=\"57px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"beta   _{d} < beta   _{dns}\">를, 비횡구속 골조에서는 <img src=\"data:image/gif;base64,R0lGODlhNQARAPQAAAAAAAAAOgA6OgBmtjoAADo6kGZmtmaQtmaQ22a2/5A6AJA6ZpBmZpDb/7ZmZraQkLbb/7b//7yQkNuQOtuQZtu2ttvb29v///+2Zv+2kP/bkP/btv//tv//2////wAAACH5BAAAAB4ALAAAAAA1ABEAAAWdoCeOZGmeaKqubOuaQPyS8hkDs4eLu1vbo16rJ1T9UMRXknVEBme426qZilKNNGYR+ByWhJbqtkv2hJ3lDiNiHAuFarZtKeIYhsWf0F7V/TAEAgg5T1IigIIegANZJhoFEBkNhDonj5GTDphlIxMJHg9yOWOeoGwdFRCNJRQNGwcVF4Rjra8VEg0dC6IoGgQJpZSWv54dCgGDwsouIQA7\" alt=\"\" width=\"51px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"beta   _{d} < beta   _{ds}\">를 사용한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 50,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhGwARAPUAAAAAAAAAOgA6OgA6kABmtjoAADo6kGYAOmZmOmZmtmaQtmaQ22a2/5A6AJA6ZpBmZpBmkJDb25Db/7ZmZraQkLa227bb/7b//9uQOtuQZtuQkNu2Ztu2ttvb29vb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAAbABEAAAZ9wJNwSCwaj8ikkghoLp+AYfSZnJ6s1KIVm2VenV0jltvlYjtl79D0uGTBV2IpkW5aQwXBonRAAAYgJ3gEakUjBhYiEhwbBCAUgROJElJHGAwnFG4TFyYVQiYcFoVEGRIkChwfECAjER4aEiYObkojBQyXIwuCgCYNAbxhVEEAOw==\" alt=\"\" width=\"25px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"beta_dns\"> : 횡구속 골조에서 각각의 하중조합으로 계산된 최대 계수축력에 대한 최대 계수지속축력의 비</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 51,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAAAOgA6OgBmtjoAADo6kGZmtmaQtmaQ22a2/5A6AJA6ZpBmZpDb/7ZmZraQkLbb/7b//7yQkNuQOtuQZtu2ttvb2/+2Zv+2kP/bkP/btv//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAVABEAAAVYYCeOZGmeaCoCrHoCI+ySclfP9Y3b7RzTPlvpZkndbhxGBNUTjjYGI692IQgQneoAaMoUIJhGxwEWr06TROex5FQg3BKloTlUJA3OYqnKEBJpHAoBWEEpIQA7\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"beta_ds\"> : 비횡구속 골조에서 1개 층 전체의 최대 계수전단력에 대한 최대 계수지속전단력의 비</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 52,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAA6kABmtjoAZjo6ZjqQ22YAZmY6OmZmkGa2/5CQkJDb/7ZmALb//9uQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAALAA4AAAUtICWOZGmSkaGcYhOwlFQw8ELAD+CcU6KakYPDVQruIAKaCDJQUhYIGGUnrYpCADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda\"> : 경량콘크리트계수(KDS 14 20 10(4.4) 참조)</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 53,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDwARAPQAAAAAAAAAOjpmtmaQ22a2/5A6AJBmtpCQtpCQ27ZmOrZmZra2trbb/7b//9u2ttv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAPABEAAAU34CSOZGmeaKqubDsC8Aq86izaJz7pZbzXO5ukQIAIaCWHgyE5IEuLRwTxHEkMEkVDJUkEBi5SCAA7\" alt=\"\" width=\"13px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"rho_v\"> : 접촉 면적에 대한 전단연결재 면적의 비</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 54,
+        "title": "2. 조사 및 계획",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 조사 및 계획</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 55,
+        "title": "2. 조사 및 계획",
+        "level": 2,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 56,
+        "title": "3. 재료",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 재료</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 57,
+        "title": "3. 재료",
+        "level": 2,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 20 01(3)에 따른다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 58,
+        "title": "4. 설계",
+        "level": 1,
+        "label": "4.",
+        "contents": "<p>4. 설계</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 59,
+        "title": "4.1 설계 일반",
+        "level": 2,
+        "label": "4.1",
+        "contents": "<p>4.1 설계 일반</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 60,
+        "title": "4.1 설계 일반",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1)전체 합성부재 또는 그 일부를 압축력, 전단력과 휨모멘트에 저항하도록 사용할 수 있다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 61,
+        "title": "4.1 설계 일반",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2)각각의 부재요소는 각 재하단계에서 시공과정부터 발생 가능한 모든 위험한 하중조건에 대해 검토하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 62,
+        "title": "4.1 설계 일반",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3)여러 요소의 기준강도, 단위질량 또는 그 밖의 특성 등이 서로 다를 경우에는 설계할 때 각 요소의 특성을 각각 사용하거나 또는 이들 중 가장 불리한 값을 사용하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 63,
+        "title": "4.1 설계 일반",
+        "level": 3,
+        "label": "(4)",
+        "contents": "<p>(4)합성부재의 강도계산은 동바리를 받쳐 시공한 부재와 동바리 없이 시공한 부재 간의 구분을 하지 않는다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 64,
+        "title": "4.1 설계 일반",
+        "level": 3,
+        "label": "(5)",
+        "contents": "<p>(5)합성부재의 모든 요소는 합성부재로서 설계기준강도를 완전히 발휘하기 전에 작용하는 모든 외력을 지지할 수 있도록 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 65,
+        "title": "4.1 설계 일반",
+        "level": 3,
+        "label": "(6)",
+        "contents": "<p>(6)하중을 저항하기 위한 목적 외에 균열을 제어하고 합성부재의 각 요소들 사이의 상호 분리를 방지하기 위하여 철근을 추가로 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 66,
+        "title": "4.1 설계 일반",
+        "level": 3,
+        "label": "(7)",
+        "contents": "<p>(7)합성휨부재는 KDS 14 20 30(4.2.4) 의 처짐 제한 규정을 만족하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 67,
+        "title": "4.2 합성콘크리트 휨부재의 설계",
+        "level": 2,
+        "label": "4.2",
+        "contents": "<p>4.2 합성콘크리트 휨부재의 설계</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 68,
+        "title": "4.2.1 수직전단강도",
+        "level": 3,
+        "label": "4.2.1",
+        "contents": "<p>4.2.1 수직전단강도</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 69,
+        "title": "4.2.1 수직전단강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)합성콘크리트 휨부재의 전체 단면이 수직전단력을 저항한다고 가정하는 경우에는 동일한 단면 형상의 일체로 시공된 부재에 관한 KDS 14 20 22의 요구 조건들을 만족하도록 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 70,
+        "title": "4.2.1 수직전단강도",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)전단철근은 상호 연결된 부재 속으로 충분히 정착하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 71,
+        "title": "4.2.1 수직전단강도",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)연장되거나 정착된 전단철근을 수평전단에 대한 전단철근으로 취급할 수 있다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 72,
+        "title": "4.2.2 수평전단강도",
+        "level": 3,
+        "label": "4.2.2",
+        "contents": "<p>4.2.2 수평전단강도</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 73,
+        "title": "4.2.2 수평전단강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)합성콘크리트 휨부재에서 수평전단력이 상호 연결된 요소들의 접촉면에서 충분히 전달되는지 여부를 확인하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 74,
+        "title": "4.2.2 수평전단강도",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)계산 결과가 4.2.2((3), (4))의 규정에 부합되도록 계산된 경우를 제외하고, 수평전단에 대한 단면설계는 식 (4.2-1)에 따라야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 75,
+        "title": "4.2.2 수평전단강도",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhSQARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6Zjo6kDpmtjqQ22YAAGY6AGY6ZmY6kGZmZmZmkGZmtmaQkGaQ22a222a2/5A6ZpBmOpCQZpCQkJCQtpCQ25C225C2/5Db/7ZmALZmOraQZraQkLaQtra2tra227a2/7bbtrbb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAACH5BAAAADwALAAAAABJABEAAAb+QJ5wSCwaj8ikcslsOp/QqHRKbX4AgIBHeAVUqklbitjVcrHf56dA1EVmUdcDtXzByeyh+/5U5YUifEw4GBqCSDslRn5EgVIqBHdiTTsiEnRMlRgShkSQkmOPkTw3HU0tEJhMN29iOg58n6SmU586G1A5IZdKOg1jJDw7FqE8trhIOUs0kcFThLxGNGyJpAh8zDPOSCxbSTQCGcVUOKpDNwk85Twg3kLg4kos49JmerCOYDwrEy8nGeZ40LAn5MYBBqN2XDDwx0iNNENekJChAUkXLBgBKEgyAsnDIjDa2eHxiiKURLf06THxZEdFZzcmVHtyg0MLCjFU8siR08kfjQ06SuSs4QEHiZ5NdCwYcE1nFKI3ms6jkc6pVX1BAAA7\" alt=\"\" width=\"72px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"V  _{u}  leq `phiV_nh\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.2-1)</span></p>"
+      },
+      {
+        "no": 4011,
+        "sort": 76,
+        "title": "4.2.2 수평전단강도",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhGgARAPUAAAAAAAA6kABmtjo6OjqQtjqQ22YAOmZmOmZmkGZmtmaQ22a222a2/5BmkJDb27ZmALZmZraQkLa227a2/7bbtrbb/7b//9uQZtuQkNu2Ztu2ttvb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAaABEAAAZmQJFwSCwaj8ikUghoEp1LI6A4jUqf1mNVtM1imd4rN3ztGkObJTTpSajNRo9CXQQZDoAAR3QZAAheGhkCHBF7Dwsgbl4QFiESIiAIHB8TXiENHB4OG3IiGBQVWZ4dehcMIg8FZFFBADs=\" alt=\"\" width=\"24px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"V_nh\">는 공칭수평전단강도로서 다음과 같이 규정한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 77,
+        "title": "4.2.2 수평전단강도",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 접촉면이 청결하고 부유물이 없으며 표면을 거칠게 만들어진 경우, 공칭수평전단강도 <img src=\"data:image/gif;base64,R0lGODlhGgARAPUAAAAAAAA6kABmtjo6OjqQtjqQ22YAOmZmOmZmkGZmtmaQ22a222a2/5BmkJDb27ZmALZmZraQkLa227a2/7bbtrbb/7b//9uQZtuQkNu2Ztu2ttvb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAaABEAAAZmQJFwSCwaj8ikUghoEp1LI6A4jUqf1mNVtM1imd4rN3ztGkObJTTpSajNRo9CXQQZDoAAR3QZAAheGhkCHBF7Dwsgbl4QFiESIiAIHB8TXiENHB4OG3IiGBQVWZ4dehcMIg8FZFFBADs=\" alt=\"\" width=\"24px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"V_nh\">는 <img src=\"data:image/gif;base64,R0lGODlhLgARAPQAAAAAAAAAOjpmtmaQ22a2/5A6AJBmtpCQtpCQ27ZmOrZmZra2trbb/7b//9u2ttv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAuABEAAAV44CSOZGmeaKqubEsC8AnPI10DbFzvJd7zIt9KOBESgybjq0VU/p5Q1dH5shWt12N1CgT6qF8ZcjlGhcdUntYJLp+LybLXra7D4/CpLrnPVkUSBQQQAkE4Wi6JDg4MEgeJkCsLDxEIkZcmEgYSCg2Yn4AJAQOgpS0hADs=\" alt=\"\" width=\"44px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"0.56 b_v d\"> 이하로 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 78,
+        "title": "4.2.2 수평전단강도",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 4.2.3에서 규정한 최소 전단연결재가 있으며 접촉면이 청결하고 부유물은 없으나 표면이 거칠게 만들어지지 않은 경우, 공칭수평전단강도 <img src=\"data:image/gif;base64,R0lGODlhGgARAPUAAAAAAAA6kABmtjo6OjqQtjqQ22YAOmZmOmZmkGZmtmaQ22a222a2/5BmkJDb27ZmALZmZraQkLa227a2/7bbtrbb/7b//9uQZtuQkNu2Ztu2ttvb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAaABEAAAZmQJFwSCwaj8ikUghoEp1LI6A4jUqf1mNVtM1imd4rN3ztGkObJTTpSajNRo9CXQQZDoAAR3QZAAheGhkCHBF7Dwsgbl4QFiESIiAIHB8TXiENHB4OG3IiGBQVWZ4dehcMIg8FZFFBADs=\" alt=\"\" width=\"24px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"V_nh\">는 <img src=\"data:image/gif;base64,R0lGODlhLgARAPQAAAAAAAAAOjpmtmaQ22a2/5A6AJBmtpCQtpCQ27ZmOrZmZra2trbb/7b//9u2ttv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAuABEAAAV44CSOZGmeaKqubEsC8AnPI10DbFzvJd7zIt9KOBESgybjq0VU/p5Q1dH5shWt12N1CgT6qF8ZcjlGhcdUntYJLp+LybLXra7D4/CpLrnPVkUSBQQQAkE4Wi6JDg4MEgeJkCsLDxEIkZcmEgYSCg2Yn4AJAQOgpS0hADs=\" alt=\"\" width=\"44px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"0.56 b_v d\"> 이하로 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 79,
+        "title": "4.2.2 수평전단강도",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 4.2.3에서 규정한 최소 전단연결재가 있고 접촉면이 청결하고 부유물이 없으며 표면이 약 6mm 깊이로 거칠게 만들어진 경우, 공칭수평전단강도 <img src=\"data:image/gif;base64,R0lGODlhGgARAPUAAAAAAAA6kABmtjo6OjqQtjqQ22YAOmZmOmZmkGZmtmaQ22a222a2/5BmkJDb27ZmALZmZraQkLa227a2/7bbtrbb/7b//9uQZtuQkNu2Ztu2ttvb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAaABEAAAZmQJFwSCwaj8ikUghoEp1LI6A4jUqf1mNVtM1imd4rN3ztGkObJTTpSajNRo9CXQQZDoAAR3QZAAheGhkCHBF7Dwsgbl4QFiESIiAIHB8TXiENHB4OG3IiGBQVWZ4dehcMIg8FZFFBADs=\" alt=\"\" width=\"24px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"V_nh\">는 <img src=\"data:image/gif;base64,R0lGODlhdwARAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6ADo6Zjo6kDpmZjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJBmtpCQOpCQkJCQnJCQtpCQ25C2/5Db25Db/7ZmALZmOrZmZrZmkLaQkLa2kLa2tra227bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEgALAAAAAB3ABEAAAf+gEiCSDBAg4eIiYqLjI2Oj4c4NZCUizcrlZmam5RHIoackEYZoYlHJ6WpjkEdj0c9kEWwg0Ebh0UumIlEEwAEuoiniry+NIstAA6hRhStiqOIRBTASNLUi0QSk4I2zkceAAHXSEcgxkMK24fCwR4cSDkFoINHMDRDCOqVRhg6C/PrQOhDYsPAISPaHg35N6gFNSMRxhlBMUiSKVSIFho68uGai4GaWnQgYkxRuYEI1QUx+CjIg0MOD0Y09UEDkCMzBg05AKCnz3CYgsgTxMKZoIUhfI3LcSCA0UM7e7I0KTARi5fcGBz4pejG1gtPu8kcR87DAJsmMR4qOOjqoSD+AF7GAxhkwT2GiTQ2OplI6EYPBoCsTGRDHj59Lscq0kGD19BgagexJYpVUBABk4xAMMoRU0pFNiovMmIBILkS05B81jsIoufSB0m1nlnW4BBvIi/2fVz0m8HLk74ZHaIMCet1Hp4qYhUNAxC2fglOtTw0MaJLs8cxt6ycXOSjDDtDzVfWaGjKig47egGQiHPj+RILRzRZ5A6AnkC5zqvAGJEKIC3yjS1zISfXY0iwYFAOmAlHHDfTadbBESUYIgQ16KhTFDSF3ZQccYPtQIEK35EDCws+ISiIEAkolQkxBJR0UC8xtiYBCcUgscMONJyyww/JHbIDD/eQUoQPjxhWEsQBDRiyY48nHBGCOOqpYqVCeA0iAxBGmFBBDFkKUsh2pWw50ZVoZmIdPSMc8RELXK3TZlWlHNHmR2nmyckRLQRgi4DgqLgJn37qaaiel+iQwqGJBAIAOw==\" alt=\"\" width=\"118px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"(1.8+0.6` rho   _{v} f  _{y} )` lambda b  _{v} d\">로 하며, <img src=\"data:image/gif;base64,R0lGODlhJwARAPQAAAAAAAAAOjpmtmaQ22a2/5A6AJBmtpCQtpCQ27ZmOrZmZra2trbb/7b//9u2ttv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAnABEAAAVq4CSOZGmeaKqu7Ai85yu7AAu7eFnH7S76vpwpmCIKj0iUcXLTzWjLX3NI/eWWuyhTlU12dVfhdwsmk4DWNHl8thKfw+lNUiBABFJzi+VwMCQHe4ImCw8RCIOJExIGEgoNioMSCQEDkZcqIQA7\" alt=\"\" width=\"37px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"3.5b_v d\">보다 크게 취할 수는 없다. <img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAA6kABmtjoAZjo6ZjqQ22YAZmY6OmZmkGa2/5CQkJDb/7ZmALb//9uQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAALAA4AAAUtICWOZGmSkaGcYhOwlFQw8ELAD+CcU6KakYPDVQruIAKaCDJQUhYIGGUnrYpCADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda\">는 KDS 14 20 10(4.4)에 따르며, <img src=\"data:image/gif;base64,R0lGODlhDwARAPQAAAAAAAAAOjpmtmaQ22a2/5A6AJBmtpCQtpCQ27ZmOrZmZra2trbb/7b//9u2ttv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAPABEAAAU34CSOZGmeaKqubDsC8Aq86izaJz7pZbzXO5ukQIAIaCWHgyE5IEuLRwTxHEkMEkVDJUkEBi5SCAA7\" alt=\"\" width=\"13px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"rho_v\">는 <img src=\"data:image/gif;base64,R0lGODlhOAARAPQAAAAAAAAAOjpmtmaQ22a2/5A6AJBmtpCQtpCQ27ZmOrZmZra2trbb/7b//9u2ttv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAA4ABEAAAWS4CSOZGlOQJmerNq+7CrKcEvbNa3feY3COhOvZwMMSUGXD4n7vZKjI7ApdUZVxuLtKKtulUNuzJiNCZmz8XmdNivb1tP3DWdf7+G7fu+UFAgQAnFoMyt+gIJkc1FlKGQTDg4MEgeDfCORk5VNSxMLDxEIlpcin6GcSxIGEgoNnSSqrK6vLxIJAQO0I7a4ur6/nSEAOw==\" alt=\"\" width=\"54px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_v /(b_v s)\">이다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 80,
+        "title": "4.2.2 수평전단강도",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 고려하는 단면에서 계수전단력 <img src=\"data:image/gif;base64,R0lGODlhFAARAPQAAAAAAAAAOgBmtmZmOmZmtma2/5A6AJA6ZpBmtraQkLbbtrbb/9u2ttvbttv///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAAUABEAAAU+oCSOZGmeaAqsJJuKQBm/cEuPs5Tf+U7Pvp/uJgvyjEJSxFCIJBxECaOxgBCiouejgI0gIgfFIroMDARYVAgAOw==\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"V_u\">가 <img src=\"data:image/gif;base64,R0lGODlhOwARAPQAAAAAAAAAOjpmtmaQ22a2/5A6AJBmtpCQtpCQ27ZmOrZmZra2trbb/7b//9u2ttv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAA7ABEAAAWS4CSO5AiUaKqu5Mmi7ivPJhuLN6Cnem/eqh3O1ioOS8CaLLdiKifJ5PHl5Blh2CwVyfNNf10hTgwjQ7GudFAbU2eB8KNbaz1/5XS7uzpvT6N3dkonfk99g4F6gotjZjlmP48iEgUEEAJji1KMiTQlDg4MEgdEdXmeKAsPEQhNrqiwEgYSCg2wt7gSCQEDuL6/niEAOw==\" alt=\"\" width=\"57px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"phi(3.5b_v d)\">를 초과하는 경우, 수평전단력에 대한 설계는 KDS 14 20 22(4.6.2)의 전단마찰 규정에 부합되도록 하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 81,
+        "title": "4.2.2 수평전단강도",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ 4.2.2에서 <img src=\"data:image/gif;base64,R0lGODlhCgAOAPUAAAAAOgA6ZgA6kABmtjoAADoAZjo6kDqQ22YAOmYAZmY6OmY6kGZmAGa2/5BmOpCQtpDb25Db/7ZmOrb//9uQOtuQZtu2ttvb29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAAKAA4AAAY/wI9wSCx+OBejcJOYKDUGjDJzKFYIAUaDSBFgNAWnsIOIfDoLqTDj/VC5A6GkYVFn4hYF5DH0OAARYGJKhEVBADs=\" alt=\"\" width=\"8px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"d\">는 긴장재와 종방향 인장철근의 중심에서 압축측 연단까지의 거리이며, 프리스트레스트콘크리트 부재의 경우 0.8<img src=\"data:image/gif;base64,R0lGODlhCwAOAPUAAAAAOgA6kABmtjoAADo6kDpmtjqQtjqQ22YAAGYAZmZmtma2/5A6OpA6ZpCQZpC2/5Db/7ZmZra227bb/7b//9uQOtu2Ztu2kNvb29vb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAALAA4AAAZBwI9wSCRiMkWihaBJCjcCp7CykHoajgHgUewgDBpocRNobg7FCvoTgRA9DHdH8ZEMOwnK53yZDDkFQhwDVVKGTkEAOw==\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h\"> 이상이어야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 82,
+        "title": "4.2.2 수평전단강도",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)수평전단력은 합성부재의 임의 요소에서 압축력이나 인장력의 실제 변화량을 계산하여 구하며, 이러한 힘은 이를 지지하는 요소에 수평전단력으로 전달할 수 있도록 조치하여야 한다. 계수수평전단력은 (2)에 규정된 수평전단강도 <img src=\"data:image/gif;base64,R0lGODlhIgARAPUAAAAAAAA6kABmtjo6OjqQtjqQ22YAOmZmOmZmkGZmtmaQ22a222a2/5BmkJDb27ZmALZmZraQkLa227a2/7bbtrbb/7b//9uQZtuQkNu2Ztu2ttvb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAiABEAAAZ+QJFwSCwaj8ikcokEGAFQYpRZdD6r1KtWaM1Kj92uVwSdfrljtFVMRqfX7qGTXQxtwG62GelJ4Nt0e0ceCk1lf0MgBgcAARwiFwMABIhMGhkCHBGPDwsgfltUEBYhEiIgCBwfE5VLIQ0cHg4bhCIYFBVpRbUdjhcMIg8FusRBADs=\" alt=\"\" width=\"32px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"phi V_nh\"> 이하이어야 한다. 이때 <img src=\"data:image/gif;base64,R0lGODlhFQARAPQAAAAAAAAAOjpmtmaQ22a2/5A6AJBmtpCQtpCQ27ZmOrZmZra2trbb/7b//9u2ttv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAVABEAAAVI4CSOZGmeaAoA6biabCvGJN3aE47qq+6+pZhPGHTBZkdkMZccInFASYEAEcxYvpHDwZAcZKbFI4IAkyQGiaJhHkkSgUF7LgoBADs=\" alt=\"\" width=\"19px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"b_v d\"> 대신에 접촉면적 <img src=\"data:image/gif;base64,R0lGODlhEgARAPQAAAAAAAAAOgA6kDoAADo6ZmY6AGa2/5Db/7bb/9uQOtuQZtu2ttv///+2Zv/bkP/btv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAASABEAAAU4ICSOZGmeaAqk6MqSQPyOrjvXM2TbbOzfsBdPJyzZGoPAQfRj/hwERMKQm+ZGiuWCkXsUBNxrKQQAOw==\" alt=\"\" width=\"16px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_c\">를 사용하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 83,
+        "title": "4.2.2 수평전단강도",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)수평전단력에 저항하는 전단연결재를 상기 (3)에 만족되도록 설계할 때, 부재축을 따라 전단연결재의 간격과 단면적은 부재 내의 전단력 분포를 반영하여 결정하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 84,
+        "title": "4.2.2 수평전단강도",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5)상호 연결된 요소 사이에 접촉면을 가로질러 인장력이 존재하는 경우, 최소의 전단연결재가 4.2.3의 규정에 따라 배치된 경우에만 접촉에 의한 전달을 허용할 수 있다. </p>"
+      },
+      {
+        "no": 4011,
+        "sort": 85,
+        "title": "4.2.3 수평전단에 대한 연결재",
+        "level": 3,
+        "label": "4.2.3",
+        "contents": "<p>4.2.3 수평전단에 대한 연결재</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 86,
+        "title": "4.2.3 수평전단에 대한 연결재",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)수평전단력을 전달시키기 위해 전단연결재를 사용할 경우, 연결재의 단면적은 KDS 14 20 22(4.3.3(3)) 의 규정에서 요구하는 면적 이상으로 한다. 또한 연결재의 수평전단력방향 간격은 지지 요소의 최소 치수의 4배, 또한 600mm 이하이어야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 87,
+        "title": "4.2.3 수평전단에 대한 연결재",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)수평전단력에 대한 전단연결재로는 단일철근이나 철선, 다중 스터럽 또는 용접철망의 수직철근 등이 사용될 수 있다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 88,
+        "title": "4.2.3 수평전단에 대한 연결재",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)모든 전단연결재는 상호 연결된 요소들에 충분히 정착되어야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 89,
+        "title": "4.2.4 구조용 강재를 철근콘크리트로 보강한 합성휨부재",
+        "level": 3,
+        "label": "4.2.4",
+        "contents": "<p>4.2.4 구조용 강재를 철근콘크리트로 보강한 합성휨부재</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 90,
+        "title": "4.2.4 구조용 강재를 철근콘크리트로 보강한 합성휨부재",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)I형보를 포함한 구조용 강재를 철근콘크리트로 보강한 합성휨부재는 다음 (2)에서 (5)까지 규정을 만족하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 91,
+        "title": "4.2.4 구조용 강재를 철근콘크리트로 보강한 합성휨부재",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)콘크리트의 설계기준압축강도 <img src=\"data:image/gif;base64,R0lGODlhFAARAPUAAAAAAAAAOgAAZgA6kDoAADo6Ojo6ZmYAAGY6AGZmtmaQ22a222a2/5BmAJCQ25Db25Db/7ZmOraQOrbb/7b//9uQOtuQZtu2ttvbkNvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAUABEAAAZUQJBwSCwaj8ikEABQHptNZzEqJVKrS+a1usV2pV+hZKB5Jj0O5HZDCEA4j4iAYi1yDJMKw1JY1Ld6Qh8NBhBWXRaGFxgJHAoZTh0IZBsMHgcMWEhBADs=\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_ck\">는 27MPa 이상이어야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 92,
+        "title": "4.2.4 구조용 강재를 철근콘크리트로 보강한 합성휨부재",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)콘크리트의 크리프와 수축은 KDS 14 20 01(3.1.2((5), (6)))의 규정에 따르며, 실험에 의한 자료를 사용할 수 있다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 93,
+        "title": "4.2.4 구조용 강재를 철근콘크리트로 보강한 합성휨부재",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)휨부재 설계의 제한 사항은 KDS 14 20 20(4.2)의 규정에 따라야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 94,
+        "title": "4.2.4 구조용 강재를 철근콘크리트로 보강한 합성휨부재",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5)교량 구조물의 전단연결재의 설계는 4.2.3의 규정과 KDS 24 00 00의 해당 규정에 따라야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 95,
+        "title": "4.3 합성콘크리트 압축부재의 설계",
+        "level": 2,
+        "label": "4.3",
+        "contents": "<p>4.3 합성콘크리트 압축부재의 설계</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 96,
+        "title": "4.3.1 일반 사항",
+        "level": 3,
+        "label": "4.3.1",
+        "contents": "<p>4.3.1 일반 사항</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 97,
+        "title": "4.3.1 일반 사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)합성콘크리트 압축부재는 구조용 강재, 강관 또는 튜브를 축방향으로 보강한 압축부재를 말하며, 축방향 철근을 사용할 수도 있고 사용하지 않을 수도 있다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 98,
+        "title": "4.3.1 일반 사항",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)합성콘크리트 압축부재의 강도는 보통철근콘크리트 부재에 적용하는 동일한 제한 조건을 사용하여 구하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 99,
+        "title": "4.3.1 일반 사항",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)합성부재의 콘크리트가 부담하는 축강도는 콘크리트에 지압을 주는 부재나 브래킷에 의하여 콘크리트에 전달되도록 하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 100,
+        "title": "4.3.1 일반 사항",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)합성부재의 콘크리트가 부담하지 않은 모든 축강도는 구조용 강재, 강관 또는 튜브 등에 직접 연결하여 발현되도록 하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 101,
+        "title": "4.3.1 일반 사항",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5)장주효과의 계산에 있어서 합성단면의 회전반지름은 식 (4.3-1)의 값 이하로 하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 102,
+        "title": "4.3.1 일반 사항",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhlQAmAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjooADo6ADo6Zjo6kDpmtjqQtjqQ20lJAGYAAGYAOmY6AGY6ZmZmOmZmZmZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpA6kJBmZpBmkJCQOpCQtpCQ25C2kJC225C2/5Db25Db/7ZmALZmOrZmZrZmkLaQOraQZraQkLaQtra2Zra2tra227a2/7bb/7b/trb//9uQMtuQOtuQZtuQkNu2Ztu2ttvbttv/ttv/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEwALAAAAACVACYAAAf+gEyCg4SFhoeIShIAjI2Oj5CRkpOUlZaXmIwCOYidnp9JQ5+jpKWmp6ipqqM9nKuvsLGys58xorS4ubq7hUoYn0gUAAQ3hj4Hw8WDRJEQhTuNBbeFSySezJDOz9HTvLBHGp5LHRtMPtKERxhDSy+bhETvTEssHIbxrofVn/iC9Pb35HmTRQQgoiMNRC3xoAJegIZKJjQctEIbDSZG8lHUhmifp4qCLmY8BHLgLB4TERFBx2SFwV4SB0VsCI5JEkMzxVnrlLPmTZwxTcpqodHQDgMbEe3gyAQao4dKWaZDBgkqIacArB7aIVXoqiUiuhlFKqhkoSMlCI1z5qtjB6b++nbqe8ukrVu4XlMpSXuNpUtDSE6cRQDRBsaiRwh/8ngoceHDhhzn/fayccJ5DMeRRYJCUJGJRwntHTuKMWmZfJ+RnbwK5eIO4c51O0IVwLtxBoFU4ETkwEPcgoINeGDItNoOuXcz6U0W+PIDZIk0CBKU9SGio4IlG7WiGZMjDG7oUNAIwkIVNUt1zyaoxY0iKTqUZ+L+s5IaRcpZ7xiW9Y7KghzhwHIAfvWDMtQcOIhr+x1i12Su/TCbBkt8UNQqPahQYVEZbghDCiAMUUODkYXDWjBdzdNBAJfJMk4AJh4HY1MBWJAiiQWRSE0IOQiooyorEDDDAQS4QlskAnX+0sqPTMpyhAorGKDbhaq4IFaTWJrygxAWnlWbI0l6lpJpimRi5plopolmmN+1qIpz38WY5ZymLPXNAhzlSOeepLCQkioxvLAag3wWJ9ecS8hwJSor3YLdIdoRYwwyki7jXSIZkGJcIdg8gpdomTZ5RAKcgLXoOOXIls467STZzzz1uLWaTvzI808nmmGZ04NnXXaeQxBV15JFkB3Swwiz4nooScSOhMixyZII3BEFLudXtTkJ0lM4PxnyWWgHfdmIVtrG5FMn30ZLIkifKbWaWc8whRW5vaTF1aLULLvNU3/iZO+NDYb26GnDNpaaimz90slFTQGcL6508XoIw/fgYrmSEP0d0mhZHOQanGDpKKaEYc5e5YjDauk7iGQjF7svIyizNioOClumEEOFcCamIOBqe3CAqa0Qsz8q8zzraJEFPXReEZkgJzWwmdPVkZqUitwgUz73EBI1N3yLcMSZAmfWzAXXdcXPRTedsN6Mc0G1wQlT6UfegXfDDhEwYk+ZAEhzXnqkrOdpe+9BqXddi/QtSn0q3JcfayvQ681/pPiop4sKlpY5E4R6hbZQEeIbIIVdytJh6UpqaOGHIY6YFxHq8oKi6P6s6CYsLz4914w71Lg0LYBnuQSPPhZqSCAAOw==\" alt=\"\" width=\"148px\" height=\"37px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"r= sqrt { { 0.2E_c I _g +E_s I_sx} over { 0.2E_c A_g +E_s A_sx} }\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.3-1)</span></p>"
+      },
+      {
+        "no": 4011,
+        "sort": 103,
+        "title": "4.3.1 일반 사항",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>정밀한 계산 대신에 KDS 14 20 20의 식 (4.4-6), 식 (4.4-14)의 <img src=\"data:image/gif;base64,R0lGODlhEgAOAPQAAAAAAAAAOgAAZgA6kABmtjoAOjqQ22YAOmY6ZmZmtmaQ22a2/5A6AJCQ25Db/7ZmALZmOra2tra2/7b//9uQOtvbttv///+2Zv+2tv/bkP/b2///tv//2////wAAAAAAACH5BAAAAB0ALAAAAAASAA4AAAVXYCeOZGmeKHkBbAsYHdWWlzCJHLSI9U0+sE6kg/EBS5uDo5NRdDSi5JIkYwWmIsrAQuIwYJtE91vKFJYbCfFmxmYJpE3jXfLuRBXEzf5ztQxefymDhCghADs=\" alt=\"\" width=\"16px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"EI\">는 KDS 14 20 20의 식 (4.4-7)이나 다음 식 (4.3-2) 중에서 하나를 사용하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 104,
+        "title": "4.3.1 일반 사항",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhfwAkAPYAACgoKCgoUygoeShTUyhTeShTnSh5vlMoKFMoU1NFKFNTeVNTnVN5nVN5vlOdvlOd33koKHkoU3lTKHlTeXl5U3l5vnmdvnmd33m+33m+/51TKJ1TU51TeZ1TnZ15eZ2dvp2d352+352+/53f353f/755KL55U755eb6dU76deb6dnb6+vr6+376+/77f/77//9+dTN+dU9+ded+dnd++ed++nd++vt/fvt/f39/f/9//vt////++ef++nf++vv/fnf/fvv/f3///vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEQALAAAAAB/ACQAAAf+gESCg4SFhoeIiYqLjI2Oj5CRkpOUlZaXj0ASAAQuhjQHnJ6DPACmpwAPhTGnBTuYsLGLQxoYRDSuhD8VO0MoAi+EPMCCQyYZhsPBsszNgz8Lr0MbJMIB1UIR1YMlqkQrRD7LhN3O5sw8uUQlyIfZ20TvRD8XREGG8uf6lzEG3N6GYgAkwsrUNUQx1O1bKKnfv0M/QBCipUpIBUQUGWqMlO7VunaEgIQo9AMBthbhxgkqCW+jS0XQpFGj5Y8IEBGCemxzOEiIxFU1XwrFqKEeLo8rQ5kiRgvkjQnBeBy41lSQpgEOhmq1uakToxKoTqn6ocAFjARip5Ggt7Utphj+IHU1IMIjrltSYU2pKghAoVAZ1WwgnXdhCAeVg4Z8UFQq70BBfP0yJkbEWDtlbjVJphUg2iHFizBXPnZItKNy31IKQn3X0BAPL37M/bxYEWpw4g6xbiSP7b142pLmBUC5dSHQiXrX+10onyO+BwclHGx80Q+lYaNLP6U9oGRFGS1O1ADw+vDiQiAMX8++ffvilWt/Jh/vItHH1k3GQ5mbZfVJyEGknxD8ITaPfo/wJIhPkAX1HyQBBuQggxJCqIFTUFV2oUYRytJhYhsK8lRUB9RUFV0lCsLDAjoEt9pwD9AiFixBnNDSRPIhUsMms10ClmOCnOBCDyNoMKOQOgnAwUIPtgwlY3c4MsZADkSYcKMzQ9gwynFaDgJYW84dl2Nz9oXpzAwkGIYYmmqmMEIHO7CwVZjm5dXdDC/8iF8znNVznAYB1BNDABR8t5GZiY1JCDhE5FDDlQ8KhWgxii6IkooO4hCppC66VqlNW5YQ1GsGbqrPpPEhgueCEIAknqmHdvqICRb0okEuUg3gJ6wL/dgXdYooKUMoDbwCzZCQ8lodEFtKh4wKpSprnGCGAAaEBdRKq+08B2QA17bg8hoIADs=\" alt=\"\" width=\"126px\" height=\"35px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"EI= {0.2E  _{c} I  _{g}} over {1+ beta   _{d}} +E  _{s} I  _{sx}\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.3-2)</span></p>"
+      },
+      {
+        "no": 4011,
+        "sort": 105,
+        "title": "4.3.1 일반 사항",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, KDS 14 20 20(4.4.6)의 횡구속 골조인 경우에는 <img src=\"data:image/gif;base64,R0lGODlhOgARAPUAAAAAAAAAOgA6OgA6kABmtjoAADo6kGYAOmZmOmZmtmaQtmaQ22a2/5A6AJA6ZpBmZpBmkJDb25Db/7ZmZraQkLa227bb/7b//9uQOtuQZtuQkNu2Ztu2ttvb29vb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAA6ABEAAAa/wJNwSCwaj8ikcslsOp8ngBTKlAKoxqtQi80OuV0uuPstk8VLq3paRJOjUfa7bJ2Dx2ci3jkGd9prdXptRH98g0MmDxdYd0SKjE1yYCUJYW5ClU9XgichBQILYXFcn6ElBwgAAyCeBQSIRSMGFiISjUeztRIcGwQgFK0Tu2ZFGAwnFJFQe8fJjBMXJhVCJhwWsUQZEiQKHK3MR9vdHB8QICMRHhoSJg7LSCMFDM5zQ/L0DCOiIawmDQFE2RvYJAgAOw==\" alt=\"\" width=\"56px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"beta   _{d} = beta   _{dns}\">를 사용하며, KDS 14 20 20(4.4.7)의 비횡구속 골조인 경우에는 <img src=\"data:image/gif;base64,R0lGODlhNAARAPQAAAAAAAAAOgA6OgBmtjoAADo6kGZmtmaQtmaQ22a2/5A6AJA6ZpBmZpDb/7ZmZraQkLbb/7b//7yQkNuQOtuQZtu2ttvb29v///+2Zv+2kP/bkP/btv//tv//2////wAAACH5BAAAAB4ALAAAAAA0ABEAAAWaoCeOZGmeaKqubOuSQPy2MTB7tpjf577Tox8PFnz5VrWkrHQ04pZD5lOIJEatOpfwZ2Eqa1Ksp4v6/TqMCM9MQqt7TRHHMIT+5ikbWIQhCBB1UyN9fx59A2IjGgUQGQ1rJ4uNjw6TRSYTCR4PbzNUHpmbah0VEIkiFA0bBxUXN5+pqxUSDR0LnSgaBAmhVyS6vAkdCgGAvscpIQA7\" alt=\"\" width=\"50px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"beta   _{d} = beta   _{ds}\">를 사용한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 106,
+        "title": "4.3.2 콘크리트 심부를 둘러싸는 구조용 강재",
+        "level": 3,
+        "label": "4.3.2",
+        "contents": "<p>4.3.2 콘크리트 심부를 둘러싸는 구조용 강재</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 107,
+        "title": "4.3.2 콘크리트 심부를 둘러싸는 구조용 강재",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)콘크리트 심부를 구조용 강재로 둘러싸는 합성부재에서 구조용 강재의 두께는 다음 값 이상이어야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 108,
+        "title": "4.3.2 콘크리트 심부를 둘러싸는 구조용 강재",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 폭 <img src=\"data:image/gif;base64,R0lGODlhDgARAPQAAAAAAAAAOgBmtjoAAGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQkNu2tv+2Zv+2kP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAAOABEAAAUwICSOZGmeIwCg5cqmr+jG6oy6dgvf+4nTs8ZAEEMkHIfXg5F4LQ4Pg4L1KAQIMVMIADs=\" alt=\"\" width=\"12px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"b_s\">인 각형 강관 단면의 경우：<img src=\"data:image/gif;base64,R0lGODlhMQAjAPUAAAAAAAAAOgAAZgA6kABmtjoAADoAOjoAZjo6Ojo6kDpmkDpmtjqQ20kAAGYAAGYAOmYAZmY6AGY6ZmY6kGZmtmaQ22a222a2/5A6AJA6OpBmOpBmtpCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLa2Zra2kLa2tra227a2/7bbkLbb/7b//9uQOtuQZtuQkNu2Ztu2kNvb29vb/9v/ttv/29v///+2Zv+2kP/bkP/btv/b2///tv//2////yH5BAAAAD8ALAAAAAAxACMAAAb+wJ9wSCwaj8ikckl8NQDQqHRKjQpazGTplu16ib7Od9zteZa+zIXs1YGWpNOC3c2FlDrGj0tnwrBIIlAEfVlbSiN3hWhiST0TfIuOZ0k4epJKOW9JIms/Ogk3PJhEMIpHPRCAMyg2HJGYh0aPJpc/PilmaC8DsElhbSA4m0qWZZRZMQVXTC6eTG5tBs+/GQgAtmApQ3akRD0PHz0SgEQ4c0J/3kM4hKnlQj4aoUKyPQ5V+VPMQ84/7UZ2rDiABdg6IW52qPkxgt+Pdw+RHXQRwMLDDTtUDElzJ9qsCAEqDLk3hVAXHtuIdPrx4tSQHap0GDgFik8MkVlktGhJxIV8nhLwikAU4vMWjYxlHCiA1c7HqyQ3N2a4w3MRqBoSvzmoOERHASi9JKVaQawIlx0OPBXVITJlnzQcXPbr5QODHo4/eNzYwUKSiARBhew4g3ZNTSEyKDB0SMZF2CM6QFaoOyVAiB4YNdIBWAhlIbaFdFZl44NGoXtLD5IKAgA7\" alt=\"\" width=\"49px\" height=\"34px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"900\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"b  _{s} sqrt {{f  _{y}} over {3E  _{s}}}\"></p>"
+      },
+      {
+        "no": 4011,
+        "sort": 109,
+        "title": "4.3.2 콘크리트 심부를 둘러싸는 구조용 강재",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 지름이 <img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAAAOgBmtjoAAGaQ25A6AJA6ZpDb/7ZmZrbb/7b//9uQkNu2tv+2Zv+2kP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAAQABEAAAU1ICSOZGmeJwCgKWuu7gjH4qrSNzSj8/7KsZ6O1YM1BgIaBJFwHGgPRoK2ODwMitijECAoTSEAOw==\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h_s\">인 원형 강관 단면의 경우：<img src=\"data:image/gif;base64,R0lGODlhMwAjAPUAAAAAAAAAOgAAZgA6kABmtjoAADoAOjoAZjo6kDpmZjpmkDpmtjqQ20kAAGYAAGYAZmY6AGY6OmY6kGZmkGZmtmaQ22a2/5A6AJA6OpA6ZpBmOpBmtpCQkJCQtpCQ25C2/5Db/7ZmALZmOrZmZraQOraQkLa2Zra2kLa2tra227a2/7bbkLbb/7b//9uQOtuQZtuQkNu2Ztu2kNvb29vb/9v/ttv/29v///+2Zv+2kP/bkP/btv/b2///tv//2////yH5BAAAAD8ALAAAAAAzACMAAAb+wJ9wSCwaj8ikcol8NQDQqHRKjQpazGXplu16jb7Od/zteZY+jIU81n2Wo9OC/c2BlDrGj0vvwrBIIVAEfV5bSiJ3hVlhSj0SfItLZko4epJMOW9JIWs/Ogg3PJhGMIpHPQ+AMyg2HJGkP4dGjyaXPz4plEs7F56MYl1uOJtLiV67WTEFV0yPsEtuXjoGv3gJEAC3RblDdrFEOAIsOnNHOOY/f+BDnZ/WQz4aoUKzPQ5V+VPN8RlYLy1mGNmx4gCWRuw+zfGxYQeLHyL4/UiFJRk4S7gu6OnRUEU8DHekGVkWoMKQe1MIfeGRooi7F6dOTriR5hQoPjFMepHRAiaDERd6SgAiIvKbEKC4aOzwiMyBAlg4CPh4dUREBR80Pt7xiQlUjTNHdqCIoPNTASgDoPVJtaIY0Tc+SHhCqsNkS0lpOMQcwrUuLpA/eNxwSCoEgqHhFtAUseamEBkUIEqk4yItEhEASvq4MCUACI5LF0VdxFKS3z48ufbBWuje04SxggAAOw==\" alt=\"\" width=\"51px\" height=\"34px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"900\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h  _{s} sqrt {{f  _{y}} over {8E  _{s}}}\"></p>"
+      },
+      {
+        "no": 4011,
+        "sort": 110,
+        "title": "4.3.2 콘크리트 심부를 둘러싸는 구조용 강재",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)콘크리트 심부 내에 배치되는 축방향 철근은 <img src=\"data:image/gif;base64,R0lGODlhGQARAPQAAAAAAAAAOgA6kABmtjoAADo6kGYAOmZmOmaQ22a225A6AJA6ZpA6kJDb25Db/7ZmZraQZra227bb/7b//9uQOtuQZtuQkNu2ttv/ttv///+2Zv+2kP//tv//2////wAAACH5BAAAAB4ALAAAAAAZABEAAAVToCeOZGmeaKqSwOp67YsCtHzGsc2KuQ6PPR1t6OPtfMHgKznSEAYiTQFjcABrPKLnIdk4OJFNwte5SEYVq83i6CwmkAYjE7F1FAGEhxI4CDJFKiEAOw==\" alt=\"\" width=\"23px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_sx\">와 <img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAAAOgA6kABmtjoAADo6kGYAOmZmOmaQ22a225A6AJA6ZpA6kJDb25Db/7ZmZraQZra227bb/7b//9uQOtuQZtuQkNu2ttv/ttv///+2Zv+2kP//tv//2////wAAACH5BAAAAB4ALAAAAAATABEAAAVJoCeOZGme6AmsQKq6aAuX8kzWtojbO5/fP91IQxiINAWMwTFiyR6SjYMT2SRgnYtkVGGmLI7OYgJpMDKRVEcRQHgogYMgEzSFAAA7\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"I_sx\">의 계산에 포함시킬 수 있다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 111,
+        "title": "4.3.3 구조용 강재 심부 주위를 나선철근으로 보강한 합성부재",
+        "level": 3,
+        "label": "4.3.3",
+        "contents": "<p>4.3.3 구조용 강재 심부 주위를 나선철근으로 보강한 합성부재</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 112,
+        "title": "4.3.3 구조용 강재 심부 주위를 나선철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)구조용 강재 심부를 나선철근과 콘크리트로 보강한 합성부재는 다음 (2)에서 (6)까지 규정을 만족하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 113,
+        "title": "4.3.3 구조용 강재 심부 주위를 나선철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)콘크리트의 설계기준압축강도 <img src=\"data:image/gif;base64,R0lGODlhFAARAPUAAAAAAAAAOgAAZgA6kDoAADo6Ojo6ZmYAAGY6AGZmtmaQ22a222a2/5BmAJCQ25Db25Db/7ZmOraQOrbb/7b//9uQOtuQZtu2ttvbkNvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAUABEAAAZUQJBwSCwaj8ikEABQHptNZzEqJVKrS+a1usV2pV+hZKB5Jj0O5HZDCEA4j4iAYi1yDJMKw1JY1Ld6Qh8NBhBWXRaGFxgJHAoZTh0IZBsMHgcMWEhBADs=\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_ck\">는 21MPa 이상이어야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 114,
+        "title": "4.3.3 구조용 강재 심부 주위를 나선철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)심부로 사용된 구조용 강재의 설계기준항복강도는 사용할 구조용 강재의 최소 항복강도이어야 하지만, 450MPa을 초과할 수는 없다. 다만, KDS 14 20 20(4.1.1)의 가정에서 사용된 힘의 평형조건과 변형률의 적합조건에 기초한 상세 해석과 실험을 통해 정당성이 증명될 경우, 항복강도 450MPa을 초과하는 고강도강을 사용할 수 있다. </p>"
+      },
+      {
+        "no": 4011,
+        "sort": 115,
+        "title": "4.3.3 구조용 강재 심부 주위를 나선철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)나선철근은 KDS 14 20 20(4.3.2(3)) 의 규정에 따라야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 116,
+        "title": "4.3.3 구조용 강재 심부 주위를 나선철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5)나선철근 내측에 배치되는 축방향 철근량은 전체 단면적의 0.01배 이상, 0.08배 이하로 하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 117,
+        "title": "4.3.3 구조용 강재 심부 주위를 나선철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6)나선철근의 내측에 배치되는 축방향 철근량은 <img src=\"data:image/gif;base64,R0lGODlhGQARAPQAAAAAAAAAOgA6kABmtjoAADo6kGYAOmZmOmaQ22a225A6AJA6ZpA6kJDb25Db/7ZmZraQZra227bb/7b//9uQOtuQZtuQkNu2ttv/ttv///+2Zv+2kP//tv//2////wAAACH5BAAAAB4ALAAAAAAZABEAAAVToCeOZGmeaKqSwOp67YsCtHzGsc2KuQ6PPR1t6OPtfMHgKznSEAYiTQFjcABrPKLnIdk4OJFNwte5SEYVq83i6CwmkAYjE7F1FAGEhxI4CDJFKiEAOw==\" alt=\"\" width=\"23px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_sx\">와 <img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAAAOgA6kABmtjoAADo6kGYAOmZmOmaQ22a225A6AJA6ZpA6kJDb25Db/7ZmZraQZra227bb/7b//9uQOtuQZtuQkNu2ttv/ttv///+2Zv+2kP//tv//2////wAAACH5BAAAAB4ALAAAAAATABEAAAVJoCeOZGme6AmsQKq6aAuX8kzWtojbO5/fP91IQxiINAWMwTFiyR6SjYMT2SRgnYtkVGGmLI7OYgJpMDKRVEcRQHgogYMgEzSFAAA7\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"I_sx\">의 계산에 포함시킬 수 있다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 118,
+        "title": "4.3.4 구조용 강재 심부 주위를 띠철근으로 보강한 합성부재",
+        "level": 3,
+        "label": "4.3.4",
+        "contents": "<p>4.3.4 구조용 강재 심부 주위를 띠철근으로 보강한 합성부재</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 119,
+        "title": "4.3.4 구조용 강재 심부 주위를 띠철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)구조용 강재 심부를 띠철근과 콘크리트로 보강한 합성부재는 다음 (2)에서 (9)까지 규정을 만족하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 120,
+        "title": "4.3.4 구조용 강재 심부 주위를 띠철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)콘크리트의 설계기준압축강도 <img src=\"data:image/gif;base64,R0lGODlhFAARAPUAAAAAAAAAOgAAZgA6kDoAADo6Ojo6ZmYAAGY6AGZmtmaQ22a222a2/5BmAJCQ25Db25Db/7ZmOraQOrbb/7b//9uQOtuQZtu2ttvbkNvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAUABEAAAZUQJBwSCwaj8ikEABQHptNZzEqJVKrS+a1usV2pV+hZKB5Jj0O5HZDCEA4j4iAYi1yDJMKw1JY1Ld6Qh8NBhBWXRaGFxgJHAoZTh0IZBsMHgcMWEhBADs=\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_ck\">는 21MPa 이상이어야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 121,
+        "title": "4.3.4 구조용 강재 심부 주위를 띠철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)심부로 사용된 구조용 강재의 설계기준항복강도는 사용할 구조용 강재의 최소 항복강도이어야 하지만, 450MPa을 초과할 수는 없다. 다만, KDS 14 20 20(4.1.1)의 가정에서 사용된 힘의 평형조건과 변형률의 적합조건에 기초한 상세 해석과 실험을 통해 정당성이 증명될 경우, 항복강도 450MPa을 초과하는 고강도강을 사용할 수 있다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 122,
+        "title": "4.3.4 구조용 강재 심부 주위를 띠철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)횡방향 띠철근은 구조용 강재 심부의 둘레를 완전히 둘러싸야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 123,
+        "title": "4.3.4 구조용 강재 심부 주위를 띠철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5)띠철근의 지름은 합성부재 단면의 가장 긴 변의 1/50배 이상이어야 하지만, D10 철근 이상이고 D16 철근 이하로 하여야 한다. 또한 띠철근 대신 등가단면적을 가진 용접철망을 사용할 수 있다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 124,
+        "title": "4.3.4 구조용 강재 심부 주위를 띠철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6)횡방향 띠철근의 수직간격은 축방향 철근지름의 16배, 띠철근 지름의 48배, 합성부재 단면의 최소 치수의 1/2배 중에서 가장 작은 값 이하로 하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 125,
+        "title": "4.3.4 구조용 강재 심부 주위를 띠철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(7)",
+        "contents": "<p>(7)띠철근 내측에 배치되는 축방향 철근량은 전체 단면적의 0.01배 이상, 0.08배 이하로 하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 126,
+        "title": "4.3.4 구조용 강재 심부 주위를 띠철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(8)",
+        "contents": "<p>(8)축방향 철근은 직사각 단면의 모서리마다 배치하여야 하며, 축방향 철근의 중심 간격은 합성부재 단면의 최소 치수의 1/2 이하가 되도록 하여야 한다.</p>"
+      },
+      {
+        "no": 4011,
+        "sort": 127,
+        "title": "4.3.4 구조용 강재 심부 주위를 띠철근으로 보강한 합성부재",
+        "level": 4,
+        "label": "(9)",
+        "contents": "<p>(9)띠철근 내측에 배치되는 축방향 철근은 강도를 계산할 때 <img src=\"data:image/gif;base64,R0lGODlhGQARAPQAAAAAAAAAOgA6kABmtjoAADo6kGYAOmZmOmaQ22a225A6AJA6ZpA6kJDb25Db/7ZmZraQZra227bb/7b//9uQOtuQZtuQkNu2ttv/ttv///+2Zv+2kP//tv//2////wAAACH5BAAAAB4ALAAAAAAZABEAAAVToCeOZGmeaKqSwOp67YsCtHzGsc2KuQ6PPR1t6OPtfMHgKznSEAYiTQFjcABrPKLnIdk4OJFNwte5SEYVq83i6CwmkAYjE7F1FAGEhxI4CDJFKiEAOw==\" alt=\"\" width=\"23px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A_sx\">에 포함시킬 수 있지만, 장주효과를 고려하기 위해 <img src=\"data:image/gif;base64,R0lGODlhEwARAPQAAAAAAAAAOgA6kABmtjoAADo6kGYAOmZmOmaQ22a225A6AJA6ZpA6kJDb25Db/7ZmZraQZra227bb/7b//9uQOtuQZtuQkNu2ttv/ttv///+2Zv+2kP//tv//2////wAAACH5BAAAAB4ALAAAAAATABEAAAVJoCeOZGme6AmsQKq6aAuX8kzWtojbO5/fP91IQxiINAWMwTFiyR6SjYMT2SRgnYtkVGGmLI7OYgJpMDKRVEcRQHgogYMgEzSFAAA7\" alt=\"\" width=\"17px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"I_sx\">를 계산할 때는 고려할 수 없다.</p>"
+      }
+    ]
+  }
+]
