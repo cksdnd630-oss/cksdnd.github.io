@@ -1,0 +1,1477 @@
+[
+  {
+    "no": 4014,
+    "codeType": "KDS",
+    "code": "142074",
+    "fullCode": "1010142074",
+    "name": "기타 콘크리트구조 설계기준",
+    "version": "2021",
+    "updateDate": "2021-02-18T15:13:00",
+    "list": [
+      {
+        "no": 4014,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1)이 기준은 옹벽, 아치, 골조, 쉘과 절판부재의 설계방법을 제시하고 부재의 안전성을 확보하기 위한 최소한의 요구조건을 규정한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 4,
+        "title": "1.2 적용 범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용 범위</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 5,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1)옹벽구조물의 설계는 이 기준의 규정에 따른다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 6,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2)옹벽과 유사한 거동을 갖는 호안이나 방조제 또는 흙채움을 지지해야 하는 교량의 교대 및 기초벽에 적용할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 7,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3)옹벽구조물의 경우, 지진하중의 영향을 배제한 상시하중(자중, 토압, 수압 및 상재하중 등)들의 조합인 경우에만 이 기준의 규정을 적용할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 8,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(4)",
+        "contents": "<p>(4)아치구조의 설계는 이 기준의 규정을 적용하여야 하며, 휨모멘트와 축력을 받는 부재 또는 순수 압축력만을 받는 부재의 설계는 해당하는 기준의 규정도 따라야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 9,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(5)",
+        "contents": "<p>(5)기둥, 보, 슬래브, 벽 등의 구조가 강결된 구조물의 접합부 설계는 이 기준의 규정을 적용하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 10,
+        "title": "1.2 적용 범위",
+        "level": 3,
+        "label": "(6)",
+        "contents": "<p>(6)이 기준의 쉘과 절판부재의 설계는 리브와 테두리보를 포함하는 얇은 콘크리트 쉘과 콘크리트 절판 구조물에 적용하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 11,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 12,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 01 콘크리트구조 설계(강도설계법) 일반사항</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 13,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 10 콘크리트구조 해석과 설계 원칙</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 14,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 20 콘크리트구조 휨 및 압축 설계기준 </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 15,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 22 콘크리트구조 전단 및 비틀림 설계기준 </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 16,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 24 콘크리트구조 스트럿-타이모델 기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 17,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 26 콘크리트구조 피로 설계기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 18,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 30 콘크리트구조 사용성 설계기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 19,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 40 콘크리트구조 내구성 설계기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 20,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 50 콘크리트구조 철근상세 설계기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 21,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 52 콘크리트구조 정착 및 이음 설계기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 22,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 54 콘크리트용 앵커 설계기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 23,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 60 프리스트레스트 콘크리트구조 설계기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 24,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 62 프리캐스트 콘크리트구조 설계기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 25,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 64 구조용 무근콘크리트 설계기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 26,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 66 합성콘크리트 설계기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 27,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 70 콘크리트 슬래브와 기초판 설계기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 28,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 72 콘크리트 벽체 설계기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 29,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 80 콘크리트 내진설계구조 설계기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 30,
+        "title": "1.3 참고 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·KDS 14 20 90 기존 콘크리트구조물의 안전성 평가기준</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 31,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 32,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 20 01(1.4)에 따른다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 33,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 34,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEAARAPUAAAAAAAAAOgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmtjqQ22YAOmZmtma2/5A6AJBmOpCQZpC2kJDb/7ZmOraQkLbb/7b//9uQOtuQZtu2Ztu2ttv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAQABEAAAZVQJFwSCwaj8ikcslsIjOGQWSixBAsHsQlCWJQQQ1lh8ARdRbVgpBCTXbUGq1IYxA4iiFIQKIQeRIcGW1GGHeFIhVleA8AAA6CHw0bikgeBxMYaE5FQQA7\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"q  _{a}`\"> : 지반의 허용지지력</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 35,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhHAARAPUAAAAAAAAAOgAAZgA6kDoAADpmkDpmtjqQtjqQ22YAAGY6AGZmZmZmtmaQkGaQ22a222a2/5A6AJBmOpBmkJCQkJCQtpC2/5DbtpDb/7ZmALZmZra227bbkLbb/9uQOtuQZtu2Ztu2kNu2ttvb/9v///+2Zv+2kP/bkP/btv/b2///2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAAcABEAAAZ5wJVwSCwaj8ikcslsOp/QqBRABUiLVmH2qh1ur9sv2MslVq2hgiTQUAg6qxJhQPIAEHaIMauadE4MJCYYgCsaGCsfGCkjR3wVKycOK4MrKBQLiCshG45UKyqQkpSEFiqHKyKCD0oZAAcRARcJAhxzIAYZARiuCGVJQQA7\" alt=\"\" width=\"26px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"q  _{max}\"> : 최대 지지반력</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 36,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDwARAPQAAAAAAAAAOgBmtmZmOmZmtma2/5A6AJA6ZpBmtraQkLbbtrbb/9u2ttvbttv///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAAPABEAAAU3oCSOZGmeaKqubCsCMKDK7zzSJ47n9xrLEUMhknCYaIzGAkLgiYqPwhEmiSAiB8UiFQwMBC5SCAA7\" alt=\"\" width=\"13px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"q  _{u}\"> : 지반의 극한지지력</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 37,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAA6kABmtjoAZjo6ZjqQ22YAZmY6OmZmkGa2/5CQkJDb/7ZmALb//9uQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAALAA4AAAUtICWOZGmSkaGcYhOwlFQw8ELAD+CcU6KakYPDVQruIAKaCDJQUhYIGGUnrYpCADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda \"> : 세장비 </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 38,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDwARAPMAAAAAAAAAZma2/5A6AJCQ25C2/7ZmkLb//9u229v///+2Zv/bkP/btv//tv//2////yH5BAAAAA8ALAAAAAAPABEAAAQy8MlJq734AZAn550WSmC4bWNpjiLFEJf6KEI8OcNWU/JjJLzWpAHj9RYFBLCjCBxYlQgAOw==\" alt=\"\" width=\"13px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_t\"> : 계수하중에 의한 접합부에 유발된 콘크리트의 인장응력, MPa</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 39,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEQARAPQAAAAAAAAAOgA6kDoAADo6ZmY6AGa2/5Db/7bb/9uQOtuQZtu2ttv///+2Zv/bkP/btv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAARABEAAAU7ICSOZGme6Ais7JpCABm/s1ifdXyb+Wu3vl5QBaPJjEdIYxA4/FouiIOASBh8ECt2pHAuGNhHQQDelkIAOw==\" alt=\"\" width=\"15px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"E  _{c}\"> : 콘크리트의 탄성계수</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 40,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhFAARAPUAAAAAAAAAOgAAZgA6kDoAADo6Ojo6ZmYAAGY6AGZmtmaQ22a222a2/5BmAJCQ25Db25Db/7ZmOraQOrbb/7b//9uQOtuQZtu2ttvbkNvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAUABEAAAZUQJBwSCwaj8ikEABQHptNZzEqJVKrS+a1usV2pV+hZKB5Jj0O5HZDCEA4j4iAYi1yDJMKw1JY1Ld6Qh8NBhBWXRaGFxgJHAoZTh0IZBsMHgcMWEhBADs=\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f  _{ck}\"> : 콘크리트의 설계기준압축강도, MPa</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 41,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6kGYAAGZmtma2/5A6AJA6ZpBmtpCQkJC2/5Db/7aQkLbb/7b//9uQZtu2kNu2ttvbttv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAQABEAAAU/4CWOZGme6AgAKcmyrQjH1xyvK13rMm/fvN2oIiBYEBJXCRJhUAYqIWkhmRBUv4vlYDE0YpYCIJBsORSPxCgEADs=\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f  _{y}\"> : 철근의 설계기준항복강도, MPa</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 42,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhCwAOAPUAAAAAOgA6kABmtjoAADo6kDpmtjqQtjqQ22YAAGYAZmZmtma2/5A6OpA6ZpCQZpC2/5Db/7ZmZra227bb/7b//9uQOtu2Ztu2kNvb29vb/9v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAALAA4AAAZBwI9wSCRiMkWihaBJCjcCp7CykHoajgHgUewgDBpocRNobg7FCvoTgRA9DHdH8ZEMOwnK53yZDDkFQhwDVVKGTkEAOw==\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h\"> : 부재의 두께, mm</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 43,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhDAARAPQAACgoKChTU1MoKFNTnXl5vnmdvnmd33m+/515eZ3f/76dnb7f/77//9+dU9+ded++vt/f39////++ef++nf/fnf/fvv//vv//3////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABgALAAAAAAMABEAAAU5ICaOZGmWAHCS6iq2Kxy7L43JIjTi2IUwNZmFsINJBAHDiTJYTBKnxgGjAJociUrhETFRBAepbRQCADs=\" alt=\"\" width=\"10px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#282828\" data-formula-linemode=\"0\" data-script=\"l  _{d}\"> : 정착길이, mm</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 44,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAA6kABmtjoAZjo6ZjqQ22YAZmY6OmZmkGa2/5CQkJDb/7ZmALb//9uQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAALAA4AAAUtICWOZGmSkaGcYhOwlFQw8ELAD+CcU6KakYPDVQruIAKaCDJQUhYIGGUnrYpCADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda\"> : 경량콘크리트계수(KDS 14 20 10(4.4) 참조)</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 45,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>·<img src=\"data:image/gif;base64,R0lGODlhCwAOAPUAAABmtjo6kDpmtmY6ZmY6kGZmtmaQkGaQ25A6ZpCQZpCQkJCQtpDb/7ZmOraQkLaQtra2tra227a2/7bbtrbb/7b//9uQZtu2ttvb/9v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAALAA4AAAZCwJBwSCwaj5vKUXjJLEGRI8iRMCycQ04hk/wQsJ+BEhICIZQhDaAc5QSwHEGoQwk1GETL4TJR1I0PSyEfEoIeGEZBADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"phi\"> : 강도감소계수</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 46,
+        "title": "2. 조사 및 계획",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 조사 및 계획</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 47,
+        "title": "2. 조사 및 계획",
+        "level": 2,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 48,
+        "title": "3. 재료",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 재료</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 49,
+        "title": "3. 재료",
+        "level": 2,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 14 20 01(3)에 따른다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 50,
+        "title": "4. 설계",
+        "level": 1,
+        "label": "4.",
+        "contents": "<p>4. 설계</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 51,
+        "title": "4.1 옹벽설계",
+        "level": 2,
+        "label": "4.1",
+        "contents": "<p>4.1 옹벽설계</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 52,
+        "title": "4.1.1 설계일반",
+        "level": 3,
+        "label": "4.1.1",
+        "contents": "<p>4.1.1 설계일반</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 53,
+        "title": "4.1.1.1 일반사항",
+        "level": 4,
+        "label": "4.1.1.1",
+        "contents": "<p>4.1.1.1 일반사항</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 54,
+        "title": "4.1.1.1 일반사항",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1)옹벽은 상재하중, 뒤채움 흙의 중량, 옹벽의 자중 및 옹벽에 작용되는 토압, 필요에 따라서는 수압에 견디도록 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 55,
+        "title": "4.1.1.1 일반사항",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2)무근콘크리트 옹벽은 자중에 의하여 저항력을 발휘하는 중력식 형태로 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 56,
+        "title": "4.1.1.1 일반사항",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3)토압의 계산은 토질역학의 원리에 의거하여 필요한 지반특성계수를 측정하여 정하여야 한다.&nbsp; </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 57,
+        "title": "4.1.1.1 일반사항",
+        "level": 5,
+        "label": "(4)",
+        "contents": "<p>(4)저판의 설계는&nbsp; KDS 14 20 70(4.2)의 규정에 따라야 한다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 58,
+        "title": "4.1.1.2 안정조건",
+        "level": 4,
+        "label": "4.1.1.2",
+        "contents": "<p>4.1.1.2 안정조건</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 59,
+        "title": "4.1.1.2 안정조건",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1)활동에 대한 저항력은 옹벽에 작용하는 수평력의 1.5배 이상이어야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 60,
+        "title": "4.1.1.2 안정조건",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2)전도 및 지반지지력에 대한 안정조건은 만족하지만, 활동에 대한 안정조건만을 만족하지 못할 경우에는 활동방지벽 혹은 횡방향 앵커 등을 설치하여 활동저항력을 증대시킬 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 61,
+        "title": "4.1.1.2 안정조건",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3)전도에 대한 저항휨모멘트는 횡토압에 의한 전도모멘트의 2.0배 이상이어야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 62,
+        "title": "4.1.1.2 안정조건",
+        "level": 5,
+        "label": "(4)",
+        "contents": "<p>(4)지반에 유발되는 최대 지반반력은 지반의 허용지지력을 초과할 수 없다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 63,
+        "title": "4.1.1.2 안정조건",
+        "level": 5,
+        "label": "(5)",
+        "contents": "<p>(5)지반의 침하에 대한 안정성 검토는 다음의 두 가지 중 하나로 검토할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 64,
+        "title": "4.1.1.2 안정조건",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>① 지반반력의 분포경사가 비교적 작은 경우에는 최대 지반반력 <img src=\"data:image/gif;base64,R0lGODlhHAARAPUAAAAAAAAAOgAAZgA6kDoAADpmkDpmtjqQtjqQ22YAAGY6AGZmZmZmtmaQkGaQ22a222a2/5A6AJBmOpBmkJCQkJCQtpC2/5DbtpDb/7ZmALZmZra227bbkLbb/9uQOtuQZtu2Ztu2kNu2ttvb/9v///+2Zv+2kP/bkP/btv/b2///2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACsALAAAAAAcABEAAAZ5wJVwSCwaj8ikcslsOp/QqBRABUiLVmH2qh1ur9sv2MslVq2hgiTQUAg6qxJhQPIAEHaIMauadE4MJCYYgCsaGCsfGCkjR3wVKycOK4MrKBQLiCshG45UKyqQkpSEFiqHKyKCD0oZAAcRARcJAhxzIAYZARiuCGVJQQA7\" alt=\"\" width=\"26px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"q_max\">이 지반의 허용지지력 <img src=\"data:image/gif;base64,R0lGODlhDgARAPQAAAAAAAA6OjoAADoAOjo6kDqQ22Zmtma2/5Db/7aQkNuQOtuQZtu2Ztu2ttv////bkP/btv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABEALAAAAAAOABEAAAU2YCSOZGmeaKqubAq8gDvGKB3ZpY3nswrTDEHgYKI9CI4FoihSEBOO3CuihBga0dNjgFAUWqMQADs=\" alt=\"\" width=\"12px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"q_a\">이하가 되도록 하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 65,
+        "title": "4.1.1.2 안정조건",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>② 지반의 지지력은 지반공학적 방법 중 선택하여 적용할 수 있으며, 지반의 내부마찰각, 점착력 등과 같은 특성으로부터 지반의 극한지지력을 추정할 수 있다. 다만, 이 경우에 허용지지력 <img src=\"data:image/gif;base64,R0lGODlhDgARAPQAAAAAAAA6OjoAADoAOjo6kDqQ22Zmtma2/5Db/7aQkNuQOtuQZtu2Ztu2ttv////bkP/btv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABEALAAAAAAOABEAAAU2YCSOZGmeaKqubAq8gDvGKB3ZpY3nswrTDEHgYKI9CI4FoihSEBOO3CuihBga0dNjgFAUWqMQADs=\" alt=\"\" width=\"12px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"q_a\">는 <img src=\"data:image/gif;base64,R0lGODlhHQARAPQAAAAAAAAAOgBmtmZmOmZmtma2/5A6AJA6ZpBmtraQkLbbtrbb/9u2ttvbttv///+2Zv/bkP//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAAdABEAAAVUoCSOZDkCZqqm6OqqrQTMrxvfNXzuuRmTP9GMpisRgTxWMRlM+pDCVRDHlBqdsqEkYihEEg4Z63iVMBoLCCHaS4IfBXZbG0FEDopFW8UNDAR7gTkhADs=\" alt=\"\" width=\"27px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"q_u /3\">이어야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 66,
+        "title": "4.1.2 구조해석",
+        "level": 3,
+        "label": "4.1.2",
+        "contents": "<p>4.1.2 구조해석</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 67,
+        "title": "4.1.2.1 저판",
+        "level": 4,
+        "label": "4.1.2.1",
+        "contents": "<p>4.1.2.1 저판</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 68,
+        "title": "4.1.2.1 저판",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1)저판의 뒷굽판은 정확한 방법이 사용되지 않는 한, 뒷굽판 상부에 재하되는 모든 하중을 지지하도록 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 69,
+        "title": "4.1.2.1 저판",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2)캔틸레버식 옹벽의 저판은 전면벽과의 접합부를 고정단으로 간주한 캔틸레버로 가정하여 단면을 설계할 수 있다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 70,
+        "title": "4.1.2.1 저판",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3)부벽식 옹벽의 저판은 정밀한 해석이 사용되지 않는 한, 부벽 사이의 거리를 경간으로 가정한 고정보 또는 연속보로 설계할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 71,
+        "title": "4.1.2.2 전면벽",
+        "level": 4,
+        "label": "4.1.2.2",
+        "contents": "<p>4.1.2.2 전면벽</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 72,
+        "title": "4.1.2.2 전면벽",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1)캔틸레버식 옹벽의 전면벽은 저판에 지지된 캔틸레버로 설계할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 73,
+        "title": "4.1.2.2 전면벽",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2)부벽식 옹벽의 전면벽은 3변 지지된 2방향 슬래브로 설계할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 74,
+        "title": "4.1.2.2 전면벽",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3)전면벽의 두께는 KDS 14 20 72(4.3.2(3))  내력벽체의 최소 두께 규정에 따라야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 75,
+        "title": "4.1.2.2 전면벽",
+        "level": 5,
+        "label": "(4)",
+        "contents": "<p>(4)전면벽의 하부는 벽체로서 또는 캔틸레버로서도 작용하므로 연직방향으로 KDS 14 20 22(4.8.3) , KDS 14 20 50(4.6.2) ,  KDS 14 20 72(4.2)에 따라 보강철근을 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 76,
+        "title": "4.1.2.3 뒷부벽 및 앞부벽",
+        "level": 4,
+        "label": "4.1.2.3",
+        "contents": "<p>4.1.2.3 뒷부벽 및 앞부벽</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 77,
+        "title": "4.1.2.3 뒷부벽 및 앞부벽",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 뒷부벽은 T형보로 설계하여야 하며, 앞부벽은 직사각형보로 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 78,
+        "title": "4.1.3 구조 상세",
+        "level": 3,
+        "label": "4.1.3",
+        "contents": "<p>4.1.3 구조 상세</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 79,
+        "title": "4.1.3 구조 상세",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)부벽식 옹벽은 전면벽과 저판에 의해서 부벽에 전달되는 응력을 저항할 수 있도록 필요한 철근을 부벽에 KDS 14 20 52(4.1)의 규정에 따라 정착시켜야 한다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 80,
+        "title": "4.1.3 구조 상세",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)활동에 대한 효과적인 저항을 위하여 저판의 밑면에 활동방지벽을 설치하는 경우 활동방지벽과 저판을 일체로 만들어야 한다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 81,
+        "title": "4.1.3 구조 상세",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)옹벽을 설계할 때, 콘크리트의 수화열, 온도변화, 건조수축 등 부피변화에 대한 별도의 구조해석이 없는 경우 신축이음을 설치할 수 있으며, 부피변화에 대한 구조해석을 수행한 경우는 신축이음을 두지 않고 수평철근을 연속으로 배치할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 82,
+        "title": "4.2 아치설계",
+        "level": 2,
+        "label": "4.2",
+        "contents": "<p>4.2 아치설계</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 83,
+        "title": "4.2.1 설계일반",
+        "level": 3,
+        "label": "4.2.1",
+        "contents": "<p>4.2.1 설계일반</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 84,
+        "title": "4.2.1 설계일반",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)아치의 축선이 고정하중에 의한 압축력선이나 또는 고정하중과 등분포 활하중의 1/2이 재하된 상태에 대한 압축력선과 일치하도록 설계하여야 한다. 그렇지 않은 경우는 구조해석을 통하여 안전성을 검토하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 85,
+        "title": "4.2.1 설계일반",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)아치의 축선은 곡선으로 되어 있기 때문에 경간이 긴 아치의 경우, 휨좌굴, 휨 및 비틀림을 동시에 받아 일어나는 좌굴에 대한 안전성 검토를 수행하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 86,
+        "title": "4.2.1 설계일반",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)아치 리브의 단면 형상은 경간에 대한 높이의 비, 아치 축선, 재료의 강도, 시공 방법 등을 고려하여 선정하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 87,
+        "title": "4.2.1 설계일반",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)아치 리브의 기초는 아치 리브 단부에 발생하는 반력에 충분히 저항할 수 있도록 단단한 지반에 놓여야 한다. 기초 지반이 연약한 경우에는 단단하게 개량하거나 반력에 저항하기 위한 별도의 대책을 수립하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 88,
+        "title": "4.2.2 구조 해석",
+        "level": 3,
+        "label": "4.2.2",
+        "contents": "<p>4.2.2 구조 해석</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 89,
+        "title": "4.2.2.1 일반 사항",
+        "level": 4,
+        "label": "4.2.2.1",
+        "contents": "<p>4.2.2.1 일반 사항</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 90,
+        "title": "4.2.2.1 일반 사항",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1)아치의 축선은 아치 리브의 단면 도심을 연결하는 선으로 할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 91,
+        "title": "4.2.2.1 일반 사항",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2)단면력을 산정할 때에는 콘크리트의 수축과 온도변화의 영향을 고려하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 92,
+        "title": "4.2.2.1 일반 사항",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3)부정정력을 계산할 때에는 아치 리브 단면변화를 고려하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 93,
+        "title": "4.2.2.1 일반 사항",
+        "level": 5,
+        "label": "(4)",
+        "contents": "<p>(4)기초의 침하가 예상되는 경우에는 그 영향을 고려하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 94,
+        "title": "4.2.2.1 일반 사항",
+        "level": 5,
+        "label": "(5)",
+        "contents": "<p>(5)아치 리브에 발생하는 단면력은 축선 이동의 영향을 받지만, 일반적인 경우 그 영향이 작아서 무시할 수 있으므로 미소변형이론에 기초하여 단면력을 계산할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 95,
+        "title": "4.2.2.1 일반 사항",
+        "level": 5,
+        "label": "(6)",
+        "contents": "<p>(6)식 (4.2-1)에 표시된 아치 리브의 세장비가 35를 초과하는 경우에는 유한변형이론 등에 의해 아치 축선 이동의 영향을 고려하여 단면력을 계산하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 96,
+        "title": "4.2.2.1 일반 사항",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p><span><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><img src=\"data:image/gif;base64,R0lGODlhggAmAPYAAAAAAAAAOgAAZgA6kABmtjoAADoAOjoAZjo6ADo6Zjo6kDpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6kGZmOmZmZmZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJCQOpCQkJCQtpCQ25C2kJC2tpC2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2tra227a2/7bbtrbb27bb/7b/trb/27b//9uQOtuQZtuQkNu2Ztu2ttu229vbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEwALAAAAACCACYAAAf+gEyCg4SFhoeIiYZKDgCOj5CRkpOUlZaXkwI4ipydnodJQ5+jpKWmp6iJO5upra6vsJ0uorG1trekShecShi4iioAC7/EiUcZikscBMWGOQtDKijN1IJEG4o7IczVTEcKojnY3cU604hFKDnc1SrYyuPkvyusiyRMOQO0nkvB+oLKAASIR6RAgBInmDB6FOCcvFtLQOwrBENQvomDjjgEYrEBvn8qNDBBImHakg7TeAwj8o+IJkMaB3F8WErJvUM5IP1T5lHQC1pHhimZIGpJDG/grPVMJygUkZ4pPPIc9FNQUJqljsQjdOQmkxT/mDBVeHPJj11XuQ6zupbJkh7+MUQ99Wbg3FibAM9iJWXOEJJdgy4K2kGrCCsYuhQS5ZqUydwlMgbRI7Jg6uDChxPv/USvUApH2BYC0LdkBMAXgowM0RzVLWomIUeWFBSbJAplAZABNO069WrAmzlFxMjpSEJv5z47YrbkgzBaAQcOKmIiQm5Exq0mf8QOkW1UOgD0rAn8U5EZNZhUHaTZ1vn06wW1V7QulbhTx0pdVHJcfqPusOzXn0L/daIEBPWQsoQHCY5yDSpGNEhNhKm0xlUBmdQzHymrBPcQS8R1MtcpLITo4S9LiDBbRhhK8hJtDnEyllu8+YfJjTjmiOOLflkwRH0KMigIEl4ZAk9Gup3e2AwSPnpzgISKBKVEZA9ih8B4VSpJzBEJ1JPCViI2YMQNHICmxAMUABCPCy2w05eW8piIXQE9lchEDzyMNwiIgnRGTU6OhAVnLl75ydWTbknUjUtQDtqJcT4MMdwiD0yzYTEWOloKo94kSciRWnVzZoya2tLajM0IViou9RlajGWr3sKSEIpSc0RdseJyxAE2lFcMkLnacmYJnhJz5JlpDuAcA8GiokwFYEJUpiMN4EnAEClooESNzZaSQkM00TPclN2eoio5w+W3Aw1BlLspgNXk92AK8LpbXLH2khIIADs=\" alt=\"\" width=\"128px\" height=\"37px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda =l_tr sqrt {{A  _{l/4} cos theta   _{l/4}} over {I  _{m}}}\"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(4.2-1)</span></p>"
+      },
+      {
+        "no": 4014,
+        "sort": 97,
+        "title": "4.2.2.1 일반 사항",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCQANAPQAADo6kDqQ22YAZmY6OmY6kGZmtmaQ22a2/5A6OpC2/5Db/7ZmOrb//9u229v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAJAA0AAAUm4CSOpNg4pQgBaCkhSjo9gRwRLQkNsZ7QOsMkImCoCqPFQcZskkIAOw==\" alt=\"\" width=\"8px\" height=\"12px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"900\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda \"> : 세장비</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 98,
+        "title": "4.2.2.1 일반 사항",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDQAPAPUAAAAAAAAAZgBmtjoAADoAOjo6OjqQ22ZmkGaQ22a225A6AJBmtpCQtpCQ25C2/5Db/7ZmALZmZraQkLa227bb27b//9uQOtuQZtu2ttvbttvb/9v///+2Zv+2tv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAANAA8AAAZHQJFwSCwaj5BA5TgEHTZMoQcRFV4eVVFkGQ0tslMMtAMtchIToWTjKQwMQg7hEVIABJntEdQQgRhMHRQaHg5MFgIiH2VZQ0EAOw==\" alt=\"\" width=\"12px\" height=\"14px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"900\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"l  _{tr}\">&nbsp;: 환산부재 길이, <img src=\"data:image/gif;base64,R0lGODlhJQAPAPUAAAAAAAAAZgBmtjoAADoAOjo6Ojo6kDqQ22YAZmY6OmY6kGZmkGaQ22a222a2/5A6AJBmOpBmkJBmtpCQtpCQ25C2kJC2/5Db/7ZmALZmOrZmZraQOraQkLa227bb27b//9uQOtuQZtu2ttvbttvb/9v/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC4ALAAAAAAlAA8AAAaZQJdwSCwaj8ikcomqJBxGTOCzrLpEJqGUKmQtslbl6dD9DlOM8JKFoKKJocvyBKjbAQKiarIhx4kaXGpGLREmKQYmgUMtEoNIJ1AsCiWOZwxYLihgRXR3dXlCIFApB2iZLicNHUIchwUDZGFjLRkXqqxCJwQXLQ94I4tqLRAAZLtyRiwULiwTj2ooHiQpFtBhIHkrnNfd3i5BADs=\" alt=\"\" width=\"37px\" height=\"14px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"900\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"l_tr =  delta l\">(mm)</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 99,
+        "title": "4.2.2.1 일반 사항",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhFQAPAPQAAAAAAAA6kDoAZjqQ22a2/5A6AJBmOpBmkLZmALZmZraQkLa227a2/7bb27bb/7b//9uQOtuQkNu2Ztu2ttvbttvb29v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAVAA8AAAVgYCeOZGmeaEpeg4pqRuuW3ALJ8zhZdz5qjk6PtGGgOAWAspURPDqTZyciFVFFCJnCUhNpDlUJYZTtdIHmxRUJCHCTgEERaqFfVZhHt4NQulUTDRRBIwlVKFkVK211PiYhADs=\" alt=\"\" width=\"20px\" height=\"14px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"900\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"A  _{l/4}\">&nbsp;: 경간 <img src=\"data:image/gif;base64,R0lGODlhEgANAPUAAAAAAAAAZgBmtjoAOjqQ22ZmkGaQ22a225BmtpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLa2tra227a2/7bb/7b//9uQOtuQZtuQkNu2Ztu2ttv///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAASAA0AAAZgQJJwOAxViMgkKWNRCh2BpnCUIIoW1gJnCGIQHwQiyECMSEkfTXiIaQxFiuGI0lkLIWePWygh1eUIZVtoTX9CYxtbcEMOAI4AAkIdBxNCekkXdh0DblRJjZBJXU6kpUJBADs=\" alt=\"\" width=\"17px\" height=\"12px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"900\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"l/4\"> 위치에서 아치 리브의 단면적(mm2)</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 100,
+        "title": "4.2.2.1 일반 사항",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhEgAPAPUAAAAAAAAAOgA6ZgA6kDoAZjo6ZjqQ22Y6AGY6OmY6ZmY6kGa2/5BmkJDb/7ZmALZmZraQkLa227a2/7bb27bb/7b//9uQOtuQkNu2ttvbttvb29v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAASAA8AAAZrQJFwSCwaj8ih5yCoJIkgRIOzeA4tVY7BKgIlnFguB0AONKASo2ULUmw8BCfGKbrQw2shZBOKCD8MdFQeBU59Ih8UIn12QiBMil1pGBsilI1HHRWHIg5kA5VGGBMZkUIPdEYOBhpEY6BcRkEAOw==\" alt=\"\" width=\"17px\" height=\"14px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"900\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"theta   _{l/4}\">&nbsp;: 경간 <img src=\"data:image/gif;base64,R0lGODlhEgANAPUAAAAAAAAAZgBmtjoAOjqQ22ZmkGaQ22a225BmtpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLa2tra227a2/7bb/7b//9uQOtuQZtuQkNu2Ztu2ttv///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAASAA0AAAZgQJJwOAxViMgkKWNRCh2BpnCUIIoW1gJnCGIQHwQiyECMSEkfTXiIaQxFiuGI0lkLIWePWygh1eUIZVtoTX9CYxtbcEMOAI4AAkIdBxNCekkXdh0DblRJjZBJXU6kpUJBADs=\" alt=\"\" width=\"17px\" height=\"12px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"900\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"l/4\"> 위치에서 아치 축선의 경사각</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 101,
+        "title": "4.2.2.1 일반 사항",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhDQAPAPQAAAAAAAAAOgA6ZgA6kDoAADo6Zjo6kDqQ22Y6AGa225A6AJA6OpCQtpCQ25Db/7ZmOraQkLa2trzbttuQOtu2ttvb29v///+2kP/bkP//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAANAA8AAAVAoCaOZGmeGkYAwIGmhvVqk/tmizNj8VzPON2LZ8EUEAJEQJdRsAaSh2OSuAhJGYYGYqHISphGVhOpmKzh4IwUAgA7\" alt=\"\" width=\"12px\" height=\"14px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"900\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"I  _{m}\">&nbsp;: 아치 리브의 평균 단면2차모멘트(mm4)</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 102,
+        "title": "4.2.2.1 일반 사항",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBwANAPQAAAAAADo6kDqQ22YAZmY6OmY6kGa2/5BmOpBmkJCQtpC2kJDb/7ZmOraQOrb//9uQOtu2ttv///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABgALAAAAAAHAA0AAAUsICaO5KQQxghFJCYJrTU4Y5U0MHYhERWwkpSlwHqkKLnXhbEQXQ6AXGs6CgEAOw==\" alt=\"\" width=\"6px\" height=\"12px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"900\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"delta \">&nbsp;: 표 4.2-1에서 구하는 계수</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 103,
+        "title": "4.2.2.1 일반 사항",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p><img src=\"data:image/gif;base64,R0lGODlhBgANAPQAAAAAZjoAOmZmkGaQ22a225BmtpDb/7ZmALZmZra227b//9uQZtu2ttv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAAGAA0AAAUgoCSOJHkAyggJzfgM5GKQSCpGBfkyreQQiZEjMCsZRSEAOw==\" alt=\"\" width=\"5px\" height=\"12px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"900\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"l\">&nbsp;: 기초의 고정도를 고려한 경간(mm)</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 104,
+        "title": "4.2.2.1 일반 사항",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>① 2힌지 또는 3힌지 아치의 경우는 아치 경간</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 105,
+        "title": "4.2.2.1 일반 사항",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>② 고정아치의 경우는 아치 경간<img src=\"data:image/gif;base64,R0lGODlhDgAOAPIAAAAAAAAAOjoAAJCQtpDb///bkP//2////yH5BAAAAAcALAAAAAAOAA4AAAMceLrc/s0MyCRd9p7sigBgCATEw1EnlJqT5r5uAgA7\" alt=\"\" width=\"12px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"+\">2<img src=\"data:image/gif;base64,R0lGODlhDgAOAPQAAJBmkJCQkJCQtpCQ25C225Db/7ZmZraQkLbb/7b//9uQkNu2kNu2ttvb29v////bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAOAA4AAAUy4CSOZGmeKMo45kpKBzJKhmwuxBQBLPoEg5RoIRD0TorCBHacARKkZAnSFDWqwqzWFAIAOw==\" alt=\"\" width=\"12px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"TIMES\">최하단 아치 리브 깊이<img src=\"data:image/gif;base64,R0lGODlhDgAOAPQAAJBmkJCQkJCQtpCQ25C225Db/7ZmZraQkLbb/7b//9uQkNu2kNu2ttvb29v////bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAOAA4AAAUy4CSOZGmeKMo45kpKBzJKhmwuxBQBLPoEg5RoIRD0TorCBHacARKkZAnSFDWqwqzWFAIAOw==\" alt=\"\" width=\"12px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"TIMES\"><img src=\"data:image/gif;base64,R0lGODlhIAAOAPUAAAAAAAAAOgAAZgA6kDoAADoAOjo6kDpmtjqQ22YAAGY6AGY6OmY6kGaQ22a222a2/5A6AJA6OpBmOpC2kJC2tpC2/5Db/7ZmALZmOrZmZraQtra227a2/7b//9uQOtu2Ztu2ttv///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACkALAAAAAAgAA4AAAafwJRwSCwaj8ikcslkYgCHpjTlOYQwlumSZAhRH1olBoyCgIeo58CbKgMC55SIEJhUUqcEYB/IDj0IVGspGA4pJQtZKBFZH1EigyICHUMnDF4oGylcbCKBKSN+JiGeQhefQiRRRKpDrUIoIBtepSQFfkKWbKldQqUoHEMZHSIHZahDp20aQoWHic2GiBZlAQ1HKBJQbG5wQyMUCtZh5EdBADs=\" alt=\"\" width=\"30px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"cos theta \"> (<img src=\"data:image/gif;base64,R0lGODlhCgAOAPQAAAAAAAAAOgAAZgA6kDoAOjo6kDpmtjqQ22YAAGaQ22a2/5A6AJDb/7ZmALZmOrb//9uQOtv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABYALAAAAAAKAA4AAAU4oCWOZGmODmCYkBE5DDkVkQUppINXCy5SCIAwEBNJBjWJ4DGSHESNZ/M5IRSNBp50xAskTuCwJQQAOw==\" alt=\"\" width=\"8px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"theta \">는 받침부에서 아치 축선의 경사각)</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 106,
+        "title": "4.2.2.1 일반 사항",
+        "level": 7,
+        "label": "표 4.2-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p><span>표 4.2-1 계수 <img src=\"data:image/gif;base64,R0lGODlhCAANAPQAAAAAAAAAOgAAZgA6kDoAADo6ADo6kDqQtjqQ22YAAGY6OmZmOmZmkGa2/5BmOpBmZpCQZpCQkJDb/7ZmALb//9uQOtu2kNvbkNv///+2Zv+2tv/bkP/btv//tv//2////yH5BAAAAB8ALAAAAAAIAA0AAAU04CeO5KdBRdCMVoSVGYCUXSJQI7cQsug9jAth8Io1OgrDqwJobAizT+wwCUh8DkCvxOWGAAA7\" alt=\"\" width=\"7px\" height=\"12px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"900\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"bold delta \"></span></p></caption><tbody><tr>\t<td valign=\"middle\" align=\"center\">\t<p><span><img src=\"data:image/gif;base64,R0lGODlhFgANAPUAAAAAAAAAOgAAZgBmtjoAADoAOjo6Ojo6Zjo6kDqQ22Y6OmZmOmZmZmZmkGZmtmaQtma222a2/5A6AJA6OpBmZpCQZpCQkJCQtpCQ25Db/7ZmALZmOrZmZraQkLa2trbb27bb/7b//9uQOtuQZtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAAWAA0AAAaDQJVwSByeKKCicqkaMULMkwQQUaYsF6EGIIAON4aM0kSoqlCMBmmIUiDWxY7FS04QyYC8XYiyYIYiAWJDJVwVBAOEBYMqHE9EWxFkZipycCkUDkQpEwchIwsPH2cMf0JkAh5wZAOYChZJJQeMhQEQhAAJKVN2V1mEBIJMQyYKlMPIyEEAOw==\" alt=\"\" width=\"21px\" height=\"12px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"900\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"bold {h/l\"></span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.1</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.15</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.2</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.25</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.3</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.35</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.4</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.45</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.5</span></p>\t</td></tr><tr>\t<td valign=\"middle\" align=\"center\">\t<p><span>고정</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.360</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.375</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.396</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.422</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.453</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.495</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.544</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.596</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.648</span></p>\t</td></tr><tr>\t<td valign=\"middle\" align=\"center\">\t<p><span>1힌지</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.484</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.498</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.514</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.536</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.562</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.591</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.623</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.662</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.706</span></p>\t</td></tr><tr>\t<td valign=\"middle\" align=\"center\">\t<p><span>2힌지</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.524</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.553</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.594</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.647</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.711</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.781</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.855</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.915</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>1.059</span></p>\t</td></tr><tr>\t<td valign=\"middle\" align=\"center\">\t<p><span>3힌지</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.591</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.610</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.635</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.670</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.711</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.781</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.855</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>0.956</span></p>\t</td>\t<td valign=\"middle\" align=\"center\">\t<p><span>1.059</span></p>\t</td></tr><tr>\t<td colspan=\"10\" valign=\"middle\" align=\"left\"><p><span>주) <img src=\"data:image/gif;base64,R0lGODlhEAAMAPUAAAAAAAA6kDpmkDqQ22ZmOmZmtmaQ22a2/5A6AJBmkJCQtpCQ25Db25Db/7ZmALaQOraQkLa227a2/7bbtrbb/7b//9uQZtuQkNu2Ztvb/9v///+2Zv+2kP+2tv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAQAAwAAAZdwJBwSPxIiEKMQIPsVECIwfBTQIYgzM1hqEV+FkJLY2ghAKRCzvjKFDoG1CE2BFIMQQnNV7gPecB8VRwMGSFqaYRCGwZXExRsQheOYWMPUh8RQxgBbVYdj1ahoiFBADs=\" alt=\"\" width=\"15px\" height=\"11px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"800\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h/l\">는 아치 경간(<img src=\"data:image/gif;base64,R0lGODlhBQAMAPQAAAAAADoAADpmtjqQ22Zmtma2/5BmkJDb/7ZmZrb//9uQOtuQZtvb/9v///+2Zv+2tv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAFAAwAAAUf4CSO0wIMo3KIktGIkJAWI5KIESExkzM8N0gARSpOQgA7\" alt=\"\" width=\"4px\" height=\"11px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"800\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"l\">)에 대한 높이(<img src=\"data:image/gif;base64,R0lGODlhCAAMAPQAAAAAADpmkDqQ22ZmOmZmtmaQ22a2/5BmkJCQ25Db25Db/7ZmALaQOraQkLbbtrbb/9uQZtu2Ztvb/9v///+2Zv+2kP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABgALAAAAAAIAAwAAAUrICaOZBRMJGYRKUYZLTQAArkI63gdk4WMuUpCIqIUMA3HQwRRYBi1lpQUAgA7\" alt=\"\" width=\"7px\" height=\"11px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"800\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"h\">)의 비</span></p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 4014,
+        "sort": 107,
+        "title": "4.2.2.2 좌굴에 대한 검토",
+        "level": 4,
+        "label": "4.2.2.2",
+        "contents": "<p>4.2.2.2 좌굴에 대한 검토</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 108,
+        "title": "4.2.2.2 좌굴에 대한 검토",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1)아치 리브를 설계할 때는 응력 검토뿐만 아니라 면내 및 면외방향의 좌굴에 대한 안정성을 아래 규정에 따라 확인하여야 한다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 109,
+        "title": "4.2.2.2 좌굴에 대한 검토",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>① <img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAA6kABmtjoAZjo6ZjqQ22YAZmY6OmZmkGa2/5CQkJDb/7ZmALb//9uQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAALAA4AAAUtICWOZGmSkaGcYhOwlFQw8ELAD+CcU6KakYPDVQruIAKaCDJQUhYIGGUnrYpCADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda\">≤20인 경우 좌굴 검토는 필요하지 않다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 110,
+        "title": "4.2.2.2 좌굴에 대한 검토",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>② 20＜<img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAA6kABmtjoAZjo6ZjqQ22YAZmY6OmZmkGa2/5CQkJDb/7ZmALb//9uQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAALAA4AAAUtICWOZGmSkaGcYhOwlFQw8ELAD+CcU6KakYPDVQruIAKaCDJQUhYIGGUnrYpCADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda\">≤70인 경우 유한변형에 의한 영향을 편심하중에 의한 휨모멘트로 치환하여 발생하는 휨모멘트에 더하여 단면의 계수휨모멘트에 대한 안정성을 검토하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 111,
+        "title": "4.2.2.2 좌굴에 대한 검토",
+        "level": 6,
+        "label": "③",
+        "contents": "<p>③ 70＜<img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAA6kABmtjoAZjo6ZjqQ22YAZmY6OmZmkGa2/5CQkJDb/7ZmALb//9uQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAALAA4AAAUtICWOZGmSkaGcYhOwlFQw8ELAD+CcU6KakYPDVQruIAKaCDJQUhYIGGUnrYpCADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda\">≤200인 경우 유한변형에 의한 영향에 더하여 철근콘크리트 부재 재료의 비선형성에 의한 영향을 고려하여 좌굴에 대한 안정성을 검토하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 112,
+        "title": "4.2.2.2 좌굴에 대한 검토",
+        "level": 6,
+        "label": "④",
+        "contents": "<p>④ <img src=\"data:image/gif;base64,R0lGODlhMgAOAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAZjo6Zjo6kDqQ22YAOmYAZmY6AGY6OmZmZmZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpBmZpCQkJCQ25C225C2/5Db/7ZmALaQOraQZrbb27bb/7b//9uQOtu2Ztu2kNvbttvb/9v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADAALAAAAAAyAA4AAAbNQJhwSCwaj8ikcslsMluOjhNZMgAGImGrcc3Ctt0jqXA0QUJLViT1+ghGLwsFViKw5XS70cUYIU8YGylIKgFSLgsdLAmDLxeKjDCOUkYeCkovIBBeSIgdKnowHhWgg6IVR6VMJg+cRSSXY0OWskKWRi8ZUZiarkQsGkK1ogrDt0QtECnDRS0YEqZHLRtDqqfWo8jKMCwHfkMvrNRKLRxCK5CNj4vqlNwI36dEJyhMLFYAAG9xE3l3/XWiHRE4RRoXLFoO+irIsKHDh0iCAAA7\" alt=\"\" width=\"48px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda > 200\">인 경우 아치구조물로서 적합하지 않다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 113,
+        "title": "4.2.2.2 좌굴에 대한 검토",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2)아치의 면외좌굴에 대해서는 아치 리브를 직선기둥으로 가정하고, 이 기둥이 아치 리브 단부에 발생하는 수평반력과 같은 축력을 받는다고 가정할 수 있다. 이 경우 기둥의 길이는 원칙적으로 아치 경간과 같다고 가정하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 114,
+        "title": "4.2.3 구조 상세",
+        "level": 3,
+        "label": "4.2.3",
+        "contents": "<p>4.2.3 구조 상세</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 115,
+        "title": "4.2.3 구조 상세",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)철근콘크리트 아치는 아치의 상, 하면을 따라서 가능하면 대칭인 축방향 철근을 배치하여야 한다. 이 축방향 철근은 아치 리브 폭 1m당 600mm<sup>2</sup> 이상, 또 상, 하면의 철근을 합하여 콘크리트 단면적의 0.15% 이상 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 116,
+        "title": "4.2.3 구조 상세",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)아치 리브의 상, 하면에 축방향 철근에 직각인 횡방향 철근을 배치하여야 한다. 이 횡방향 철근은 D13 이상, 또한 축방향 철근지름의 1/3 이상을 사용하되, 그 간격은 축방향 철근지름의 15배 이하, 300mm 이하, 아치 리브 단면의 최소 치수 중 가장 작은 값 이하로 하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 117,
+        "title": "4.2.3 구조 상세",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)폐복식 아치에서는 스프링잉과 측벽의 적당한 위치에 신축이음을 두어야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 118,
+        "title": "4.2.3 구조 상세",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)아치 리브가 박스 단면인 경우에는 연직재가 붙는 곳에 격벽을 설치하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 119,
+        "title": "4.3 골조설계",
+        "level": 2,
+        "label": "4.3",
+        "contents": "<p>4.3 골조설계</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 120,
+        "title": "4.3.1 설계 일반",
+        "level": 3,
+        "label": "4.3.1",
+        "contents": "<p>4.3.1 설계 일반</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 121,
+        "title": "4.3.1.1 일반 사항",
+        "level": 4,
+        "label": "4.3.1.1",
+        "contents": "<p>4.3.1.1 일반 사항</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 122,
+        "title": "4.3.1.1 일반 사항",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1)골조의 축선은 부재 단면의 도심 축선으로 하여야 한다. 그러나 헌치가 큰 부재 또는 단면이 변하는 부재의 경우 축선은 단면변화에 따라 변화하는 것으로 취한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 123,
+        "title": "4.3.1.1 일반 사항",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2)보 또는 기둥의 단면 크기가 경간과 비교하여 상대적으로 매우 큰 경우에는 부재의 휨변형과 전단변형을 모두 고려하여 골조구조로 해석하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 124,
+        "title": "4.3.1.1 일반 사항",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3)골조의 계산에서 헌치의 영향을 고려하는 경우 헌치가 있는 부재를 변단면 부재로 해석하거나 부재 접합부의 헌치부분 강성을 고려하여 해석하여야 한다. 헌치부분 강성을 고려하는 경우에는 아래의 방법으로 구한 강성역을 고려하여 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 125,
+        "title": "4.3.1.1 일반 사항",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>① 등단면의 부재 단부가 다른 부재와 접합될 때는 그 부재단에서 부재 두께의 1/4 안쪽부터 절점까지로 하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 126,
+        "title": "4.3.1.1 일반 사항",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>② 부재가 그 축선에 대해 25° 이상 경사진 헌치를 갖는 경우는 헌치 시점에서 부재 두께의 1.5배 안쪽부터 절점까지로 하여야 한다. 다만, 헌치의 경사가 60° 이상의 경우는 헌치의 시점에서 부재 두께의 1/4 안쪽부터 절점까지로 하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 127,
+        "title": "4.3.1.1 일반 사항",
+        "level": 6,
+        "label": "③",
+        "contents": "<p>③ 부재 양측의 헌치의 크기가 다른 경우 등의 사유로 위의 ①과 ②로 정한 점이 2점 이상 동시에 존재하는 경우 강성역의 범위는 큰 쪽이어야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 128,
+        "title": "4.3.1.1 일반 사항",
+        "level": 5,
+        "label": "(4)",
+        "contents": "<p>(4)크리프와 수축의 영향을 무시하기 어려운 경우에는 그 영향을 고려하여야 한다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 129,
+        "title": "4.3.1.1 일반 사항",
+        "level": 5,
+        "label": "(5)",
+        "contents": "<p>(5)일반적인 시공법에 의하지 않는 경우 시공단계의 영향을 고려하여야 한다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 130,
+        "title": "4.3.1.2 받침부 면에서 단면력의 산정",
+        "level": 4,
+        "label": "4.3.1.2",
+        "contents": "<p>4.3.1.2 받침부 면에서 단면력의 산정</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 131,
+        "title": "4.3.1.2 받침부 면에서 단면력의 산정",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1)부재단의 단면을 산정하기 위한 휨모멘트의 값은 헌치의 영향을 고려할 경우 보에 있어서 기둥 전면의 휨모멘트, 기둥의 경우 보의 상, 하면 위치의 휨모멘트를 사용할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 132,
+        "title": "4.3.1.2 받침부 면에서 단면력의 산정",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2)헌치의 영향을 무시하고 구조해석을 할 경우는 절점 휨모멘트를 기둥 내측 또는 보의 단부까지 이동시켜 구한 값을 사용할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 133,
+        "title": "4.3.1.2 받침부 면에서 단면력의 산정",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3)부재단의 단면 검토에 사용하는 전단력은 기둥의 경우 보의 상, 하면의 전단력을 사용하고, 보에 있어서는 기둥 전면에서 기둥 전면의 단면 높이의 1/2만큼 떨어진 위치의 전단력을 사용한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 134,
+        "title": "4.3.1.3 골조 접합부의 설계",
+        "level": 4,
+        "label": "4.3.1.3",
+        "contents": "<p>4.3.1.3 골조 접합부의 설계</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 135,
+        "title": "4.3.1.3 골조 접합부의 설계",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1)골조 부재의 접합부는 단면력에 의한 응력의 방향이 급변하여 응력의 전달기구가 복잡하기 때문에 접합되는 부재 서로가 단면력을 확실하게 전달시킬 수 있도록 하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 136,
+        "title": "4.3.1.3 골조 접합부의 설계",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2)응력을 검토할 때 헌치의 유효부분은 접합되는 부재에 설치된 헌치 높이의 1/3을 해당 부재의 유효부분으로 간주할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 137,
+        "title": "4.3.1.3 골조 접합부의 설계",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3)기둥의 단면이 원형인 경우, 보 또는 슬래브의 응력을 검토할 단면은 기둥 전면에서 기둥 지름의 0.1배 안으로 들어온 위치로 가정할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 138,
+        "title": "4.3.1.3 골조 접합부의 설계",
+        "level": 5,
+        "label": "(4)",
+        "contents": "<p>(4)접합부의 설계는 다음의 방법을 적용하며, 설계 방법에 상관없이 4.3.1.3 (1)과&nbsp; 4.3.2((2), (3))의 규정에 적합하도록 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 139,
+        "title": "4.3.1.3 골조 접합부의 설계",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>① 스트럿-타이 모델에 의한 해석</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 140,
+        "title": "4.3.1.3 골조 접합부의 설계",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>② 비선형 유한요소 해석</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 141,
+        "title": "4.3.1.3 골조 접합부의 설계",
+        "level": 5,
+        "label": "(5)",
+        "contents": "<p>(5)스트럿-타이 모델에 의한 접합부 설계는 다음을 따라야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 142,
+        "title": "4.3.1.3 골조 접합부의 설계",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>① 부모멘트가 최외측 접합부에 작용하는 경우에 대각선 방향의 단면에 유발되는 계수인장응력 <img src=\"data:image/gif;base64,R0lGODlhDwARAPMAAAAAAAAAZma2/5A6AJCQ25C2/7ZmkLb//9u229v///+2Zv/bkP/btv//tv//2////yH5BAAAAA8ALAAAAAAPABEAAAQy8MlJq734AZAn550WSmC4bWNpjiLFEJf6KEI8OcNWU/JjJLzWpAHj9RYFBLCjCBxYlQgAOw==\" alt=\"\" width=\"13px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f_t\">가<img src=\"data:image/gif;base64,R0lGODlhMgATAPUAAAAAAAAAOgAAZgA6kDoAADo6ZjqQ22YAAGYAOmZmtmaQ22a222a2/5A6AJA6OpBmkJC2/5DbtpDb/7ZmALZmOrZmZraQkLa2tra2/7b//9uQOtuQZtuQkNuckNu2ttv///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAAyABMAAAa+wJNwSByWDoCkcslMCjLFqHRKrECp2KyWWFJss4AvdSMRU8PmounxiSbN6JPSPGK45eK4Xmy9w4d7WyUJfn+FWSBlREt5bnFRJm1Ca5KLaY+WkA12QiNeh1qYmUUeGgOSZKCTDopFmIFRJQhlg1KiQiJXrrtCt0ITBichELZFFAEMFxpPo4tvVCCnfbxDIAYgCxSfzWayEdu9eFVQsuDhaUMTBa29olYkHRIWF+jQp1sgBAwcGRSc9bEwABwYBAA7\" alt=\"\" width=\"49px\" height=\"18px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"sqrt { f_ck}/3\">를 넘을 경우는 보강철근을 배치하여야 한다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 143,
+        "title": "4.3.1.3 골조 접합부의 설계",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>② 접합부에 정모멘트가 작용하면 접합부 대각선 방향과 대각선의 직각방향의 단면에 인장응력이 작용하므로 경사방향으로 철근을 배치하여 보강하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 144,
+        "title": "4.3.1.3 골조 접합부의 설계",
+        "level": 5,
+        "label": "(6)",
+        "contents": "<p>(6)유한요소해석에 의해 접합부의 응력을 검토하는 경우에는 응력 집중부의 영향을 합리적으로 반영할 수 있는 해석 모델을 사용하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 145,
+        "title": "4.3.2 구조 상세",
+        "level": 3,
+        "label": "4.3.2",
+        "contents": "<p>4.3.2 구조 상세</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 146,
+        "title": "4.3.2 구조 상세",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)기둥 또는 보의 단면이 변화하는 골조 접합부는 응력 전달을 원활하게 하도록 헌치를 두거나 모따기를 크게 하고 이것을 설계도에 기입하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 147,
+        "title": "4.3.2 구조 상세",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)골조 접합부의 주철근은 서로의 배치 관계를 고려하여 단면력이 확실하게 전달되도록 배치하여야 한다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 148,
+        "title": "4.3.2 구조 상세",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)구조물의 최외측 접합부는 접합부에서 결합하는 부재의 주철근량의 1/2 이상을 외측에 연해서 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 149,
+        "title": "4.3.2 구조 상세",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)중간 접합부에서 기둥의 주철근은 원칙적으로 모서리에서 보 및 슬래브 부재 깊이의 1/2 또는 기둥의 유효깊이의 1/2 중 작은 값만큼 지나서 이 점부터 정착길이 이상으로 연장하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 150,
+        "title": "4.3.2 구조 상세",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5)접합부 모서리 측면은 시공 중에 동바리의 변형이나 기둥이 연직방향 반력의 영향에 의한 연직방향으로 발생하는 균열을 방지하기 위하여 수평방향 철근을 추가 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 151,
+        "title": "4.3.2 구조 상세",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6)헌치는 경사면에 연하여 보강철근을 추가로 배치하여야 한다. 헌치는 계산상 필요로 하지 않는 경우에도 보강철근을 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 152,
+        "title": "4.3.2 구조 상세",
+        "level": 4,
+        "label": "(7)",
+        "contents": "<p>(7)골조의 접합부 모서리 부분은 콘크리트의 시공이음을 고려하여 철근을 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 153,
+        "title": "4.3.2 구조 상세",
+        "level": 4,
+        "label": "(8)",
+        "contents": "<p>(8)부재 접합부 및 그 부근에서는 주철근의 이음을 두지 않아야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 154,
+        "title": "4.4 쉘과 절판부재 설계",
+        "level": 2,
+        "label": "4.4",
+        "contents": "<p>4.4 쉘과 절판부재 설계</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 155,
+        "title": "4.4.1 설계 일반",
+        "level": 3,
+        "label": "4.4.1",
+        "contents": "<p>4.4.1 설계 일반</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 156,
+        "title": "4.4.1.1 설계 원칙",
+        "level": 4,
+        "label": "4.4.1.1",
+        "contents": "<p>4.4.1.1 설계 원칙</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 157,
+        "title": "4.4.1.1 설계 원칙",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1)얇은 쉘의 내력과 변위를 결정할 때에는 탄성거동으로 가정할 수 있다. 이 탄성거동은 재료가 선형탄성이고 균질하며 등방성이라고 가정하여 균열이 없는 콘크리트 구조물의 해석에 기초한 계산에 의해 수행된다. 콘크리트의 포아송비의 효과는 무시할 수 있다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 158,
+        "title": "4.4.1.1 설계 원칙",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2)비탄성 해석은 그러한 해석법에 의할 때 안전하다는 것을 확인할 수 있는 경우에 사용할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 159,
+        "title": "4.4.1.1 설계 원칙",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3)결과의 일관성을 확인하기 위하여 내력과 외력에 대한 평형이 확인되어야 한다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 160,
+        "title": "4.4.1.1 설계 원칙",
+        "level": 5,
+        "label": "(4)",
+        "contents": "<p>(4)실험이나 수치해석 방법은 설계의 안전성이 확보될 수 있는 경우에 사용할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 161,
+        "title": "4.4.1.1 설계 원칙",
+        "level": 5,
+        "label": "(5)",
+        "contents": "<p>(5)근사해석 방법은 이 방법으로 설계할 때 안전성을 확보할 수 있는 경우에 사용할 수 있다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 162,
+        "title": "4.4.1.1 설계 원칙",
+        "level": 5,
+        "label": "(6)",
+        "contents": "<p>(6)프리스트레스트콘크리트 쉘의 해석은 프리스트레스 힘을 가하는 중에 발생하는 하중 상태, 균열하중 상태 및 계수하중 상태의 거동을 고려하여야 한다. 긴장재가 쉘 내부에 배치된 긴장재가 동일 평면 위에 놓이지 않음으로써 발생하는 쉘의 힘 성분을 설계에 고려하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 163,
+        "title": "4.4.1.1 설계 원칙",
+        "level": 5,
+        "label": "(7)",
+        "contents": "<p>(7)쉘의 두께와 보강철근은 이 구조기준에서 정한 요구되는 강도와 사용성을 만족하도록 설계하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 164,
+        "title": "4.4.1.1 설계 원칙",
+        "level": 5,
+        "label": "(8)",
+        "contents": "<p>(8)설계할 때는 쉘의 안정성에 대하여 검토하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 165,
+        "title": "4.4.1.1 설계 원칙",
+        "level": 5,
+        "label": "(9)",
+        "contents": "<p>(9)보조부재는 이 구조기준의 해당 규정에 의해 설계되어야 한다. T형보의 플랜지 폭과 같은 쉘부재의 일부는 보조부재와 함께 거동하는 것으로 가정할 수 있다. 쉘의 보조부재에 직각방향으로 배치된 철근은 T형보의 플랜지에 대해 요구되는 철근량 이상이어야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 166,
+        "title": "4.4.1.1 설계 원칙",
+        "level": 5,
+        "label": "(10)",
+        "contents": "<p>(10)막응력과 휨모멘트를 받는 쉘 슬래브의 강도설계는 탄성해석이나 비탄성해석에 의해 얻어진 응력과 변형률의 값에 근거하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 167,
+        "title": "4.4.1.1 설계 원칙",
+        "level": 5,
+        "label": "(11)",
+        "contents": "<p>(11)막균열이 예상되는 영역에서 균열과 같은 방향에 대한 콘크리트의 공칭압축강도는 0.4<img src=\"data:image/gif;base64,R0lGODlhFAARAPUAAAAAAAAAOgAAZgA6kDoAADo6Ojo6ZmYAAGY6AGZmtmaQ22a222a2/5BmAJCQ25Db25Db/7ZmOraQOrbb/7b//9uQOtuQZtu2ttvbkNvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAUABEAAAZUQJBwSCwaj8ikEABQHptNZzEqJVKrS+a1usV2pV+hZKB5Jj0O5HZDCEA4j4iAYi1yDJMKw1JY1Ld6Qh8NBhBWXRaGFxgJHAoZTh0IZBsMHgcMWEhBADs=\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f  _{ck}\">이어야 한다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 168,
+        "title": "4.4.1.2. 재료의 설계기준강도",
+        "level": 4,
+        "label": "4.4.1.2",
+        "contents": "<p>4.4.1.2. 재료의 설계기준강도</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 169,
+        "title": "4.4.1.2. 재료의 설계기준강도",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1)콘크리트의 설계기준압축강도 <img src=\"data:image/gif;base64,R0lGODlhFAARAPUAAAAAAAAAOgAAZgA6kDoAADo6Ojo6ZmYAAGY6AGZmtmaQ22a222a2/5BmAJCQ25Db25Db/7ZmOraQOrbb/7b//9uQOtuQZtu2ttvbkNvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAUABEAAAZUQJBwSCwaj8ikEABQHptNZzEqJVKrS+a1usV2pV+hZKB5Jj0O5HZDCEA4j4iAYi1yDJMKw1JY1Ld6Qh8NBhBWXRaGFxgJHAoZTh0IZBsMHgcMWEhBADs=\" alt=\"\" width=\"18px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f  _{ck}\">는 21MPa 이상이어야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 170,
+        "title": "4.4.1.2. 재료의 설계기준강도",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2)프리스트레스를 받지 않은 철근의 설계기준항복강도 <img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6kGYAAGZmtma2/5A6AJA6ZpBmtpCQkJC2/5Db/7aQkLbb/7b//9uQZtu2kNu2ttvbttv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAQABEAAAU/4CWOZGme6AgAKcmyrQjH1xyvK13rMm/fvN2oIiBYEBJXCRJhUAYqIWkhmRBUv4vlYDE0YpYCIJBsORSPxCgEADs=\" alt=\"\" width=\"14px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"f  _{y}\">는 400MPa 이하이어야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 171,
+        "title": "4.4.2 철근 상세",
+        "level": 3,
+        "label": "4.4.2",
+        "contents": "<p>4.4.2 철근 상세</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 172,
+        "title": "4.4.2 철근 상세",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1)쉘 보강철근은 내면의 막력에 의한 인장응력과 휨모멘트 및 비틀림모멘트에 의한 인장응력에 저항하고, 건조수축과 온도에 의한 균열을 억제하기 위하여 쉘의 경계부나 하중 작용 부위 또는 개구부에 대하여 보강하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 173,
+        "title": "4.4.2 철근 상세",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2)인장철근은 쉘의 모든 부분에 걸쳐 두 방향 이상으로 배치하여야 하며, 임의의 방향에 대한 저항력은 그 방향의 내력 성분 이상이어야 한다. 대안으로 슬래브에 있어서 막응력에 대한 철근량은 축인장력과 막의 임의의 수직방향으로 전단력을 전달하기 위하여 요구되는 전단-마찰에 의한 인장력을 합한 값에 저항할 수 있는 양이어야 한다. 가정된 마찰계수는 1.0<img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAA6kABmtjoAZjo6ZjqQ22YAZmY6OmZmkGa2/5CQkJDb/7ZmALb//9uQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAALAA4AAAUtICWOZGmSkaGcYhOwlFQw8ELAD+CcU6KakYPDVQruIAKaCDJQUhYIGGUnrYpCADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda\">를 초과하지 않아야 하며, <img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAA6kABmtjoAZjo6ZjqQ22YAZmY6OmZmkGa2/5CQkJDb/7ZmALb//9uQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAALAA4AAAUtICWOZGmSkaGcYhOwlFQw8ELAD+CcU6KakYPDVQruIAKaCDJQUhYIGGUnrYpCADs=\" alt=\"\" width=\"9px\" height=\"13px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"lambda\">는 KDS 14 20 10(4.3.4)에 따른다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 174,
+        "title": "4.4.2 철근 상세",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3)2개의 서로 직각인 방향에서 측정된 임의 단면에서 쉘 철근의 단면적은 KDS 14 20 50(4.6)에 규정된 슬래브의 수축·온도철근보다 작지 않아야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 175,
+        "title": "4.4.2 철근 상세",
+        "level": 4,
+        "label": "(4)",
+        "contents": "<p>(4)쉘 슬래브의 평면 축에 대한 전단력과 휨모멘트에 대한 철근은 KDS 14 20 20, KDS 14 20 22, KDS 14 20 70(4.1)에 따라 산정하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 176,
+        "title": "4.4.2 철근 상세",
+        "level": 4,
+        "label": "(5)",
+        "contents": "<p>(5)쉘의 인장철근의 단면적은 철근이 콘크리트의 압축파괴나 쉘 좌굴이 일어나기 전에 항복하도록 제한하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 177,
+        "title": "4.4.2 철근 상세",
+        "level": 4,
+        "label": "(6)",
+        "contents": "<p>(6)큰 인장응력을 받는 부분에서, 막철근은 가능하면 주인장막력이 주로 발생하는 방향으로 배치하여야 하며, 그렇지 못한 경우에는 주응력의 두 개 이상의 분력 방향으로 막철근을 배치하여야 한다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 178,
+        "title": "4.4.2 철근 상세",
+        "level": 4,
+        "label": "(7)",
+        "contents": "<p>(7)철근의 방향이 주인장막력의 방향과 10° 이상 차이가 있는 경우, 사용하중 상태에서 발생할 수 있는 균열에 대하여 철근의 양이 검토되어야 한다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 179,
+        "title": "4.4.2 철근 상세",
+        "level": 4,
+        "label": "(8)",
+        "contents": "<p>(8)쉘의 주인장막응력의 크기가 쉘 표면에서 크게 변화하는 경우, 인장철근은 설계의 안전이 확보되도록 큰 인장응력이 발생하는 부분에 집중 배치하여야 한다. 그러나 인장 구역의 어느 부분에서도 쉘의 철근비가 쉘의 전체 두께에 대해 0.0035 이상이어야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 180,
+        "title": "4.4.2 철근 상세",
+        "level": 4,
+        "label": "(9)",
+        "contents": "<p>(9)쉘의 휨모멘트에 저항하기 위해 필요한 철근은 같은 위치에서 막축력이 동시에 작용하는 경우를 고려하여 결정하여야 한다. 해석 결과 휨모멘트의 부호가 바뀌지 않는 곳에서 단지 한쪽 면에서만 쉘 철근이 필요한 경우라도 쉘의 양쪽 표면 근처에 같은 양의 쉘 철근을 배치하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 181,
+        "title": "4.4.2 철근 상세",
+        "level": 4,
+        "label": "(10)",
+        "contents": "<p>(10)모든 방향에서 쉘 철근의 간격은 450mm 이하, 또한 쉘 두께의 5배 이하이어야 한다. 전체 콘크리트 단면에서 계수하중에 의한 주인장막응력이 <img src=\"data:image/gif;base64,R0lGODlhTAATAPUAAAAAAAAAOgAAZgA6kDoAADo6Ojo6ZjqQ22YAAGYAOmY6AGZmtmaQ22a222a2/5A6AJBmAJBmkJCQ25C2/5DbtpDb25Db/7ZmALZmOrZmZraQOra2/7bb/7b//9uQOtuQZtu2ttvbkNvb29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAABMABMAAAb+QJVwSCwaj0YUAsBsOp9MQQdJrVqvxswUy+0CulwUA0z8Hs1WNLn6sayHajg2LkTTranIyMicn+F9RXcqaoNIJg58hFxxdnJlSI1dWopego+LkH+aVygLlZacopllTZdXJG6lgX6YgKB1mYVHKXtCebajV7Obrma/cnEpD4lCJmOwraTJvMCyRSAeA7ZtyUQa06CSsaLAztxDKAlunr1JEr3by+CEpuvrFwcqJRPmKiQEARYmFRhSmHfcnXKFhcQ0SgONGeDgwcGHAg0GGqLCq4s4CsiCFWl4C4IBVewmKuty4aMgOtVAhFhwTMSbl6iyXTmhYBoJB0qKwdyZZAMET55BAAA7\" alt=\"\" width=\"75px\" height=\"18px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\" (phi  lambda  sqrt {f  _{ck}}) / 3\">를 초과하는 곳의 철근 간격은 쉘 두께의 3배 이하로 하여야 한다.</p>"
+      },
+      {
+        "no": 4014,
+        "sort": 182,
+        "title": "4.4.2 철근 상세",
+        "level": 4,
+        "label": "(11)",
+        "contents": "<p>(11)쉘과 받침부재 또는 테두리 부재의 접합부에서 쉘 철근은 KDS 14 20 52의 규정에 의하여 정착 또는 연장시켜야 한다. 다만, 이때 최소 정착길이는 1.2<img src=\"data:image/gif;base64,R0lGODlhDAARAPQAAAAAAAA6OjoAADo6kGZmtmaQtmaQ22a2/5BmZpDb/7aQkLbb/7b//9uQOtuQZtu2ttvb29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABgALAAAAAAMABEAAAU5ICaOZGmWAHCS6iq2Kxy7L43JIjTi2IUwNZmFsINJBAHDiTJYTBKnxgGjAJociUrhETFRBAepbRQCADs=\" alt=\"\" width=\"10px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"l  _{d}\"> 이상, 또한 450mm 이상이어야 한다. </p>"
+      },
+      {
+        "no": 4014,
+        "sort": 183,
+        "title": "4.4.2 철근 상세",
+        "level": 4,
+        "label": "(12)",
+        "contents": "<p>(12)쉘 철근의 이음길이는 KDS 14 20 52의 규정에 의해 결정하여야 한다. 다만, 인장철근의 최소 이음길이는 KDS 14 20 52에서 요구하는 값의 1.2배 이상, 또한 450mm 이상이어야 한다. 주인장철근에 겹침이음되는 철근의 수는 가능한 한 최소로 하여야 한다. 겹침이음을 필요로 하는 곳에서 이음의 위치가 적어도 <img src=\"data:image/gif;base64,R0lGODlhDAARAPQAAAAAAAA6OjoAADo6kGZmtmaQtmaQ22a2/5BmZpDb/7aQkLbb/7b//9uQOtuQZtu2ttvb29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABgALAAAAAAMABEAAAU5ICaOZGmWAHCS6iq2Kxy7L43JIjTi2IUwNZmFsINJBAHDiTJYTBKnxgGjAJociUrhETFRBAepbRQCADs=\" alt=\"\" width=\"10px\" height=\"16px\" vspace=\"1\" hspace=\"0\" border=\"0\" data-formula-baseunit=\"1000\" data-formula-color=\"#000000\" data-formula-linemode=\"0\" data-script=\"l  _{d}\">만큼 어긋나게 하여야 하며, 어느 단면에서나 철근의 1/3 이상을 겹침이음할 수 없다.</p>"
+      }
+    ]
+  }
+]
