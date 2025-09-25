@@ -1,0 +1,1405 @@
+[
+  {
+    "no": 5052,
+    "codeType": "KDS",
+    "code": "431010",
+    "fullCode": "1020431010",
+    "name": "막구조 설계기준",
+    "version": "2022",
+    "updateDate": "2022-10-14T11:19:00",
+    "list": [
+      {
+        "no": 5052,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 43 10 10은 막구조가 전체 구조물의 주요 구조용 부재로 사용될 경우, 해당 막 건축물 또는 부속 기구들의 구조방법에 관한 안전상 필요한 기술적 기준을 제공한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 4,
+        "title": "1.2 적용범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용범위</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 5,
+        "title": "1.2 적용범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 막 구조에 관한 설계하중, 재료, 구조해석 및 설계 등에 적용한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 6,
+        "title": "1.3 참조 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참조 기준</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 7,
+        "title": "1.3 참조 기준",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● KDS 41 00 00 건축구조기준</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 8,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 9,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 막구조：자중을 포함하는 외력이 셀구조물의 기본원리인 막응력에 따라서 저항되는 구조물로서, 휨 또는 비틀림에 대한 저항이 작거나 또는 전혀 없는 구조</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 10,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 초기 인장력：연성 막재의 형상을 유지하기 위해 도입하는 초기하중</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 11,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 공기막구조：공기막 내외부의 압력 차에 따라 막면에 강성을 주어 형태를 안정시켜 구성되는 구조물</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 12,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 내압：공기막구조를 형성하기 위한 내부압력</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 13,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 막재：직포, 코팅재에 따라 구성된 재료. 고무시트 등 구성재가 다른 재료는 고려하지 않음</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 14,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 직포：섬유실에 따른 직물 또는 망목상 직물</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 15,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 코팅재：직포의 보호 및 방수 등의 목적으로 직포에 도포하는 재료</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 16,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 인장크리프：지속하중으로 인하여 막재에 일어나는 장기변형</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 17,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 인장강도：재료가 견딜 수 있는 최대 인장응력</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 18,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 인열강도：재료가 접힘 또는 굽힘을 받은 후 견딜 수 있는 최대 인장응력</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 19,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 열판용착접합：판을 눌러 막재의 겹치는 부분을 코팅제 또는 해당 부분에 삽입한 용착필름을 용융하여 막재를 압착하는 접합방식</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 20,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 봉제접합：접합하고자 하는 막재료의 겹친 부분을 다른 막재의 단부와 평행하게 봉제하는 접합방식</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 21,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 열풍용착접합：열풍을 이용하여 접합하고자 하는 막재의 겹친 부분의 코팅재를 용융하고 압착하여 접합하는 방식</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 22,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 고주파용착접합：고주파를 이용하여 막재의 겹친 부분의 코팅재를 용융하여 막재를 압착하여 접합하는 방식</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 23,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>● 형상해석：설계자의 의도와 역학적인 평형조건을 동시에 만족하는 형상을 찾는 일련의 해석과정이며, 막구조물 및 케이블구조물과 같은 연성구조물에 적용되는 해석방법</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 24,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 25,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "본문",
+        "contents": "<p>  내용 없음</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 26,
+        "title": "1.6 해석과 설계원칙",
+        "level": 2,
+        "label": "1.6",
+        "contents": "<p>1.6 해석과 설계원칙</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 27,
+        "title": "1.6.1 막구조의 해석순서",
+        "level": 3,
+        "label": "1.6.1",
+        "contents": "<p>1.6.1 막구조의 해석순서</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 28,
+        "title": "1.6.1 막구조의 해석순서",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 막구조의 해석은 형상해석, 응력-변형도해석, 재단도해석 순서로 이루어진다. 만약 필요하다면 시공해석도 수행하여야 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 29,
+        "title": "1.6.2 막구조의 해석방법",
+        "level": 3,
+        "label": "1.6.2",
+        "contents": "<p>1.6.2 막구조의 해석방법</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 30,
+        "title": "1.6.2 막구조의 해석방법",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 막구조의 구조해석에는 유한요소법, 동적이완법, 그리고 내력밀도법 등이 있다. 막구조의 해석에서 기하학적 비선형을 고려하여야한다. 재료 비선형은 무시될 수 있지만 일반적으로 재료이방성은 고려하여 해석을 수행한다. </p>"
+      },
+      {
+        "no": 5052,
+        "sort": 31,
+        "title": "1.6.3 형상해석",
+        "level": 3,
+        "label": "1.6.3",
+        "contents": "<p>1.6.3 형상해석</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 32,
+        "title": "1.6.3 형상해석",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 막구조에 있어서 케이블재와 막재의 초기장력 값은 막구조 형식, 하중, 변형, 시공 및 기타 요인들을 고려하여 결정한다. 막재에 도입하는 초기장력은 표 1.6-1 값을 표준으로 한다. </p>"
+      },
+      {
+        "no": 5052,
+        "sort": 33,
+        "title": "1.6.3 형상해석",
+        "level": 5,
+        "label": "표 1.6-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 1.6-1 초기장력 값 </p></caption><tbody><tr>\t<td width=\"292\" height=\"23\" valign=\"middle\" bgcolor=\"#d9d9d9\">\t<p>막재의 종류</p>\t</td>\t<td width=\"292\" height=\"23\" valign=\"middle\" bgcolor=\"#d9d9d9\">\t<p>초기장력</p>\t</td></tr><tr>\t<td width=\"292\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>A, B 종</p>\t</td>\t<td width=\"292\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>2 kN/m 이상</p>\t</td></tr><tr>\t<td width=\"292\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>C 종 </p>\t</td>\t<td width=\"292\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>1 kN/m 이상</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5052,
+        "sort": 34,
+        "title": "1.6.4 응력-변형도 해석",
+        "level": 3,
+        "label": "1.6.4",
+        "contents": "<p>1.6.4 응력-변형도 해석</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 35,
+        "title": "1.6.4 응력-변형도 해석",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 막구조의 응력-변형도 해석은 형상해석에서 결정된 초기장력과 기하학적 형상을 바탕으로 하며, 주어진 하중조합에 따라서 발생되는 막구조의 응력과 변형을 고려한다. 응력-변형도해석에 따른 결과가 형상 및 재료의 역학적 요구를 만족하지 않는 경우에는 형상해석을 다시 수행하여야 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 36,
+        "title": "1.6.5 재단도 해석",
+        "level": 3,
+        "label": "1.6.5",
+        "contents": "<p>1.6.5 재단도 해석</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 37,
+        "title": "1.6.5 재단도 해석",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 재단도 해석법에는 지오데식 라인법, 플랫트닝법 등이 있으며 커팅 라인을 결정하는 데 사용된다. 재단선의 외관, 막재의 폭을 고려한 효율적인 사용, 막의 직교이방성 등에 유의하여 재단선을 정한다. 재단도해석에서 초기장력과 막의 크리프 특성을 주의하여야한다. 각각의 막 스트립의 수축 값에 따라 재단의 크기가 수정될 수 있기 때문에 막 특성에 근거하여 면밀히 확인하여야한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 38,
+        "title": "1.6.6 공기막구조 해석",
+        "level": 3,
+        "label": "1.6.6",
+        "contents": "<p>1.6.6 공기막구조 해석</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 39,
+        "title": "1.6.6 공기막구조 해석",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 공기막구조에 대해서 최대 내부압, 최소 내부압, 상시 내부압이 합리적으로 보장하여야한다. 최대 내부압은 심각한 구조변경에서도 최악의 상태가 발생하지 않도록 설정하여야한다. 최소 내부압은 정상적인 기후와 서비스 상태에서 구조 안전성을 확보하기 위한 것으로 일반적으로 200<img src=\"data:image/gif;base64,R0lGODlhHQAPAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADpmtjqQtjqQ22Y6AGY6ZmY6kGZmOmZmtmaQ22a222a2/5A6AJCQOpCQtpCQ25C2/5DbtpDb25Db/7ZmALZmOrZmZraQkLa2Zra227bbtrbb/7b//9uQOtuQZtuQkNu2kNu2ttvbkNv///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADEALAAAAAAdAA8AAAagwJhwSCwaj8ikcllshZQsQ8DCjJVEylFEdYiNABFhFFAQwihVV0o4GmBjL8eQRV2eUh9hadKFV4Ydb0ljCXoiG2Evf35CJgseBgIgCgAQR1cvDCmKQisZQxoIKSMEISx9RVcxKgmcMR1rQhxYKolyRqoxHBd/rrK0tpdvLw0PMZ5Es6vBRiSfQqxnRcq1cJpFX2BEdERfBChSGBJkVeVGQQA7\" width=\"30\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">이상 이어야한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 40,
+        "title": "1.6.7 하중기준",
+        "level": 3,
+        "label": "1.6.7",
+        "contents": "<p>1.6.7 하중기준</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 41,
+        "title": "1.6.7 하중기준",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 조항에서 사용하는 설계하중은 KDS 41 12 00에 따른다. 다만, 막구조의 형식, 구법, 시공법 등에 따라 특별히 발생하는 하중은 실제 상황을 고려하여 적절히 산정한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 42,
+        "title": "1.6.8 하중종류",
+        "level": 3,
+        "label": "1.6.8",
+        "contents": "<p>1.6.8 하중종류</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 43,
+        "title": "1.6.8 하중종류",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 막구조의 구조설계에 적용되는 설계하중은 다음과 같다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 44,
+        "title": "1.6.8 하중종류",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 고정하중(<img src=\"data:image/gif;base64,R0lGODlhCwAOAPQAAAAAAAA6OgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAOma225A6AJA6OpBmOpDb/7ZmALZmOtuQOtv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABgALAAAAAALAA4AAAU+ICaOZGmS1wKsgOCQVvJez0BOgyRSBfkgI97owniJcEGDTvQgjCJAUcxINGIgUQxFiak0DqMHCxBQnM5oTAgAOw==\" width=\"12\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 45,
+        "title": "1.6.8 하중종류",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 활하중(<img src=\"data:image/gif;base64,R0lGODlhCQAOAPQAAAAAAAA6kABmtjo6kDqQ22YAAGYAOmYAZmY6kGa2/5A6AJA6OpDb/7ZmALa2tra2/7b//9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAJAA4AAAUu4CWOZGlWBQAEEVkdkCkJ5tUkp8HIrNkQI4fIsthdKg/RZNCiICIWhWoKrFlHIQA7\" width=\"10\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 46,
+        "title": "1.6.8 하중종류",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 설하중(<img src=\"data:image/gif;base64,R0lGODlhCAAOAPQAAAAAAAAAOjoAADoAOjpmkDqQ22Y6OmY6ZmZmtma225BmOpCQtpDb/7ZmOra2kLbb27bb/7b//9u2kNu2ttv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAAIAA4AAAUwoCaOZFlmDRCMmZJo1lgVYibTmi1iBvGYKNyEskPkFjfYgKG5HCIaiUMAIEBMWFIIADs=\" width=\"9\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 47,
+        "title": "1.6.8 하중종류",
+        "level": 5,
+        "label": "④",
+        "contents": "<p>④ 풍하중(<img src=\"data:image/gif;base64,R0lGODlhDgAOAPQAAAAAAAAAZgBmZgBmtjoAADqQ22YAOmYAZmY6OmaQtpA6OpCQ25DbtpDb/7ZmALa2kLa227a2/7bbtrbb/7b//9uQOtu2kNu2ttv///+2Zv+2tv/bkP/btv//tv//2////yH5BAAAAB8ALAAAAAAOAA4AAAVI4CeOZGme40YAAeUAQPE5ZDaIntKIW31/HcPuc/GJHogdZ2LkSIQeSMkWDTY0lOngggkyIqaMABxMnCq/ziFrsrA7C5R8XgoBADs=\" width=\"15\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 48,
+        "title": "1.6.8 하중종류",
+        "level": 5,
+        "label": "⑤",
+        "contents": "<p>⑤ 지진하중(<img src=\"data:image/gif;base64,R0lGODlhCgAOAPQAAAAAAAAAOgAAZgA6kABmtjo6kDqQ22YAAGYAZmZmtma2/5A6AJA6OpC2/5Db/7ZmALa227bb/7b//9u2Ztu2kNv///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAACH5BAAAABwALAAAAAAKAA4AAAU8ICeOZGmK2gGsK6khkoiRFsFtkEY+Cjc1LhVAEBtZBhVNovQwcDIRnGjDcIwuEVmhIqIsNwvWKmA9mUshADs=\" width=\"11\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 49,
+        "title": "1.6.8 하중종류",
+        "level": 5,
+        "label": "⑥",
+        "contents": "<p>⑥ 초기 인장력(<img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAA6kABmtjo6kDpmtjqQ22YAAGYAZmY6ZmaQ22a2/5A6OpBmtpC2/5Db/7ZmALa2tra227a2/7bb/7b//9uQOtu2Ztu2ttvb29vb/9v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANABEAAAZQwJBwSCwaj8IKYMkMaIYfxvOhCHUSRA4l9DlsPxLiRbhxhjyT46OAFIIWjrZ18GxXBERLo0iVd7xQCFtcBkxsIRgQdUggEXJnERlyGwSPQ0EAOw==\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 50,
+        "title": "1.6.8 하중종류",
+        "level": 5,
+        "label": "⑦",
+        "contents": "<p>⑦ 내부압력(<img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAAGY6ZmaQtma2/5A6AJA6OpBmAJC2/5Db/7ZmALZmOra2tra227b//9uQOtu2Ztvb29vb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANABEAAAZUwJBwSCwajyFQA8AECCxGkCOSfCCMnQI0JCEYL95kg2GUkEGTg/GTYAYWGyNnEEeGLtciBiKUUu0dBnVDHwpQEkx0RBkUg0cgFXZCHhUakhxqkkNBADs=\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 51,
+        "title": "1.6.9 하중조합",
+        "level": 3,
+        "label": "1.6.9",
+        "contents": "<p>1.6.9 하중조합</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 52,
+        "title": "1.6.9 하중조합",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 막구조 의 허용응력설계법에 따른 하중조합은 표 1.6-2와 같으며 가장 불리한 경우로 설계한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 53,
+        "title": "1.6.9 하중조합",
+        "level": 5,
+        "label": "표 1.6-2",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 1.6-2 하중조합</p></caption><tbody><tr>\t<td width=\"117\" height=\"20\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>구조형태</p>\t</td>\t<td width=\"121\" height=\"20\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>하중의 종류</p>\t</td>\t<td width=\"147\" height=\"20\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>하중조합</p>\t</td>\t<td width=\"180\" height=\"20\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>비고</p>\t</td></tr><tr>\t<td rowspan=\"3\" width=\"117\" height=\"72\" valign=\"middle\" align=\"center\">\t<p>막구조</p>\t</td>\t<td width=\"121\" height=\"24\" valign=\"middle\" align=\"center\">\t<p>장기하중</p>\t</td>\t<td width=\"147\" height=\"24\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhCgANAPQAAAAAAAAAOgA6ZgA6kABmtjoAZjpmtmYAAGa222a2/5A6ALZmALZmOrbb/7b//9uQOtv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAKAA0AAAUzICWOZGlS0gGsgNCMUeFQ0zKMDwEX4qQkO1FsJsoVdb0fTVk0CGU0hgFCWbAAAcRpuw0BADs=\" width=\"10\" height=\"12\" vspace=\"0\" hspace=\"0\" border=\"0\">＋<img src=\"data:image/gif;base64,R0lGODlhCAANAPQAAAAAAAA6kDo6kDqQ22YAAGY6ZpA6AJA6OpDb/7a2/7b//9uQOtu2ttv////bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAAIAA0AAAUpoCSOZDlCBAAEzegILbkMZXQg5RuP88hINpwEkpDoJI+CwqBq0kzQUQgAOw==\" width=\"8\" height=\"12\" vspace=\"0\" hspace=\"0\" border=\"0\">+<img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAA6kABmtjo6kDpmtjqQ22YAAGYAZmY6ZmaQ22a2/5A6OpBmtpC2/5Db/7ZmALa2tra227a2/7bb/7b//9uQOtu2Ztu2ttvb29vb/9v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANABEAAAZQwJBwSCwaj8IKYMkMaIYfxvOhCHUSRA4l9DlsPxLiRbhxhjyT46OAFIIWjrZ18GxXBERLo0iVd7xQCFtcBkxsIRgQdUggEXJnERlyGwSPQ0EAOw==\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">(<img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAAGY6ZmaQtma2/5A6AJA6OpBmAJC2/5Db/7ZmALZmOra2tra227b//9uQOtu2Ztvb29vb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANABEAAAZUwJBwSCwajyFQA8AECCxGkCOSfCCMnQI0JCEYL95kg2GUkEGTg/GTYAYWGyNnEEeGLtciBiKUUu0dBnVDHwpQEkx0RBkUg0cgFXZCHhUakhxqkkNBADs=\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>\t</td>\t<td width=\"180\" height=\"24\" valign=\"middle\" align=\"center\">\t<p>(<img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAAGY6ZmaQtma2/5A6AJA6OpBmAJC2/5Db/7ZmALZmOra2tra227b//9uQOtu2Ztvb29vb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANABEAAAZUwJBwSCwajyFQA8AECCxGkCOSfCCMnQI0JCEYL95kg2GUkEGTg/GTYAYWGyNnEEeGLtciBiKUUu0dBnVDHwpQEkx0RBkUg0cgFXZCHhUakhxqkkNBADs=\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">: 공기막구조 내압)</p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"121\" height=\"48\" valign=\"middle\" align=\"center\">\t<p>단기하중</p>\t</td>\t<td width=\"147\" height=\"24\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhCgANAPQAAAAAAAAAOgA6ZgA6kABmtjoAZjpmtmYAAGa222a2/5A6ALZmALZmOrbb/7b//9uQOtv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAKAA0AAAUzICWOZGlS0gGsgNCMUeFQ0zKMDwEX4qQkO1FsJsoVdb0fTVk0CGU0hgFCWbAAAcRpuw0BADs=\" width=\"10\" height=\"12\" vspace=\"0\" hspace=\"0\" border=\"0\">+<img src=\"data:image/gif;base64,R0lGODlhDAAPAPAAAAAAAP///yH5BAAAAAEALAAAAAAMAA8AAAIUjI+pa+DAAoyS1jixzcvhB1riKBYAOw==\" width=\"12\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\">+<img src=\"data:image/gif;base64,R0lGODlhDgAPAPAAAAAAAP///yH5BAAAAAEALAAAAAAOAA8AAAIdjI+pwAFqXpSJRmgdztAxvjQdAmYlBWrfyLZuUgAAOw==\" width=\"14\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\">+<img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAA6kABmtjo6kDpmtjqQ22YAAGYAZmY6ZmaQ22a2/5A6OpBmtpC2/5Db/7ZmALa2tra227a2/7bb/7b//9uQOtu2Ztu2ttvb29vb/9v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANABEAAAZQwJBwSCwaj8IKYMkMaIYfxvOhCHUSRA4l9DlsPxLiRbhxhjyT46OAFIIWjrZ18GxXBERLo0iVd7xQCFtcBkxsIRgQdUggEXJnERlyGwSPQ0EAOw==\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">(<img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAAGY6ZmaQtma2/5A6AJA6OpBmAJC2/5Db/7ZmALZmOra2tra227b//9uQOtu2Ztvb29vb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANABEAAAZUwJBwSCwajyFQA8AECCxGkCOSfCCMnQI0JCEYL95kg2GUkEGTg/GTYAYWGyNnEEeGLtciBiKUUu0dBnVDHwpQEkx0RBkUg0cgFXZCHhUakhxqkkNBADs=\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>\t</td>\t<td width=\"180\" height=\"24\" valign=\"middle\" align=\"center\">\t<p>(<img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAAGY6ZmaQtma2/5A6AJA6OpBmAJC2/5Db/7ZmALZmOra2tra227b//9uQOtu2Ztvb29vb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANABEAAAZUwJBwSCwajyFQA8AECCxGkCOSfCCMnQI0JCEYL95kg2GUkEGTg/GTYAYWGyNnEEeGLtciBiKUUu0dBnVDHwpQEkx0RBkUg0cgFXZCHhUakhxqkkNBADs=\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">: 공기막구조 내압)</p>\t</td></tr><tr>\t<td width=\"147\" height=\"24\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhCgANAPQAAAAAAAAAOgA6ZgA6kABmtjoAZjpmtmYAAGa222a2/5A6ALZmALZmOrbb/7b//9uQOtv////bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAKAA0AAAUzICWOZGlS0gGsgNCMUeFQ0zKMDwEX4qQkO1FsJsoVdb0fTVk0CGU0hgFCWbAAAcRpuw0BADs=\" width=\"10\" height=\"12\" vspace=\"0\" hspace=\"0\" border=\"0\">+<img src=\"data:image/gif;base64,R0lGODlhDAAPAPAAAAAAAP///yH5BAAAAAEALAAAAAAMAA8AAAIUjI+pa+DAAoyS1jixzcvhB1riKBYAOw==\" width=\"12\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\">+<img src=\"data:image/gif;base64,R0lGODlhEQAPAPAAAAAAAP///yH5BAAAAAEALAAAAAARAA8AAAIjjI+pywgfHjAwTerWjVndymnU10gc6EHTxqhsOzbyTNc2UgAAOw==\" width=\"17\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\">+<img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAA6kABmtjo6kDpmtjqQ22YAAGYAZmY6ZmaQ22a2/5A6OpBmtpC2/5Db/7ZmALa2tra227a2/7bb/7b//9uQOtu2Ztu2ttvb29vb/9v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANABEAAAZQwJBwSCwaj8IKYMkMaIYfxvOhCHUSRA4l9DlsPxLiRbhxhjyT46OAFIIWjrZ18GxXBERLo0iVd7xQCFtcBkxsIRgQdUggEXJnERlyGwSPQ0EAOw==\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">(<img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAAGY6ZmaQtma2/5A6AJA6OpBmAJC2/5Db/7ZmALZmOra2tra227b//9uQOtu2Ztvb29vb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANABEAAAZUwJBwSCwajyFQA8AECCxGkCOSfCCMnQI0JCEYL95kg2GUkEGTg/GTYAYWGyNnEEeGLtciBiKUUu0dBnVDHwpQEkx0RBkUg0cgFXZCHhUakhxqkkNBADs=\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>\t</td>\t<td width=\"180\" height=\"24\" valign=\"middle\" align=\"center\">\t<p>(<img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAAGY6ZmaQtma2/5A6AJA6OpBmAJC2/5Db/7ZmALZmOra2tra227b//9uQOtu2Ztvb29vb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANABEAAAZUwJBwSCwajyFQA8AECCxGkCOSfCCMnQI0JCEYL95kg2GUkEGTg/GTYAYWGyNnEEeGLtciBiKUUu0dBnVDHwpQEkx0RBkUg0cgFXZCHhUakhxqkkNBADs=\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">: 공기막구조 내압)</p>\t</td></tr><tr>\t<td colspan=\"4\" width=\"565\" height=\"24\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhDAAPAPAAAAAAAP///yH5BAAAAAEALAAAAAAMAA8AAAIXjI+pa+C/ADtyuhmqxZcm3VDPiJXmeRQAOw==\" width=\"12\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\">：고정하중 <img src=\"data:image/gif;base64,R0lGODlhDAAPAPAAAAAAAP///yH5BAAAAAEALAAAAAAMAA8AAAIUjI+pa+DAAoyS1jixzcvhB1riKBYAOw==\" width=\"12\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\">：활하중  <img src=\"data:image/gif;base64,R0lGODlhDgAPAPAAAAAAAP///yH5BAAAAAEALAAAAAAOAA8AAAIdjI+pwAFqXpSJRmgdztAxvjQdAmYlBWrfyLZuUgAAOw==\" width=\"14\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\">：적설하중  <img src=\"data:image/gif;base64,R0lGODlhEAANAPQAAAAAAAAAZgA6kABmtjoAADoAOjoAZjqQtjqQ22YAZmaQ22a2/5A6AJC225Db/7a2kLa2tra227bb/7b/27b//9uQOtuQZtu2ttv/ttv////bkP/btv//tv//2////wAAACH5BAAAAB4ALAAAAAAQAA0AAAVHoCeOZGmepkYAwcQAwNK9A1nVHpdQ4taUN5HGwOtETMHOY+e5ZJCIJma3kZwqiOpwcrwejkPI8yp4agoOlMeS9mgU6rhcHQIAOw==\" width=\"16\" height=\"12\" vspace=\"0\" hspace=\"0\" border=\"0\">：풍하중  <img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAA6kABmtjo6kDpmtjqQ22YAAGYAZmY6ZmaQ22a2/5A6OpBmtpC2/5Db/7ZmALa2tra227a2/7bb/7b//9uQOtu2Ztu2ttvb29vb/9v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANABEAAAZQwJBwSCwaj8IKYMkMaIYfxvOhCHUSRA4l9DlsPxLiRbhxhjyT46OAFIIWjrZ18GxXBERLo0iVd7xQCFtcBkxsIRgQdUggEXJnERlyGwSPQ0EAOw==\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">：초기장력 <img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAAGY6ZmaQtma2/5A6AJA6OpBmAJC2/5Db/7ZmALZmOra2tra227b//9uQOtu2Ztvb29vb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAANABEAAAZUwJBwSCwajyFQA8AECCxGkCOSfCCMnQI0JCEYL95kg2GUkEGTg/GTYAYWGyNnEEeGLtciBiKUUu0dBnVDHwpQEkx0RBkUg0cgFXZCHhUakhxqkkNBADs=\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">：내부압력</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5052,
+        "sort": 54,
+        "title": "1.7 설계 고려사항",
+        "level": 2,
+        "label": "1.7",
+        "contents": "<p>1.7 설계 고려사항</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 55,
+        "title": "1.7.1 조명설계",
+        "level": 3,
+        "label": "1.7.1",
+        "contents": "<p>1.7.1 조명설계</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 56,
+        "title": "1.7.1 조명설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 반투명한 막재의 특성을 조명디자인에서 고려한다. 조명설비는 막 표면으로부터 최소 1.0m 떨어져 있어야한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 57,
+        "title": "1.7.2 배수설계",
+        "level": 3,
+        "label": "1.7.2",
+        "contents": "<p>1.7.2 배수설계</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 58,
+        "title": "1.7.2 배수설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 배수경사와 위치는 사용상 특성과 일반적인 평면의 요구에 따라 확인하여야한다. 또한 다설지역에서는 낙설 방지대책이 필요하다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 59,
+        "title": "1.7.3 막재와 구조물과의 이격거리",
+        "level": 3,
+        "label": "1.7.3",
+        "contents": "<p>1.7.3 막재와 구조물과의 이격거리</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 60,
+        "title": "1.7.3 막재와 구조물과의 이격거리",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 막재와 실내외 구조물과의 간격은 가장 불리한 조건을 고려하여 막 표면의 변형길이 보다 두 배 이상 길어야 하고 최소 1.0 m로 하여야한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 61,
+        "title": "2. 조사 및 계획",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 조사 및 계획</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 62,
+        "title": "2.1 조사 및 일반계획",
+        "level": 2,
+        "label": "2.1",
+        "contents": "<p>2.1 조사 및 일반계획</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 63,
+        "title": "2.1 조사 및 일반계획",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 막구조물이 건설될 장소의 토질, 주변환경, 인근 거주자들의 민원유무, 시공난이도, 사용빈도수를 고려한 경제성등을 조사한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 64,
+        "title": "2.2 조사",
+        "level": 2,
+        "label": "2.2",
+        "contents": "<p>2.2 조사</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 65,
+        "title": "2.2 조사",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 건설될 부지의 지반상태를 조사한다. 막구조물의 경우 내부 조명 시 막의 반투명성으로 인해 빛 투과에 의한 눈부심 및 소음에 대해 인근 주민들의 민원사항에 대해 반드시 조사하여 반영한다. </p>"
+      },
+      {
+        "no": 5052,
+        "sort": 66,
+        "title": "2.3 계획",
+        "level": 2,
+        "label": "2.3",
+        "contents": "<p>2.3 계획</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 67,
+        "title": "2.3 계획",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 건축주가 요구하는 용도 및 규모, 외부환경과의 융합성 및 사용빈도 수를 고려하여 막구조 형식의 선정, 내구성 및 경제성을 고려한 막재의 선정을 포함 막구조 자체의 형상 및 재료를 선정한다.  </p>"
+      },
+      {
+        "no": 5052,
+        "sort": 68,
+        "title": "2.3 계획",
+        "level": 3,
+        "label": "(2)",
+        "contents": "<p>(2) 주변상태 및 시공가능성을 고려한 시공 방식을  선정한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 69,
+        "title": "2.3 계획",
+        "level": 3,
+        "label": "(3)",
+        "contents": "<p>(3) 대형 막구조구조물의 경우 소음문제, 야간시간 조명에 의한 불빛 문제, 관중들의 쓰레기에 의한 환경오염문제, 단시간 동안 다수인원이 몰리는 특성상 교통문제가 발생할 수 있으므로 이에 대한 원만한 해결책을 제시한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 70,
+        "title": "2.3 계획",
+        "level": 3,
+        "label": "(4)",
+        "contents": "<p>(4) 완공 후 안전관리 및 방재를 포함한 유지관리에 대한 매뉴얼을 작성한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 71,
+        "title": "3. 재료",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 재료</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 72,
+        "title": "3.1 일반사항",
+        "level": 2,
+        "label": "3.1",
+        "contents": "<p>3.1 일반사항</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 73,
+        "title": "3.1 일반사항",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 기준에서 인정하는 막재는 직포, 코팅재 및 그 외 구성된 재료를 의미한다.  구조내력상 주요한 부분에 사용하는 막재는 다음 각 호에 해당하는 기준에 적합해야 한다. </p>"
+      },
+      {
+        "no": 5052,
+        "sort": 74,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "①",
+        "contents": "<p> ① 막재는 표 3.1-1과 같이 직포에 사용하는 섬유실의 종류와 코팅재(직포의 마찰방지 등을 위하여 직포에 도포)에 따라 분류된다. </p>"
+      },
+      {
+        "no": 5052,
+        "sort": 75,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "②",
+        "contents": "<p> ② 두께는 0.5 mm 이상이어야 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 76,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "③",
+        "contents": "<p> ③ 1㎡ 당 중량은 표 3.1-2와 같다. </p>"
+      },
+      {
+        "no": 5052,
+        "sort": 77,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "④",
+        "contents": "<p> ④ 섬유밀도는 일정하여야한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 78,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "⑤",
+        "contents": "<p> ⑤ 인장강도는 폭 1 cm당 300 N 이상 이어야 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 79,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "⑥",
+        "contents": "<p> ⑥ 파단신율은 35% 이하 이어야 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 80,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "⑦",
+        "contents": "<p> ⑦ 인열강도는 100 N 이상 또한 인장강도에 1 cm를 곱해서 얻은 수치의 15% 이상 이어야 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 81,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "⑧",
+        "contents": "<p> ⑧ 인장크리프에 따른 신장율은 15%(합성섬유 직포로 구성된 막재료에 있어서는 25%) 이하이어야 한다. </p>"
+      },
+      {
+        "no": 5052,
+        "sort": 82,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "⑨",
+        "contents": "<p> ⑨ 구조내력상 주요한 부분에서 특히 변질 또는 마찰손실의 위험이 있는 곳에 대해서는 변질 또는 마찰손상에 강한 막재를 사용하거나 변질 또는 마찰손상 방지를 위한 조치를 취한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 83,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "⑩",
+        "contents": "<p> ⑩ 막재에 대하여 빛의 반사율과 투과율을 고려한다. </p>"
+      },
+      {
+        "no": 5052,
+        "sort": 84,
+        "title": "3.1 일반사항",
+        "level": 4,
+        "label": "⑪",
+        "contents": "<p> ⑪ 구조물의 상황에 따라서 막재의 다양한 특성을 고려하여 재료를 채택한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 85,
+        "title": "3.1 일반사항",
+        "level": 5,
+        "label": "표 3.1-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.1-1 막재의 분류 </p></caption><tbody><tr>\t<td width=\"82\" height=\"22\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>막재의 종류</p>\t</td>\t<td width=\"220\" height=\"22\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>직포</p>\t</td>\t<td width=\"277\" height=\"22\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>코팅재</p>\t</td></tr><tr>\t<td width=\"82\" height=\"66\" valign=\"middle\" align=\"center\">\t<p>A종</p>\t</td>\t<td width=\"220\" height=\"66\" valign=\"top\">\t<p>KS L 2507 (직조용 유리실)을 만족하는 단섬유(섬유직경 3.0㎛에서 4.05 ㎛의 3 (B)로 한정)를 사용한 유리섬유실</p>\t</td>\t<td width=\"277\" height=\"66\" valign=\"top\">\t<p>4불화에틸렌수지,4불화에틸렌-퍼플루오알킬-비닐에테르 공중합수지 또는 4불화에틸렌-6불화프로필렌 공중합수지</p>\t</td></tr><tr>\t<td width=\"82\" height=\"100\" valign=\"middle\" align=\"center\">\t<p>B종</p>\t</td>\t<td width=\"220\" height=\"100\" valign=\"top\">\t<p>KS L 2507 (직조용 유리실)을  만족하는 단섬유를 사용한 유리섬유실</p>\t</td>\t<td width=\"277\" height=\"100\" valign=\"top\">\t<p>염화비닐수지, 폴리우레탄수지, 불소계수지 (4불화에틸렌수지,4불화에틸렌-퍼플루오알킬-비닐에테르 공중합수지 또는 4불화에틸렌-6불화프로필렌 공중합수지를 포함), 클로로프렌고무 또는 클로로슬폰화 폴리에틸렌고무</p>\t</td></tr><tr>\t<td width=\"82\" height=\"53\" valign=\"middle\" align=\"center\">\t<p> C종</p>\t</td>\t<td width=\"220\" height=\"53\" valign=\"top\">\t<p>폴리아미드계, 폴리아라미드계, 폴리에스테르계 또는 폴리비닐알코올계의 합성섬유실</p>\t</td>\t<td width=\"277\" height=\"53\" valign=\"top\">\t<p>염화비닐수지, 폴리우레탄수지, 불소계수지, 클로로프렌고무 또는 클로로슬폰화 폴리에틸렌고무</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5052,
+        "sort": 86,
+        "title": "3.1 일반사항",
+        "level": 5,
+        "label": "표 3.1-2",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 3.1-2 막재의 단위중량  </p></caption><tbody><tr>\t<td width=\"106\" height=\"31\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>구성재</p>\t</td>\t<td width=\"238\" height=\"31\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p> 막재 A, B종(유리섬유실의 직포)</p>\t</td>\t<td width=\"238\" height=\"31\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>막재 C종(합성섬유실의 직포)</p>\t</td></tr><tr>\t<td width=\"106\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>막재 중량</p>\t</td>\t<td width=\"238\" height=\"23\" valign=\"middle\" align=\"center\">\t<p> 550 gf/㎡ 이상</p>\t</td>\t<td width=\"238\" height=\"23\" valign=\"middle\" align=\"center\">\t<p> 500 gf/㎡ 이상</p>\t</td></tr><tr>\t<td width=\"106\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>직포 중량</p>\t</td>\t<td width=\"238\" height=\"23\" valign=\"middle\" align=\"center\">\t<p> 150 gf/㎡ 이상</p>\t</td>\t<td width=\"238\" height=\"23\" valign=\"middle\" align=\"center\">\t<p> 100 gf/㎡ 이상</p>\t</td></tr><tr>\t<td width=\"106\" height=\"23\" valign=\"middle\" align=\"center\">\t<p>코팅재 중량</p>\t</td>\t<td width=\"238\" height=\"23\" valign=\"middle\" align=\"center\">\t<p> 겉과 안쪽 양면에서 400 gf/㎡ 이상</p>\t</td>\t<td width=\"238\" height=\"23\" valign=\"middle\" align=\"center\">\t<p> 겉과 안쪽 양면에서 400 gf/㎡ 이상</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5052,
+        "sort": 87,
+        "title": "3.2. 재료특성",
+        "level": 2,
+        "label": "3.2",
+        "contents": "<p>3.2. 재료특성</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 88,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 3,
+        "label": "3.2.1",
+        "contents": "<p>3.2.1 막재의 강도 및 내구성</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 89,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 막재의 강도 및 내구성은 표 3.2-1에 따른다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 90,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "표 3.2-1",
+        "contents": "<p>표 3.2-1 막재의 강도 및 내구성</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 91,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p><tbody><tr>\t<td width=\"231\" height=\"29\" valign=\"middle\" bgcolor=\"#d9d9d9\">\t</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 92,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>인장강도</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 93,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>\t</td>\t<td width=\"347\" height=\"29\" valign=\"middle\" bgcolor=\"#d9d9d9\">\t</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 94,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p> 300 N/cm 이상</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 95,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>\t</td></tr><tr>\t<td width=\"231\" height=\"41\" valign=\"middle\" align=\"center\">\t</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 96,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>파단</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 97,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>\t</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 98,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>신장률</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 99,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>\t</td>\t<td width=\"347\" height=\"41\" valign=\"middle\" align=\"center\">\t</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 100,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p> 35% 이하</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 101,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>\t</td></tr><tr>\t<td width=\"231\" height=\"41\" valign=\"middle\" align=\"center\">\t</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 102,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>인열강도</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 103,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>\t</td>\t<td width=\"347\" height=\"41\" valign=\"middle\" align=\"center\">\t</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 104,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p> 100 N 이상, </p>"
+      },
+      {
+        "no": 5052,
+        "sort": 105,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>\t</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 106,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p> 인장강도×1 cm의 15% 이상</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 107,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>\t</td></tr><tr>\t<td width=\"231\" height=\"44\" valign=\"middle\" align=\"center\">\t</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 108,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>인장크리프 신장률</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 109,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>\t</td>\t<td width=\"347\" height=\"44\" valign=\"middle\" align=\"center\">\t</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 110,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p> 15% (합성섬유실에 따른 직포의 막재는 25% 이하)</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 111,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>\t</td></tr><tr>\t<td width=\"231\" height=\"45\" valign=\"middle\" align=\"center\">\t</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 112,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>변질 및 마모손상</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 113,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>\t</td>\t<td width=\"347\" height=\"45\" valign=\"middle\" align=\"center\">\t</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 114,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p> 변질․마모손상에 강한 막재, 또는 변질 혹은 마모손상 방지를 위한 조치를 한 막재</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 115,
+        "title": "3.2.1 막재의 강도 및 내구성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>\t</td></tr></tbody></p>"
+      },
+      {
+        "no": 5052,
+        "sort": 116,
+        "title": "3.2.2 직포의 구성 및 섬유밀도",
+        "level": 3,
+        "label": "3.2.2",
+        "contents": "<p>3.2.2 직포의 구성 및 섬유밀도</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 117,
+        "title": "3.2.2 직포의 구성 및 섬유밀도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 일반직물(직포)이란 제조시의 장력이 걸리지 않은 상태에서 종사와 종사 사이, 횡사와 횡사 사이의 망목 간격이 각각 0.5 mm 이하인 것을 말한다. 망목 간격이 0.5 mm를 초과하는 것을 망목상직물(직포)로 구별한다. 섬유밀도의 분산에 대한 기준치는 측정된 섬유밀도에 대하여 ±5% 이내여야 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 118,
+        "title": "3.2.3 막재의 두께",
+        "level": 3,
+        "label": "3.2.3",
+        "contents": "<p>3.2.3 막재의 두께</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 119,
+        "title": "3.2.3 막재의 두께",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 막재 두께의 기준치는 두께 측정기를 이용하여 75 mm 이상 간격으로 5개소 이상에 대하여 측정한 값의 평균치로 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 120,
+        "title": "3.3 품질 및 성능시험",
+        "level": 2,
+        "label": "3.3",
+        "contents": "<p>3.3 품질 및 성능시험</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 121,
+        "title": "3.3.1 직물의 휨 강성 측정",
+        "level": 3,
+        "label": "3.3.1",
+        "contents": "<p>3.3.1 직물의 휨 강성 측정</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 122,
+        "title": "3.3.1 직물의 휨 강성 측정",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 직물의 휨 측정은 KS L ISO 4604에 따라 300 mm 이상 간격으로 5개소 이상에 대하여 측정한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 123,
+        "title": "3.3.2 인장강도 및 인장신율 측정",
+        "level": 3,
+        "label": "3.3.2",
+        "contents": "<p>3.3.2 인장강도 및 인장신율 측정</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 124,
+        "title": "3.3.2 인장강도 및 인장신율 측정",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 종사방향 및 횡사방향의 인장강도 및 인장신율을 측정하여 품질기준치를 정한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 125,
+        "title": "3.3.3 인열강도",
+        "level": 3,
+        "label": "3.3.3",
+        "contents": "<p>3.3.3 인열강도</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 126,
+        "title": "3.3.3 인열강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 종사방향 및 횡사방향의 인열강도를 측정하여 품질기준치를 정한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 127,
+        "title": "3.3.4 코팅재 층의 접착강도",
+        "level": 3,
+        "label": "3.3.4",
+        "contents": "<p>3.3.4 코팅재 층의 접착강도</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 128,
+        "title": "3.3.4 코팅재 층의 접착강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 종사방향 및 횡사방향의 코팅재 밀착강도를 측정하여 품질기준치를 정한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 129,
+        "title": "3.3.5 인장 크리프",
+        "level": 3,
+        "label": "3.3.5",
+        "contents": "<p>3.3.5 인장 크리프</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 130,
+        "title": "3.3.5 인장 크리프",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 종사방향 및 횡사방향의 인장크리프에 따른 신장률을 측정하여 품질기준치를 정한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 131,
+        "title": "3.3.6 반복하중을 받는 경우의 인장강도 측정",
+        "level": 3,
+        "label": "3.3.6",
+        "contents": "<p>3.3.6 반복하중을 받는 경우의 인장강도 측정</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 132,
+        "title": "3.3.6 반복하중을 받는 경우의 인장강도 측정",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 반복하중을 받는 경우의 인장강도를 측정하여 품질 기준치를 정한다. 다만 막재의 구성재 및 사용환경 조건에 따라 이 기준치를 요구하지 않는 경우 하지 않아도 된다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 133,
+        "title": "3.3.7 접힘 인장강도",
+        "level": 3,
+        "label": "3.3.7",
+        "contents": "<p>3.3.7 접힘 인장강도</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 134,
+        "title": "3.3.7 접힘 인장강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 막재의 접힘 인장강도는 종사방향 및 횡사방향 각각의 인장강도 평균치가 동일한 로트에 있어 시험 전에 측정된 각 실 방향 인장강도 평균치의 70% 이상이어야 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 135,
+        "title": "3.3.8 내후성",
+        "level": 3,
+        "label": "3.3.8",
+        "contents": "<p>3.3.8 내후성</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 136,
+        "title": "3.3.8 내후성",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 막재는 외부 폭로에 대해 종사방향 및 횡사방향의 인장강도의 평균치가 막재의 종류에 따라 다음의 수치를 만족하여야한다. </p>"
+      },
+      {
+        "no": 5052,
+        "sort": 137,
+        "title": "3.3.8 내후성",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① A종 및 B종：종사 및 횡사방향의 인장강도가 각각 초기인 장강도의 70% 이상</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 138,
+        "title": "3.3.8 내후성",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② C종：종사 및 횡사방향의 인장강도가 각각 초기인장강도의 80% 이상</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 139,
+        "title": "3.3.9 습윤시 인장강도",
+        "level": 3,
+        "label": "3.3.9",
+        "contents": "<p>3.3.9 습윤시 인장강도</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 140,
+        "title": "3.3.9 습윤시 인장강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 막재가 습윤상태에 있을 때 종사방향 및 횡사방향의 인장강도 평균치는 각각 초기인장강도의 80%이상 이어야한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 141,
+        "title": "3.3.10 고온시 인장강도",
+        "level": 3,
+        "label": "3.3.10",
+        "contents": "<p>3.3.10 고온시 인장강도</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 142,
+        "title": "3.3.10 고온시 인장강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 막재가 고온상태에 있을 때 종사방향 및 횡사방향의 인장강도 평균치는 각각 초기인장강도의 70%이상 이어야한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 143,
+        "title": "3.3.11 내흡수성",
+        "level": 3,
+        "label": "3.3.11",
+        "contents": "<p>3.3.11 내흡수성</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 144,
+        "title": "3.3.11 내흡수성",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 막재는 흡수길이의 최대치가 20 mm이하 이어야한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 145,
+        "title": "4. 설계 ",
+        "level": 1,
+        "label": "4.",
+        "contents": "<p>4. 설계 </p>"
+      },
+      {
+        "no": 5052,
+        "sort": 146,
+        "title": "4.1 구조설계 고려사항",
+        "level": 2,
+        "label": "4.1",
+        "contents": "<p>4.1 구조설계 고려사항</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 147,
+        "title": "4.1 구조설계 고려사항",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 막재에 대한 설계는 허용응력설계법을 준용하며 그 이외의 부재에 대해서는 허용응력설계법과 동등 이상의 구조설계법을 이용하여 막구조 또는 그 외의 구조를 병용한 건축물의 안전을 확인할 수 있는 구조계산이 이루어져야한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 148,
+        "title": "4.2 변위제한",
+        "level": 2,
+        "label": "4.2",
+        "contents": "<p>4.2 변위제한</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 149,
+        "title": "4.2 변위제한",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 막구조에 작용하는 하중 및 외력에 따른 변형은 비교적 크고 또한 바람에 따른 막면의 강제진동이 생길 수 있으므로 표 4.2-1와 같은 최대변위에 대한 제한규정을 적용한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 150,
+        "title": "4.2 변위제한",
+        "level": 4,
+        "label": "표 4.2-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.2-1 막재의 변위제한 </p></caption><tbody><tr>\t<td rowspan=\"2\" width=\"126\" height=\"59\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>막면의 </p>\t<p>지점간 거리</p>\t</td>\t<td rowspan=\"2\" width=\"151\" height=\"59\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>하 중</p>\t</td>\t<td colspan=\"2\" width=\"309\" height=\"22\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>최대변위량/지점간 거리</p>\t</td></tr><tr>\t<td width=\"143\" height=\"37\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>주변이 골조</p>\t<p>(골조막구조)</p>\t</td>\t<td width=\"166\" height=\"37\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>주변의 일부가 구조용 케이블 경계(케이블막구조)</p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"126\" height=\"44\" valign=\"middle\" align=\"center\">\t<p>4 m 이하</p>\t</td>\t<td width=\"151\" height=\"22\" valign=\"middle\" align=\"center\">\t<p> 적설시</p>\t</td>\t<td width=\"143\" height=\"22\" valign=\"middle\" align=\"center\">\t<p> 1/15 이하</p>\t</td>\t<td width=\"166\" height=\"22\" valign=\"middle\" align=\"center\">\t<p> 1/10 이하 </p>\t</td></tr><tr>\t<td width=\"151\" height=\"22\" valign=\"middle\" align=\"center\">\t<p> 폭풍시 하중의 1/2</p>\t</td>\t<td width=\"143\" height=\"22\" valign=\"middle\" align=\"center\">\t<p> 1/20 이하</p>\t</td>\t<td width=\"166\" height=\"22\" valign=\"middle\" align=\"center\">\t<p> 1/10 이하</p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"126\" height=\"44\" valign=\"middle\" align=\"center\">\t<p>4 m 초과</p>\t</td>\t<td width=\"151\" height=\"22\" valign=\"middle\" align=\"center\">\t<p> 적설시</p>\t</td>\t<td width=\"143\" height=\"22\" valign=\"middle\" align=\"center\">\t<p> 1/15 이하</p>\t</td>\t<td width=\"166\" height=\"22\" valign=\"middle\" align=\"center\">\t<p> 1/10 이하</p>\t</td></tr><tr>\t<td width=\"151\" height=\"22\" valign=\"middle\" align=\"center\">\t<p> 폭풍시</p>\t</td>\t<td width=\"143\" height=\"22\" valign=\"middle\" align=\"center\">\t<p> 1/15 이하</p>\t</td>\t<td width=\"166\" height=\"22\" valign=\"middle\" align=\"center\">\t<p> 1/10 이하</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5052,
+        "sort": 151,
+        "title": "4.3 막재의 허용인장응력",
+        "level": 2,
+        "label": "4.3",
+        "contents": "<p>4.3 막재의 허용인장응력</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 152,
+        "title": "4.3 막재의 허용인장응력",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 막재의 허용인장력은 접합등의 상황에 따라 표 4.3-1에 따른다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 153,
+        "title": "4.3 막재의 허용인장응력",
+        "level": 4,
+        "label": "표 4.3-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.3-1 막재의 허용인장응력</p></caption><tbody><tr>\t<td width=\"52\" height=\"54\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p> </p>\t</td>\t<td colspan=\"2\" width=\"270\" height=\"54\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>접합상황</p>\t</td>\t<td width=\"126\" height=\"54\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>장기하중에 대한 허용인장응력</p>\t<p>(<img src=\"data:image/gif;base64,R0lGODlhHwANAPUAAAAAAAAAOgAAZgA6ZgBmtjoAADoAOjoAZjpmtjqQtjqQ22YAAGYAOmY6OmY6kGZmkGa222a2/5A6AJA6OpA6ZpBmOpBmkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLa2trbbkLbbtrbb27bb/7b//9uQOtuQZtuQkNu2ZtvbkNvb29vb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADUALAAAAAAfAA0AAAalwJpwSBzGSMWkcjlElZjQ2QIQEXIAAMgFyoU1CEKapQXTcKGo0OFZrn2eZyVty6k6Z5ghrQIQjCQJfAgnBQNwQm0uCnM1LxthExBCMSIMEDQSCC0mVU1PMw4qZh8tQi5gQiuKNaClHoeMQh0PJXhDJgpEnDUwCDVzMixCKZ28vo63uTEZNBRPuy4QIL8SAAGPvyyxYRIBkq01Ho8vBthLbXHp6ktBADs=\" width=\"32\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>\t</td>\t<td width=\"126\" height=\"54\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>단기하중에 대한 허용인장응력</p>\t<p>(<img src=\"data:image/gif;base64,R0lGODlhHwANAPUAAAAAAAAAOgAAZgA6ZgBmtjoAADoAOjoAZjpmtjqQtjqQ22YAAGYAOmY6OmY6kGZmkGa222a2/5A6AJA6OpA6ZpBmOpBmkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLa2trbbkLbbtrbb27bb/7b//9uQOtuQZtuQkNu2ZtvbkNvb29vb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADUALAAAAAAfAA0AAAalwJpwSBzGSMWkcjlElZjQ2QIQEXIAAMgFyoU1CEKapQXTcKGo0OFZrn2eZyVty6k6Z5ghrQIQjCQJfAgnBQNwQm0uCnM1LxthExBCMSIMEDQSCC0mVU1PMw4qZh8tQi5gQiuKNaClHoeMQh0PJXhDJgpEnDUwCDVzMixCKZ28vo63uTEZNBRPuy4QIL8SAAGPvyyxYRIBkq01Ho8vBthLbXHp6ktBADs=\" width=\"32\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>\t</td></tr><tr>\t<td rowspan=\"2\" width=\"52\" height=\"106\" valign=\"middle\" align=\"center\">\t<p>(1)</p>\t</td>\t<td rowspan=\"2\" width=\"169\" height=\"106\" valign=\"middle\" align=\"center\">\t<p>접합부가 없는 경우 또는 접합폭 및 용착폭이 40mm 이상인 경우 </p>\t</td>\t<td width=\"101\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>막재가 접히는 부분이 없는 경우</p>\t</td>\t<td width=\"126\" height=\"53\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhEQAfAPUAAAAAAAAAOgAAZgBmtjoAADo6kDpmtjqQ22YAAGY6OmZmkGaQ22a2/5A6AJA6OpCQ25C2/5Db/7ZmOrZmZraQOraQkLa2trbb27bb/7b//9uQOtuQZtu2Ztvb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAARAB8AAAaJwJNwSCwaj8hhCQFoNg/Jk6jgEWoYUQ3U1BlhkiZHxDTJRKWE5uB80p4+2Gg4ciJVT6F7caoXVvonJg1NAmaBg2tsJyUPikIhFx2OGomOlpdJS06bm4WYn0ccBAELbCUKHnNnIhBCIHRnEgtciiMWCaWrrSYUcUkbsCK5SR8GqRK+SRIApKDOJ0EAOw==\" width=\"18\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"126\" height=\"53\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhEQAfAPUAAAAAAAAAZgBmtjoAADo6kDqQ22YAAGa2/5A6AJA6OpCQ25C225Db/7ZmALZmOrZmZraQkLa2tra2/7bb27bb/7b//9uQOtu2Ztvb/9v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAARAB8AAAZ7wJBwSCwaj8jhxwBoNgvJEIeQEVoOUQsUhOlQkqAEA/SoRKWDpuAc0oY02GiYEfJUQ5t7caoXQvohIAhNAWaBg2tsIR8KikIbExiOFomOlpdJS06bm4WYn5kLlg5QihsXpWcgEhqpURFvrkgbZq1sDZuVZ26KuAC6oJdBADs=\" width=\"18\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td width=\"101\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>개폐식 지붕과 같이  막재가 접혀지는 경우</p>\t</td>\t<td width=\"126\" height=\"53\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhEQAfAPUAAAAAAAAAOgAAZgBmtjoAADo6kDpmtjqQ22YAAGY6OmZmkGaQ22a2/5A6AJA6OpCQ25C2/5Db/7ZmOrZmZraQOraQkLa2trbb27bb/7b//9uQOtuQZtu2Ztvb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAARAB8AAAaJwJNwSCwaj8hhCQFoNg/Jk6jgEWoYUQ3U1BlhkiZHxDTJRKWE5uB80p4+2Gg4ciJVT6F7caoXVvonJg1NAmaBg2tsJyUPikIhFx2OGomOlpdJS06bm4WYn0ccBAELbCUKHnNnIhBCIHRnEgtciiMWCaWrrSYUcUkbsCK5SR8GqRK+SRIApKDOJ0EAOw==\" width=\"18\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"126\" height=\"53\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhEQAfAPUAAAAAAAAAZgA6ZgA6kABmtjoAADo6kDpmtjqQ22YAAGZmkGZmtma2/5A6AJA6OpBmOpBmkJCQtpCQ25Db/7ZmALZmZraQkLbb27bb/7b//9uQOtvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACYALAAAAAARAB8AAAaJQJNwSCwaj8ghKQFoNhFJU8jQEWoYUQ20xBFhkiXHpFTJRKWFJuFs0po82Gh4YhpVTaB7caoXWvomJQ1NAWaBg2tsJiQSikIgFxyOGomOlpdJS06bm4WYSBtCoWeCAAJ0pBGWJaqOJQ9pB2wlEB0iCXFJHgNVFLlIH6hlZyQKHSELih4FvJ/OQ0EAOw==\" width=\"18\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td width=\"52\" height=\"40\" valign=\"middle\" align=\"center\">\t<p>(2)</p>\t</td>\t<td colspan=\"2\" width=\"270\" height=\"40\" valign=\"middle\" align=\"center\">\t<p> (1)항 이외의 경우</p>\t</td>\t<td width=\"126\" height=\"40\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhEgAfAPUAAAAAAAAAOgAAZgBmtjoAADo6kDqQ22YAAGY6OmY6Zma222a2/5A6AJA6OpCQ25C225Db/7ZmZraQkLbb27bb/7b//9uQOtvbkNvb/9v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAASAB8AAAaPwJBwSCwaj0jj5wBoNg1JIaeQEVoW0ZAFCsJ0KFFQAwKKVLIhDqE5QGuhGmxWDAl5qpsqcqoXSvpEIAxNAmeCAG1uIR8OikIbExiOFomOlpdRS06bnIWYn0UXD0MaBAEKR5pQiwkUHQh1Rxqrs1ZyRrVvVqu4q1u7SLm/urK0vrdFuR+tr7GBgwCepaegoEEAOw==\" width=\"19\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"126\" height=\"40\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhEQAfAPUAAAAAAAAAZgA6ZgA6kABmtjoAADo6kDpmtjqQ22YAAGZmkGZmtma2/5A6AJA6OpBmOpBmkJCQtpCQ25Db/7ZmALZmZraQkLbb27bb/7b//9uQOtvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACYALAAAAAARAB8AAAaJQJNwSCwaj8ghKQFoNhFJU8jQEWoYUQ20xBFhkiXHpFTJRKWFJuFs0po82Gh4YhpVTaB7caoXWvomJQ1NAWaBg2tsJiQSikIgFxyOGomOlpdJS06bm4WYSBtCoWeCAAJ0pBGWJaqOJQ9pB2wlEB0iCXFJHgNVFLlIH6hlZyQKHSELih4FvJ/OQ0EAOw==\" width=\"18\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td colspan=\"5\" width=\"574\" height=\"39\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhCgAOAPQAAAAAAAAAOgA6kDpmtmY6ZmaQ22a2/5A6AJA6ZpDb/7ZmOrZmZrb//9uQOtuQkNvb29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAKAA4AAAU0YCWO5BgBKBAkpGJU1MKMEzFXDykNlXOPDZQAQqIgGJJCaVcCvkQAEeWAeqKaUGxWe9WKQgA7\" width=\"11\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\"> : 막재 각 방향의 기준강도(<img src=\"data:image/gif;base64,R0lGODlhHwANAPUAAAAAAAAAOgAAZgA6ZgBmtjoAADoAOjoAZjpmtjqQtjqQ22YAAGYAOmY6OmY6kGZmkGa222a2/5A6AJA6OpA6ZpBmOpBmkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLa2trbbkLbbtrbb27bb/7b//9uQOtuQZtuQkNu2ZtvbkNvb29vb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADUALAAAAAAfAA0AAAalwJpwSBzGSMWkcjlElZjQ2QIQEXIAAMgFyoU1CEKapQXTcKGo0OFZrn2eZyVty6k6Z5ghrQIQjCQJfAgnBQNwQm0uCnM1LxthExBCMSIMEDQSCC0mVU1PMw4qZh8tQi5gQiuKNaClHoeMQh0PJXhDJgpEnDUwCDVzMixCKZ28vo63uTEZNBRPuy4QIL8SAAGPvyyxYRIBkq01Ho8vBthLbXHp6ktBADs=\" width=\"32\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\">)</p>\t<p>다만, 막재 및 막면 정착부 이외의 구조부재는 그 부재와 관련된 관계기준을 따른다. </p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5052,
+        "sort": 154,
+        "title": "4.4 정착부의 허용인장응력",
+        "level": 2,
+        "label": "4.4",
+        "contents": "<p>4.4 정착부의 허용인장응력</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 155,
+        "title": "4.4 정착부의 허용인장응력",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 막면 정착부의 허용인장응력은 표 4.4-1의 막재 허용인내력을 막면의 정착부 종류 및 형상에 따라 구한 유효단면적으로 나눈 수치로 하여야 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 156,
+        "title": "4.4 정착부의 허용인장응력",
+        "level": 4,
+        "label": "표 4.4-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.4-1 막면 정착부의 허용인장내력 </p></caption><tbody><tr>\t<td width=\"293\" height=\"19\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>장기하중에 대한 인장의 허용내력</p>\t</td>\t<td width=\"293\" height=\"19\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>단기하중에 대한 인장력의 허용내력</p>\t</td></tr><tr>\t<td width=\"293\" height=\"34\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhEQAfAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6kDpmkDpmtjqQ22YAAGYAZmY6AGY6OmZmtma222a2/5A6AJA6OpCQ25C225C2/5Db/7ZmALZmZraQkLbb/7b//9uQOtuQZtvb29vb/9v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAARAB8AAAaLwJNwSCwaj8hhSQFoNhPJk8gAEnIgUQ7U9BlpkiaJxYTZRKWFJuF80p5C2GjYciJVhR16cXofhqhEJhFNAmZCJh4ZfWclE2xDIhWPQhh6ZyMKCJObUUtOn5+FnKNRIgUDi0giFHOMDpshBwwBD2wcAholDZZIHGsnF3FJIb/BjAsaI7tsIQW0pNBDQQA7\" width=\"18\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td>\t<td width=\"293\" height=\"34\" valign=\"middle\" align=\"center\">\t<p><img src=\"data:image/gif;base64,R0lGODlhEQAfAPUAAAAAAAAAOgAAZgA6kABmtjoAADoAOjo6kDpmtjqQ22YAAGYAZmY6AGaQ22a222a2/5A6AJA6OpCQ25C2/5Db/7ZmZraQkLbb/7b//9uQOtuQZtu2Ztvb29vb/9v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACUALAAAAAARAB8AAAaHwJJwSCwaj8jhSAFoNhPJEujgEWYe0QyU1AldkqQIhVTBRKWFJuFc0pY+2GiYUhJVhRp6cXoffqhEJBBNAmZCJBwWfWcjEmxDIBOPQhV6ZyEKCJObUUtOn5+FnKNJIwwBDWwhCxggBpaMrJMbqWxLAQ6PVZhxSRkDHoJQUSGOvGwgp7WkzCVBADs=\" width=\"18\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>\t</td></tr><tr>\t<td colspan=\"2\" width=\"586\" height=\"51\" valign=\"middle\" align=\"center\">\t<p> </p>\t<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAAAOgA6kABmtjo6kDqQ22YAAGYAOmaQtmaQ22a2/5A6AJA6OpCQtpCQ25Db/7ZmALZmZraQZraQkLa2/7bb/7b//9uQOtuQZtvb/9v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAANABEAAAZWQJBwSCwaj6DPAsBkCjTFD+Mh5CSMHAIU5KEYLwVQpzKOLhQgCdXoMTi3xc0AZEVCwmUhZu05rJFZcEIbWkpMAX8fGROCRh8NSEMcDpGDaEgeCBEWIEEAOw==\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 실험에 따른 막면 정착부의 최대인장력(단위 N)  </p>\t<p> </p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5052,
+        "sort": 157,
+        "title": "4.5 막재의 접합부 설계",
+        "level": 2,
+        "label": "4.5",
+        "contents": "<p>4.5 막재의 접합부 설계</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 158,
+        "title": "4.5.1 막재의 접합",
+        "level": 3,
+        "label": "4.5.1",
+        "contents": "<p>4.5.1 막재의 접합</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 159,
+        "title": "4.5.1 막재의 접합",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 구조내력상 주요한 부분의 막재 상호간 접합은 막재 상호 존재응력이 충분히 전달되도록 접합하여야한다. 막재의 종류에 따른 접합방법은 표 4.5-1에 따른다. 다만, 표 4.5-1의 접합방법 이상으로 막재가 서로 존재응력을 전달하는 것이 가능한 경우는 표 4.5-1의 제한을 따르지 않아도 된다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 160,
+        "title": "4.5.1 막재의 접합",
+        "level": 5,
+        "label": "표 4.5-1",
+        "contents": "<p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><caption align=\"top\"><p>표 4.5-1 막재의 접합방법 </p></caption><tbody><tr>\t<td width=\"106\" height=\"22\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>구분</p>\t</td>\t<td width=\"151\" height=\"22\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>막재의 종류</p>\t</td>\t<td width=\"314\" height=\"22\" valign=\"middle\" bgcolor=\"#d6d6d6\">\t<p>접합방법</p>\t</td></tr><tr>\t<td width=\"106\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>Ⅰ</p>\t</td>\t<td width=\"151\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>A </p>\t</td>\t<td width=\"314\" height=\"22\" valign=\"middle\" align=\"center\">\t<p>열판용착접합</p>\t</td></tr><tr>\t<td width=\"106\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>Ⅱ</p>\t</td>\t<td width=\"151\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>B, C</p>\t</td>\t<td width=\"314\" height=\"37\" valign=\"middle\" align=\"center\">\t<p>봉제접합, 열풍용착접합, 고주파용착접합 또는 열판용착접합</p>\t</td></tr><tr>\t<td width=\"106\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>Ⅲ</p>\t</td>\t<td width=\"151\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>A, B, C 이외의 막재</p>\t</td>\t<td width=\"314\" height=\"53\" valign=\"middle\" align=\"center\">\t<p>막재의 품질 및 사용환경, 그 외의 실황에 따른 실험에 따라 Ⅰ 또는 Ⅱ와 동등 이상의 존재응력을 전달할 수 있는 접합</p>\t</td></tr></tbody></table></p>"
+      },
+      {
+        "no": 5052,
+        "sort": 161,
+        "title": "4.5.2 접합부 인장강도",
+        "level": 3,
+        "label": "4.5.2",
+        "contents": "<p>4.5.2 접합부 인장강도</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 162,
+        "title": "4.5.2 접합부 인장강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 종사방향 및 횡사방향의 접합부 인장강도 평균치는 봉재접합부 인장시험에 이용하였던 막재에서 측정된 모재 초기인장강도의 70% 이상, 그 외의 다른 방법으로 접합된 접합부에 대해서는 같은 방식으로 동일 막재에서 측정된 모재 초기인장강도의 80% 이상으로 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 163,
+        "title": "4.5.3 접합부 내박리강도",
+        "level": 3,
+        "label": "4.5.3",
+        "contents": "<p>4.5.3 접합부 내박리강도</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 164,
+        "title": "4.5.3 접합부 내박리강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 종사방향 및 횡사방향 접합부의 내박리강도는 동일 로트 및 동일 접합방법으로 만들어진 시험편으로 접합부 인장시험에 따라 측정된 각 실 방향의 인장강도의 1% 이상이면서, 또한 10 N/cm 이상으로 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 165,
+        "title": "4.5.4 접합부 내인장 크리프",
+        "level": 3,
+        "label": "4.5.4",
+        "contents": "<p>4.5.4 접합부 내인장 크리프</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 166,
+        "title": "4.5.4 접합부 내인장 크리프",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 접합부의 내인장 크리프 특성에 대하여 종사방향 및 횡사방향 신장률의 평균치는 각각 15% 이하로 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 167,
+        "title": "4.5.5 고온상태에서의 접합부 인장강도",
+        "level": 3,
+        "label": "4.5.5",
+        "contents": "<p>4.5.5 고온상태에서의 접합부 인장강도</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 168,
+        "title": "4.5.5 고온상태에서의 접합부 인장강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 고온상태에 대한 종사방향 및 횡사방향의 접합부 인장강도 평균치는 초기인장강도의 60% 이상으로 하고, 또한 막재 A종에 대해서는 260 ℃의 온도에서 200 N/cm 이상으로 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 169,
+        "title": "4.5.6 습윤상태에서의 접합부 인장강도",
+        "level": 3,
+        "label": "4.5.6",
+        "contents": "<p>4.5.6 습윤상태에서의 접합부 인장강도</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 170,
+        "title": "4.5.6 습윤상태에서의 접합부 인장강도",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 습윤상태에 대한 종사방향 및 횡사방향의 접합부 인장강도 평균치는 초기인장강도의 80% 이상 이어야 한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 171,
+        "title": "4.5.7 접합부 내후성",
+        "level": 3,
+        "label": "4.5.7",
+        "contents": "<p>4.5.7 접합부 내후성</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 172,
+        "title": "4.5.7 접합부 내후성",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 접합부의 폭로실험에 대해서 종사방향 및 횡사방향의 인장강도 평균치는 막재의 종류에 따라 다음의 수치를 만족하여야한다.</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 173,
+        "title": "4.5.7 접합부 내후성",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① A종 및 B종：각 방향의 인장강도가 접합부 초기인장강도의 70% 이상</p>"
+      },
+      {
+        "no": 5052,
+        "sort": 174,
+        "title": "4.5.7 접합부 내후성",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② C종：각 방향의 인장강도가 접합부 초기 인장강도의 80% 이상</p>"
+      }
+    ]
+  }
+]
