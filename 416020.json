@@ -1,0 +1,2461 @@
+[
+  {
+    "no": 5041,
+    "codeType": "KDS",
+    "code": "416020",
+    "fullCode": "1020416020",
+    "name": "조적식구조 허용응력설계법",
+    "version": "2022",
+    "updateDate": "2022-10-14T10:49:00",
+    "list": [
+      {
+        "no": 5041,
+        "sort": 1,
+        "title": "1. 일반사항",
+        "level": 1,
+        "label": "1.",
+        "contents": "<p>1. 일반사항</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 2,
+        "title": "1.1 목적",
+        "level": 2,
+        "label": "1.1",
+        "contents": "<p>1.1 목적</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 3,
+        "title": "1.1 목적",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 41 60 20은 조적식구조 허용응력설계법의 일반적인 요구사항과 설계방법에 따른 기술적 사항들을 규정함으로써 조적식구조의 안전성과 사용성, 내구성을 확보하는 것을 그 목적으로 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 4,
+        "title": "1.2 적용범위",
+        "level": 2,
+        "label": "1.2",
+        "contents": "<p>1.2 적용범위</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 5,
+        "title": "1.2 적용범위",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) 이 기준은 조적식구조의 일반적이고 기본적인 요구사항과 재료, 설계, 품질관리 등 이와 관련한 기준을 규정한 것으로 조적식 건축물 및 공작물에 적용한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 6,
+        "title": "1.3 참고 기준",
+        "level": 2,
+        "label": "1.3",
+        "contents": "<p>1.3 참고 기준</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 7,
+        "title": "1.3.1 관련 법규",
+        "level": 3,
+        "label": "1.3.1",
+        "contents": "<p>1.3.1 관련 법규</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 8,
+        "title": "1.3.1 관련 법규",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 9,
+        "title": "1.3.2 관련 기준",
+        "level": 3,
+        "label": "1.3.2",
+        "contents": "<p>1.3.2 관련 기준</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 10,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KDS 41 60 05 조적식구조 일반</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 11,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KDS 41 60 10 조적식구조 재료의 기준</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 12,
+        "title": "1.3.2 관련 기준",
+        "level": 4,
+        "label": "본문",
+        "contents": "<p>● KDS 41 60 30 조적식구조 강도설계법</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 13,
+        "title": "1.4 용어의 정의",
+        "level": 2,
+        "label": "1.4",
+        "contents": "<p>1.4 용어의 정의</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 14,
+        "title": "1.4 용어의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 41 60 05에 따른다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 15,
+        "title": "1.5 기호의 정의",
+        "level": 2,
+        "label": "1.5",
+        "contents": "<p>1.5 기호의 정의</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 16,
+        "title": "1.5 기호의 정의",
+        "level": 3,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 41 60 05에 따른다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 17,
+        "title": "2. 조사 및 계획",
+        "level": 1,
+        "label": "2.",
+        "contents": "<p>2. 조사 및 계획</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 18,
+        "title": "2. 조사 및 계획",
+        "level": 2,
+        "label": "본문",
+        "contents": "<p>내용 없음.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 19,
+        "title": "3. 재료",
+        "level": 1,
+        "label": "3.",
+        "contents": "<p>3. 재료</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 20,
+        "title": "3. 재료",
+        "level": 2,
+        "label": "(1)",
+        "contents": "<p>(1) KDS 41 60 10에 따른다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 21,
+        "title": "4. 설계",
+        "level": 1,
+        "label": "4.",
+        "contents": "<p>4. 설계</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 22,
+        "title": "4.1 일반사항",
+        "level": 2,
+        "label": "4.1",
+        "contents": "<p>4.1 일반사항</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 23,
+        "title": "4.1.1 범위",
+        "level": 3,
+        "label": "4.1.1",
+        "contents": "<p>4.1.1 범위</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 24,
+        "title": "4.1.1 범위",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 허용응력설계법에 의한 조적식구조의 설계는 KDS 41 60 30과 이 기준에 따른다. 사용하중 하에서 점토재료나 콘크리트재료 조적조의 응력은 이 기준에서 주어진 값을 초과하지 않아야 한다. 홍수지역에 위치한 구조물 설계에 대해서는 홍수위험지역의 분류에 적합한 하중조합을 설정해서 설계 또는 검토한다. 다만 기본 하중조합과 지하수압·토압(<img src=\"data:image/gif;base64,R0lGODlhDQAOAPQAAAAAAAA6kABmtjo6kDqQ22YAAGYAOmYAZma2/5A6AJA6OpDb/7ZmALb//9uQOtv/ttv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAANAA4AAAVBYCWOZGme1VQAgBCxAEJORyNGgomPjFz2oolhUVLBAAFIKZIUMQimp4iiIJKoVslASdJyHdARJcEKPFaAMGrNDgEAOw==\" width=\"14\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">)을 고려한 하중조합에 추가한다.  환경부 홍수위험지도의 홍수심도 2.0 m 이상 지역과 해안침수예상도에서 정한 지역에서는 식(4.1-1, 2, 3)을 사용한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 25,
+        "title": "4.1.1 범위",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                         <img src=\"data:image/gif;base64,R0lGODlhigARAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmZgBmkABmtjoAADoAOjoAZjo6kDpmOjpmkDpmtjqQ22YAAGYAOmY6AGY6ZmY6kGZmAGZmtmaQ22a222a2/5A6AJA6OpBmOpBmtpCQtpC225C2/5Db/7ZmALZmOrZmZrZmkLaQkLaQtra2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvbkNvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAACKABEAAAf+gEGCg4SFhoeIiYqLjI2Oj5CRkpOUlZaXkUAflpqYlZ2eoTkApKQBGIWgiKOlpRqDqoY+JSKHPjiCNYSsrQCvh7GEPRMABC2IJAAPgre5gyOkAi4vrkHQAYU5BbhBMgm/gsGGOdLhHLXhm4ZAGwAB6IXUAAzHu+VBQOeI4vgbGd3bUp1owWOBiyDy6BEaAWHQiwPcfnjg9qzhMwSE+C20mCLIDIoag/yQAI9QjIOHGArq+HGfukI8GODKVzJICZSDTqa0aA2joJaERpYcgYBHgl6magrt9qqGUaTuSi41pNPQUhlNYR5F+k6QNm4jwAWJ2aEYuqoZN1jcYcFnj3r+hF4EDKc248tD8gDcs5toaiEYDdz9c1hqr0u8Pq3xDDKqoYyAgAXDqttjBVF8KtZtEMtDQcmQ7Br+uADsbiG/hGCA6Na1n2jSi/i9SKxyELmDPyK8Us0aXWggmS93NFQQZ89Upgl1rgXERum+JOlivC1St6Dl+JzHTs54blh208ux00A996/QLYnuMO4wMcK5sLgLmr0des0gOkII+lGBG/1H/MQ0kz6DFNePBvnt1x9dDtQzggErALOZID10AF8j41mC2n4UHPOCRRkSQkIAgwG4ASqPUeQaQDj80CFCPIV4nCHQtDJAiY7UCMCFj+jIIw/EWOQjNzlAwIN+kQw4Uwxcg/xAjDHXBZkRCoScoGIoWHpykw73Zenll2AqcsINJrBwZZhopullDgzQsJiacMYp55yHBAIAOw==\" width=\"139\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                   (4.1-1)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 26,
+        "title": "4.1.1 범위",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>           <img src=\"data:image/gif;base64,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\" width=\"327\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">     (4.1-2)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 27,
+        "title": "4.1.1 범위",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                         <img src=\"data:image/gif;base64,R0lGODlhggARAPQAAAAAAAAAOjo6kDqQ22a225C2/5Db/7ZmOrZmZrZmkLaQkLbb27b//9vbkNv/29v///+2Zv+2kP/bkP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAACCABEAAAXw4CSOZGmeaKqubOu+cCzPdG2rQI7mgMnzp15K6PuVfsDhUBdkTpAk49P5HBGt2KP1KuJuvV1cVBzMjsPV3ZVL9LZ953h5vpPD6e4suLvWou12eUp0d1V7f35pgIdMSUJvR0mBfEhUiFGSZnuVmZCYTlKYYY9/goqXpoRxbKGDhaakqD2knrCThaqEnmSvvYmUW6ulZqfFl7+1wiybeprDn8DOirt9uXLJxC3MaNi7U8GRm1TVMFBF5CQHAQQymdBfuIcunDfarRADEgX1/P3+9QgYRDDwr6DBgygUOEiw4AHChxD7QRDQYEDEixgzagwBADs=\" width=\"132\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                    (4.1-3)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 28,
+        "title": "4.1.1 범위",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>홍수위험도지도의 2.0 m 이하 지역에서는 식(4.1-4, 5, 6)을 사용한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 29,
+        "title": "4.1.1 범위",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                         <img src=\"data:image/gif;base64,R0lGODlhigARAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmZgBmkABmtjoAADoAOjoAZjo6kDpmOjpmkDpmtjqQ22YAAGYAOmY6AGY6ZmY6kGZmAGZmtmaQ22a222a2/5A6AJA6OpBmOpBmtpCQtpC225C2/5Db/7ZmALZmOrZmZrZmkLaQkLaQtra2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvbkNvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAACKABEAAAf+gEGCg4SFhoeIiYqLjI2Oj5CRkpOUlZaXkUAflpqYlZ2eoTkApKQBGIWgiKOlpRqDqoY+JSKHPjiCNYSsrQCvh7GEPRMABC2IJAAPgre5gyOkAi4vrkHQAYU5BbhBMgm/gsGGOdLhHLXhm4ZAGwAB6IXUAAzHu+VBQOeI4vgbGd3bUp1owWOBiyDy6BEaAWHQiwPcfnjg9qzhMwSE+C20mCLIDIoag/yQAI9QjIOHGArq+HGfukI8GODKVzJICZSDTqa0aA2joJaERpYcgYBHgl6magrt9qqGUaTuSi41pNPQUhlNYR5F+k6QNm4jwAWJ2aEYuqoZN1jcYcFnj3r+hF4EDKc248tD8gDcs5toaiEYDdz9c1hqr0u8Pq3xDDKqoYyAgAXDqttjBVF8KtZtEMtDQcmQ7Br+uADsbiG/hGCA6Na1n2jSi/i9SKxyELmDPyK8Us0aXWggmS93NFQQZ89Upgl1rgXERum+JOlivC1St6Dl+JzHTs54blh208ux00A996/QLYnuMO4wMcK5sLgLmr0des0gOkII+lGBG/1H/MQ0kz6DFNePBvnt1x9dDtQzggErALOZID10AF8j41mC2n4UHPOCRRkSQkIAgwG4ASqPUeQaQDj80CFCPIV4nCHQtDJAiY7UCMCFj+jIIw/EWOQjNzlAwIN+kQw4Uwxcg/xAjDHXBZkRCoScoGIoWHpykw73Zenll2AqcsINJrBwZZhopullDgzQsJiacMYp55yHBAIAOw==\" width=\"139\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                   (4.1-4)     </p>"
+      },
+      {
+        "no": 5041,
+        "sort": 30,
+        "title": "4.1.1 범위",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>          <img src=\"data:image/gif;base64,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\" width=\"334\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">     (4.1-5)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 31,
+        "title": "4.1.1 범위",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                         <img src=\"data:image/gif;base64,R0lGODlhggARAPQAAAAAAAAAOjo6kDqQ22a225C2/5Db/7ZmOrZmZrZmkLaQkLbb27b//9vbkNv/29v///+2Zv+2kP/bkP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAACCABEAAAXw4CSOZGmeaKqubOu+cCzPdG2rQI7mgMnzp15K6PuVfsDhUBdkTpAk49P5HBGt2KP1KuJuvV1cVBzMjsPV3ZVL9LZ953h5vpPD6e4suLvWou12eUp0d1V7f35pgIdMSUJvR0mBfEhUiFGSZnuVmZCYTlKYYY9/goqXpoRxbKGDhaakqD2knrCThaqEnmSvvYmUW6ulZqfFl7+1wiybeprDn8DOirt9uXLJxC3MaNi7U8GRm1TVMFBF5CQHAQQymdBfuIcunDfarRADEgX1/P3+9QgYRDDwr6DBgygUOEiw4AHChxD7QRDQYEDEixgzagwBADs=\" width=\"132\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                    (4.1-6)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 32,
+        "title": "4.1.2 허용응력",
+        "level": 3,
+        "label": "4.1.2",
+        "contents": "<p>4.1.2 허용응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 33,
+        "title": "4.1.2 허용응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 품질확인 규정상 특별한 검사를 필요하지 않을 때는 KDS 41 60 30에서 조적조의 허용응력은 절반으로 저감한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 34,
+        "title": "4.1.3 설계가정",
+        "level": 3,
+        "label": "4.1.3",
+        "contents": "<p>4.1.3 설계가정</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 35,
+        "title": "4.1.3 설계가정",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 허용응력설계법은 허용응력과 선형적인 응력-변형률관계의 가정에 기초하여 모든 응력이 다음과 같이 탄성범위에 있는 것으로 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 36,
+        "title": "4.1.3 설계가정",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 휨모멘트에 대한 단면의 평면유지법칙을 유지한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 37,
+        "title": "4.1.3 설계가정",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 응력은 변형률에 비례한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 38,
+        "title": "4.1.3 설계가정",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 조적조의 부재는 균질한 요소로 형성된다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 39,
+        "title": "4.1.4 앵커볼트",
+        "level": 3,
+        "label": "4.1.4",
+        "contents": "<p>4.1.4 앵커볼트</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 40,
+        "title": "4.1.4.1 일반사항",
+        "level": 4,
+        "label": "4.1.4.1",
+        "contents": "<p>4.1.4.1 일반사항</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 41,
+        "title": "4.1.4.1 일반사항",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 민머리앵커볼트, 둥근머리앵커볼트, 그리고 갈고리형 앵커볼트에 대한 허용하중은 이 조항에 따라 결정하여야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 42,
+        "title": "4.1.4.2 인장",
+        "level": 4,
+        "label": "4.1.4.2",
+        "contents": "<p>4.1.4.2 인장</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 43,
+        "title": "4.1.4.2 인장",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 인장에 대한 허용하중은 식 (4.1-7)이나 식 (4.1-8) 중 작은 값으로 결정한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 44,
+        "title": "4.1.4.2 인장",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                          <img src=\"data:image/gif;base64,R0lGODlhdQATAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6ADo6ZjqQ20kAAGYAOmY6AGZmtmaQ22a222a2/5A6AJA6OpBmkJCQtpCQ25C2/5DbtpDb/7ZmALZmOrZmZraQZraQkLa2tra2/7bb27b//9uQOtuQZtu2ttvbttvb29vb/9v///+2Zv+2kP+2tv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC8ALAAAAAB1ABMAAAb+wJdwSCwaj8ikcslsOp/QqHQ6bSkA2Kx2yxWEqOCw2NhyjM/odHOEkWKRXHEW/i4CiPPkPeqaoIx1cEp7L4FuQ4SIioiEjXpSLBCAhY+DeGCOdouUmZSAhk4bX5qWlUKJdlyGnZuOnaiesEstDZNhrFO4nrGnR7B7skopbXh5ucaYm629u8rMzUcuf0J905fJzqmq19C7d7iyW0ouEZJCLGa2VKh3JKNRma+F4s/c3UQkIgTTbOrr1x2sQYm3jJs8e0daLGhDy9etYuQAFFgHihG7OvSg7UEnYmKRDAleqLDg8BwCBgMYBCBGJ2OLCmrkBNLywgSHEKKKpNiXk5RYkBIaMIh4oIJlFBYkYyoV0oJCtSIKL6RTlMgFhRcBSQiEsgLEiaVKUyRAdyQDAqPzirCoYPWFBxNUOoJVKuLAgHdEdm49UnStCwlo5wpewsJASCQtPsQMAgA7\" width=\"119\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">                     (4.1-7)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 45,
+        "title": "4.1.4.2 인장",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhUQARAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Ojo6kDpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmkJCQOpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQOraQkLa2kLa2tra227bb27bb/7b/27b//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEAALAAAAABRABEAAAf+gECCg4SFhoeIiYqLjI2Oj5CRkpOUlZA5AJmaDJU9EAADLIYyBqCihj4Vjj4RGIs5BDiCMgEikz8ZF0AysYQ8FDg/JgIuhbgFjT4TMwqyiSMNgzwHtr6lmprE0s1APxrVgjm1QD4P4IIxHciMJBg9p4jl1TMG0ZOwziOuh/KEOiIv1iXicU0gohfYFsCzhi1bMUEBB0E7aE+Qjw9AXvRSxIObIlz7fpCoKCmioImGeGAklALiRhsUGfFA8BAIPho1H+E7ieHYoB4gCiHU1OsHB2eEQDIy2S0DshNIH3WU5e0ckB4hBP0DolJir4uHZuY8pPRqhgEtMgAw6AiXhV1vGwURdNiDAiGNsngk0HbX4FSoJxsGYCAL7CRPphaNyOTKh4NMsWBcyLEPCI0bGSoDqZHihodGPLJaGg2khIsc1XxIQOFR0A8VhhftWAGTdKXLG2qOGGCVBwgZmhMxtT2pXHB+DvgSX25pxgoPzgIBADs=\" width=\"83\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                          (4.1-8)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 46,
+        "title": "4.1.4.2 인장",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhDAAPAPUAAAAAAAAAOgBmtjoAZjo6kDpmtjqQ22YAZmZmtmaQ22a2/5A6AJA6ZpA6kJBmZpCQ25C2/7ZmALZmOraQkLbb27bb/7b//9uQOtvb/9v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAAMAA8AAAZNQJBwSCwajReAEmAwfhgWkGYQJXoQQg4hU9Q0O46KMaIMQJwNLoda5BSEnkN0wwVdFKCPpAmaZD4LSwEJeYECR3APiEIbFBiLF4eLQ0EAOw==\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：앵커볼트의 허용인장력(N)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 47,
+        "title": "4.1.4.2 인장",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDgAPAPQAAAAAAAAAZgA6ZgBmtjoAADo6ADqQ22Y6OmaQ22a2/5A6AJBmkJCQtpC225Db/7ZmALZmOrZmZraQZra227b//9uQOtuQZtuQkNvb29v///+2Zv/bkP/btv//tv//2////yH5BAAAAB8ALAAAAAAOAA8AAAVF4CeOZGmepuWgI3es7DdBMMpRNOthn8pqgGAC1WmIHsPThXIcbhCVwcejAAwfgAAFI6FEmESGZ5H5GZ6xSkEAPm0IhlEIADs=\" width=\"16\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：조적조에 삽입되어 묻힌 앵커볼트에 의한 콘크리트 깔때기형태의 원면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 48,
+        "title": "4.1.4.2 인장",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPQAAAAAAAAAZjoAAGYAOmY6OmZmkGa222a2/5A6AJA6ZpCQ25C225Db/7ZmALZmOrZmZra227b//9uQZtuQkNu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAMAA8AAAVCYCeOZGmeosSgnUasKOTAphbNJ1d16okBwEOrcBFtFqKGcKMYTSJJYUYQ4CAAwgYgEJEYMKxHBIyiWBKszUDIEoUAADs=\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：앵커볼트의 단면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 49,
+        "title": "4.1.4.2 인장",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhEQAPAPUAAAAAAAAAOgA6ZgBmtjo6ZjpmtjqQ22YAZmY6AGY6kGa222a2/5A6OpCQtpCQ25Db/7ZmALZmOrZmZraQkLa2Zra2kLa2trb//9uQOtu2ttvbttvb29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAARAA8AAAZWQJFwSCwaj0RAMcRYHJVFSaXwLH4MIg6SCAEABtti5BEmghLasrCDVQshTtGHgBAgAmTz4SLUjDEKHnlCCRRtIiENIhMcGWlIHw6JIhYbYYKRTINuRUEAOw==\" width=\"17\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\">：28일 양생일 때 조적의 규정 압축강도(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 50,
+        "title": "4.1.4.2 인장",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCgAPAPUAAAAAAAAAZgBmtjoAADoAOjo6kDpmtjqQ22YAZmY6kGa2/5A6OpCQkJCQ25C2/5Db/7ZmALZmOrZmZra2Zra2kLa2tra227b//9u2Ztvb29v/29v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAKAA8AAAZCwJBwSCwah6CF4iihGIydQ2hThAAAgmPkcfwkqEaO9AhZhjqFjSf0QVyEmYqGkZiMQyDLpwF1cBxGGAMBb0UdBEtBADs=\" width=\"10\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：앵커볼트의 인장항복응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 51,
+        "title": "4.1.4.2 인장",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 면적 <img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6ZgA6kABmtjoAADo6ADqQ22aQ22a2/5A6AJBmkJCQtrZmOrZmZraQZra2tra227bb/7b//9uQOtu2Ztvb29vb/9v///+2Zv/bkP/btv/b2///tv//2////wAAACH5BAAAAB4ALAAAAAAQABEAAAVMoCeOZGme6MhBaTkZ7bhRcOxVWN1uVx53Fo+vNQEYdSdNRPRqPUZNFAUxYtQyh8nA00kABJfu8eaQNCQxzqKjuMRyWNukEEC3MgRdCAA7\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 식 (4.1-9)이나 식 (4.1-10) 중 작은 값이 되며, 인접한 앵커볼트의 투영면적이 겹쳐질 때, 각 앵커볼트 <img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6ZgA6kABmtjoAADo6ADqQ22aQ22a2/5A6AJBmkJCQtrZmOrZmZraQZra2tra227bb/7b//9uQOtu2Ztvb29vb/9v///+2Zv/bkP/btv/b2///tv//2////wAAACH5BAAAAB4ALAAAAAAQABEAAAVMoCeOZGme6MhBaTkZ7bhRcOxVWN1uVx53Fo+vNQEYdSdNRPRqPUZNFAUxYtQyh8nA00kABJfu8eaQNCQxzqKjuMRyWNukEEC3MgRdCAA7\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">의 겹침면적은 절반으로 감소시켜야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 52,
+        "title": "4.1.4.2 인장",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                               <img src=\"data:image/gif;base64,R0lGODlhNAATAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjo6ADo6OjqQ22YAAGYAOmY6kGZmAGZmtmaQ22a222a2/5A6AJA6ZpBmkJCQtpCQ25C2/5Db/7ZmALZmOrZmZraQZraQkLa2tra227a2/7bb/7b//9uQOtuQZtu2Ztu2ttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADMALAAAAAA0ABMAAAbWwJlwSCwaj8ikcslsOp9Q58sQyESvTZKEVcB6ly9M8gX5MjWC0RCVlE0U5qWsshKy2ceTAx4fl2csAAB8RTEhGoRIgYKMAF1EG40EdSwSTR8ziH0tIjAiJ3VCJVZLLmokiUeLjY5GoJhCc6EpSDELjKleMha7QzEPsXRHHmqZuViVMQ2hZKAxF0cmYkKaM2Qkj1EcGTIUxSQRINYJaUNuAJPngzMoHSMcxXEsB1YlEZVOMbzCfUTwLKSYsFBApl+REyq8OSGBYEA8gzNiMLDUZMoxiEWCAAA7\" width=\"53\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">                          (4.1-9)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 53,
+        "title": "4.1.4.2 인장",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                               <img src=\"data:image/gif;base64,R0lGODlhNQAVAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6ADo6Ojo6kDpmtjqQ22YAAGYAOmZmtmaQtmaQ22a222a2/5A6AJA6ZpBmkJCQOpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQZra2tra227a2/7b//9uQOtuQZtuQkNu2ttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADMALAAAAAA1ABUAAAblwJlwSCwaj8ikcslsOp/Q6MsQ2ESvTpKEVcB6mS+NMvb4MkuAxRCllE265qVWyGYjTRZ4HCmjjGYsAGlILRskekdTgouCAn9DJIwABCsxDk0xGDMklHEtGTIhoUMsakwgQpwrSYqSAI5FYWFDHVYzKUmRi517HiMsEkJ9fzIVq0YvmkIcvGaWgKYvCjEimUcwl5CdLxCHWHMvCaulLiMvCLBDHILBMQyClCgfI757M1NqJRHATzEXxcfsCfHFwlaTUtwEEjmhwo+gJiQODHikcEaMBhIWgTFgqmIRADNAevTycOSeIAA7\" width=\"54\" height=\"20\" vspace=\"1\" hspace=\"0\" border=\"0\">                        (4.1-10)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 54,
+        "title": "4.1.4.2 인장",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhBwAPAPQAAAAAOgA6kDo6kDqQ22a2/5A6AJCQtpCQ25C2/5Db25Db/7aQkLa2trbbtrbb/9uQZtuQkNu2Ztvb/9v/ttv///+2Zv+2kP/bkP/btv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAAHAA8AAAUxoCaOZJkVQ1kR5aOUC0VmRnkd2oWIViJhDhGk4agAWJEAZYgbLSZNESPCGl0EspImBAA7\" width=\"8\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：앵커볼트의 정착길이(mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 55,
+        "title": "4.1.4.2 인장",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCwAPAPUAAAAAAAAAZgA6ZgA6kDoAADqQ22YAOmZYAGZmkGaBkGaQ22a222a2/4FmZpA6AJA6ZpCQtpCQ25Db25Db/7ZmOrZmZraQkLbbtrbb27bb/7b//9uQZtuQkNu2Ztu2ttvb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACkALAAAAAALAA8AAAZNwJRwSCwahShH4SgUMZipzQRqCTFRECgpkiohrMSR5HPiFjmXDIkQ0FAAi1RnENosRAkFSUGsaEQHAAJTQx4gDw0aJhhEJwYMa09QQkEAOw==\" width=\"12\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：앵커볼트 단부의 거리, 조적조 단부에서 앵커볼트 표면까지 최소거리(mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 56,
+        "title": "4.1.4.3 전단",
+        "level": 4,
+        "label": "4.1.4.3",
+        "contents": "<p>4.1.4.3 전단</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 57,
+        "title": "4.1.4.3 전단",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 전단력에 대한 허용응력은 식 (4.1-11)이나 식 (4.1-12) 중 작은 값으로 결정한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 58,
+        "title": "4.1.4.3 전단",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                          <img src=\"data:image/gif;base64,R0lGODlhdgATAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Ojo6Zjo6kDpmkDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpA6kJBmZpBmkJCQOpCQtpCQ25C2/5DbtpDb/7ZmALZmOrZmZraQOraQkLa2kLa2tra227a2/7bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEQALAAAAAB2ABMAAAf+gESCg4SFhoeIiYqLjI2Oj5CRkpOGQg8AmJmam5ydngIxlKKjKaGMQyA8o6usrYVBK6aLPxqSPxWqrrqsQzo0soqlkjIOoz2cDatBKSaDQBEAAzCCOYbP0dM5PL+MQhaVErWIQx/Ag0IXjj0EuTUBzZNDGwDvgvIZRDXs8poF9/nsTmBit6gHvHMVbCzIZe3FIXkFHJ0oJujHgYOEfhjoBIqQEAjwfiwkMoSDCSEOBf0SqaokPGGKUDEUhEIDkGmRaISI2A2kIBsGKIr6CG9drhPiBPloZlQQUiLHCCailXEjAJ6QlsrAqkiGJgY4D2nkCIyooK2DJp4bcRarWkf+sQqxlCSErQypieSJG4JC6FCfRNA6FcqsbVq/hWqew2CI2KQWZ6XqQPQDgaymo8xClfqUiBAKuTB3NrRCBdYZGEluSPrIayaCMg8JVs2Vkua5LgVhxm1yqmWSqeT+hvSDrVOCdR+uFgRkw4AYn3d4mPlIszzG+nLdzXUdIHVCeqGyNjzoh4IIAyLUKwTk26DtRH4k6Jh2U4AGqnK04HHjOyOBA6lyjTSD+JCOM9AQ2FVEMAlyww7LDYIDCibIkMFShQBYiyUBzpBBD+Pl5cIQIuyyy0clMHbOBCyMNAiJRKzAn3+JlGKQIz+QAKKJu5ygQGonDJBacTC2UM0jD3YbYE4iQkSAF4+s9FBbIksR2Vt1EIQI5ZZcUhIIADs=\" width=\"120\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">                    (4.1-11)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 59,
+        "title": "4.1.4.3 전단",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhVgARAPUAAAAAAAAAZgA6kDo6Ojo6kGYAAGYAOmY6AGY6kGa222a2/5A6ZpA6kJBmkJCQtpCQ25C225C2/5Db/7ZmZraQkLa2tra227bb27b//9uQZtu2Ztu2kNu2ttvb29vb/9v/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACUALAAAAABWABEAAAbjwJJwSCwaj8ikcslsOp/QqNQIqFqnxSsSkK0quUvvdyjGgktnchlNTqaP3DeVKIee6+y2sK51M9N4e1aDgHpzhnJggXlhhliMeJGHgYNhfY+QW3CHjJuNjnCEl3eaWaF9Hpx+dJiZna98rCUkDSCyn3utrm+Fub56Iw+muGhcIwgfDLZSl2pahKBgIgMBGI4iBCAUtqJnHRUgHMu6dmWVGQkhCr9C3x8OTCQWJPDk9kITGCEScUXywUxERFB37x6HDwswrBEiAoKGdUtGHBAwrmCrEQYgHhlRoJrFj602XHBgKwgAOw==\" width=\"87\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                      (4.1-12)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 60,
+        "title": "4.1.4.3 전단",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhDQAPAPUAAAAAAAAAOgA6kDoAZjo6kDpmtjqQ22YAZmY6AGY6kGZmtmaQ22a2/5A6AJA6ZpA6kJBmZpCQtpC2/7ZmALZmOra2tra227bb/7b//9uQOtu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAANAA8AAAZTwJFwSCwaj6MMYAkwHEUOzMgzkBZDCuGH0DF6nCDI5ThZBiTPR/dTNX4KwtDBSswwRiKKM5TgPEQNTAELQhsVHRpIeBYiEYofEh53SCEIAl2KQ0EAOw==\" width=\"14\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：앵커볼트의 허용전단력(N)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 61,
+        "title": "4.1.4.3 전단",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPQAAAAAAAAAZjoAAGYAOmY6OmZmkGa222a2/5A6AJA6ZpCQ25C225Db/7ZmALZmOrZmZra227b//9uQZtuQkNu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAMAA8AAAVCYCeOZGmeosSgnUasKOTAphbNJ1d16okBwEOrcBFtFqKGcKMYTSJJYUYQ4CAAwgYgEJEYMKxHBIyiWBKszUDIEoUAADs=\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：앵커볼트의 단면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 62,
+        "title": "4.1.4.3 전단",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhEQAPAPUAAAAAAAAAOgA6ZgBmtjo6ZjpmtjqQ22YAZmY6AGY6kGa222a2/5A6OpCQtpCQ25Db/7ZmALZmOrZmZraQkLa2Zra2kLa2trb//9uQOtu2ttvbttvb29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAARAA8AAAZWQJFwSCwaj0RAMcRYHJVFSaXwLH4MIg6SCAEABtti5BEmghLasrCDVQshTtGHgBAgAmTz4SLUjDEKHnlCCRRtIiENIhMcGWlIHw6JIhYbYYKRTINuRUEAOw==\" width=\"17\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\">：28일 양생일 때 조적의 규정 압축강도(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 63,
+        "title": "4.1.4.3 전단",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCgAPAPUAAAAAAAAAZgBmtjoAADoAOjo6kDpmtjqQ22YAZmY6kGa2/5A6OpCQkJCQ25C2/5Db/7ZmALZmOrZmZra2Zra2kLa2tra227b//9u2Ztvb29v/29v///+2Zv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACEALAAAAAAKAA8AAAZCwJBwSCwah6CF4iihGIydQ2hThAAAgmPkcfwkqEaO9AhZhjqFjSf0QVyEmYqGkZiMQyDLpwF1cBxGGAMBb0UdBEtBADs=\" width=\"10\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：앵커볼트의 인장항복응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 64,
+        "title": "4.1.4.3 전단",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 하중방향의 앵커볼트의 단부거리 <img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAZgA6ZjoAADoAOjo6OjpmtjqQ22YAOmZmtmaQ22a222a2/5A6ZpBmkJCQ25Db/7ZmALZmOrZmZra227bb/7b//9uQOtuQZtu2ttvb/9v/ttv/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAAOABEAAAZYQJJwSCwaj8JIwIIcjhydphBkkAo9BysJA9FOmNJnVNMEJUhipIeR2TyalwUFVFgKJYCF8EOAYBZrJB8KIApFXx5dEQACXUQZHA1MXyEVRSIIDFMDmlpDQQA7\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">가 볼트직경의 12배 이하인 경우 식 (4.1-11)에서의 값 <img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAAAAAOgA6ZgA6kABmtjo6kDqQ22YAAGYAOmY6AGY6kGaQ22a222a2/5A6AJA6OpA6kJCQtpC2/5Db/7ZmALZmOra2tra229uQOtu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAPABEAAAZgQJFwSCwaj8WQA8AECCbI0AMaohCQngJHiLkeMQahsoGkkEMVBhJ0aIaRHe8YCR5S3smpEISAGrNbHw5XIAobEFsUTQABC0IaFhwZW0giIRchEZVCHhIdZJsgCQOUm0RBADs=\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 <img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAZgA6ZjoAADoAOjo6OjpmtjqQ22YAOmZmtmaQ22a222a2/5A6ZpBmkJCQ25Db/7ZmALZmOrZmZra227bb/7b//9uQOtuQZtu2ttvb/9v/ttv/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAAOABEAAAZYQJJwSCwaj8JIwIIcjhydphBkkAo9BysJA9FOmNJnVNMEJUhipIeR2TyalwUFVFgKJYCF8EOAYBZrJB8KIApFXx5dEQACXUQZHA1MXyEVRSIIDFMDmlpDQQA7\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">가 40 mm인 곳이 0이 되도록 선형보간하여 저감시킨다. 인접한 앵커볼트가 8<img src=\"data:image/gif;base64,R0lGODlhCwARAPUAAAAAOgAAZgBmtjo6Ojo6kDpmtjqQ22YAOmY6kGZmOmZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJCQ25Db/7ZmOrZmZraQZraQkLa2trbb/7b/trb//9uQOtuQZtu2ttvbttvb/9v/29v///+2Zv+2tv/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAALABEAAAZVQJVwSCwajSCM5qhKQThMFGLENBWMqQgg0TBWDKkHpWgiUC3Q0JBkUKEUTQlV1emaFqXNZG04XRgZJgMBUCkOAmEUHgwkXUZoJGNGHyJPRygHjkxCQQA7\" width=\"12\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">이내에 있으면, 식 (4.1-11)에 의한 인접한 앵커볼트의 허용전단력은 볼트 중심간격이 볼트직경의 4배인 경우에 허용전단력의 0.75배까지 선형보간하여 저감시켜야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 65,
+        "title": "4.1.4.4 전단력과 인장력이 작용할 때",
+        "level": 4,
+        "label": "4.1.4.4",
+        "contents": "<p>4.1.4.4 전단력과 인장력이 작용할 때</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 66,
+        "title": "4.1.4.4 전단력과 인장력이 작용할 때",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 전단력과 인장력을 받는 앵커볼트는 식 (4.1-13)에 따라 설계한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 67,
+        "title": "4.1.4.4 전단력과 인장력이 작용할 때",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                            <img src=\"data:image/gif;base64,R0lGODlhWgAnAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmZjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6kGZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6kJBmZpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQZraQkLa2tra227bb27bb/7b//9uQOtu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv+2tv/bkP/btv/b2///tv//2////yH5BAAAAD8ALAAAAABaACcAAAb+wJ9wSCwaj8ikcslsGn00p/QHnVqvxZ2EhFVqud1wswdxiY9k83l9xBXYRTd8PnwpDAMw247X08M+GgU3cmyBg4V/YWk/Ogk3bIyOkIpdOASQL29sl5mblVg4DVQaGTJqYqKkGaBdPRU/L5gplGKvsZitlgYLNhoAn6m8kD0TNhy1ulI9IZU0KjcyycpNOiOVPis+INRWOSw1itY4rN1SmpU9EbnmdNvmPOFFPCd+QzsRAAMtc++6PjEosCgSCEAAe6Qw/IDBbo2/SjM6iJhGpMcDhJOobEDY5eEcHigsyFNiEWEnISXK9XAAoKXLlzABCHChw0BMg2BW3tzZcqbiEIAfBi4paQQdylGGuIHykUJgEqJFjP4ogdSh0n8pPPArApXIyanlrCoqsbPqEKiHGj3SyPEHjpgMlHhM8hZm3DVdhwS6sLChka8wDnJiF7gt2Ztmp7r0+wOfvq1IqA7RcaCtFclCKFtuBzWGgcSuLgrxDLodkRcvF0A+g9qlatNJApXzYaL0Fdk/a8NGogMBqq9iev9mvDvWp7SnxEhNW5wI7sYaBpihBaiUkB3RUTU/7DIAgxsFg03h3tI7MWPImiNh5gyaNPVHrGHTdhU+kW8j54wLa7+OeDjqENffgHAEAQA7\" width=\"91\" height=\"38\" vspace=\"1\" hspace=\"0\" border=\"0\">                      (4.1-13)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 68,
+        "title": "4.1.4.4 전단력과 인장력이 작용할 때",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCAAPAPUAAAAAZgA6kABmtjoAADo6kDqQ22Y6Oma2/5A6AJA6ZpDb/7ZmALZmOrZmZra2/7bb27bb/7b/27b//9uQOtuQZtu2ttvb29v/29v///+2Zv+2kP+2tv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAAIAA8AAAY3wI9wSCwKPYyDkaIwNiTFjmEgIHIIGEZTmFFqh0xPImIRahSTQscxXAQuCACUuIEYKw/j1ygMAgA7\" width=\"9\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：앵커볼트에 작용하는 계산된 인장력(N)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 69,
+        "title": "4.1.4.4 전단력과 인장력이 작용할 때",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCQAPAPQAAAA6kABmtjoAADoAOjo6kDqQ22Y6Oma2/5A6ZpCQtpDb25Db/7ZmALZmOrZmZraQkLa227a2/7b//9uQOtuQZtuQkNvbttv///+2Zv+2kP/bkP//tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAJAA8AAAU5YCeOZElyzWF21LI6krkZQlBqxNW4I6bupBYHERtlFpOCpgATMQAXC6RSHG0ij0spo0iYNAPeqhMCADs=\" width=\"10\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：앵커볼트에 작용하는 계산된 전단력(N)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 70,
+        "title": "4.1.5 벽과 기둥의 압축",
+        "level": 3,
+        "label": "4.1.5",
+        "contents": "<p>4.1.5 벽과 기둥의 압축</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 71,
+        "title": "4.1.5.1 벽에 축하중이 작용할 때",
+        "level": 4,
+        "label": "4.1.5.1",
+        "contents": "<p>4.1.5.1 벽에 축하중이 작용할 때</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 72,
+        "title": "4.1.5.1 벽에 축하중이 작용할 때",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 벽의 중심에 작용하는 압축력에 의한 응력은 유효면적에 균등하게 분포한다고 가정하여 식 (4.1-14)에 의해 산정한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 73,
+        "title": "4.1.5.1 벽에 축하중이 작용할 때",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhQQARAPUAAAAAAAAAOgA6ZgA6kABmtjoAADo6kDpmtjqQ22YAAGYAOmY6kGZmAGaQ22a222a2/5A6AJA6OpCQ25C2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLa2tra2/7bbkLbb27bb/7b//9uQOtu2Ztu2ttu229vbkNv/ttv/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADEALAAAAABBABEAAAbuwJhwSCwaj8hkTEVROp/Q6FCDklqv0ZcEW4RFHlwjDAIoAwbVIRPJakAvnUPY+FI0xwgi9Yh/shAuH0kpZoUESCloQhV5QlpIIwyNSRVlh3NFjI52ak10HJpOFp6DhWaXXRF3EZMxe0YbMaFJLwtpmEMsBWUBDkSPRisgMSGtRyxyuETFSGtFLwlmxkYhYMpCXqRFr3rDstNE2UQWvWEsBre/W0UiE0OzFgC+QiQmtkMpCCzuWJVn6UJaeMNGBs2YMnlUNGjjaEGGVhdAOLsWppIAUhUUTTmBwQNAilIithA0yEAJcCCh6LKWsmWSIAA7\" width=\"67\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                        (4.1-14)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 74,
+        "title": "4.1.5.1 벽에 축하중이 작용할 때",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCgAPAPQAAAAAAAAAOgBmtjo6kDpmtjqQ22YAZmY6kGa222a2/5A6OpC2/5Db/7ZmALZmOrZmZrZmkLaQkLa2Zra2kLbb27b//9vbkNv/29v///+2Zv+2kP/bkP//tv//2////wAAACH5BAAAAB4ALAAAAAAKAA8AAAU5oCeOZGmOnZKcz0SYW+FhZQMAwukwJ3fQpozs1FiJHAGEh2OoiISbxUEy9DwqGl4pcoFQggNL9RQCADs=\" width=\"10\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：설계축하중에 의한 축압축응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 75,
+        "title": "4.1.5.1 벽에 축하중이 작용할 때",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCAANAPQAAAAAAAAAOjpmtjqQ22Y6kGa222a2/5A6AJA6OpA6ZpDb/7ZmALb//9uQOtv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABMALAAAAAAIAA0AAAUq4CSOZEk2QBqMEqJMzxgRzgSNzzC146IWIkmCUYIITA0DSXIABF6maCkEADs=\" width=\"9\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：설계용축하중(N)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 76,
+        "title": "4.1.5.1 벽에 축하중이 작용할 때",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDQAPAPQAAAAAAAAAZgA6ZjoAAGY6OmaQ22a222a2/5A6AJC225Db/7ZmALZmOrZmZra227bb27b//9uQZtuQkNvb2/+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAANAA8AAAU/4CaOZGmeZKSg4kWsrMPA5wXNqDZtKkoBwMMpkxAthCYJxIhkAAwaBEC4AAQglYKlwKoKaKYGBPNgWQZI1igEADs=\" width=\"14\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：조적조의 유효단면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 77,
+        "title": "4.1.5.2 기둥에 축하중이 작용할 때",
+        "level": 4,
+        "label": "4.1.5.2",
+        "contents": "<p>4.1.5.2 기둥에 축하중이 작용할 때</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 78,
+        "title": "4.1.5.2 기둥에 축하중이 작용할 때",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 기둥의 중심에 작용하는 압축력에 의한 응력은 유효면적에 균등하게 분포한다고 가정하여 식 (4.1-14)에 의해 산정한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 79,
+        "title": "4.1.5.3 기둥에 휨모멘트와 축하중이 작용할 떄",
+        "level": 4,
+        "label": "4.1.5.3",
+        "contents": "<p>4.1.5.3 기둥에 휨모멘트와 축하중이 작용할 떄</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 80,
+        "title": "4.1.5.3 기둥에 휨모멘트와 축하중이 작용할 떄",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 휨모멘트와 축하중이 기둥에 작용하는 응력은 <img src=\"data:image/gif;base64,R0lGODlhJAARAPUAAAAAAAAAOgAAZgA6kABmtjo6kDpmtjqQ22YAAGYAZmY6kGZmtma222a2/5A6AJA6OpCQ25C2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLa227bbkLbb27bb/7b//9uQOtuQZtu2Ztu229vbkNvb/9v/ttv/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC4ALAAAAAAkABEAAAauQJdwSCwSURKjcskkYkzNqJQFkTJbj0YTSWQhAGAwgVnRGJrPIivREYIOy9RhxWFSjadxK6OqGydiW0lFE1ofg0sUiEtpXV8AA1BLLAqSk1VFJ5EsC00pZ4J/cC0jTR5aaJZCWItLrEQUAQxDd0UpBaousbNCISSVQycHKRFDKm1DLQ5gAsguwsRClBdwQxUdXFZE19kuE5FOJRYbuVIY4uRMJwUi1dpC6+3v80pBADs=\" width=\"37\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">을 <img src=\"data:image/gif;base64,R0lGODlhIgARAPQAAAAAAAAAOgA6kDoAADo6kDqQ22YAOma225A6AJA6OpCQ25C2/5Db/7ZmALZmOrZmZrZmkLaQkLbb27b//9uQOtvbkNv/29v///+2Zv+2kP/bkP/btv//tv//2////wAAACH5BAAAAB4ALAAAAAAiABEAAAWMoCeOZOlljKmurBhdbdxyirx2CKADAjyiJNyO51NxDClcgfQqHZOI5QrTEzWkHpqJ6ruyvFnkL1UCP2+JZALraQbTns6apRnoAgeStlS/51kUbCRAJYE2cmQmbiOINhoERXo1fJAmDngjDTpVJRsTZZuRGAUaCzanIw8ThKg2ERYQEpGtLBgEFYK0pyEAOw==\" width=\"35\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">로 바꿔서 4.3.7의 조건을 만족해야 한다. 휨모멘트가 작용하는 기둥은 휨설계에 대한 적용 가능한 조건들을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 81,
+        "title": "4.2 합성조적조",
+        "level": 2,
+        "label": "4.2",
+        "contents": "<p>4.2 합성조적조</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 82,
+        "title": "4.2.1 일반사항",
+        "level": 3,
+        "label": "4.2.1",
+        "contents": "<p>4.2.1 일반사항</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 83,
+        "title": "4.2.1 일반사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 조항의 조건들은 최소한 하나의 홑겹벽이 다른 홑겹벽과 다른 특성이나 강도를 가지는 경우 하나의 구조체로 작용할 수 있도록 적절히 연결된 다중겹벽조적조에 해당한다. 다음 가정들은 합성조적조의 설계에 적용한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 84,
+        "title": "4.2.1 일반사항",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 해석은 순면적의 탄성환산단면에 기초한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 85,
+        "title": "4.2.1 일반사항",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>②합성조적조의 어떠한 부분에서도 계산된 최대응력은 그 부분의 재료의 허용응력을 초과할 수 없다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 86,
+        "title": "4.2.2 탄성계수의 결정",
+        "level": 3,
+        "label": "4.2.2",
+        "contents": "<p>4.2.2 탄성계수의 결정</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 87,
+        "title": "4.2.2 탄성계수의 결정",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 합성구조에서 각 형태의 조적조 탄성계수는 KDS 41 60 15(4.2.12)에 의해 결정되는 조적조 각각의 상대적인 계수비가 2대 1을 초과하는 경우 실험에 의해 결정하여야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 88,
+        "title": "4.2.3 구조일체성",
+        "level": 3,
+        "label": "4.2.3",
+        "contents": "<p>4.2.3 구조일체성</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 89,
+        "title": "4.2.3 구조일체성",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 벽겹의 연결</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 90,
+        "title": "4.2.3 구조일체성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>합성조적조부재의 홑겹벽은 요구조건으로 KDS 41 60 15(4.1.5.2) 에서의 규정에 따라 연결되어야 한다. 추가적인 연결재 또는 그라우트와 금속연결재의 조합은 계산된 응력을 전달할 수 있도록 설치되어야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 91,
+        "title": "4.2.3 구조일체성",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 재료의 성능</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 92,
+        "title": "4.2.3 구조일체성",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>다양한 재료의 치수변화와 여러 가지 겹벽의 상이한 경계조건의 영향을 설계 시 포함하여야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 93,
+        "title": "4.2.4 설계과정과 환산단면",
+        "level": 3,
+        "label": "4.2.4",
+        "contents": "<p>4.2.4 설계과정과 환산단면</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 94,
+        "title": "4.2.4 설계과정과 환산단면",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 환산단면의 산정은 하나의 재료가 기준재료로서, 다른 재료에 대해 단면적을 기준재료 탄성계수의 상대적인 비를 곱하여 등가면적으로 환산된다. 환산된 면적의 두께는 일정하며, 부재의 유효높이나 길이는 변하지 않는다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 95,
+        "title": "4.2.5 조적개체의 재사용",
+        "level": 3,
+        "label": "4.2.5",
+        "contents": "<p>4.2.5 조적개체의 재사용</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 96,
+        "title": "4.2.5 조적개체의 재사용",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 재사용되는 조적부재의 허용응력은 같은 성능을 갖는 신설 조적개체에 허용응력의 50%를 초과하지 않아야 한다. 공간쌓기벽의 유효면적에 하중을 받는 단일 조적벽의 면적을 포함하지 않는다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 97,
+        "title": "4.3 보강조적조",
+        "level": 2,
+        "label": "4.3",
+        "contents": "<p>4.3 보강조적조</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 98,
+        "title": "4.3.1 일반사항",
+        "level": 3,
+        "label": "4.3.1",
+        "contents": "<p>4.3.1 일반사항</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 99,
+        "title": "4.3.1 일반사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 조항의 조건들은 KDS 41 60 15와 4.1의 조건과 함께 보강조적조 설계에 적용된다. 수평하중을 저항하는 개구부가 있는 벽에서 피어와 보 요소가 KDS 41 60 30(4.2.6.1(2)) 의 치수를 만족하면 KDS 41 60 30(4.2.6)에 따라 설계할 수 있으며, 만족하지 않는 경우 이 조항이나 KDS 41 60 30(4.2.5)에 따라서 설계하여야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 100,
+        "title": "4.3.2 철근배근",
+        "level": 3,
+        "label": "4.3.2",
+        "contents": "<p>4.3.2 철근배근</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 101,
+        "title": "4.3.2.1 최대철근치수",
+        "level": 4,
+        "label": "4.3.2.1",
+        "contents": "<p>4.3.2.1 최대철근치수</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 102,
+        "title": "4.3.2.1 최대철근치수",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 최대철근치수는 35 mm이어야 하며, 최대철근면적은 겹침이 없는 경우에는 공동면적의 6%, 겹침이 있는 경우에는 12%가 되어야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 103,
+        "title": "4.3.2.2 피복두께",
+        "level": 4,
+        "label": "4.3.2.2",
+        "contents": "<p>4.3.2.2 피복두께</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 104,
+        "title": "4.3.2.2 피복두께",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 줄눈보강근 이외에 모든 철근은 모르타르나 그라우트에 묻혀 있어야 하고, 최소피복으로 조적개체를 포함하여 최소한 19 mm, 외부에 노출되어 있을 때는 40 mm, 흙에 노출되어 있을 때는 50 mm 묻혀 있어야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 105,
+        "title": "4.3.2.3 정착길이",
+        "level": 4,
+        "label": "4.3.2.3",
+        "contents": "<p>4.3.2.3 정착길이</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 106,
+        "title": "4.3.2.3 정착길이",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 이형철근이나 이형철선에 대해 요구되는 정착길이는 다음과 같이 산정된다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 107,
+        "title": "4.3.2.3 정착길이",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                     <img src=\"data:image/gif;base64,R0lGODlhTwARAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAZjo6Ojo6kDpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmZmZmkGZmtmaQ22a2tma222a2/5A6AJA6OpA6ZpBmOpBmkJBmtpCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZrZmkLaQOraQkLa2Zra2kLa227a2/7bb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbkNvb29vb/9v/ttv/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEkALAAAAABPABEAAAf+gEmCg4SFhoeIiYqLjI2Oj5CRkpOUhEY8lYI3AAyZSUUQAAM0hjgGoqRJR6GjhUUPNYtHERuJNrWVSBwaSTgEQIREF0BILQI1urw3v8EJwIlHFjnOh0gesYdEpwDc3ceDRNRIHSiEQQHlRw4oQczq5YNBnYoqG0WphkcXnu3PKbj51vVLoqvWDQMDKAA0pI1bgUTyEjXs5g1bEhsPBaWYZ8hGpyDfjjRgYOMXkQMWs1FLpAKeIEyRMA7amI2EoGQXAWRYp2oCsB6IPCqylpJFykYDk/zTlfFTCUKgACjw8IJZRCQgnhEqqIjIgiMyborQ6igcsHEuBRUxIUgIineHSYhgkJmkng4fNhmiVCRvSCwVnCTpwtCLGbhtAL6tqFCBcJCHOiKcGEEEwTdCdAepuBzXwEcGRNhKitoqEpIP6E7WuKEhCEAdPzgsPBIi9KEVNdx62i0IdxB4RyTAWDnISAxELn6smEGW9yTY12YOSJskx2rqgtrtIOw8k7qFiEQqaN69fKVAADs=\" width=\"81\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> 인장력을 받는 경우               (4.3-1)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 108,
+        "title": "4.3.2.3 정착길이",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                     <img src=\"data:image/gif;base64,R0lGODlhTwARAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAZjo6Ojo6kDpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmkGZmtmaQ22a222a2/3x7OpA6AJA6OpA6ZpBmOpBmkJBmtpCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZrZmkLaQOraQkLa2Zra2kLa227a2/7bb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbkNvb29vb/9v/ttv/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEgALAAAAABPABEAAAf+gEiCg4SFhoeIiYqLjI2Oj5CRkpOUhEU7lYI2AAyZSEQQAAMzhjcGoqRIpqiFRA80i0YRGYk1tJVHGxiqBD+EQxY/RywCNMDCxLCDQwm+iUYVOM2HRx3KhkOnANvcxcvTRxwnhEAB40YOJ+Xn6eSdiikZRKmGRhaeQL2CKLf17YPoxtkwMIBCP2zaCiQC8u5QNm4QvQmqoXBfw0I1LiLJuLHXkAPXHE5LlGLcIEyRKA5CoVHQkBGFXiIJOHOCLx6IOCaqFnJFyEb5nPHLVfETiVZHkQRV2unIB2eEch3EtsBIDEFHQkB1xMxXOJODiJQQFGScWLIaKsbL0QMmNpB5ihgKgZWCk6RcF3htfbitGF8AAlwozBHBhIghCCQOUkkoheJsnRgOGSsJFKtIRzyY+0jDBgYg/XL42HDQCIjJh1TQKOuptSDVQEwakfBi5KAiMBC18KFCxlbXk0RbWzkArCAcnY0PyqcjL/BM6KYeMtJAwe/n2CsFAgA7\" width=\"81\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> 압축력을 받는 경우               (4.3-2)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 109,
+        "title": "4.3.2.3 정착길이",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCAAPAPUAAAA6kDqQtjqQ22YAOma222a2/5A6AJCQtpCQ25Db25Db/7aQkLa227a2/7bbtrbb/7b//9uQOtuQZtuQkNu2Ztu2ttvbttvb/9v/ttv///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAAIAA8AAAY4wI9wSCwKPQaBUVMwShTGRaboORg5iOEE8tkkLsLKdOJ4dAYBIQWQkSQYxQWmEbcwpsMIwWoUBgEAOw==\" width=\"9\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：필요한 철근콘크리트의 정착길이(mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 110,
+        "title": "4.3.2.3 정착길이",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCQAPAPUAAAAAOgA6OjoAADo6kDqQ22Y6OmY6ZmZmtmaQtmaQ22a2/5BmkJCQ25C2/5Db/7aQkLa2trbbtrbb/7b//9uQOtuQZtuQkNu2Ztu2ttvbttvb29v/ttv///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAJAA8AAAZBQJFwSCwaRZ+CwxhacIygQ9EjCCSIIIOkoiB2CCLLxNMQVpYPTUZidmQQmA6gS1VQFJYIw/jY7IsQF11TA09HIkEAOw==\" width=\"10\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：철근직경(mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 111,
+        "title": "4.3.2.3 정착길이",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCgAPAPQAAAAAAAAAZgBmtjpmkDpmtjqQ22YAAGYAZmY6kGa2/5A6OpBmtpDb/7ZmALZmOrZmZra2Zra2kLa227a2/7b//9uQZtu2kNv///+2Zv/bkP/btv/b2///tv//2////wAAACH5BAAAAB4ALAAAAAAKAA8AAAU5oCeOZGmOnZKcT0SYWeFdZQMAwukwJ4fQJozs1FiJHAGKh3NQLheaCQIyFG0kJwulwitxDAPgyRMCADs=\" width=\"10\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：설계하중에 의한 철근의 응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 112,
+        "title": "4.3.2.3 정착길이",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 원형철근에 대한 정착길이는 식 (4.3-1)의 2배이다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 113,
+        "title": "4.3.2.4 철근의 부착응력",
+        "level": 4,
+        "label": "4.3.2.4",
+        "contents": "<p>4.3.2.4 철근의 부착응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 114,
+        "title": "4.3.2.4 철근의 부착응력",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 철근에서의 부착응력 <img src=\"data:image/gif;base64,R0lGODlhCAAOAPQAAAA6ZgA6kDoAADoAZjpmtmY6kGa2/5BmOpBmZpCQtpDb25Db/7ZmALZmOra227bbtrbb27bb/7b//9uQOtu2ttvb29v///+2Zv/bkP/btv//tv///wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAAIAA4AAAUu4CaOZGmeqMkE1laJGYRIWtFSWrJhxHgZmwlQ1FhsGgoHcYEZPCKiiwBwYKVOIQA7\" width=\"9\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음 값을 초과하지 않는다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 115,
+        "title": "4.3.2.4 철근의 부착응력",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>① 원형철근 0.413 MPa</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 116,
+        "title": "4.3.2.4 철근의 부착응력",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>② 이형철근 1.378 MPa</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 117,
+        "title": "4.3.2.4 철근의 부착응력",
+        "level": 6,
+        "label": "③",
+        "contents": "<p>③ 특별히 검사를 하지 않은 이형철근 0.689 MPa</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 118,
+        "title": "4.3.2.5 갈고리",
+        "level": 4,
+        "label": "4.3.2.5",
+        "contents": "<p>4.3.2.5 갈고리</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 119,
+        "title": "4.3.2.5 갈고리",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 다음 사항을 만족하는 경우를 ʻ표준갈고리ʼ라 지칭한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 120,
+        "title": "4.3.2.5 갈고리",
+        "level": 6,
+        "label": "①",
+        "contents": "<p>① 철근의 자유단에서 63 mm 이상, 최소한 철근직경의 4배 이상 연장된 180° 굽어진 갈고리</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 121,
+        "title": "4.3.2.5 갈고리",
+        "level": 6,
+        "label": "②",
+        "contents": "<p>② 철근의 자유단에서 최소한 철근직경의 12배 이상 연장된 90°로 굽어진 갈고리</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 122,
+        "title": "4.3.2.5 갈고리",
+        "level": 6,
+        "label": "③",
+        "contents": "<p>③ 스터럽이나 연결정착으로 쓰이는 경우에는 철근의 자유단에서 63 mm 이상, 최소한 철근직경의 6배 이상 연장된 90° 또는 135°로 굽어진 갈고리</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 123,
+        "title": "4.3.2.5 갈고리",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2)스터럽이나 연결철물로 쓰이는 경우를 제외하면 철근의 굽어진 안쪽지름은 KDS 14 20 50 표4.1-1에 제시한 수치 이상이어야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 124,
+        "title": "4.3.2.5 갈고리",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3)16 mm 이하의 스터럽이나 연결철물의 굽어진 안쪽지름은 철근직경의 4배 이상이어야 한다. 16 mm 이상의 스터럽이나 연결철물의 굽어진 안쪽지름은 KDS 14 20 50 표4.1-1에 제시한 수치 이상이어야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 125,
+        "title": "4.3.2.5 갈고리",
+        "level": 5,
+        "label": "(4)",
+        "contents": "<p>(4) 갈고리는 보의 인장부분에 배치할 수 없다. 다만, 단순보나 캔틸레버보의 끝단이나 연속보 및 구속된 보의 자유단의 경우는 예외로 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 126,
+        "title": "4.3.2.5 갈고리",
+        "level": 5,
+        "label": "(5)",
+        "contents": "<p>(5) 갈고리는 52 MPa 이상의 인장응력을 발생하는 하중을 받지 않도록 하다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 127,
+        "title": "4.3.2.5 갈고리",
+        "level": 5,
+        "label": "(6)",
+        "contents": "<p>(6) 갈고리는 압축력에 대해서는 효과적인 배근방법이 아니다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 128,
+        "title": "4.3.2.5 갈고리",
+        "level": 5,
+        "label": "(7)",
+        "contents": "<p>(7) 조적조에 손상을 주지 않고 철근의 강도를 증진시킬 수 있는 어떠한 기계적장치도 갈고리 대신에 사용될 수 있다. 이때는 그러한 장치의 적합성을 보여주는 자료가 제시되어야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 129,
+        "title": "4.3.2.6 이음",
+        "level": 4,
+        "label": "4.3.2.6",
+        "contents": "<p>4.3.2.6 이음</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 130,
+        "title": "4.3.2.6 이음",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 철근의 겹침 정도는 KDS 41 60 15(4.3.4) , 이 기준 4.3.2.3 및 4.3.11에서 규정된 철근의 허용응력을 전달할 수 있도록 충분해야 한다. 어떠한 경우에도 이음길이가 철근지름에 대해 압축에 대해서는 30배, 인장에 대해서는 40배 이상이어야 한다. 용접이나 기계적 이음은 인장력을 받는 경우의 철근의 기준항복강도의 125 %를 발휘해야 한다. 다만, 내진구조의 일부가 아니고 휨을 받지 않는 경우의 기둥에 들어 있는 압축철근에 대해서는 압축강도만 발휘되면 된다. 충전이웃한 이음부분이 76 mm 이하로 떨어져 있는 경우에는 요구되는 이음길이는 30 % 증가된다. 다만, 이음길이가 철근지름의 24배 이상이면 증가시킬 필요가 없다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 131,
+        "title": "4.3.3 설계가정",
+        "level": 3,
+        "label": "4.3.3",
+        "contents": "<p>4.3.3 설계가정</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 132,
+        "title": "4.3.3 설계가정",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 다음의 가정은 4.1.3의 가정과 함께 적용한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 133,
+        "title": "4.3.3 설계가정",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 조적조는 인장응력을 전달하지 않는다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 134,
+        "title": "4.3.3 설계가정",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>②철근은 조적재료로 피복 부착되어서 허용응력 이내에서는 하나의 균일한 재료로 작용한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 135,
+        "title": "4.3.4 직사각형이 아닌 휨부재",
+        "level": 3,
+        "label": "4.3.4",
+        "contents": "<p>4.3.4 직사각형이 아닌 휨부재</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 136,
+        "title": "4.3.4 직사각형이 아닌 휨부재",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 직사각형이 아닌 단면을 갖는 휨부재는 4.1.3, 4.3.3의 가정에 따라 설계할 수 있다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 137,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 3,
+        "label": "4.3.5",
+        "contents": "<p>4.3.5 허용압축응력과 압축력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 138,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 보강조적조기둥 외의 부재에 대한 허용압축응력 <img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgA6kABmtjo6kDqQ22YAAGYAOmaQ22a222a2/5A6AJA6OpC2/5Db/7ZmALZmOrZmZrZmkLaQZraQkLa2/7bb27bb/7b//9uQOtvbkNv/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAOABEAAAZZwJFwSCwaj0PRAsBkCjhGEcMh/CCOHwJ0FKocM4UR6DKOLhSjCfUYMji3xs5gZEWOHuEy+7C2Z+FCEAEJI0pMAX0dBR8NdiMRGB59RxQbEhaARR0EGmGOREEAOw==\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음과 같이 결정된다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 139,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>               <img src=\"data:image/gif;base64,R0lGODlhpwAkAPYAAAAAAAAAOgAAZgA6ZgA6kABmtigNUSgXUTJmnDoAADoAOjoAZjo6Ojo6Zjo6kDpmOjpmtjp8ezqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmkGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmZpBmkJBmtpCQZpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2Zra2kLa2tra227a2/7bb27bb/7b//7z//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAFAALAAAAACnACQAAAf+gFCCg4SFhoeIiYqLjINOFAABK42UlZaVSgkABEeXnp+gik4anaGmp6KkqKusiaOlrEoqrYdOKIOZkoSvtL2tTQc7tD46n0obsIoxxVA8H0gFhMDCvtWmTQbUq08nlERFhDwTlEmzuOaC2NrW7JbqrbKUPw6lTyPMjLaERIXv7f+U/K3qMakRtEFLblR6QqIUP36DBAKciEjiKRf4FjkL1aMYEgAAxkXMRrHkIYuhGCZL9ESEiQQB0FVC8iERSpMUb35ywoHSIwlHDl5S0sEmSZxIdXoiSgkJJyhIRFpSAsHoOqQ5j6KKSkmcIBcFLfG0ihXnNFY0Gz0JMWmsjUv+vE4GK2syLqqN+Sx4nAAkxyWViOzS9XUMlmBTeBdRFZSp5l8RGXepGlzNq6PJqAhSbBn58kpBH0GKBuDY05ILAAb4LfRDk2pBTBwacoKhtCF7GQUzAfupRdh/nANjLoREALO1vxeC8ADlx1NcHI48gWG8GUgHqx1tAEIPUcJCcZ+AiJScku/NkIV/FsRCZA0oQT5nGi26OhQl3ZETQqLLSYVJxCDSwgdLZNeIYP6V18h5EwVXy3CO/NdcTRB54lQpLNi2i4QBFjIfANGINVyChHxI33OCMAiQg7NBKAgP9XWGiyb0AWAfDyFC0R4ilvXwQCTM4dIdXCNK6Ilmgjz+UuOSTDJpH4vguSjeOGMhluOOhihxiyA9pNCcLi9KJWIyJB6pYDVQSiafApM8AY4pF7L3gXg5LuElaNU94ph4GgY0V4RnatSnNYDJdVUzOaKCXyf6EbKEOUmsUE6SkymxgIz5FBmoImlNdJhnhfBpSAsBBGmJeEU5l4yJxjmRgV+WIVpiAxcMcAGYD5Jp5CVcHbJbeQyelpqBgfWkHiEsiIZiVPGYhtprjCiBmkhBGAGCbUP4xoMHkbqCWbIgoUgJU6GOh6sgPzDQ5nLNiXvIYscyglG3OLlKw5CCcANFDEfE5+16Oxk7265QLIEDW/flhzCnYkYJcCExGPECDg+7s8PCAMlpqW8NFbZY8akN1bLrEzboF6eOH1w8QwIDRNbDoJR+DJoDQjQ8WKQaL5xrKxiJHFZ8+uE4CAsRrMBCAUNkEFnP8VL2z6ccKVhmgVAEfSUCRqR3W8hNO80O1KCQC56R4IpWwMkZLlrLll17XQ3YnzxRgs+hIqw2crEWMum/brcD9ycdDZycfqi2e4SKEGMac99fu2hKs0MrW8qH4wir2hMyrKdPKjIzDoqS53oe6sPzuSv66agHAgA7\" width=\"169\" height=\"35\" vspace=\"1\" hspace=\"0\" border=\"0\"><img src=\"data:image/gif;base64,R0lGODlhPgAOAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6kDpmkDpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6ZmZmZmZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmZpBmkJCQZpCQkJCQtpC225C2/5Db/7ZmALZmOrZmZraQZraQkLaQtra2Zra227a2/7bb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv/bkP/btv/b2///tv//2////yH5BAAAAD8ALAAAAAA+AA4AAAb+wJ9wSNRJcMSTi8hsOp9QZ83GfC2IvUp0y+3+Ygek0LdZDmEiL5RHZfYegEFL+I7Ph7kCcbci+jhiakM+MhIsTT4YFj8wBDiJi42BLxdROpWCQjQbIIFMOY4/PQ0ioEijaT8+Gh0GASFOJWY/IwMpBgOzRDwmFG1QpqoYF8GJmD0MCjh5TT0fQzoiIwU0ELqDMh6HUTkCS8gL3d8MVz/BOeVEOak/Mzca108+J4byij8vABeQ+PpCVkJKsBsDqEgYQfM43NkDBwG8HzsaPvSRIU2PCT9UFNFCBGCUEQBCigyZjg6pHzq0oELJsYeDJehkLGR0jcTATE1KRIjA8YchTp7QEgjRYQATHYx+UHhyAnKkyJI4oeyYGbWq1atYfwQBADs=\" width=\"63\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">인 경우        (4.3-3)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 140,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                  <img src=\"data:image/gif;base64,R0lGODlhfAAkAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Zjo6kDpmOjpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmZpBmkJBmtpCQZpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2Zra2kLa2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEoALAAAAAB8ACQAAAf+gEqCg4SFhoeIiYqLjI2Oj5CRkpOUlZaXmJmHRSaaSkgkg0UGASeep6iCOTanLaxKNxtDBam1mEkjqESdory2v5KchT+GRhIAAzWMoITEwM+QOKaDSRwA1wAF1RpKOgRCi0kg4ErEztDoiiqvgkgzg6tFCuBJHdOKOKxD1w7p/ofiyBkiYmrIN0EoNihBMeCFgQHsBA1R+K/iISQXEDGDRQuhgyInUBTwQSGikiIZLKokhBKRimk3Oi50wCOIB5OiGKzcOaSfISQVyBkkl/DkPI0Zd6qceGioIHn07MHyeTGoUouxDt04qKRaSm/gUtwzFPAqsCIWBMKiWIgIBkL+xpApS+JCbaEkN83+ukFVkLRaeHES2ocNG9tIcZMZ0mFArqAj5M4NQjLh8N0PJsUCzqtoiIBX9cY+2taN69MLQpKw+AzrmgJlhJBY2HH0kJF3hTSnCrwIhc8YSnjYPdm48DXWRqOOHVLqEwRTqxCl2GAE9iPdqHgnQvK8m0LJkJwutDy5e/RCo67JvC5ak3ZEN7Ah31TcOPKYg3zD94ljAYAA3IhSWyR/ffKAcQgmaB9onAHEQT8YXYKfR5uE4lcJ3TQnCF+UFJhdg4YUcYApSQBxiXgJVSOTERhKxBoSD1BUDXmOZBVMWomUBd96l0DVlVRw8ULQLu1YdRICgjXnwtQiP5hICIfbGUkWB+SlAKAkXpWmVnrH2YAEBcpAyRFLCUgwgAQaItITIzoMmARmikR4CArYmNaTMJIkZp0iRRzjU01UEuKDWDdoQBCfKS0yC1y4JVKETpCsc2hFX8IwYFe5tCCEcHEmpYiNj6wJSQtBrEDDcNAwJFoRJOCiRAzg3TWOIniJQIovi+BAY2cK9NDXVQSxGtoi68T5QANCLNpIsXr942FTB4kazqzN+tNSIlC+1MhG1aaTRAg5ShWhDIwQ2a0/+WgUgT4O7LAnIq6cay2uLEE6yq6xWSjvvuGgyu+/jQQCADs=\" width=\"125\" height=\"35\" vspace=\"1\" hspace=\"0\" border=\"0\"><img src=\"data:image/gif;base64,R0lGODlhNwAOAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6Zjo6kDpmWDpmZjpmkDpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmZmOmZmZmZmkGZmtmaBZmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmZpBmkJCQZpCQtpCcZpC225C2/5Db/7ZmALZmOrZmZraQZraQkLaQtra2Zra227a2/7bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEUALAAAAAA3AA4AAAf+gEWCg4RAFz6ELjSEjI2Oj5A7PIw1DoRDG5Cam5o3CIiCRCKLgzYpnJxDEgADM0WqrK6EPwWEQTKERCOgkEQfGpOORB4cRTYEPcTGBLxFNR2aQNCoQi0HJ81FP8yvECbcQxCnoSAkBgEojiykRSoDMAYD7Iw6FQuy2tzDGfoe068PGvig1WhIiUFAUqgooIPCPEZEWiAg9UPAoiEPElgEaEnQNkQ/Os4aVyRHDxAPGeGYgCFYKGU1AHCACeBfJUEsSIbaVeiToyAhFJx4FGTVApRFARwl5evUEAxFYhTKROhmIyIvsl0SVwTIhnCnvA4aEmFRSBz4jD1coRPVIBYfFixQhSu3EANBQAz8ewU1V1a3gAMHSRu4sOHDiAUFAgA7\" width=\"56\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">인 경우            (4.3-4)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 141,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhDAAPAPUAAAAAAAAAOgAAZgBmtjo6kDpmtjqQ22Y6kGa222a2/5A6AJA6OpA6ZpBmkJC2/5Db/7ZmALZmOrZmZrZmkLaQkLa2trbb27b//9uQOtvbkNvb/9v/29v///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAMAA8AAAZMwJFwSCwajRiAEiC4FEWLx0jU4BRDBw6IUzF2DKLJRWOEKAdHEePycRw/hdH2iEkUIwGESKG0C79tRyMSFx5SRxQbExaCHQQZBoJEQQA7\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：기둥에서 중심축하중만 작용할 때의 허용평균축압축응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 142,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhEQAPAPUAAAAAAAAAOgA6ZgBmtjo6ZjpmtjqQ22YAZmY6AGY6kGa222a2/5A6OpCQtpCQ25Db/7ZmALZmOrZmZraQkLa2Zra2kLa2trb//9uQOtu2ttvbttvb29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAARAA8AAAZWQJFwSCwaj0RAMcRYHJVFSaXwLH4MIg6SCAEABtti5BEmghLasrCDVQshTtGHgBAgAmTz4SLUjDEKHnlCCRRtIiENIhMcGWlIHw6JIhYbYYKRTINuRUEAOw==\" width=\"17\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：28일 양생일 때 조적의 규정 압축강도(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 143,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCwANAPQAAAAAADo6kDqQ22ZmOmZmtmaQ22a2/5BmkJCQ25Db25Db/7ZmALZmZraQOraQkLbbtrb//9uQZtu2Ztvb/9v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAALAA0AAAUzoCaOWsZAJIkRpBRQ4qWoRUpWhj1GAyDoC8HKljlQMAjb0JKYpCo1xwNFiswaP512KwoBADs=\" width=\"12\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：벽이나 기둥의 유효높이(mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 144,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBQANAPQAAABmtjoAAGYAOmZmtmaQZmaQ25Db/7ZmZrb//9uQZtu2Ztu2ttvb29v////bkP//tv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAAFAA0AAAUZICSOZGmWj0AE0KIADcQkxngg4jOMTnGWIQA7\" width=\"6\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：단면2차반경(mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 145,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 보강조적조기둥의 경우 허용압축력 <img src=\"data:image/gif;base64,R0lGODlhDwARAPUAAAAAAAAAOgA6ZgA6kABmtjoAZjo6kDpmtjqQ22YAAGaQtma222a2/5A6AJA6OpBmAJC2/5Db/7ZmALZmOrZmZrZmkLaQkLbb27b//9uQOtvbkNv/29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAPABEAAAZbQJFwSCwaj8VQA8AECDDIkCMiCj0QyE8BKpIQkJlvtcFASsqhyQEJSjADCg6yM5AjhxnsXSil7kUfBnZEEwELQhJMdUQdCB8QfxQYHn53FhsVF4NHHQYaen9DQQA7\" width=\"16\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음과 같이 결정된다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 146,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① <img src=\"data:image/gif;base64,R0lGODlhPgAOAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6kDpmkDpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6ZmZmZmZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmZpBmkJCQZpCQkJCQtpC225C2/5Db/7ZmALZmOrZmZraQZraQkLaQtra2Zra227a2/7bb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv/bkP/btv/b2///tv//2////yH5BAAAAD8ALAAAAAA+AA4AAAb+wJ9wSNRJcMSTi8hsOp9QZ83GfC2IvUp0y+3+Ygek0LdZDmEiL5RHZfYegEFL+I7Ph7kCcbci+jhiakM+MhIsTT4YFj8wBDiJi42BLxdROpWCQjQbIIFMOY4/PQ0ioEijaT8+Gh0GASFOJWY/IwMpBgOzRDwmFG1QpqoYF8GJmD0MCjh5TT0fQzoiIwU0ELqDMh6HUTkCS8gL3d8MVz/BOeVEOak/Mzca108+J4byij8vABeQ+PpCVkJKsBsDqEgYQfM43NkDBwG8HzsaPvSRIU2PCT9UFNFCBGCUEQBCigyZjg6pHzq0oELJsYeDJehkLGR0jcTATE1KRIjA8YchTp7QEgjRYQATHYx+UHhyAnKkyJI4oeyYGbWq1atYfwQBADs=\" width=\"63\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">인 경우</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 147,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>               <img src=\"data:image/gif;base64,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\" width=\"275\" height=\"35\" vspace=\"1\" hspace=\"0\" border=\"0\">         (4.3-5)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 148,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② <img src=\"data:image/gif;base64,R0lGODlhNwAOAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6Zjo6kDpmWDpmZjpmkDpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmZmOmZmZmZmkGZmtmaBZmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmZpBmkJCQZpCQtpCcZpC225C2/5Db/7ZmALZmOrZmZraQZraQkLaQtra2Zra227a2/7bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEUALAAAAAA3AA4AAAf+gEWCg4RAFz6ELjSEjI2Oj5A7PIw1DoRDG5Cam5o3CIiCRCKLgzYpnJxDEgADM0WqrK6EPwWEQTKERCOgkEQfGpOORB4cRTYEPcTGBLxFNR2aQNCoQi0HJ81FP8yvECbcQxCnoSAkBgEojiykRSoDMAYD7Iw6FQuy2tzDGfoe068PGvig1WhIiUFAUqgooIPCPEZEWiAg9UPAoiEPElgEaEnQNkQ/Os4aVyRHDxAPGeGYgCFYKGU1AHCACeBfJUEsSIbaVeiToyAhFJx4FGTVApRFARwl5evUEAxFYhTKROhmIyIvsl0SVwTIhnCnvA4aEmFRSBz4jD1coRPVIBYfFixQhSu3EANBQAz8ewU1V1a3gAMHSRu4sOHDiAUFAgA7\" width=\"56\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">인 경우</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 149,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                   <img src=\"data:image/gif;base64,R0lGODlh4QAkAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Zjo6kDpmOjpmkDpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmZpBmkJBmtpCQOpCQZpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2Zra2kLa2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAE0ALAAAAADhACQAAAf+gE2Cg4SFhoeIiYqLjI2Oj5CRkpOUlZaXmJmam5ydnp+goaKjhEgpm0sng0gGASqksLGysDw5nDC2TTocRgWzv8DBlEwmnUenq8jCy8zNgqaFQoZJEwADOIyphNLO3d6yO6+DTB0A5gAF5BtNPQRFi0wi703S3N/3+JwtuYJLNoO1kCh4x8SDOEU7bBkx9yCfw4fD5CE68sqIO0ErODRZMUCGgQH8BBnRCLGkyUdLMCDSpssXxgdIVKwoEKRCyCZINJzcyfNQTkQtxOlwufHBDyIfbq5q0LNpTyMNDS2xMM/ivIw4B65U6bRryZGHrD7TWvCVjqiHps6TtZCo17f+K1wR2nVIx8Um5HS2e8fioKF4a2NRFIbkQuC3lQYPomvoSAZC1KxhYxLjMCEmSX8pBnb2EjHEm5uE+4RZaaGF5wAEIElJceRrhnoYkCxIyTx7g5ZQYP03hOkmSx4z+nzoNbZDLAAwbWJbEG5CwRehTg2AN6HQfUlnln5Xh4DfjQarY3f3GYYiTF5812VOwfHcF3xoLf7vEDm3iYgXGr93PwwcSCBgiw7tvXdZB/iFtR5eBk3kV3aelMbICmgZsWAhrFBnzoWDCURQg4MYIdcSEbxSCyIscJCEgY/wQEKC9hVjiIcM+tXEPoWcmIiLMBZCoSA0NPGDZYJgZ6MmEir+QuJBM1kymFgbWZdbiU3oWMps6ExC0VCJZKihXE1AidUqCoBgjThWNqYCl0pS2YNGz1334JGZJJmIXQSxABIiXlLHoVlE/VhXVDssoNo6ZBKZjSp4DidjIWwWRchCDfVX6KGFaNPonedc6CAhowEHgYaklrphLnbaV445AWSg6CODRSoohqoIsgMK7ICpC1qRBKlLefk9OlegvFpoyxIQaHRrrn75uqmqDaXESGihdpLqjAfQmVhFd2V03yBJ4CrSesiSRI6UjRB4DrCI6Ddptxx8ayxeHfBCbrKLpcZuKdniNcS0fjEWSWGvAqZIpJp0SBaI4CJD0TH9UPWMgJL+IFHrRvv+JWyiNZZC8bkQAycxThevkLEgCAM8KbrR/DsXr1KNrCq6LASAaCTidaAXsH1+t0QF2HSGsltIJDDBABPoChlXKN+V3M2N5EVeYORU6s7PQUeVBNO/zsPCheca8nUuNZMUGlSM9DAfXr4pybWP58AMFTSStNWEcY0gUU1UR9VLSBB96bBBaBiZoxGy5rhzhAY/QYJ3ptXAhtPehVcnauJFLDEC3Susu5bm0EAFVlx+Na5IL5DV1+VykexD+C8/z7A2XsXAUMSQkXQ+gLbLKFFDI74LgmMi0i4isCNoSwIDES7c8CosHNlo8Wc0xLnIPive40MO1SKy/WiD2Lv8l0T5fVBCK8ossgPL0ikABMzeUDQ9w46wwr4wyDLwvKj6h2nA/cNbCQQcUATUNSKAiElgN7pnCLEkDx7kU6AEmWG6QQmPd9C52AQ3CAwmjCA/DZLW7xYRMg6acBYJWYkEFPIAH7DoELg4oQxjQbcZLcd+i5qhDpvChP3t8Ic7CQQAOw==\" width=\"226\" height=\"35\" vspace=\"1\" hspace=\"0\" border=\"0\">            (4.3-6)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 150,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhDAAPAPQAAAAAAAAAOjo6kDpmtjqQ22Y6kGaQ22a222a2/5A6AJA6OpA6ZpC2/5Db/7ZmALZmOrZmZrZmkLaQkLbb27b//9uQOtvbkNv/29v///+2Zv+2kP/bkP//tv//2////wAAACH5BAAAAB4ALAAAAAAMAA8AAAVBoCeOZGmaFaAGhtkpjZcJWMkV9UaXGeG9CJNjdXAtKCfRZpAUVYKkR+DQSQACMVFvw0hCKJqsSXKJTJIzi68pCgEAOw==\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：보강조적조기둥에서 허용중심축하중(N)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 151,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDQAPAPQAAAAAAAAAZgA6ZjoAAGY6OmaQ22a222a2/5A6AJC225Db/7ZmALZmOrZmZra227bb27b//9uQZtuQkNvb2/+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAACH5BAAAABsALAAAAAANAA8AAAU/4CaOZGmeZKSg4kWsrMPA5wXNqDZtKkoBwMMpkxAthCYJxIhkAAwaBEC4AAQglYKlwKoKaKYGBPNgWQZI1igEADs=\" width=\"14\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：조적조의 유효단면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 152,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDwAPAPQAAAAAAAAAOgAAZgBmtjoAADo6kDpmkDqQ22YAAGa2/5A6AJA6OpBmtpDb/7ZmOrZmZra227a2/7bb/7b//9uQOtuQZtu2kNvb/9v///+2Zv/bkP/btv/b2///tv//2////yH5BAAAAB8ALAAAAAAPAA8AAAVQ4CeOZGmeZIcALHugWoGJVIJSr3dt0uktDc9jgvpoCKxB8YP7ZGyoX+PDmcFkJYeA6AgoWNtRh7GJZA6ZIgfyGRYtk0pjyEGpDJgMAbochQAAOw==\" width=\"15\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：기둥철근의 허용압축응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 153,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhEQAPAPUAAAAAAAAAOgA6ZgBmtjo6ZjpmtjqQ22YAZmY6AGY6kGa222a2/5A6OpCQtpCQ25Db/7ZmALZmOrZmZraQkLa2Zra2kLa2trb//9uQOtu2ttvbttvb29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAARAA8AAAZWQJFwSCwaj0RAMcRYHJVFSaXwLH4MIg6SCAEABtti5BEmghLasrCDVQshTtGHgBAgAmTz4SLUjDEKHnlCCRRtIiENIhMcGWlIHw6JIhYbYYKRTINuRUEAOw==\" width=\"17\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：28일 양생일 때 조적의 규정 압축강도(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 154,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCwANAPQAAAAAADo6kDqQ22ZmOmZmtmaQ22a2/5BmkJCQ25Db25Db/7ZmALZmZraQOraQkLbbtrb//9uQZtu2Ztvb/9v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAALAA0AAAUzoCaOWsZAJIkRpBRQ4qWoRUpWhj1GAyDoC8HKljlQMAjb0JKYpCo1xwNFiswaP512KwoBADs=\" width=\"12\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：기둥의 유효높이(mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 155,
+        "title": "4.3.5 허용압축응력과 압축력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBQANAPQAAABmtjoAAGYAOmZmtmaQZmaQ25Db/7ZmZrb//9uQZtu2Ztu2ttvb29v////bkP//tv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAAFAA0AAAUZICSOZGmWj0AE0KIADcQkxngg4jOMTnGWIQA7\" width=\"6\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：단면2차반경(mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 156,
+        "title": "4.3.6 허용휨압축응력",
+        "level": 3,
+        "label": "4.3.6",
+        "contents": "<p>4.3.6 허용휨압축응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 157,
+        "title": "4.3.6 허용휨압축응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 허용휨압축응력 <img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAAAOgAAZgA6kABmtjo6Ojo6kDqQ22YAAGYAOmaQ22a222a2/5A6AJA6OpA6ZpBmkJCQ25Db/7ZmALZmZraQZra2/7bb/7b//9uQOtuQZtu2ttvb/9v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAANABEAAAZcQJJwSCwaj6RRA8BkDjzFkUMiBCmMIAOUJLIYMwdS6DKONhikCtUoQji3xQ+BZBVyipNweQSBixJrQiIRRFlwdAUCGEpMAYEaCx9oSBQYH4FGGx0PGEhcCZOeQ0EAOw==\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음 값으로 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 158,
+        "title": "4.3.6 허용휨압축응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                     <img src=\"data:image/gif;base64,R0lGODlhTQARAPUAAAAAAAAAOgAAZgA6Zjo6Ojo6ZmYAOmY6AGa222a2/5A6OpA6ZpBmkJCQtpCQ25Db/7ZmOrZmZraQkLa2trb//9uQOtuQZtu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAABNABEAAAa/QJFwSCwaj8ikcslsOp/QJwBgnFqnUaIVuR12i1gl9TgWlqPls9m7brPV4OQZ7kxX2SK7lknPv6tXV3FuZHd4WW59dYdgamFmX2iCiIlihoRoeBqAgY+Vcpd+lHYhDByIenqiqopNaiAOo3isn6KoRh8EAhSonlqekWcfBQcDBwEPXJNCFggdCZTRmBgQDxUIHslQERQd2tKZaiENIhIcF6dQFxsLvOCSuA7jIhMZUSAG0O/72R/yCt/2CRw4JAgAOw==\" width=\"78\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">, (최대：13.8 MPa)                (4.3-7)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 159,
+        "title": "4.3.7 조합압축응력",
+        "level": 3,
+        "label": "4.3.7",
+        "contents": "<p>4.3.7 조합압축응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 160,
+        "title": "4.3.7 조합압축응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 축응력과 휨응력을 받는 부재는 역학적으로 수용되는 이론이나 식 (4.3-8)에 따라 설계할 수 있다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 161,
+        "title": "4.3.7 조합압축응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhUwAnAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Ojo6kDqQ22YAAGYAOmY6OmY6ZmZmkGZmtmaQtma222a2/5A6AJA6OpA6ZpBmZpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQZraQkLa2kLa2trbb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAACH5BAAAAD0ALAAAAABTACcAAAb+wJ5wSCwaj8ikcslsOp/QqJS4c1Cmy+oVy6VCXIpa17j7hsfdECWXQhfVbPcUZwAACnIh3Y7PS3Fnfj2AYoJRKwuGPYiKUDwVW36PkT0zjUo4CCqGmZtCPBmFl0YrfYKlVByjRi80kG8BE1ytr0M4CQKeqzsPJoFCNgs4Hli8vqI9LBM2lKMgAx9FIio30VjP1kPTNtmrSCU0IyjIaK0Xut5HNgowiX47Dc3pUjwb80Q6lkU6It1o9fd4uICAosgjAAH8jQHoLQaGDuSoNFDYhWEjHSQk6FMCr9sOBnZCihxpJ9cekgmFfCTJsiQ6IgI1FMwyUZI9bzxKEEzS0eapvR45M7Qp0jOPRUUgWrqTSHGIDZbyhhxN8pRkVC5Fqeb6ZKFpFBtbgXZlkpTlUiFlARCIOASEuxM9XrCV4lYIXLk/e/RscUWGm7198y4KGdbNCsIv5z1KtCOC0QqMHQsedCAaj41ocFQGqg9zOlSGQEsNFbCWJNMqVc1Lu5ZIiFjXQrbWgyvxz2DDBCljNlkbNa9YtgH3Bk7cXCzmbN9b104QvKu9o2MJAgA7\" width=\"85\" height=\"38\" vspace=\"1\" hspace=\"0\" border=\"0\">                       (4.3-8)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 162,
+        "title": "4.3.7 조합압축응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCgAPAPQAAAAAAAAAOgBmtjo6kDpmtjqQ22YAZmY6kGa222a2/5A6OpC2/5Db/7ZmALZmOrZmZrZmkLaQkLa2Zra2kLbb27b//9vbkNv/29v///+2Zv+2kP/bkP//tv//2////wAAACH5BAAAAB4ALAAAAAAKAA8AAAU5oCeOZGmOnZKcz0SYW+FhZQMAwukwJ3fQpozs1FiJHAGEh2OoiISbxUEy9DwqGl4pcoFQggNL9RQCADs=\" width=\"10\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：설계축하중에 의한 축압축응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 163,
+        "title": "4.3.7 조합압축응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCQAPAPQAAAAAAAAAZgBmtjoAADpmtjqQ22YAOmYAZmY6kGZmkGa222a2/5A6OpA6ZpCQ25Db/7ZmALZmOrZmZra2Zra2kLb//9uQZtu2ttv/29v///+2Zv/bkP/btv//tv//2////yH5BAAAAB8ALAAAAAAJAA8AAAU74CeOZGl+HrOYEkWUW/FlJAQAghk9ZofQnATto5F9Oo4RZPXZDALHQ0VkUWgQE+NHUtGYLphGz8A8hQAAOw==\" width=\"9\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：설계휨하중에 의한 부재 맨 바깥쪽(최대) 휨응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 164,
+        "title": "4.3.8 휨부재의 허용전단응력",
+        "level": 3,
+        "label": "4.3.8",
+        "contents": "<p>4.3.8 휨부재의 허용전단응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 165,
+        "title": "4.3.8 휨부재의 허용전단응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 전단보강근이 없을 때, 휨부재의 허용전단응력 <img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgA6kABmtjo6kDqQ22YAAGYAOmY6AGY6kGaQ22a2/5A6AJA6OpA6kJCQtpC2/5Db/7ZmALaQZra2tra227a2/7bb/9uQOtu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAOABEAAAZXQJFwSCwaj8MQA8BkCjjGUCMi9CiOHgJUBLIcMQXR5zKOMhaiCfUIMji3xs5AZEWKJOEy+7C2Z+FcCRsOHEpMAX0aFBwZgEUhFSEPdnQQHWh2IAhPlEVBADs=\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음 식과 같다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 166,
+        "title": "4.3.8 휨부재의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                   <img src=\"data:image/gif;base64,R0lGODlhZwATAPUAAAAAAAAAOgAAZgA6ZgA6kDo6ZjqQ20kAAGYAOmY6AGY6kGZmtmaQ22a222a2/5A6AJA6OpA6kJBmkJCQtpCQ25C2/5DbtpDb/7ZmALZmOrZmZraQkLa2tra227a2/7b//9uQOtuQZtu2ttvbttvb29v/29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACwALAAAAABnABMAAAb+QJZwSCwaj8ikcslsOp/QqDSpOgCu2Kx2K/hMv2CpihEum8/H0GV6RW4BZqy7PZQL7cuVxGSkJ+F/RIBgg4N1hyyFiYhKKQ59i4FKhoZsjIyAiopLGl5FlUeggoeiiW+gm6N3q6yXRyoLkGWpYbSthX6mTCdrgnhsWWe2kZG2lSt8QnrJqoSufaeyxJi3n0QrD49CKWTSX8PfiKmZpJciIATJat7haNTEm5quKghrsKGzRioKJRHMUr98UfITUAgGAyxQVMA3JEWBBAMSBOg15xcJDiZE/HNn5kS6TuxGZLgAogEKilBWdFgxgSNHeha6lbvWckPGjU5SVDihzSUlGgwFUOoqkoICSxYcSExRkSCdT3cecR45WXQFBKFPszJR4cFnEAA7\" width=\"105\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">  (최대：0.345 MPa)             (4.3-9)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 167,
+        "title": "4.3.8 휨부재의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>다만, 변곡점에서의 거리가 순경간의 1/16보다 작을 때 최대응력은 0.140MPa이 된다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 168,
+        "title": "4.3.8 휨부재의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                    <img src=\"data:image/gif;base64,R0lGODlhZQATAPUAAAAAAAAAOgAAZgA6kABmtjo6ZjpmtjqQtjqQ20kAAGYAOmZmOmZmtmaQ22a222a2/5A6AJBmOpBmkJBmtpCQtpCQ25C2/5DbtpDb/7ZmALZmOrZmZra2tra2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvb/9v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC0ALAAAAABlABMAAAb+wJZwSCwaj8ikcslsOp/QqNS4SgCu2Kx2CxBMv2DoqhEum89FEWZ6NXLRRCxSLtQyWZKTG7DkH/11cIGDcUN+gE0qD24tiIxzhYKAjo2GhE0bII9KlIR8nYZcoJ6bh08rDJtsloKkSYd0SihrcbFRdq2Vl0WTrEMsekJ4wZGru3OinL68kL8Qi0IqZKq3y5KsiI69QyUhA8Fq1NW5zIPbuudCKwprqH9glCzPKgZwtqGx90IZCC0pFu+GrFsAYEAEAAf+ZCFSosQHFhTImUHxLRO1EiQInMjgYEVEKBxOrKggscy6C9MsUco0bEUHKCwmsLBYMkyGArRCGRkmrcUbCA8mnrDQECBlzS8UiSnpiWJRBgJHo1J5KSgIADs=\" width=\"101\" height=\"18\" vspace=\"0\" hspace=\"0\" border=\"0\">  (최대：1.0 MPa)             (4.3-10)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 169,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 3,
+        "label": "4.3.9",
+        "contents": "<p>4.3.9 전단벽의 허용전단응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 170,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 면내 휨모멘트에 대한 철근배근된 조적전단벽이 조적재만으로 발휘하는 전단벽의 허용전단응력 <img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgA6kABmtjo6kDqQ22YAAGYAOmY6AGY6kGaQ22a2/5A6AJA6OpA6kJCQtpC2/5Db/7ZmALaQZra2tra227a2/7bb/9uQOtu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAOABEAAAZXQJFwSCwaj8MQA8BkCjjGUCMi9CiOHgJUBLIcMQXR5zKOMhaiCfUIMji3xs5AZEWKJOEy+7C2Z+FcCRsOHEpMAX0aFBwZgEUhFSEPdnQQHWh2IAhPlEVBADs=\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음 식과 같다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 171,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhLgAiAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6ADo6kDpmZjpmkDqQtjqQ22YAAGYAOmYAZmY6OmY6kGZmAGZmkGZmtmaQtmaQ22a2/5A6AJBmOpBmZpCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZraQOraQkLaQtra2trbb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEAALAAAAAAuACIAAAf+gECCg4SFhoeIiYqLjI2KOAAADoUtkRmOmIU5CQaEORKdmaKCKCehQDsXGpejmT4fLaE/HjsKN62ZLyMtBbcoNySTuI6zQDi9LiM+ECPDjjshxgUz0ce3zowvLMYDGILB2Iw8FbfWqBHb4YkkkZ0/Nz8akQHN6vb3+PnhPSb1+oP8bAmKB4DePyA/YEi4cI3QMn/3aGxgsCLRw0E+HkTayLGjRwHpeEho0PDQRX08OCwAgejkwRgSLNgo5LJVjxqMfqQoWbMQu4L1frLigW5UT5+ngPiw0LBWyUY/AfRCFIvQL0I4hOnjdU1HOhcHCFBgtXUqNEFcdyBIV/bGK0ExF31MeHrPmopB5rIeNCagA9uqQEpkkEFXHQ6DeDvJkCDCw8EcZAduoKeW7d7LmBcFAgA7\" width=\"47\" height=\"33\" vspace=\"1\" hspace=\"0\" border=\"0\">일 때,</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 172,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>              <img src=\"data:image/gif;base64,R0lGODlhlAAiAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6ADo6Ojo6Zjo6kDpmtjqQ20kAAGYAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpA6kJBmAJBmOpBmZpBmkJBmtpCQkJCQtpCQ25C2/5DbtpDb25Db/7ZmALZmOrZmZraQOraQkLa2kLa2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAE8ALAAAAACUACIAAAf+gE+Cg4SFhoeIiYpPSiuLj5CKTSqRlZaXmJg9OpmdiDOcnqKjlUwxLotOKaSHRwAAD4U7rx6ESI6subpPTh8AAaiKjbu2Cga2FceFk8TNo00SwYk80sQzMsqMGx+1hU4mRs7imNDVhzGhxJM7yqpKDeGGPOnj9Yvlit/xxD0uOwXhZhh5EatVN3sIEeFL1ESDM1VPjgCkttCQEg4JMxqqeOiis2ESgziSuK+QEgcaUwriaOhIQX6cjgzA+IQgQ4cqNbIsdOSgriUZwpFkNIHesgslJUF4xbSp06cABBi194IpQEQ7fLKqCuCYEyO9XgFDpC9SE5o5x2VNe8hJiKn+iKhdUhKULSS5dgm5hWuorKUdL3lC1YoQhrknhnPuhaREa5MKhAc5KcE3olRBTkActpeYkI8Fm+0tfoSOUJMMP+AhWnJDkc0nNZ4AScroANTLozoLWoJDs+K3jxoWguFhSY5O+HzUGpJTtxMbmaUpsf30qq7Rio5Ip54N06xXuDtSdxq+SQSo6KNywisbrO9K5tPLV48ZuLd9fgW9o12pVyzhbOFlHC/vpYQdZtwM4hEhgImiBAKoOEGEXWvV5FR3CeUnCBD/xMMeLwl6wk5eg/TkTYHiMMGcaUhtFM0TACqYQGWP9OLYBUWIwF9/MABAQDU9okSISyeGFglXY1n+CEA3SxRlGk6G2HSLLN0pwQAFBFCQJCJcAWDdE0PUYMRsntj4xA6XOTFDDkrMSMiC+lEXGCYvdNfQPvu9KWRLAJW2YREhCiKEYTt0gISR+UC3CitHXObnRlDuMuIgAg05J5GHQMMCWk1YQINqkq0iEJmYNGIiKU6MEMs7JPhojoa5dChIEqHwcAABGGjFQ2SCvMBANS/8aJIKENWw4iVNUPClJ1UJ6UosPiz7xKO6yDrMmQC1aRS1PEl7yKFKEIsihQYY0Sgn5umKaCcdMgPji020KBk4DLVG4iXPxenBuSBqBacuJMUmyFCYDuLuvQCPNZ0H2vbrzQnNNIpCOpNFEkfqE1MifB0KE6Kpg39PREvbPMQcsWVExwBRQQuLCgKKxrs40SoBx8FIgY81m4SLLkhoJTMwDa9ECcxEK7Zj0Ugn3UkgADs=\" width=\"150\" height=\"33\" vspace=\"1\" hspace=\"0\" border=\"0\">  (최대：<img src=\"data:image/gif;base64,R0lGODlhTQAfAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6ADo6Ojo6Zjo6kDpmOjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmkGZmtmaBZmaQtmaQ22adkGa222a2/5A6AJA6OpA6ZpBmOpBmkJCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmkLaQOraQkLa2tra227bbkLbb27bb/7b/27b//7yQOtuQOtuQZtuQkNu2Ztu2kNu2ttvbkNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEoALAAAAABNAB8AAAf+gEqCg4SFhoeIiYqLjI2Oj5CRkpOUQgAADoU4lx6Unp+CQwkGhEMTpKCpky8uqEpFGh+dqrSOSCY4qEklRQxBtcCLOio4Bb8vQSuZwcyGu0pCxjkqSBAqzdiDRSjQBT7c0b+OyNmQOjbQAxuCyojnhdPlj0YXv+GvEeiHSSPiSkgYBhmRAIDAtYEFaVBicU3JEXE/DK24RCpJkCQfLgVoaEjILGjrlCQJobDIghofOijZYUzSDgUNNwFgoJAWwEE4Zt0apEOGL5EgODoyMiOooHfBRupjKCgJCA0XY9xTsuJjoyQxnDZECkypIKZNPwyAmmtQu1cHLqm91FJQj4v1RpXkaAAggEokD9bq3atXgD6vSnIO4kFjYIEbrs42MqJQq6AcJ1ZupAVYyLIis5KwyNC26qOJaw0I8fvvgdVPSCqIuwntoxAOPx1HcjyE2z/Vk45EJOSRUDyTCo1QQLmOpb9HjpFQUIhjWSHQk6lyEmQkH6EWx/n9ElXwIEECNSEVSYvpFUHnEl39w+Cvl78hQpvulseo7CBygywPOgKE/qdi4hChTw4HEGDBaf55AuArtgFYBAL6JAgKgDv9Y81tx0lYiTEw5NeSfhqCMhoJEdrHggdvheiJENEJIgQpPUyQQgkqejLEaUmIsNGDEdbo44+1BAIAOw==\" width=\"79\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">)        (4.3-11)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 173,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhMAAiAPYAAAAAAAAAOgAAZgBmtjoAADoAZjo6ADo6kDpmtjqQ22YAAGYAOmYAZmY6kGZmZmZmtmaQkGaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJCQZpCQtpCQ25C2kJC225C2/5Db25Db/7ZmALZmOrZmZraQOraQZraQkLaQtra2kLa2tra227a2/7bb/7b/27b//9uQOtuQkNu2Ztu2kNu2ttvbkNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAAAwACIAAAf+gEGCg4SFhoeIiYqLjI2NQBUAA4Q8BAAUjpmIPxaTgj8YnpqjhDodCIMnJZikrUEnNQc4QTogFiGupEAbPLI/HL2zuZo8H8EnODAJw6MxLzwFKSFAt8yZu0E/CxJBwdaOMtw/DbPK340iAJdANz8K6svn8vP09Yw2mTPc9EAmEcKbFBiIZ28GhBaKchC0F6RHBg+IFBZyp66ixYsXBbwwBMQgwkMS7fXQ4AEgyIXnPDYK6QoIPkKQMGo8qagSgAC4bMb7cWGjK5aIvAky8TEbOZiRMvocFBPAzKCyBPVgQQkVQ0HQNgJRIQgIhgAOWF3NGoSGzxEJqOG62q3Aix40H7BGJbGU4Q8GLlAMkvjjAdtPCyAshYGJh4QdJuu5ExtEoQ8TE1b8/bGhEKQBav9q3qwpEAA7\" width=\"50\" height=\"33\" vspace=\"1\" hspace=\"0\" border=\"0\">일 때,</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 174,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                    <img src=\"data:image/gif;base64,R0lGODlhXAAiAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Zjo6kDqQ20kAAGYAAGYAOmY6AGY6OmY6ZmY6kGZmkGZmtmaQ22a222a2/5A6AJA6OpA6kJBmZpBmkJCQtpCQ25C225C2/5DbtpDb/7ZmALZmOrZmZraQOraQkLa2kLa2tra227a2/7bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////yH5BAAAAD8ALAAAAABcACIAAAb+wJ9wSCwaj8ikcslsOp/QqHRKjfJKoqp2W/VhAIEsd0xu9hzisno9PKfZ8LE7TufO6/jpPc937vuASX9RPQwAh4iJiosCLYFCI4gEN3oVj5dHL29NOhOUmGM+HJ9PLgtIOIsAF6BJOqxFPRCwRj4bjqiNQj4Zm61DJbhtEzEKpEQ7K0ojpz8pPzLHQjoGqrp1PRRGJBc7LHpoPzCsNL9HOG/UhwVULojXR+qMwkI9Dar4APA/PqSi0jqMUfFyKpu5XRho6bBUxFQVHQey+KhxEJqLSUI0FfFCS4oLdhWJzDFYRAcCelA4xpJgQ4M0KlfSwKg24BsSZj9ygDDykYiXjgQPBjwIkyTSIYxCaKS4EW2LFzBidFC44cPEPiI4JgUjIsNGQiIzSIhwYSGHLyY+VPjoQOYODqKD2jgIwbBeBBQCh6z9cYLpSyY6QODoqCVu3CEjEmwaMWCTDg97U5Qj9ACpnXANm6GyrMTsY15nHw16vKSHspBS/uz4gDrOnh07c4ZuTeWOPH0oaVcxCoCz7t/AgxcJAgA7\" width=\"93\" height=\"33\" vspace=\"1\" hspace=\"0\" border=\"0\">  (최대：0.24 MPa)             (4.3-12)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 175,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCwANAPUAAAAAAAA6kABmtjoAADpmtjqQ22YAZmY6ZmY6kGZmtmaQtma2/5A6AJA6ZpBmOpCQOpCQkJCQ25C2/5DbtpDb/7ZmOraQkLaQtra227b//9uQOtuQZtu2kNv/ttv///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAALAA0AAAZKQJJwSCwaiRqAYBgaDEcOgnBUkQpFECvnsRiCJgmSCNPIDC2d8CU9FEVECA7lU2BKRAcFqUIZbigiBhlwHiQjDAABHRhNSkePj0EAOw==\" width=\"12\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：설계모멘트(N·mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 176,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCQANAPQAAAAAAAAAZgA6kDoAADoAOjoAZjo6kGaQ27aQtra2/7bbtrbb/7b//9u2ttv///+2Zv+2tv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAJAA0AAAUrICWOZFlGAxAwVDQ+gmPCMgW9MSUluDMhpIjB0aiJIgXF4kQ4mIRGk7QUAgA7\" width=\"9\" height=\"12\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：총 설계전단력(N)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 177,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPUAAAAAAAAAZgA6kABmtjoAADo6kDqQ22YAAGY6AGY6kGa2/5A6AJA6OpA6kJCQtpC2/5Db/7ZmZra2tra227bb/7b//9uQOtu2ttvb29vb/9v/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAMAA8AAAZNQJFwSCwai6ADYLk0FDuFjdCiKFqcoYyHQgwxIKFIxdghLAfHq4hTLXohoo/0GSWCEprGYhkYCzESGxdHIiETIQ6EHQ9shCAIAnOEQkEAOw==\" width=\"12\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：조적조의 허용전단력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 178,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBgANAPQAAAA6OjoAADqQ22Y6OmY6ZmZmtmaQtmaQ22a2/5BmkJDb/7aQkLbb/7b//9uQOtuQZtuQkNu2ttvbttvb2/+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAGAA0AAAUpYCaOZJlZA4kl5FWIVQAc2UUwD5JRQgY1mYcis5gEFRJDJBNDOHSmUggAOw==\" width=\"7\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：휨부재의 압축면과 길이방향 인장철근의 중심 거리(mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 179,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhEQAPAPUAAAAAAAAAOgA6ZgBmtjo6ZjpmtjqQ22YAZmY6AGY6kGa222a2/5A6OpCQtpCQ25Db/7ZmALZmOrZmZraQkLa2Zra2kLa2trb//9uQOtu2ttvbttvb29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAARAA8AAAZWQJFwSCwaj0RAMcRYHJVFSaXwLH4MIg6SCAEABtti5BEmghLasrCDVQshTtGHgBAgAmTz4SLUjDEKHnlCCRRtIiENIhMcGWlIHw6JIhYbYYKRTINuRUEAOw==\" width=\"17\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：28일 양생일 때 조적의 규정 압축강도(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 180,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 모든 전단력을 전단보강근이 저항하도록 설계된 경우 전단벽의 허용전단응력 <img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgA6kABmtjo6kDqQ22YAAGYAOmY6AGY6kGaQ22a2/5A6AJA6OpA6kJCQtpC2/5Db/7ZmALaQZra2tra227a2/7bb/9uQOtu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAOABEAAAZXQJFwSCwaj8MQA8BkCjjGUCMi9CiOHgJUBLIcMQXR5zKOMhaiCfUIMji3xs5AZEWKJOEy+7C2Z+FcCRsOHEpMAX0aFBwZgEUhFSEPdnQQHWh2IAhPlEVBADs=\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 181,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhLgAiAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6ADo6kDpmZjpmkDqQtjqQ22YAAGYAOmYAZmY6OmY6kGZmAGZmkGZmtmaQtmaQ22a2/5A6AJBmOpBmZpCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZraQOraQkLaQtra2trbb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEAALAAAAAAuACIAAAf+gECCg4SFhoeIiYqLjI2KOAAADoUtkRmOmIU5CQaEORKdmaKCKCehQDsXGpejmT4fLaE/HjsKN62ZLyMtBbcoNySTuI6zQDi9LiM+ECPDjjshxgUz0ce3zowvLMYDGILB2Iw8FbfWqBHb4YkkkZ0/Nz8akQHN6vb3+PnhPSb1+oP8bAmKB4DePyA/YEi4cI3QMn/3aGxgsCLRw0E+HkTayLGjRwHpeEho0PDQRX08OCwAgejkwRgSLNgo5LJVjxqMfqQoWbMQu4L1frLigW5UT5+ngPiw0LBWyUY/AfRCFIvQL0I4hOnjdU1HOhcHCFBgtXUqNEFcdyBIV/bGK0ExF31MeHrPmopB5rIeNCagA9uqQEpkkEFXHQ6DeDvJkCDCw8EcZAduoKeW7d7LmBcFAgA7\" width=\"47\" height=\"33\" vspace=\"1\" hspace=\"0\" border=\"0\">일 때,</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 182,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>             <img src=\"data:image/gif;base64,R0lGODlhlAAiAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6ADo6Ojo6Zjo6kDpmtjqQ20kAAGYAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpA6kJBmOpBmZpBmkJBmtpCQkJCQtpCQ25C225C2/5DbtpDb25Db/7ZmALZmOrZmZraQOraQkLa2kLa2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAE8ALAAAAACUACIAAAf+gE+Cg4SFhoeIiYpPSiuLj5CKTSmRlZaXmJg9OpmdiDOcnqKjlUwxLotOKKSHRwAAD4U7rx6ESI6subpPTh8AAaiKjbu2Cga2FceFk8TNo00SwYk80sQzMsqMGx+1hU4lRs7imNDVhzGhxJM7yqpKDeGGPOnj9Yvlit/xxD0uOwXhZhh5EatVN3sIEeFL1ESDM1VPjgCkttCQEg4JMxqqeOiis2ESgziSuK+QEgcaUwriaOhIQX6cjgzA+IQgQ4cqNbIsdOSgriUZwpFkNIHesgslJUF4xbSp06cABBi194IpQEQ7fLKqCuCYEyO9XgFDpC9SE5o5x2VNe8hJiKn+iKhdUhKULSS5dgm5hWuorKUdL3lC1YoQhrknhnPuhaREa5MKhAc5IcE3olRBTkActpeYkI8Fm+0tfoSOUJMMP+AhWnJDkc0nNZ4AScroANTLozoLWoJDs+K3jxoWguFhSY5O+HzUGpJTtxMbmaUpsf30qq7Rio5Ip54N06xXuDtSdxq+SQSo6KNywisbrO9K5tPLV48ZuLd9fgW9o12pVyzhbOFlHC/vpYQdZtwM4hEhgImiBAKoOEGEXWvV5FR3CeUnCBD/xMMeLwl6wk5eg/TkTYHiMMGcaUhtFM0TACqYQGWP9OLYBUWIwF8lPthGwHGE6CaISyeGFglXY1n+CEA3SxRlGk6G2HSLLN0pwQAFBFCQJCJcAWDdE0PUYMRsniihAVgyhPeZOQvqR11gmLzQXUP77EfISYiQVNqGRYQoiBCG7dABEkbmA90qnhwx1kK8oQgjlLuMOIhAhBBZKZyDQMMCWk1YQINqkq0iEJmYNGIiK/g8F5034DTToSBJhMLDAQRgoBUPkQnyAgPVvEAAmylAVMOKlzRBwZejNNjeqoXsGelVwzzRoRIzNlvZUIsQqkSwjqa17W7HMUvIh7l0yAyMLzbRomStKtQaiZksocIgXb6CYZu6kBTbkFdZmikl8BKzBC6EStatEyY0c4QAJ6QjKXGkPjFlwLo0TMdUeOKOS2MmilZzxDFAVNACooKAQjFCFsNiES66IKGVEyMAQ206555ss0pf3azzzrsEAgA7\" width=\"150\" height=\"33\" vspace=\"1\" hspace=\"0\" border=\"0\">  (최대：<img src=\"data:image/gif;base64,R0lGODlhVAAiAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABJSQBmtjoAADoAZjo6ADo6Ojo6kDpmOjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZrZmkLaQOraQkLa2tra227bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvbkNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEUALAAAAABUACIAAAf+gEWCg4SFhoeIiYqLjI2Oj5CRkpOUlD0AAA6FNJgclZ+ghj4KB4Q+E6WhqqEuLalFQBkdnqu1k0MkNKlEI0AMPLbBkDYoNAXALjwpmsLNi7xFPcc1KEMQKM7ZiEAm0QU53dLA2uSDNjPRAxqCy+XuQRfA4rAR6JDJ7pApmKVEPEQdMAXAZuicIWr5yhEJMU7QEAwJ3fWgJajHukFCVhC8gQAAARmCgkjwCHKSCmxCxumo9ZAQDVoAAQyEheFfCwEzAG4ocuOYpBsLsHECwKCkKiIf7BU5Scgath4znfoCRsQDwUdBYlgtYjAYUqVMBzkt5HRekRS0gHTExBaAT0H+RGBUxdbV1tdBL5te26RJ16B2j3D821qjgcydRYY8aMu4MWOcRe5WZOZw7yAgJAT5ZUeZURCQc4vUKMFzpqohFRq2FGu5SBDSFd+ifbSvrQHIiimCmlgIYWWCQboV8YFiauStkeb6EI66ISQhKwmxcB6Z4W9YawHgBLiuJ/VGc4dQAEmjM6Hapmt7ClJvEPFDRFbWdvvd9ciPktRicgBkpPlCKbySWE2CGFeEEDtEtMpmguAzmYLCGDPOD+jUgAABFugGoSoSwtKNhEAkoNSGHB6DS2J7NUdiLeK8EJs8/61YSQ8CiGDPZipwIJiMoUB1VQ+l4DDBCSPwGIoPuhEMAcJAIY5o5JNQrhIIADs=\" width=\"86\" height=\"33\" vspace=\"1\" hspace=\"0\" border=\"0\">)      (4.3-13)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 183,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhMAAiAPYAAAAAAAAAOgAAZgBmtjoAADoAZjo6ADo6kDpmtjqQ22YAAGYAOmYAZmY6kGZmZmZmtmaQkGaQtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmkJCQZpCQtpCQ25C2kJC225C2/5Db25Db/7ZmALZmOrZmZraQOraQZraQkLaQtra2kLa2tra227a2/7bb/7b/27b//9uQOtuQkNu2Ztu2kNu2ttvbkNvb29vb/9v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAAAwACIAAAf+gEGCg4SFhoeIiYqLjI2NQBUAA4Q8BAAUjpmIPxaTgj8YnpqjhDodCIMnJZikrUEnNQc4QTogFiGupEAbPLI/HL2zuZo8H8EnODAJw6MxLzwFKSFAt8yZu0E/CxJBwdaOMtw/DbPK340iAJdANz8K6svn8vP09Yw2mTPc9EAmEcKbFBiIZ28GhBaKchC0F6RHBg+IFBZyp66ixYsXBbwwBMQgwkMS7fXQ4AEgyIXnPDYK6QoIPkKQMGo8qagSgAC4bMb7cWGjK5aIvAky8TEbOZiRMvocFBPAzKCyBPVgQQkVQ0HQNgJRIQgIhgAOWF3NGoSGzxEJqOG62q3Aix40H7BGJbGU4Q8GLlAMkvjjAdtPCyAshYGJh4QdJuu5ExtEoQ8TE1b8/bGhEKQBav9q3qwpEAA7\" width=\"50\" height=\"33\" vspace=\"1\" hspace=\"0\" border=\"0\">일 때,</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 184,
+        "title": "4.3.9 전단벽의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                    <img src=\"data:image/gif;base64,R0lGODlhYAATAPUAAAAAAAAAOgAAZgA6ZgA6kDo6ZjqQ20kAAGYAOmY6AGY6kGZmtmaQ22a222a2/5A6AJA6OpA6kJBmkJCQtpCQ25C2/5DbtpDb/7ZmALZmOrZmZraQkLa2tra227a2/7b//9uQOtuQZtu2ttvbttvb29v/29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACwALAAAAABgABMAAAb+QJZwSCwaj8ikcslsOp/QaFN1AFiv2KxW8JF6v04VA0wum4mhi9eK1ALM1+SbGF+uJCYjWzlv08t9fUN1QoFLKQ56LIKKfH9khkeCkUkaXUWMko6Fi21umZSYj51JKguNkINnoaOiSSdqdIRrWKuqmqhCK3m6eLlrt3KfqJmcrkMrD4lCKWO/UqxgkYzURiIgBLxpz9Bnx3PVwYIqCGqmuNJGKgolEby0xVmFtUQYBiwoFegsKQUJAwkCxPI0iwQHEyLeefNyIpulXyMyXADRAMVAKCs6rJiwkAw5C85UMdrIYgNChU9SVDixrOMXDAUuLsqUggJJDiS8qEiQzSUSmIYokVisuQKCTJ9Ij6jw4DMIADs=\" width=\"98\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">  (최대：0.52 MPa)             (4.3-14)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 185,
+        "title": "4.3.10 허용지압응력",
+        "level": 3,
+        "label": "4.3.10",
+        "contents": "<p>4.3.10 허용지압응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 186,
+        "title": "4.3.10 허용지압응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 부재가 조적개체의 전면적으로 저항할 때 허용지압응력 <img src=\"data:image/gif;base64,R0lGODlhEwARAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6Ojo6Zjo6kDqQ22YAAGYAOmaQ22a222a2/5A6AJA6OpA6ZpBmkJCQtpCQ25C2/5Db/7ZmALZmZraQZra2/7bb/7b//9uQOtuQZtu2ttvbttvb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAATABEAAAZtQJVwSCwaj8hi6gFoNgejpDAFsQhNDOkVEVWhNFpVJ6E6bczapUOVsYZRimdXSyKosMKQ9kJGpyRzRigLbkIoFFImXEQmBgIcdwcFZEtNAYUeDSRrIBiQUp4kVikTYR8iEZAmFW8LayolhWFHQQA7\" width=\"21\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음 식과 같다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 187,
+        "title": "4.3.10 허용지압응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhUQARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAZjo6Ojo6Zjo6kDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmZmkGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmZpBmkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQOraQkLa2kLa2tra2/7bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAACH5BAAAADwALAAAAABRABEAAAb+QJ5wSCwaj8ikcslsOp/QaBEnqUmv2CyLgdRBLNli7gEYqIouQ/k8HAEW3S9yt1kddZKXwhrm7S4VPC4EfDw4EzU7JQJ2OyYqOAd2RXh6hUQ5KUgjFjlsRzhqAKOkjFN7fhghQzYBqzoOqySTm52fTaGjBX2shEIiYEawITgKGmWrRLkAu1HFl6CipKOmRCzNPCJcRls8NgBcg9DPV91DM33XQ9pGOB5CNqY6DcFD5lF/9Tsc0FE2vtkqXMCW4wMrU/mIJJQSiZaOd2HI7VCFCYSQG8Qk+blQz5BGKeqG4EBQ7cofCoIAGpLG6E84lTxCCsGR4MGAB66OwKDBkUhRiwo2OkoZs4aJDjJmhuzsOSTGiBAsKmAUFuEEqiGzbCTjhUVH1atCdnTgYaIGjH7ZBmwVsjMDLa5XRKid4kEsDxQynsASCpcrRncT1/YdPDgIADs=\" width=\"83\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                      (4.3-15)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 188,
+        "title": "4.3.10 허용지압응력",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 부재가 조적개체의 1/3 이하의 면적으로 지지할 때 허용지압응력 <img src=\"data:image/gif;base64,R0lGODlhEwARAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6Ojo6Zjo6kDqQ22YAAGYAOmaQ22a222a2/5A6AJA6OpA6ZpBmkJCQtpCQ25C2/5Db/7ZmALZmZraQZra2/7bb/7b//9uQOtuQZtu2ttvbttvb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAATABEAAAZtQJVwSCwaj8hi6gFoNgejpDAFsQhNDOkVEVWhNFpVJ6E6bczapUOVsYZRimdXSyKosMKQ9kJGpyRzRigLbkIoFFImXEQmBgIcdwcFZEtNAYUeDSRrIBiQUp4kVikTYR8iEZAmFW8LayolhWFHQQA7\" width=\"21\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음 식과 같다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 189,
+        "title": "4.3.10 허용지압응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhVgARAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6ADo6Ojo6Zjo6kDpmtjqQ22YAOmY6AGY6OmY6ZmZmkGaQtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmZpBmkJCQkJCQtpCQ25Db/7ZmALZmOrZmZraQkLa2kLa2tra227a2/7bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAACH5BAAAAD4ALAAAAABWABEAAAb+QJ9wSCwaj8ikcslsOp/Q6FM3uUmv2Gyx5UDyIhftcQcBEFbGHsksEpLZyW/42OuwjrxJjGEVD3sYFj4wBX1CgGEtAiw9Gmg6C3dGeXuGRDsqSCQXO2hKOgcAoqMAi0Y6fD49GW1HOIs8IUMvkkWbnVCgogZ+RTiFQiNzRT0bXasUNz0pp6EAvFGolkm6pKKmW9A+I11FIwANfxgDyUfSV1xENb0+LdrcSO5WMStkwFvdUYh/HtNYv32EAeK1TAioCzrmqBl2CAPDKQhqxWJ3blUrITgCtDmIY1jHIjoiotPmQ4cCbFoAVRh079CHdYpYQEKzQ0ItIe6GQIJAAIJeRiQybDgk4sLCRz9vzqThYMZTjgRwhgQdKmQGCREtLOS4SISHhBOphpRggYMruyxewRrqAcKHiRsy/AUjYDaohptns4ygS0RHCLY+UNCAwuPBw7xnt/q1iLix4yFBAAA7\" width=\"88\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                      (4.3-16)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 190,
+        "title": "4.3.10 허용지압응력",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 식 (4.3-16)는 응력이 작용하는 부분과 응력이 없는 부분의 가장자리 간격이 적어도 응력이 작용하는 부분에서 평행 방향 치수의 1/4 이상일 때 적용된다. 지압면적이 1/3보다 크고 전단면적보다 작을 때는 식 (4.3-15)과 식 (4.3-16)을 직선보간해서 사용한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 191,
+        "title": "4.3.11 철근의 허용응력",
+        "level": 3,
+        "label": "4.3.11",
+        "contents": "<p>4.3.11 철근의 허용응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 192,
+        "title": "4.3.11 철근의 허용응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 철근의 허용응력은 다음과 같다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 193,
+        "title": "4.3.11.1 인장응력",
+        "level": 4,
+        "label": "4.3.11.1",
+        "contents": "<p>4.3.11.1 인장응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 194,
+        "title": "4.3.11.1 인장응력",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 이형철근</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 195,
+        "title": "4.3.11.1 인장응력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                      <img src=\"data:image/gif;base64,R0lGODlhRgARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmOjpmkDqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmkGZmtmaQ22a222a2/5A6AJA6OpBmtpCQtpCQ25C225C2/5Db/7ZmALZmOraQkLa2kLa2tra227bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAADoALAAAAABGABEAAAb+QJ1wSCwaj8ikcslsOp/QqHRKJc4A2CzgUh3aHoDBqXiTCV9JHISrnAlQwlzm09XlMBYdi2AeprAJY0c4Ey0JfUggDEIkOi6IRDUGWllvRTWHdnNEK3BKIRc2gkg4DnQsXGh1M3xCIGxCnUmSWAVLf1iWs5OUALp+tq6LQyoKAAF5RpiQR3eLOBR1RCnBOopEKh16AXRFKcNKNQd0OTDSQ6x9IBYYtm5wOA2wcRjzSNTnyply3To0HkJwSGBWA4GnJHfs6Qjxa8qdCnpaBYww5psRfEOWiVCXRaIOHBpqAOzyJcwoITXAgBPiIkY9Ii9IxNjQ5EaJfFBwRBiRaUgmjhI4ODBpgUJFP5xMQAw4qqNGB1RM4i1ghjRKvIZVsw5pYWJDnyAAOw==\" width=\"71\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  (최대：165 MPa)               (4.3-17)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 196,
+        "title": "4.3.11.1 인장응력",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 와이어 철근</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 197,
+        "title": "4.3.11.1 인장응력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                      <img src=\"data:image/gif;base64,R0lGODlhRgARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmOjpmkDqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmkGZmtmaQ22a222a2/5A6AJA6OpBmtpCQtpCQ25C225C2/5Db/7ZmALZmOraQkLa2kLa2tra227bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAADoALAAAAABGABEAAAb+QJ1wSCwaj8ikcslsOp/QqHRKJc4A2CzgUh3aHoDBqXiTCV9JHISrnAlQwlzm09XlMBYdi2AeprAJY0c4Ey0JfUggDEIkOi6IRDUGWllvRTWHdnNEK3BKIRc2gkg4DnQsXGh1M3xCIGxCnUmSWAVLf1iWs5OUALp+tq6LQyoKAAF5RpiQR3eLOBR1RCnBOopEKh16AXRFKcNKNQd0OTDSQ6x9IBYYtm5wOA2wcRjzSNTnyply3To0HkJwSGBWA4GnJHfs6Qjxa8qdCnpaBYww5psRfEOWiVCXRaIOHBpqAOzyJcwoITXAgBPiIkY9Ii9IxNjQ5EaJfFBwRBiRaUgmjhI4ODBpgUJFP5xMQAw4qqNGB1RM4i1ghjRKvIZVsw5pYWJDnyAAOw==\" width=\"71\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  (최대：207 MPa)               (4.3-18)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 198,
+        "title": "4.3.11.1 인장응력",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3) 띠철근, 앵커 또는 원형철근</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 199,
+        "title": "4.3.11.1 인장응력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                      <img src=\"data:image/gif;base64,R0lGODlhRgARAPUAAAAAAAAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Ojo6kDpmkDqQ22YAAGYAOmY6AGY6OmY6ZmZmkGZmtmaQ22a222a2/5A6AJA6OpBmtpCQtpCQ25C225C2/5Db/7ZmALZmOraQkLa2kLa2tra227bb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttvb29vb/9v/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADYALAAAAABGABEAAAb+QJtwSCwaj8ikcslsOp/QqHRKJcIA2CygUh3KHABBCfnpJGkPrhIWMAlrF3O3ZqHYUoOXMYWQG2kRKgl6SR4LQiI2K4RFMQVaWW2NgzZwfkIyJHFkFTJjZw1mKVwsXUIweUIeam8jlkaOWARLJ5FuSbGQAJJEJ7Oqh0OLr7CUSnSHNBKmvb82hl5jxEUnwUoxBmY1LcxDqIQeFBazHpDObxasSb7dxXrTQ/BCMQe3SXTqQh+8VHQTd6mKyLPBbkiMQSDAZQlogwaGGBxMfQnziUguaytcpCPCQoSLDE1mjGgHhQaEEMZa0dDARIUJFJdILvEgIGaMDaOY0GCggJEOzCk7+f0cSkQFiQyEggAAOw==\" width=\"71\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">  (최대：138 MPa)                (4.3-19)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 200,
+        "title": "4.3.11.2 압축응력",
+        "level": 4,
+        "label": "4.3.11.2",
+        "contents": "<p>4.3.11.2 압축응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 201,
+        "title": "4.3.11.2 압축응력",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 기둥에서의 이형철근</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 202,
+        "title": "4.3.11.2 압축응력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                      <img src=\"data:image/gif;base64,R0lGODlhTAARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Ojo6kDpmkDqQ22YAAGYAOmY6AGY6OmY6ZmZmkGZmtmaQ22a222a2/5A6AJA6OpBmtpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLa2kLa2tra227bb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttvb29vb/9v/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADgALAAAAABMABEAAAb+QJxwSCwaj8ikcslsOp/QqHRKreJkgKwWYLEiaQ/A4IQEeZQ2SDcpE6CEN8zZW7xdKrgVIWZcJeZHNhIsCnxIHwxCJDgthkozBltabkYzhThxgEI0JnJJIBY0ZEg2DmcrXS50RjJ7Qh9rcCWZR5BZBUopk29OtpIAlEUpuK+JQ420tZdJdok2E6tIw0OIQ6KYnkcpxkkzB2c3L9FHrYawdgUfksREdrHS7OPKfMnt2UUzCLxI7kYgwSACvJtih0IeV3XuEZk2xFIMEXzUZUGIw0aGGR2uMJAxcAoYMaOI+OLGCMaFdy5IwNDApEYJISH2yXNiI8KIZbJsbFjCAoUmijMxaYib6eTDAE04ZnBAtcRGgwV8ZBjoSDSK02BVsx5hYUIDnyAAOw==\" width=\"77\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> (최대：165 MPa)                (4.3-20)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 203,
+        "title": "4.3.11.2 압축응력",
+        "level": 5,
+        "label": "(2)",
+        "contents": "<p>(2) 휨부재에서의 이형철근</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 204,
+        "title": "4.3.11.2 압축응력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                      <img src=\"data:image/gif;base64,R0lGODlhSAARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmOjpmkDqQ22YAAGYAOmY6AGY6OmY6ZmY6kGZmkGZmtmaQ22a222a2/5A6AJA6OpBmtpCQtpCQ25C225C2/5Db/7ZmALZmOraQkLa2kLa2tra227bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAADoALAAAAABIABEAAAb+QJ1wSCwaj8ikcslsOp/QqHRKVc4A2CzgUi3aHoDByXiTCV9JHISbnAlQwlzm0x3mMBYdi2AmprAJY0c4Ey0JfUcgDEIkOi6IRTUGWllvRjWHOnJ0RCtwSiEXNoKDDnQsXGh1QjN8QiBsQ55JklgFSn9Ylkq1lAC7frevi0QqCgABeZeZSXeLOBSrRSnCOopFKh16AZx+xLQHdDkw0kStfbB3t25wOA2xcRjwR9TlR5hmm0Q0HkI4EpB01EDwCcmdeTpCAKtyp4IeV0NwRBiT4tuQekPwiTADIgtEHTg01Oi36ksYUhnBWHQUQx6RFyRibGByo4Q9KRJHMItTAgcihyUtUKjodtMJiAFEBXZAtcTdgoBFp7hbGLXqkBYmNpgJAgA7\" width=\"73\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> (최대：165 MPa)                (4.3-21)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 205,
+        "title": "4.3.11.2 압축응력",
+        "level": 5,
+        "label": "(3)",
+        "contents": "<p>(3) 수평연결철물에 의해 구속되어 있는 전단벽의 압축부분 이형철근이 수평연결철물의 직경이 6 mm 이상이고 간격이 철근직경의 16배, 띠철근직경의 48배 이하인 경우</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 206,
+        "title": "4.3.11.2 압축응력",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                      <img src=\"data:image/gif;base64,R0lGODlhSgARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Ojo6kDpmkDqQ22YAAGYAOmY6AGY6OmY6ZmZmkGZmtmaQ22a222a2/5A6AJA6OpBmtpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQkLa2kLa2tra227bb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttvb29vb/9v/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADgALAAAAABKABEAAAb+QJxwSCwaj8ikcslsOp/QqHRKhcoA2CzAUj3SHoDBCQnyJG0QrlImQAlvGHOXeLtUcCtCzLhKyI02EiwKe0kfDEIkOC2FSTMGWlltRTOEOHB/QjQmcWQWNGNnDmYrXC5zRTJ6Qh9qbyWYRo9YBUspkm5Ns5EAk0QptayIQ4yxspZKdYg2E6hHwEOHQ6CXnUYpw0ozB2Y3L85GqoUfFRe1H5HBQ3WuSdDgSJV7xnTWRDMIuUnsRiCTIAHaSalDAc+qIvSGvBMiT8S4LAdx2Mgwo4MMBjIESvkSJtQ9SACytYBxoZ0LEjA0NKlRAkcIffCa2IgwAtkrGxuYsEChwsMkSxrfYjb5MCATjhkcSjGx0WBBDBkGNAqFwtTX1KtHWJjQUCgIADs=\" width=\"75\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> (최대：165 MPa)               (4.3-22)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 207,
+        "title": "4.3.12 겹침이음의 보강",
+        "level": 3,
+        "label": "4.3.12",
+        "contents": "<p>4.3.12 겹침이음의 보강</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 208,
+        "title": "4.3.12 겹침이음의 보강",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 모멘트가 작용하는 구간에서 철근의 설계인장응력이 허용인장응력 <img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgAAZgA6kABmtjo6kDpmkDqQ22YAAGYAOmaQ22a2/5A6AJA6OpBmtpC2/5Db/7ZmALZmOraQZra227a2/7bb/7b//9uQOtuQZtu2kNv///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAOABEAAAZVQJFwSCwaj8MQA8BkDjbGUAMi7CiOnQJUBKocMQeRxzKOMhaiCfUIQji3Rg5BZEWKIuEyO7G2Z+FCEgIXIkpMAX0gDh0PdkIfFI4iGhcZfWwIBoCSQQA7\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">의 80 %보다 큰 경우에는 이음의 겹침길이는 적어도 최소 요구량의 50 % 이상 증가시킨다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 209,
+        "title": "4.3.13 기둥배근",
+        "level": 3,
+        "label": "4.3.13",
+        "contents": "<p>4.3.13 기둥배근</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 210,
+        "title": "4.3.13 기둥배근",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 기둥에서의 철근은 이 조항에서 규정한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 211,
+        "title": "4.3.13 기둥배근",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 수직철근의 단면적은 최소 0.005<img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6ZgA6kDoAADqQ22aQ22a222a2/5A6AJDb/7ZmALZmOrZmZra2tra227bb/7b//9uQOtu2Ztvb29vb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAQABEAAAVJYCeOZGme6Lg5aRkR7ahJcNxNVt1qVR5zlI6vFQEYdafMQ/RqNUZNlOQwWugWAEOHgwAIKtxj51LAFGwKQCBhY0CUNsyAaiuFAAA7\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> 이상 최대 0.04<img src=\"data:image/gif;base64,R0lGODlhEAARAPQAAAAAAAA6ZgA6kDoAADqQ22aQ22a222a2/5A6AJDb/7ZmALZmOrZmZra2tra227bb/7b//9uQOtu2Ztvb29vb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAACH5BAAAAB0ALAAAAAAQABEAAAVJYCeOZGme6Lg5aRkR7ahJcNxNVt1qVR5zlI6vFQEYdafMQ/RqNUZNlOQwWugWAEOHgwAIKtxj51LAFGwKQCBhY0CUNsyAaiuFAAA7\" width=\"17\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> 이하이어야 하며, 10 mm 철근이 최소 4개 이상 배근되어야 한다. 평행한 철근 사이의 순간격은 철근직경의 2.5배 이상이어야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 212,
+        "title": "4.3.14 벽과 기둥의 압축력",
+        "level": 3,
+        "label": "4.3.14",
+        "contents": "<p>4.3.14 벽과 기둥의 압축력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 213,
+        "title": "4.3.14.1 일반사항",
+        "level": 4,
+        "label": "4.3.14.1",
+        "contents": "<p>4.3.14.1 일반사항</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 214,
+        "title": "4.3.14.1 일반사항",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 압축력에 의해 발생한 기둥과 벽에서의 응력은 4.3.5에 따라 산정한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 215,
+        "title": "4.3.14.2 휨모멘트와 축력의 조합하중",
+        "level": 4,
+        "label": "4.3.14.2",
+        "contents": "<p>4.3.14.2 휨모멘트와 축력의 조합하중</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 216,
+        "title": "4.3.14.2 휨모멘트와 축력의 조합하중",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 휨모멘트와 축력으로 인한 조합응력은 4.3.7을 만족해야 하며, <img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAAAOgBmtjo6kDpmtjqQ22Y6kGa222a2/5A6OpA6ZpC2kJC2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLbb27bb/7b//9uQZtu229vbkNvbttv/29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAANABEAAAZKQJFwSCwaj8NQAoEUXhaEJsigqTQ7habIAQAItI+GNqSwaD9RLVa7ZQ4fgUOyPMR+GEJMJi2EWDxiUxJuQhMbERQcSB0DGVlsQkEAOw==\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 식 (4.1-8)을 따른다. <img src=\"data:image/gif;base64,R0lGODlhEwAfAPUAAAAAAAAAOgAAZjpmZjpmtjqQ22YAAGY6AGY6kGZmtmaQ22a222a2/5A6AJA6ZpBmkJDb/7ZmALZmOrZmZra2trbb/7b/27b//9uQOtu2ttvb29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAATAB8AAAZ7QJFwSBR2FsWkZkOUQJLEkIQxBCWgxcll+KlgqwjmN+kZHALU8ZAjqHgI6iGG6lHEhU4R5xkHhUUTFhpxbyJWXXEcBSIhDYt3kJGSWCAGAJeYmZgCW5Oen2MZYpAhDp2QhZERl5yRc5N5kSEPo3dWIhSRdYiQlY+gwElBADs=\" width=\"20\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">비가 30보다 큰 벽의 설계는 구조물의 해석에 의해 결정된 하중과 모멘트를 근거로 하며, 축력과 부재강성의 단면 2차 모멘트 변화와 고정단 모멘트, 모멘트에 의한 처짐과 가력시간의 효과를 고려하여야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 217,
+        "title": "4.3.15 휨설계",
+        "level": 3,
+        "label": "4.3.15",
+        "contents": "<p>4.3.15 휨설계</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 218,
+        "title": "4.3.15 휨설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 직사각형 휨부재는 다음 식 (4.3-23) 또는 4.1.3, 4.3.3과 이 조항에서 주어진 가정에 따른 또 다른 방법에 따라 설계한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 219,
+        "title": "4.3.15 휨설계",
+        "level": 5,
+        "label": "①",
+        "contents": "<p>① 조적조의 압축응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 220,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                           <img src=\"data:image/gif;base64,R0lGODlhawAiAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6ADo6Ojo6Zjo6kDpmZjpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmkGZmtmaQtmaQ22a222a2/5A6AJA6ZpBmOpBmkJCQkJCQtpCQ25C2/5Db25Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2kLa227a2/7bbtrbb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvb29vb/9v/ttv/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEoALAAAAABrACIAAAf+gEqCg4SFhoeIiYqKSDGLiEYmj5OUlZaUODWXgy5Bm5+ghEIAABCFNqQeiEkkiUcrKIlDsaG1m0MJBoRDFbqJRZKGSR8AAbSHSCW2y5UuLb5KRRsfqok3x4ZIEtiGLJ7M4IjJNr6sRQzfiCua4tuK1+HxhTgoNgWenSmmiUki6dnuEgmpJi8eKyVC7l3Txq1QkQeMAiIqwqGgPGAIC/CQlPCfIYoRGxJCosFivEwIB1RUom/RwJCMLng0CcpIBk8do01gl8gGQWQSD/WbaQlJhZ/hUpDSlSTIMFLGFPlMpJTUvVUgeBYyinRrBh3oaIKCVytJVmRfwyJS4cEIDbH+oFSItGRW6yC2biceWLqoyF5SgAEIsBtPrq26Dv9CO3SOKCgkEQJLnix5cCHDSiBT3mxZCWKHanvuE+RDL+XOFjGH+kzIxmglpQsNIzgUriWyq88Smj2oNqEiCHgms21palndg4ALV3ZqcREFqMX6jYrIeCgkMpv/hs5uBxBqhG50eGnbp5DFhcgfcq3ECIWr2bIL8g5+kPiXSCzACK1knZC5lyTRAyJHDBhNMIyt1BdEjDGYmX78+UdLCgRw4x1ytRhRgUhG7KSEgeKU9Ih6DinIUoWFXEjYSBJ09ZiHH6EzIIjC+JPNe9/IVQQF0ZHYjos0nYeIEBCMUooi68i09gIQZ2GXwwIzWKAVbsRVYkMDB6CoxA1ZYgCkIf8VQkQN2Hni1wMz+VYlJcMYEISQ9gShHCUggbmPDQEo0EE2zK1JCRIenvODO2WyOcJMKVQjF6A17JDOLH5WkhM5ORFpSZgjecgodj/I0JuNkU5i6WzkCMKWo2w6IspVD3n2AQE8GeFpqJOQpEScQu5QwQmtbFLEBDN88BqtywhxgAOeJBGCMXNuggQFAZhI7LTUVmstJYEAADs=\" width=\"108\" height=\"33\" vspace=\"1\" hspace=\"0\" border=\"0\">                     (4.3-23)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 221,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCwANAPUAAAAAAAA6kABmtjoAADpmtjqQ22YAZmY6ZmY6kGZmtmaQtma2/5A6AJA6ZpBmOpCQOpCQkJCQ25C2/5DbtpDb/7ZmOraQkLaQtra227b//9uQOtuQZtu2kNv/ttv///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAALAA0AAAZKQJJwSCwaiRqAYBgaDEcOgnBUkQpFECvnsRiCJgmSCNPIDC2d8CU9FEVECA7lU2BKRAcFqUIZbigiBhlwHiQjDAABHRhNSkePj0EAOw==\" width=\"12\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：설계모멘트(N·mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 222,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBQANAPQAAAA6kABmtjoAADo6kDqQ22Y6Oma2/5A6ZpDb/7ZmALZmOrZmZrb//9uQOtuQZtv///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABUALAAAAAAFAA0AAAUjYCWOZEUpxugg48KIUyEElTQ8SgWl+UodlQiiQRAlAI9SKQQAOw==\" width=\"6\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：직사각형부재나 T형 또는 I형 단면의 플랜지의 폭(mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 223,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBgANAPQAAAA6OjoAADqQ22Y6OmY6ZmZmtmaQtmaQ22a2/5BmkJDb/7aQkLbb/7b//9uQOtuQZtuQkNu2ttvbttvb2/+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAGAA0AAAUpYCaOZJlZA4kl5FWIVQAc2UUwD5JRQgY1mYcis5gEFRJDJBNDOHSmUggAOw==\" width=\"7\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：휨부재의 압축면과 길이방향 인장철근의 중심 거리(mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 224,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBQANAPQAAAAAOjpmtmYAZmY6kGa2/5Db/7ZmZra227bbkLb//9uQOtvb29v///+2Zv/bkP//tv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAAFAA0AAAUeICSO5OgEZQo1QAE9R0NAC2S478CI56jMA4QgkQoBADs=\" width=\"5\" height=\"12\" vspace=\"0\" hspace=\"0\" border=\"0\">  ：보깊이(<img src=\"data:image/gif;base64,R0lGODlhBwAOAPQAAAA6Ojo6kGZmtmaQ25BmkJCQtpC2/5Db25Db/7ZmZrZmkLaQkLbbtrbb27b//9uQOtuQZtuQkNvbkNv///+2Zv+2kP/bkP/b2///2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAHAA4AAAUsYCaO5EWKinMuE4kV5AMMoyVQtAghljEmjgpixIo0WpkFg3BAUgKS3GlKCgEAOw==\" width=\"11\" height=\"13\" vspace=\"4\" hspace=\"0\" border=\"0\">)에서 휨압축력의 중심과 인장력의 중심간의 거리 또는 비</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 225,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBgANAPQAAAAAZgA6kDpmtjqQ22YAAGZmtmaQ22a2/5A6AJC2ZpDb/7aQOtuQOtuQZtu2Ztu229v///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAGAA0AAAUm4CWOJLkE0FgV5GSQksIAYpO8l4UIauEMlIvL9bhEDhXCocS8hAAAOw==\" width=\"7\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：휨재에서 춤 <img src=\"data:image/gif;base64,R0lGODlhBwAOAPUAAAAAOgA6ZgA6kABmtjoAADoAZjo6kDqQ22YAOmYAZmY6OmY6kGZmAGa2/5BmOpCQtpDb25Db/7ZmOrb//9uQOtuQZtu2ttvb29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAAHAA4AAAY4wI9wSBRyLsVNoqgxFDMHYYUQYDQ+FAFGU5h0EJFPZ4HJaD9Q7EAoaVgya4sC8vA4ABHupMgfBgEAOw==\" width=\"7\" height=\"13\" vspace=\"0\" hspace=\"0\" border=\"0\">에 대한 압축응력블록의 깊이 비</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 226,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCQAPAPQAAAAAAAAAZgBmtjoAADpmtjqQ22YAOmYAZmY6kGZmkGa222a2/5A6OpA6ZpCQ25Db/7ZmALZmOrZmZra2Zra2kLb//9uQZtu2ttv/29v///+2Zv/bkP/btv//tv//2////yH5BAAAAB8ALAAAAAAJAA8AAAU74CeOZGl+HrOYEkWUW/FlJAQAghk9ZofQnATto5F9Oo4RZPXZDALHQ0VkUWgQE+NHUtGYLphGz8A8hQAAOw==\" width=\"9\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：설계휨하중에 의한 부재 맨 바깥쪽(최대) 휨응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 227,
+        "title": "4.3.15 휨설계",
+        "level": 5,
+        "label": "②",
+        "contents": "<p>② 길이방향 철근의 인장응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 228,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhSwAiAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAZjo6ADo6kDpmkDqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmkGZmtmaQtmaQ22a2/5A6AJA6ZpBmOpBmtpCQOpCQtpCQ25C2/5Db25Db/7ZmALZmOraQOraQkLaQtra2kLa2tra227bbtrbb/7b//9uQOtuQZtuQkNu2kNu2ttvbkNvb29v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEAALAAAAABLACIAAAf+gECCg4SFhoeIiYqLjI2Oj5CRkpOKOAAADIUvlxmUnp85CQaEORGjn6iTJyanQDsXGp2ps44+IC+nPx87Cje0v4sxIy8Fvic3JJnAy4a6QDjFMCM+DiPM14M7Ic8FNNvQvtjXMS7PAxiCyeLXPBW+4K4P5Z4+EbLr6ZejPzc/GpcBrE3yUUFGL3z4SmTg0QKhuB0H9CmCeKniJQHzHC7iFS6VjwYWQ4ocSXIkRk3KJkYUeVKjIn/3XDLbgSCjzGW4CpVoebNRjxqFZtiIRchHB23MfFyA9CLlIB7yBvmQkOIgoR4rmPlr5YkjIRIEBA6S4ULashgeuFLC4TTRxwWKHWflGKbWLYRig2AcIEAhpkxbQIjFRfQDhY0N8wTTtClThSDBjHS48DHBFzVrlAdr3FQRbyO2guCB7rkDxCASnhmRkJUTiMIZmtfxsEAIsmuehXxEfTZqRgQRH2SS4ATk46ViRpEeggfkB4eAi3sqwmpoxwMWGtpKb0TWbFEIAdBtj/Q29vjzQAIBADs=\" width=\"77\" height=\"33\" vspace=\"1\" hspace=\"0\" border=\"0\">                       (4.3-24)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 229,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhDQAPAPQAAAAAAAAAZjpmkGYAAGY6Oma2/5A6AJBmtpC225Db/7ZmALZmOra227a2/7b//9uQZtuQkNu2kNvb29v///+2Zv/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAANAA8AAAU+YCaOZGme5JOgYkWsLLPAZ+XMKCZlKkoBwMLpghAphCaIw4hcBBwYA0CoADwvh0qDlbEwuBFHD3UZCCbcUQgAOw==\" width=\"14\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：기둥이나 휨부재의 철근의 유효단면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 230,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCgAPAPQAAAAAAAAAZgBmtjpmkDpmtjqQ22YAAGYAZmY6kGa2/5A6OpBmtpDb/7ZmALZmOrZmZra2Zra2kLa227a2/7b//9uQZtu2kNv///+2Zv/bkP/btv/b2///tv//2////wAAACH5BAAAAB4ALAAAAAAKAA8AAAU5oCeOZGmOnZKcT0SYWeFdZQMAwukwJ4fQJozs1FiJHAGKh3NQLheaCQIyFG0kJwulwitxDAPgyRMCADs=\" width=\"10\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：설계하중에 의한 철근의 응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 231,
+        "title": "4.3.15 휨설계",
+        "level": 5,
+        "label": "③",
+        "contents": "<p>③ 설계계수</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 232,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                        <img src=\"data:image/gif;base64,R0lGODlhkwATAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6ZjqQ20kAAGYAOmZmtmaQ22a2/5A6AJBmkJC2/5DbtpDb/7ZmALZmZra2/7b//9uQOtuQZtu2ttvb29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAACTABMAAAb+QJBwSCwaj8ikcslsOp/QqDTqQQCu2Kx2y+16v2CtoDItm5mexXnNbrvbl8h7Tq/XPw6Nu1MIyO2AgVEdDEQAUodCFgwbBIKPSFePE2RCiYhEHQ9lWJBTl3YeCoacRBlKoEWXqZ5MrHMbfyCvT4mnp5FJq621dB96QnjAs2eHG1cHusqWvE6JkkZeSB8NhUIdakOgh52G0NrOTc+z35blUdzn3czcbBgWA8BxpOzgzPf4R9L69fi70V3A/SPmj1YZDwnkiFLF0J+9fKiWpBo4EJPDe+MiBUwiIRmHTfQuEsxnsGGukBVLRhRJcJzKJxviUTI5sh20ieFOthRIDiI8lF3pRL58ghBCtpA1XbIaOhJgt1VKi2mLCkmCAVlIoy3zxPRTMxAxh2WlSVZQV4u8PFDYqpUfr7PojAQBADs=\" width=\"149\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">                  (4.3-25)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 233,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                                 또는</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 234,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhVwA2APUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAZjo6Ojo6Zjo6kDpmkDpmtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmkGaQ22a222a2/5A6AJA6OpA6ZpBmkJBmtpCQtpCQ25C225C2/5Db25Db/7ZmALZmOrZmZra2kLa227a2/7bbtrbb/7b//9uQOtuQZtu2Ztu2kNu2ttvb/9v/ttv/29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAACH5BAAAADwALAAAAABXADYAAAb+QJ5wSCwaj8ikcslsOp/QqHRKpeZMo6p2C91lAIEsd0xG6h7isrp8Tq/f2jZ8XpXT71A7fr/U8/9GfmQ4EQQ1gEokAIuGazcMiJFENhiSliUjNxECLEU3Bouhi5yWdRQvCSoTnVM6DqKwsbKztLWipEKfDIdHn7K4pVItAQgXwX+YOhAsMbzHcMosOhQzKc90jzxeA6zXSToSld50OhUwCs7jayUYOCvqb74ABfBwN+j1cC0N+W9e4v3K3DjQLeCYFvSGlABmEEoMGhkA6uhwI0RDbR6c6JhwAt+QHCi8XXFDZEdGJyQGuIHBwgXJSF7AvBRiMo6DBelKCRpS86KkRjRE5MEK4/Mb0CM9i7iyxXRUwTs7aZ4s2ueokaRUjc7EmLXq1q5LFDHKuQYcQLBPyp0ji1YJO3dthaQ8EQEAJE+g5sXlcUNEhgErohm5xzbrQw1ZppHdN0RGXMI8bFi4GpEmh8IXbfDjgaVZUIJCdHyIy47HtBkgiiAccgMBw6I7NnTy0kjIw8pCXFygtDcQR4+cWdj42jalm4eyezc5c1Z5lSAAOw==\" width=\"88\" height=\"53\" vspace=\"1\" hspace=\"0\" border=\"0\">                       (4.3-26)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 235,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhPwAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6Ojo6ZjpmtjqQ22YAAGYAOmYAZmY6AGY6ZmY6kGaQ22a222a2/5A6AJA6ZpBmAJBmOpCQkJDb/7ZmALZmOrZmZraQtra227a2/7bbtrbb/7b//9uQOtu2Ztu2ttvb/9v/ttv/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADEALAAAAAA/AB8AAAbpwJhwSCwaj8ikcslsOp/QqBTZchBS06yWldB6parJd+zcZFgOgYjMLr4gJATosW7bWYYE1s6PjQIHEn18Zi8NIiV7g16GIm8nH0kjCl8uHBlTXDEwFAN1fZwAAZiLbS8MpIMvVopDeACwsQBqRqepfDAdKBWfWbauBrKxV0IvC8KytEIrjhCtQq/IykS/pSqUX9WLGmLZqKWNY9pRMBsAA7dEKsReGsPPTJxiI9MxLA0gFNilUCr1qwEi8CNnYd9ALe66HCQzogC8hU1geIBmoBvEfqPsVbxIDoMJP/U4RrxwLoTIkyiLBAEAOw==\" width=\"64\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">                        (4.3-27)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 236,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhBgANAPQAAAAAZgA6kDpmtjqQ22YAAGZmtmaQ22a2/5A6AJC2ZpDb/7aQOtuQOtuQZtu2Ztu229v///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAGAA0AAAUm4CWOJLkE0FgV5GSQksIAYpO8l4UIauEMlIvL9bhEDhXCocS8hAAAOw==\" width=\"7\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：휨재에서 춤 <img src=\"data:image/gif;base64,R0lGODlhBwAOAPUAAAAAOgA6ZgA6kABmtjoAADoAZjo6kDqQ22YAOmYAZmY6OmY6kGZmAGa2/5BmOpCQtpDb25Db/7ZmOrb//9uQOtuQZtu2ttvb29v///+2Zv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAB8ALAAAAAAHAA4AAAY4wI9wSBRyLsVNoqgxFDMHYYUQYDQ+FAFGU5h0EJFPZ4HJaD9Q7EAoaVgya4sC8vA4ABHupMgfBgEAOw==\" width=\"7\" height=\"13\" vspace=\"0\" hspace=\"0\" border=\"0\">에 대한 압축응력블록의 깊이 비</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 237,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBwANAPQAAAA6kABmkDoAAGYAZmZmtmaQ25CQZpCQkJCQ25Db25Db/7ZmZrZmkLbb/7b//9uQZtu2Ztu2ttvb29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAAHAA0AAAUpYCaOZGme6DUYAjBlERRMi5NJj4Idb8ZMF4QkcyFkKolGxlLIUFwoUwgAOw==\" width=\"8\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：탄성계수비<img src=\"data:image/gif;base64,R0lGODlhLgAPAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6Zjo6kDpmkDqQ22YAAGY6AGZmtmaQ22a225A6AJA6OpBmtpCQtpCQ25C2/5Db/7ZmOraQkLa2tra227a2/7bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29vb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC8ALAAAAAAuAA8AAAbGwJdwSCwaj68VB8lsOo2gznNKbC0AWGzB6JoMrVkt1ahCnIQhB7lCLJ9f6XHRo3i5TKuNESMd0u14ekUoYVlbQy4RFi8fi0YtFESJi41yRSoGWARvRSmOQpianJYvfypqGnujpqhHhIUAh3aKLywnSkWQkrS2uKRuQiINLxcCfZ5tZsENKgcMAwwBn0guEIXSLRJ5dl5C1dcWJBcWHg/IpEIsqS8qbE5dLxgnI6NyIh2VVCoU8Bkl6C+sJKjXxNO+SQATFgkCADs=\" width=\"48\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"></p>"
+      },
+      {
+        "no": 5041,
+        "sort": 238,
+        "title": "4.3.15 휨설계",
+        "level": 6,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBgANAPQAADoAADpmtjqQ22Y6kGZmZmZmtma2/5BmkJDb/7ZmZtuQOtuQZtu2Ztv///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABIALAAAAAAGAA0AAAUioCSOZGmeJQME4lM0ibggUhwdDTRIeqMIkgdh1ZA4DChJCAA7\" width=\"7\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：면적 <img src=\"data:image/gif;base64,R0lGODlhDAANAPUAAAA6OgA6kABmtjoAADo6kDqQ22Y6OmY6ZmZmtmaQtmaQ22a2/5A6ZpBmkJCcZpDbtpDb/52QZrZmALZmOrZmZraQkLbb/7b//9uQOtuQZtuQkNu2ttvbttvb29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACUALAAAAAAMAA0AAAZPwJJwSCwaiaTJgigyQIaZ55DU8AwpF+IIMRwZBoJSaABQDEMEz+RxsGSWws9y4iiUNFlhlMSIPCsdViUgEBgFURwJG0QSAR5jCxhwR5SVQQA7\" width=\"14\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\">에 대한 휨인장철근면적 <img src=\"data:image/gif;base64,R0lGODlhDQAPAPQAAAAAAAAAZjpmkGYAAGY6Oma2/5A6AJBmtpC225Db/7ZmALZmOra227a2/7b//9uQZtuQkNu2kNvb29v///+2Zv/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABkALAAAAAANAA8AAAU+YCaOZGme5JOgYkWsLLPAZ+XMKCZlKkoBwMLpghAphCaIw4hcBBwYA0CoADwvh0qDlbEwuBFHD3UZCCbcUQgAOw==\" width=\"14\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\">의 비율</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 239,
+        "title": "4.3.16 휨철근의 부착",
+        "level": 3,
+        "label": "4.3.16",
+        "contents": "<p>4.3.16 휨철근의 부착</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 240,
+        "title": "4.3.16 휨철근의 부착",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 휨부재에서 인장철근이 압축면에 평행한 경우의 부착응력은 다음 식으로 계산된다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 241,
+        "title": "4.3.16 휨철근의 부착",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhRgAlAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAZjo6kDpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6kGZmAGZmkGZmtmaQ22a2/5A6AJA6OpA6ZpBmOpBmkJCQkJCQtpCQ25C2/5Db25Db/7ZmALZmOrZmZraQOraQkLaQtra2tra227bbtrbb27bb/7b/27b//9uQOtuQZtu2Ztu2ttu229vbttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAABGACUAAAf+gEGCg4SFhoeIiYqLjI2Oj5CRkpAiAAABIYKVABaTnp8iBYQ/FDifp5IvooMmpqivji8ErjsusLeMsqY8H7i+ibo/Hr/EhjmzKMXKgzkCHLbLyjmY0cs6ndXZ2tvc3d7fhjwGluSWAtDgQdO9QTPpkz8pMZ08CK6E4uXk56MM+v8AAwrkF0QGDhK2Xix4B49CECAYMjGMlGPhDwctUkyEpBBICQI0WGw85KNGuAcAFFxYBQvIBYDYgC0s1MMBumzH7gHRIDFSvXvZXMYMUmtSRW85B/kAWujHg1mDYBgYIGGoth8MrCICcuJGBmi6eBy4qU3GCqVMCdX6EcHUjwZamdimjSbDBqFWi46qg6pXGxCTSkfMVCQCmypBIywYDPpSH8ERAAYPuggthygZEEB02FgRyAamSR9qwCSWLDiEPya44uFAxQXJIwshVDj5QYAKsRPlMJAg97dAADs=\" width=\"72\" height=\"36\" vspace=\"1\" hspace=\"0\" border=\"0\">                        (4.3-28)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 242,
+        "title": "4.3.17 휨부재와 전단벽의 전단",
+        "level": 3,
+        "label": "4.3.17",
+        "contents": "<p>4.3.17 휨부재와 전단벽의 전단</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 243,
+        "title": "4.3.17 휨부재와 전단벽의 전단",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 휨부재와 전단벽의 전단응력은 다음과 같이 계산된다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 244,
+        "title": "4.3.17 휨부재와 전단벽의 전단",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhQAAfAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAZjo6kDpmZjpmkDqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmkGZmtmaQ22a2/5A6AJA6ZpA6kJBmOpCQkJCQtpCQ25C2/5Db25Db/7ZmALZmOraQkLaQtra2kLa2tra227bbtrbb/7b//9uQOtuQZtu2kNu2ttvb29v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAACH5BAAAADsALAAAAABAAB8AAAb+wJ1wSCwaj8ikcslsOp/QqHQoAgACIWEVcJl6n6ICMVeRfc9MlnhIMqPfSBbBXVvB70a52fbB+4d6OR5/hDNzJ4SFAhx2iX4zWF45EF2ORTSVUjkULghulm8jFzcqSTYGVqlWAo2gQqdWa65oNp5LsKqrrTs5DLm/wMCseQuzcDoYmcZfNge7eDowUzjSebK8EjEan143EFlxxUY3DrsvMclEMCcyL9xTOeVStZ85ESa2QzooOh1vM9eezBBHZQC4IXxmKPPCIoEBg0VyPJhDpMXDCQuRSKR4BlkBGQCJ6CgRI0MrPc2euYpnh96QOjkkuMnRIEvMd64MmVFjZOA7EJ07fC4T4hNZRhGZeO4Q5W4omR16IsojKuYFBBD+hgY1oAAnUCE6NmBJqRWJDQcpMBAs+0RiAAtQggAAOw==\" width=\"65\" height=\"30\" vspace=\"1\" hspace=\"0\" border=\"0\">                        (4.3-29)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 245,
+        "title": "4.3.17 휨부재와 전단벽의 전단",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) T형 또는 I형 단면을 가진 부재에서 <img src=\"data:image/gif;base64,R0lGODlhDAAOAPQAAAA6ZgA6kABmtjoAADo6kDpmZjpmkDqQ22YAZmY6OmZmkGZmtma2/5A6AJBmZpDb/7a2/7b//9uQOtvb29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAAMAA4AAAVCoCaOo6VQWjaRonSIV/KQmROJGHKPFzRWAhZLUhgAZqxMQ0ABCnM3CwFFqgRQkiCr8lIynguN5CrUVAYGannNZoUAADs=\" width=\"12\" height=\"13\" vspace=\"0\" hspace=\"0\" border=\"0\">을 <img src=\"data:image/gif;base64,R0lGODlhCAAOAPQAAAAAOgBmtjo6kDpmtjqQ22YAAGY6OmY6kGZmOma222a2/5A6OpA6ZpC2/5Db/7b//9uQOtvb/9v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAAIAA4AAAUxoCaO5BWRIjWg2kSwkIJmCwLIIlYk2CGJlVWG8RC5NBXBTxNrBUaVhsXgIEFurCwrBAA7\" width=\"9\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">대신 쓴다. 식 (4.3-28)에 의해 산정한 <img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAA6kABmtjpmtjqQ22Y6AGY6kGa2/5A6OpA6ZpA6kJCQtpC2kJC2/5Db/7ZmALZmOraQOra2tra227bb/7b//9uQZtu2ttu229vbkNvbttvb29v/29v///+2Zv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAANABEAAAZMQJFwSCwaj8MQ4oAUWhiDJsigoTQ9hKboAQAItBCHNpSoaD9RLVa7ZQqnHEVHSDYLN5LOZY7JpOkTIQsiUxFuQh8NHodGIAUBc2xCQQA7\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">가 조적조의 허용전단응력 <img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgA6kABmtjo6kDqQ22YAAGYAOmY6AGY6kGaQ22a2/5A6AJA6OpA6kJCQtpC2/5Db/7ZmALaQZra2tra227a2/7bb/9uQOtu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAOABEAAAZXQJFwSCwaj8MQA8BkCjjGUCMi9CiOHgJUBLIcMQXR5zKOMhaiCfUIMji3xs5AZEWKJOEy+7C2Z+FcCRsOHEpMAX0aFBwZgEUhFSEPdnQQHWh2IAhPlEVBADs=\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">를 초과하는 경우 전단보강근을 배근해야 한다. 길이방향철근에 수직으로 놓여지는 전단철근의 소요단면적은 다음과 같이 산정된다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 246,
+        "title": "4.3.17 휨부재와 전단벽의 전단",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                              <img src=\"data:image/gif;base64,R0lGODlhQwAiAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6kDpmkDqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmAGZmkGZmtmaQtmaQ22a2/5A6AJA6OpA6kJBmAJBmOpBmtpCQOpCQkJCQtpCQ25C225C2/5Db25Db/7ZmALZmOraQkLaQtra2tra227bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvb29vb/9v/29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAABDACIAAAf+gEGCg4SFhoeIiYqLjI2Oj5CRko8nAAABJoKVABiTnpInBYQ/FTifp48vooMppqivgjkGmIUvBK47LrCwPxEtQCqugramPCS7vBQ4PyO1tz8iyLs+KRS6hDm3K9KvPRG6OQuFOQIg19yfPNFAHJ3YtJI/FuiDPLMXhjrukUAZq/T0Ynz4B1CaDhOqFtmzxNCSgHMFR0UjxotBw4sYMzZ8aGhbEIqJFmLkGJHQi4a3Sr5SN+hESpWfelQwmfKHhBsbhMEk5KNGoU2dflgEcKvGChw0dH7KkXHfoR4OIC4CwgJICGTkrgHRkClkAqWKjOVwiuqEuCDbkioKB+nHg5dpr340yCSjk89DMAwMmEB256CTDqXSxMEDgWC//cSRSiQ3k02wfnkcyATERqJsptj6NZSQUWcUGNRuFtSvLwqSsUTRgFDi6uggm4gK++HBGCEgHTAVPvyaJ4ven2a4gNEVeCShCiAbRxcIADs=\" width=\"68\" height=\"33\" vspace=\"1\" hspace=\"0\" border=\"0\">                       (4.3-30)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 247,
+        "title": "4.3.17 휨부재와 전단벽의 전단",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>중간살철근이 필요할 때, 보의 <img src=\"data:image/gif;base64,R0lGODlhFwAOAPUAAAAAAAAAOgA6kABmtjoAADoAOjo6kDpmtjqQ22Y6kGZmZmZmkGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpCQ25Db/7ZmALZmOrZmZraQZraQkLa227a2/7b//9uQOtu2ttvb29v///+2Zv+2kP+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAAXAA4AAAZ8QJVwSByOKsWkMAVKakLKJErSIaIoQw8g0FCiElAjUlXqlgpjYulQfApFAqgFMUxNAoqHFZu06IUXCCkRaSpHUgthJQZQGFVDbm1hKiJ0KAx7SR+TKh56ZSRhh0QkVSgcbwgnGQ4bkJwlBABbYykQA4NjV1G8RCaPvcHCQQA7\" width=\"24\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\">지점에서 길이방향인장철근 쪽으로 연장시킨 모든 45°선이 적어도 하나 이상의 복부철근과 만나도록 해야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 248,
+        "title": "4.4 비보강조적조",
+        "level": 2,
+        "label": "4.4",
+        "contents": "<p>4.4 비보강조적조</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 249,
+        "title": "4.4.1 일반사항",
+        "level": 3,
+        "label": "4.4.1",
+        "contents": "<p>4.4.1 일반사항</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 250,
+        "title": "4.4.1 일반사항",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 이 조항은 설치된 철근이 하중에 작용하지 않는 비보강조적조에 적용하며 KDS 41 60 15과 이 기준 4.1에 추가된다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 251,
+        "title": "4.4.2 허용압축응력",
+        "level": 3,
+        "label": "4.4.2",
+        "contents": "<p>4.4.2 허용압축응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 252,
+        "title": "4.4.2 허용압축응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 허용축압축응력 <img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgA6kABmtjo6kDqQ22YAAGYAOmaQ22a222a2/5A6AJA6OpC2/5Db/7ZmALZmOrZmZrZmkLaQZraQkLa2/7bb27bb/7b//9uQOtvbkNv/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAOABEAAAZZwJFwSCwaj0PRAsBkCjhGEcMh/CCOHwJ0FKocM4UR6DKOLhSjCfUYMji3xs5gZEWOHuEy+7C2Z+FCEAEJI0pMAX0dBR8NdiMRGB59RxQbEhaARR0EGmGOREEAOw==\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">은 다음 식과 같다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 253,
+        "title": "4.4.2 허용압축응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                <img src=\"data:image/gif;base64,R0lGODlhrQAkAPYAAAAAAAAAOgAAZgA6ZgA6kABmtigNUSgXUToAADoAOjoAZjo6Ojo6Zjo6kDpmOjpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmkGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmZpBmkJBmtpCQZpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2Zra2kLa2tra227a2/7bb27bb/7b//7z//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///gf//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAE4ALAAAAACtACQAAAf+gE6Cg4SFhoeIiYqLjIdMEgABKY2UlZaXSAgABEWXnp+glEwYnaGmp4yjpaisrYuqrk5IKLGFTCaDmZKOpLW+tUsHObE8OJ9IGauJL8ZOOh1GBYfBw7/WqEsG1axNJY1CQ4U6EY1HtLnnhdnb1+2e666zjT0Nq00hza+4g0KI8O4ALf1jtWMSo2iEktSg1EREqX79DA0MSFHRxFMs8il6FmqHMSMAAJCTqK2iyUQXQzVUhqgJCBIIAqSrZKQDo5QnT+L8xERDo0cQiiDEtOFmyZxIBe30hKToQU5OjIy0hOSBUXZJTS69JLXROEEsDFrqeTUrUmqtajJq8mESWRr+l2BZFGY2p1xUHF9R+BjBx41LK1/1qtsO2aq7p/Iqqiook03AIDTyYkm41tdBiE0VDOhSsqHMgkCGHA3gMagkFQAM+Fuoh6bVgpQ8RMTEgmlD9zQiVhL20wqx7ToLphxaQDO2wAF74OCkB9RcGoo0cWHcWcgGrG1l8FEPkUJbg5t4iJSc0m/OkYcjUjFyhpMflDORHl09V3fkhIzsYjJhUjFFK3SQRHY/DSYIf+U1ch5AwikCmhMINmdTRKAY8ZwKtxES4X+HyAeANGMZCGF/hHg433OCLOhOg4k8qAN9nuWiyXwA1CeIDiA6wR4il+3gQCTMFYJEd3GJGKEnm0H+CAmNTDbJZH0s0iaiIOKRQxZeOe5oCBL7OLHDCc3tQshlRSpz5CVJrpieg1PKksAkTYSDioWlYChejkmAWZwxj9wmXoaUoIUZiZ4oFpxDiwg6Zo6tDNkJfgmdc0QK5hwoIhIKxJiKkYRyBegvD2o45Z+GrBBAkJ6IV5RzyphoHBMX/EXmjYwiwUAFA1Qg5mQadmpJV4bwVt6CqKlGIG0+qTeICqOhKJU8p6UGGyNIpDbVe0R4cFsQv+nAwaQtGshsSChS0lQh4pHX2gJwLtdcuR1apewiGYGbFawyEEmlNy8UAV+4xPGUrC2+JmFDW7Lch7AiwLIZcCEvENGCDQ/CB6TCAMlx2Y0TM1D4WZugBEawWE3QgB+dgmCo4wAxIDCARjt8Cl7FgxjRABDXVibIpBovzGsrGX3WKXz44bhsBEikoEIBQVygUdDz6uxOqJ+kOahBAzpRdJYR/EDEmoSI7LDUAVHNlFO9GjTuaAWgrKNNjn7W5dhkTw1yyCMInRx+cRed884zAVy33TSjKdmZVCKs6rudqEgIMwUWPrgpZjM109rPeUhOsbA1AQNlt4hy9+SsPKIu6WEXLh+8qLdOeiAAOw==\" width=\"174\" height=\"35\" vspace=\"1\" hspace=\"0\" border=\"0\"> 단, <img src=\"data:image/gif;base64,R0lGODlhNAAiAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADo6Zjo6kDpmZjpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6kGZmOmZmZmZmkGZmtmaQkGaQtmaQ22a222a2/5A6AJA6ZpBmZpBmkJCQZpC225Db25Db/7ZmALZmOrZmZraQkLa227bbtrbb/7b/27b//9uQOtu2kNu2ttvb29v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADgALAAAAAA0ACIAAAb+QJxwSBzKMsWkcslcvmBFkqhJrTJvJA3RVrF6v8LSilhLgc9NWwSKblNpCUhA664XY4IUTWHvC1laNBh+fVI4MVOEbmpQJSovim17OFxlkWgxDDg3G5qXn6Chon6QSzEGc0OnqZE3JhdsSTYPKTUPY7O1t4Q1HyBUMQVCI1rBw3R1LR5mVSyeI5rOw542DQDX2NnaAmM4vSCxTMY40IfC5J59Ny0WzEs0Bys0Bprw8vSX3+IGAxKJp/0SLbKmjUC4ITQQwLjhAUrChQ1HJbnRYQIFNhQtHkRTTRsAgxJDUuG0YEMekU1moHAQooRAlElcTIJJBRBNKoZuLrnBoZsJzoknfgodiiYIADs=\" width=\"54\" height=\"33\" vspace=\"1\" hspace=\"0\" border=\"0\">            (4.4-1)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 254,
+        "title": "4.4.2 허용압축응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                    <img src=\"data:image/gif;base64,R0lGODlhfgAkAPYAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Zjo6kDpmOjpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6ZmY6kGZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmZpBmkJBmtpCQZpCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLaQtra2Zra2kLa2tra227a2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEoALAAAAAB+ACQAAAf+gEqCg4SFhoeIiYqLjI2Oj5CRkpOUlZaXmJmNRSaagkgkg0UGASeep6iDOTaoLaxKNxtDBam1mUkjqUSdory2v5OchT+GRhIAAzWNoITEwM+ROKaDSRwA1wAF1RpKOgRCjEkg4ErEztDoiyqvnzOqNkUK4Ekd04s4rEPXDun9iOLkDBExNeSbIBQblKAY8MLAAHaDhiT0RxERkgsWQ8GiddBBkRMoCvigAFFQkQwVUxY6iUjFtBscFTrgEcRDSUJFGKjcqWQIP0NIKpArSA6hkngBgWLkmVLiIaIm5SmhZ+rGT4tCmVaMdeiGwakcUHoDl8LeIYBaoRWxQI6rQAz+hIwhU5bERVJDSWymfWZ1kDRbeW9GxEZ4IiW5yQzpMDBX0BFy5wohmWAY7wd2ZQHrTTREwCuqlbZ1+2rygpAkLDzDuqZAGVALO6QeMuJuUOZagRWh+BlDCY+7RxkTvqZalFTQEUspQQLB1CpFKTYYcd3odqrcFpt3SxhZElSFlQkxdy44+LWY1c2ewt4VW/FDo4YThwhz0G5EfZXgWAAgALeVsj3y13IPyGfggfNRsxleHPBzUSb1dQSfRvqV0I1yhOQHyYDXLbjSAaYkAUQm3yFUTUxGWChIZ6wg8UBl1YTXiFuRrAUcIWh1hV4mSE1VTyFG8DLQLp9kJQoC5Snm4tQiP4yY4VVY3RijISn4R0k1YpFm3nxIUKCMhoJEaFICEgwgAYaG+MSIDgEmcdkiDxqCAjak+STMYcckxkgRx0BJEweV+VDWDRoMhAhLi8wSV22K5ATJOobu1CUMAU6VSwtC/GbRUorQ+Iiaj7QQxAo03NjPQuoVQQIuSsTQHTXjKJKXCKT4wggOMiqpQA9Q7qXEQKoid8g6irjYgBCKOkKsr/1w+JRBoIYTK7PpIIrfTy45wgy16SQRQiKgPShDI0Rymw4+FkWQjwM7UKeIK+ZWaytOOgWXK1AUxqvvP6bu628igQAAOw==\" width=\"128\" height=\"35\" vspace=\"1\" hspace=\"0\" border=\"0\"> 단, <img src=\"data:image/gif;base64,R0lGODlhMQAiAPUAAAAAAAAAOgAAZgA6ZgBmtjoAADo6Zjo6kDpmZjpmtjqQtjqQ22YAAGYAOmYAZmY6AGY6OmY6kGZmOmZmZmZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmZpBmkJC225Db25Db/7ZmALZmOrZmZra227bbtrbb/7b/27b//9uQOtu2Ztu2kNu2ttvb29v///+2Zv+2kP+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADcALAAAAAAxACIAAAb7wJtwSBzGMMWkcsksul7FUahJrSZtowyxVrF6vaQUkXb6mpm1CPTMbs4Qj4C2TSfCBKdZos6/qbQzF311UjcwU4NsaVAkKC6JZ3o3XGSQZjALNzYamZaen6ChljAFckKkpoMrCGVoDic0Dik1r7FigzYrEx9LMARCIhm+wHOQLBAWa0MqnSILzMCdkwwA1dbX1wK3STQbSHa/N87D4tKDx8lJMwYpMwUL6+3vuCsGvEykAxJT+fvnrUxmHHhhw8MLgQQNiipio8MEClAaPlS2sKLFIZsUaMBzUYkMEw1AkEDUkUgLSSWX/Em5pBBLhhy2vRRio8TMmziZBAEAOw==\" width=\"51\" height=\"33\" vspace=\"1\" hspace=\"0\" border=\"0\">              (4.4-2)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 255,
+        "title": "4.4.2 허용압축응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhDAAPAPUAAAAAAAAAOgAAZgBmtjo6kDpmtjqQ22Y6kGa222a2/5A6AJA6OpA6ZpBmkJC2/5Db/7ZmALZmOrZmZrZmkLaQkLa2trbb27b//9uQOtvbkNvb/9v/29v///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAMAA8AAAZMwJFwSCwajRiAEiC4FEWLx0jU4BRDBw6IUzF2DKLJRWOEKAdHEePycRw/hdH2iEkUIwGESKG0C79tRyMSFx5SRxQbExaCHQQZBoJEQQA7\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：기둥에서 중심축하중만 작용할 때의 허용평균축압축응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 256,
+        "title": "4.4.2 허용압축응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhEQAPAPUAAAAAAAAAOgA6ZgBmtjo6ZjpmtjqQ22YAZmY6AGY6kGa222a2/5A6OpCQtpCQ25Db/7ZmALZmOrZmZraQkLa2Zra2kLa2trb//9uQOtu2ttvbttvb29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAARAA8AAAZWQJFwSCwaj0RAMcRYHJVFSaXwLH4MIg6SCAEABtti5BEmghLasrCDVQshTtGHgBAgAmTz4SLUjDEKHnlCCRRtIiENIhMcGWlIHw6JIhYbYYKRTINuRUEAOw==\" width=\"17\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：28일 양생일 때 조적의 규정 압축강도(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 257,
+        "title": "4.4.2 허용압축응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCwANAPQAAAAAADo6kDqQ22ZmOmZmtmaQ22a2/5BmkJCQ25Db25Db/7ZmALZmZraQOraQkLbbtrb//9uQZtu2Ztvb/9v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAACH5BAAAABoALAAAAAALAA0AAAUzoCaOWsZAJIkRpBRQ4qWoRUpWhj1GAyDoC8HKljlQMAjb0JKYpCo1xwNFiswaP512KwoBADs=\" width=\"12\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：벽이나 기둥의 유효높이(mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 258,
+        "title": "4.4.2 허용압축응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBQANAPQAAABmtjoAAGYAOmZmtmaQZmaQ25Db/7ZmZrb//9uQZtu2Ztu2ttvb29v////bkP//tv///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABAALAAAAAAFAA0AAAUZICSOZGmWj0AE0KIADcQkxngg4jOMTnGWIQA7\" width=\"6\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：단면2차반경(mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 259,
+        "title": "4.4.3 허용휨압축응력",
+        "level": 3,
+        "label": "4.4.3",
+        "contents": "<p>4.4.3 허용휨압축응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 260,
+        "title": "4.4.3 허용휨압축응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 허용휨압축응력 <img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAAAOgAAZgA6kABmtjo6Ojo6kDqQ22YAAGYAOmaQ22a222a2/5A6AJA6OpA6ZpBmkJCQ25Db/7ZmALZmZraQZra2/7bb/7b//9uQOtuQZtu2ttvb/9v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACQALAAAAAANABEAAAZcQJJwSCwaj6RRA8BkDjzFkUMiBCmMIAOUJLIYMwdS6DKONhikCtUoQji3xQ+BZBVyipNweQSBixJrQiIRRFlwdAUCGEpMAYEaCx9oSBQYH4FGGx0PGEhcCZOeQ0EAOw==\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">은 다음 식과 같다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 261,
+        "title": "4.4.3 허용휨압축응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                     <img src=\"data:image/gif;base64,R0lGODlhUgARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Ojo6Zjo6kDpmtjqQ22YAOmY6AGY6OmY6ZmZmkGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmZpBmkJCQkJCQtpCQ25Db/7ZmALZmOrZmZraQkLa2kLa2tra227a2/7bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAACH5BAAAADwALAAAAABSABEAAAb+QJ5wSCwaj8ikcslsOp/Q6BEnqUmv2CyP1TDaAOAwwKLl5R6Agaq4G6VDwvYbqYOQjzvO6mgT7Hk7GHBZOxcVPC4EVnEXZCx+hY5+RjoSLwuLRTkpSCJdPCc8MJlCOAZiYZNFOJiAgnyqQn1/RCMWOWtQOg5wLmQyZTaKQiJ3RDsan3HJq6cABVIsqbTNqGCxQyzQxMrEAAxEIt9TrVGFXToTQjNl2kOeR9qk8kVcVzgHcDvsOx2kUsIWiahwAdoOFKUMWDiY0BigRlfcEdEBogwrK4EG8bARAI4pCxw9KiSCAwE1J5FWJcBm7gIFRMPieGD3aMWOmVuwSSyl4MFagAcdj4gDE5NHiwo2HEo5kybXkB0bmsaJqmYIDBoQh8QYEYJFhRsam5BYYSNsmSs6IpgoF+cDjxI1RkG5muHkWSkiBpjFAWKH2xPAnuxSercwWL4ZCytefCQIADs=\" width=\"84\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"> (최대：13.8 MPa)                (4.4-3)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 262,
+        "title": "4.4.4 조합압축응력",
+        "level": 3,
+        "label": "4.4.4",
+        "contents": "<p>4.4.4 조합압축응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 263,
+        "title": "4.4.4 조합압축응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 축력과 휨모멘트에 의한 조합응력이 작용하는 부재는 다음 식을 만족해야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 264,
+        "title": "4.4.4 조합압축응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhVgAnAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Ojo6kDqQ22YAAGYAOmY6OmY6ZmZmkGZmtmaQtma222a2/5A6AJA6OpA6ZpBmZpBmkJCQkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZrZmkLaQZraQkLa2kLa2trbb27bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbkNvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv/b2///tv//2////wAAAAAAACH5BAAAAD0ALAAAAABWACcAAAb+wJ5wSCwaj8ikcslsOp/QqFS5c1Cmy+oVyz3uIC5FrWv8hsfkdIiSS6WL6/a7izMAAIW5sH7P67k4Yn97goNYKwuGPYiKUzwVW3+PkT0zjU04CCqGmZtCPBlol0krfoOlRDsco0kvNJBwARNcrrBDOAkCnqxDOw8mhUI2CzgeWL7Aoj0sEzaUvD0gAx9FIio31FjS2UPWNtzQSSU0IyjKaa4Xu+FINgowiX87Dc/sjhv2QjqWSDoi4Gl44AvHwwUEFEgeAQgAkIxAaDEwdDjnpUHDLg8v6SAhgV+TeeB2MLhDsqRJALp68DnJUIjIkzDvpDxSUANCJyAlDWTFo8SyQSY59WQkWCKDGyRB5wxVBCJmvIoXh9iAWW/I0iRTT1ZNk7TdTB4Wokax8TUsk6YwnxZBC4AAxSEg4p3o8eKtlLhC5tbN18tijxZXZLzJCbiHYL5CVpCc+UaxzHV8HyXaEUFohcmVEd86QI0HP4+AOPfwXEnzIlOfQpFBZVV1ZFu9VmGE3UMVYrZub+WC/AQ3GlyMTQth5uwP8a18vYmdolw4kXS8u0B33hf5MXrUs+sJAgA7\" width=\"88\" height=\"38\" vspace=\"1\" hspace=\"0\" border=\"0\">                       (4.4-4)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 265,
+        "title": "4.4.4 조합압축응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCgAPAPQAAAAAAAAAOgBmtjo6kDpmtjqQ22YAZmY6kGa222a2/5A6OpC2/5Db/7ZmALZmOrZmZrZmkLaQkLa2Zra2kLbb27b//9vbkNv/29v///+2Zv+2kP/bkP//tv//2////wAAACH5BAAAAB4ALAAAAAAKAA8AAAU5oCeOZGmOnZKcz0SYW+FhZQMAwukwJ3fQpozs1FiJHAGEh2OoiISbxUEy9DwqGl4pcoFQggNL9RQCADs=\" width=\"10\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：설계축하중에 의한 축압축응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 266,
+        "title": "4.4.4 조합압축응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCQAPAPQAAAAAAAAAZgBmtjoAADpmtjqQ22YAOmYAZmY6kGZmkGa222a2/5A6OpA6ZpCQ25Db/7ZmALZmOrZmZra2Zra2kLb//9uQZtu2ttv/29v///+2Zv/bkP/btv//tv//2////yH5BAAAAB8ALAAAAAAJAA8AAAU74CeOZGl+HrOYEkWUW/FlJAQAghk9ZofQnATto5F9Oo4RZPXZDALHQ0VkUWgQE+NHUtGYLphGz8A8hQAAOw==\" width=\"9\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：설계휨하중에 의한 부재 맨 바깥쪽(최대) 휨응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 267,
+        "title": "4.4.5 허용인장응력",
+        "level": 3,
+        "label": "4.4.5",
+        "contents": "<p>4.4.5 허용인장응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 268,
+        "title": "4.4.5 허용인장응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 휨모멘트와 축력에 의한 조합하중의 인장응력은 허용휨인장응력 <img src=\"data:image/gif;base64,R0lGODlhDQARAPUAAAAAAAAAOgA6kABmtjo6kDqQ22YAAGYAOmaQ22a2/5A6AJA6OpCQ25C2/5Db/7ZmALaQZraQkLa2/7bb27bb/7b//9uQOtu2ttvb/9v///+2Zv+2tv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACAALAAAAAANABEAAAZVQJBwSCwaj6CPAsBkCjLFz8Ih5CCMHAIU5JEYLQVQhzKOKhIgCNXoMTi3Rc0AZEU+wmXQpTL0HNZDEXBZcEoAc4YAAYAeDEhDHA2PQhsTGJMWc5NEQQA7\" width=\"14\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">을 초과할 수 없다. 인장철근배근이 안 된 포틀랜드시멘트와 함수석회가 사용된 벽체이나 시멘트모르타르를 사용한 벽체에 휨모멘트가 작용하는 경우 허용인장응력은 모르타르의 휨 인장강도의 1/2 값을 초과할 수 없으며, 통줄눈조적조에서는 수직줄눈에 인장력이 생겨서는 안 된다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 269,
+        "title": "4.4.6 휨부재의 허용전단응력",
+        "level": 3,
+        "label": "4.4.6",
+        "contents": "<p>4.4.6 휨부재의 허용전단응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 270,
+        "title": "4.4.6 휨부재의 허용전단응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 휨부재의 허용전단응력 <img src=\"data:image/gif;base64,R0lGODlhDgARAPUAAAAAAAAAOgA6kABmtjo6kDqQ22YAAGYAOmY6AGY6kGaQ22a2/5A6AJA6OpA6kJCQtpC2/5Db/7ZmALaQZra2tra227a2/7bb/9uQOtu2ttvb29v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACIALAAAAAAOABEAAAZXQJFwSCwaj8MQA8BkCjjGUCMi9CiOHgJUBLIcMQXR5zKOMhaiCfUIMji3xs5AZEWKJOEy+7C2Z+FcCRsOHEpMAX0aFBwZgEUhFSEPdnQQHWh2IAhPlEVBADs=\" width=\"15\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">은 다음 식과 같다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 271,
+        "title": "4.4.6 휨부재의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                  <img src=\"data:image/gif;base64,R0lGODlhaQATAPUAAAAAAAAAOgAAZgA6ZgA6kDo6ZjqQ20kAAGYAOmY6AGY6kGZmtmaQ22a222a2/5A6AJA6OpA6kJBmkJCQtpCQ25C2/5DbtpDb/7ZmALZmOrZmZraQkLa2tra227a2/7b//9uQOtuQZtu2ttvbttvb29v/29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACwALAAAAABpABMAAAb+QJZwSCwaj8ikcslsOp/QqNSpOgCu2Kx2K/hMv+CvihEum8/J0EV6RW4BaKy7PZTX6cuVxFTEu5VwdWeBLISCQoGEiYdKKQ59hYBLhoZgikaXkYibnEoaXkSVR6KhgqSFb6eZpZyrjEgqC5BlrrSvnYp+qEwna3e6UVpomsSMi523K3xCesu3bM99qX/IuNazzA+PQilk2F+1tq3G164iIATLat/gw9jHxPDyRSoIa7GY4kQqCiURzuCAIfJjZyApDAZYoKiQb0iKAgkGJAjga05BFiQ4mBAB0B2aE+k+sRuR4QKIBigqQlnRYcUEjzDrWfC2qZJLFhs2dnSSosIliW0w3WEooBJYCgo3OZCYoiJBuqAeQe40kvLoCggqoWql4sFjEAA7\" width=\"106\" height=\"18\" vspace=\"1\" hspace=\"0\" border=\"0\">  (최대：0.345 MPa)             (4.4-5)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 272,
+        "title": "4.4.6 휨부재의 허용전단응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>다만, 변곡점에서의 거리가 순수경간의 1/16보다 작을 때, 최대응력은 0.138 MPa이다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 273,
+        "title": "4.4.7 전단벽의 허용전단응력",
+        "level": 3,
+        "label": "4.4.7",
+        "contents": "<p>4.4.7 전단벽의 허용전단응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 274,
+        "title": "4.4.7 전단벽의 허용전단응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 전단벽에서 허용전단응력은 다음과 같다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 275,
+        "title": "4.4.7.1 점토 조적체",
+        "level": 4,
+        "label": "4.4.7.1",
+        "contents": "<p>4.4.7.1 점토 조적체</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 276,
+        "title": "4.4.7.1 점토 조적체",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                   <img src=\"data:image/gif;base64,R0lGODlhZwATAPUAAAAAAAAAOgAAZgA6kABmtjo6ZjpmtjqQtjqQ20kAAGYAOmZmOmZmtmaQ22a222a2/5A6AJBmOpBmkJBmtpCQtpCQ25C2/5DbtpDb/7ZmALZmOrZmZra2tra2/7bb27bb/7b//9uQOtuQZtuQkNu2Ztu2ttvb/9v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC0ALAAAAABnABMAAAb+wJZwSCwaj8ikcslsOp/QqFS5SgCu2Kx2CxBMv2DpqhEum89HEWZ6NXLPWGR8OG9pmSzJyQ1Y9o9/QoFggYOCdIeJhksqD252SouIk2GFj4qTkkkbIJeRcoiaXG2ei5aQmE4rDJ5slGWnRLGZdUkoa7K1UHdwr4molLMtLHtCecWyhL58b6XOy7/DEI5CKmStUcKVmcG+syUhA8Vq2NloRaexf+m+Kwprq4DKRSzTKgaVpMx0WfySGQhapLAgb4i7BQAGRABwAFC/ISVKfGBB4ZxFISjEccJWggSBExkcrKgIhcOJFRUuWnR34VooI5yOregAhcUEFhtVnstQABchPyPHrLUY4cHEExYaArjUeSYjMiVCUTjKQICpVVU0LQYBADs=\" width=\"103\" height=\"18\" vspace=\"0\" hspace=\"0\" border=\"0\">  (최대：0.551 MPa)              (4.4-6)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 277,
+        "title": "4.4.7.2 모르타르를 사용한 콘크리트 조적체",
+        "level": 4,
+        "label": "4.4.7.2",
+        "contents": "<p>4.4.7.2 모르타르를 사용한 콘크리트 조적체</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 278,
+        "title": "4.4.7.2 모르타르를 사용한 콘크리트 조적체",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 최대 <img src=\"data:image/gif;base64,R0lGODlhHQARAPUAAAAAAAAAZgA6kABmtjo6kDqQ22YAAGYAZmY6AGY6kGZmtma2/5A6AJA6OpA6kJCQtpC2/5Db/7ZmALa2tra227bb/7b//9uQZtu2Ztu2ttvb29vb/9v/29v///+2Zv/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACMALAAAAAAdABEAAAZqwJFwSCwaj8ikcslkhgyAaHTQTIYOFiGmUEV6qCIKqHL0SM/UomQxukS6yGdU0Emaz9Oihx5SwJESXCIbf0YiDW+FRx8EdUMhCRwOjk0iDFEBWUIaEx0ZlIpCYSIPoUUfEB5spo8IdKywQQA7\" width=\"31\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\"><img src=\"data:image/gif;base64,R0lGODlhIAAOAPUAAAAAAAAAOgA6ZgA6kABmtjoAADoAOjo6ZjpmtjqQ22YAAGYAOmYAZmY6AGY6ZmZmkGaQ22a222a2/5A6AJCQtpDb/7ZmALZmOraQkLa2tra227a2/7bb/7b//9uQOtu2Ztu2ttv///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACkALAAAAAAgAA4AAAaowJRwSCwaj8ikcikqBCRGDyAAGZ4a1KIoYXVwSo4OkVQlGSqpEqNjRgtRF65QhBB6oEPRIJSyyIUnC24pIB9/HnKISBZ4Qh8EQyUcW0OKKZZFJw98KScKAmJCGSmUdol/RBicQyQHYiNipZenRiCrJhopKBNQFgC/AJCkdX0Su3iwnRuXe7uomCdeaqFCJAW/AWgnFCFtRJikTo1KJFgRRL7BS+vs7e5BADs=\" width=\"33\" height=\"13\" vspace=\"1\" hspace=\"0\" border=\"0\"> MPa 로 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 279,
+        "title": "4.4.7.3 무근조적조",
+        "level": 4,
+        "label": "4.4.7.3",
+        "contents": "<p>4.4.7.3 무근조적조</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 280,
+        "title": "4.4.7.3 무근조적조",
+        "level": 5,
+        "label": "(1)",
+        "contents": "<p>(1) 무근조적조의 허용전단응력 식 (4.3-6)의 값에 0.2<img src=\"data:image/gif;base64,R0lGODlhFgARAPUAAAAAAAAAOgA6ZgA6kABmtjo6ZjpmtjqQ22Y6AGY6kGaQ22a222a2/5A6OpA6ZpCQkJCQtpCQ25C2kJC2/5Db/7ZmALZmOrZmZrZmkLaQOraQkLa2trbb27bb/7b//9uQOtuQZtu2ttu229vbkNvbttvb29v/29v///+2Zv+2kP/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAC0ALAAAAAAWABEAAAZ3wJZwSCwaj8gkkdVgKJMgieF5XCVIHaoRddAaKwAAwVu0UMhLh8dbIqqmXsxayPWyHqdhxSlUFRACCAFnQhYAXUIsakMkZh8LKYRcKhNCIiNwiRAtGicheS0XHpEtVhl8fREsmxttnCYXHKBGkSqqDZIDIwpoR0EAOw==\" width=\"23\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">만큼 증가된다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 281,
+        "title": "4.4.8 허용지압응력",
+        "level": 3,
+        "label": "4.4.8",
+        "contents": "<p>4.4.8 허용지압응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 282,
+        "title": "4.4.8 허용지압응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 부재가 조적요소의 전면적으로 지탱할 때 허용지압응력 <img src=\"data:image/gif;base64,R0lGODlhEwARAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6Ojo6Zjo6kDqQ22YAAGYAOmaQ22a222a2/5A6AJA6OpA6ZpBmkJCQtpCQ25C2/5Db/7ZmALZmZraQZra2/7bb/7b//9uQOtuQZtu2ttvbttvb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAATABEAAAZtQJVwSCwaj8hi6gFoNgejpDAFsQhNDOkVEVWhNFpVJ6E6bczapUOVsYZRimdXSyKosMKQ9kJGpyRzRigLbkIoFFImXEQmBgIcdwcFZEtNAYUeDSRrIBiQUp4kVikTYR8iEZAmFW8LayolhWFHQQA7\" width=\"21\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음 식과 같다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 283,
+        "title": "4.4.8 허용지압응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhVwARAPUAAAAAAAAAOgAAZgA6ZgA6kABmtjoAADoAOjoAZjo6Ojo6Zjo6kDpmtjqQ22YAAGYAOmY6AGY6OmY6ZmZmkGZmtmaQ22a222a2/5A6AJA6OpA6ZpBmOpBmZpBmkJCQtpCQ25C225C2/5Db/7ZmALZmOrZmZraQOraQkLa2kLa2tra2/7bb/7b//9uQOtuQZtu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAACH5BAAAAD0ALAAAAABXABEAAAb+wJ5wSCwaj8ikcslsOp/QqDQ3sUmv2Kyx1SjeAOAw4KI96iCAwcr4MqTXQxKAYdxFyEgeh2W8Cfg9PBkiZUU8GBY9LwRWQzkUNjwmf4EnKzkIgEI7EzALjUY6KkcjXT0pPTGgSjluYmCUjp+Bg0Q3AYQ7D4QlmkUkFzpwT7qEL2QzhV6MQiN4dbs5CxtphEKtYAVSLWGxTtivAN49LdrNpltdX12LoNKrToddOxRCNMpE5UOlRzkfQn747HDwjMuVHAcI8bjHowO8MjeY9XB2yFwPHSCGBAyEAc+hZ1D0EdnxD9+1WYKsDdERQggOEZj4fLyWScpMIjkSUMqhwABpuiuHKiiSeM2VOBbyhjYSeU0BhAEQcJEKQ9SFhRtkZPQqdOZNkx1o1KSq0ZGIDBIiWlh4CaXXDYUeTGbZIQHFrCE84p6woQpKjBoa+ORoKRfLiAEqr33IeyoZsQd42BY2+dJfysmYMwcBADs=\" width=\"88\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                       (4.4-7)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 284,
+        "title": "4.4.8 허용지압응력",
+        "level": 4,
+        "label": "(2)",
+        "contents": "<p>(2) 부재가 조적요소의 1/3 이하의 면적으로 지탱할 때 허용지압응력 <img src=\"data:image/gif;base64,R0lGODlhEwARAPUAAAAAAAAAOgAAZgA6kABmtjoAADo6Ojo6Zjo6kDqQ22YAAGYAOmaQ22a222a2/5A6AJA6OpA6ZpBmkJCQtpCQ25C2/5Db/7ZmALZmZraQZra2/7bb/7b//9uQOtuQZtu2ttvbttvb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACoALAAAAAATABEAAAZtQJVwSCwaj8hi6gFoNgejpDAFsQhNDOkVEVWhNFpVJ6E6bczapUOVsYZRimdXSyKosMKQ9kJGpyRzRigLbkIoFFImXEQmBgIcdwcFZEtNAYUeDSRrIBiQUp4kVikTYR8iEZAmFW8LayolhWFHQQA7\" width=\"21\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">는 다음 식과 같다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 285,
+        "title": "4.4.8 허용지압응력",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                             <img src=\"data:image/gif;base64,R0lGODlhVwARAPYAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6ADo6Ojo6Zjo6kDpmtjqQ22YAOmY6AGY6OmY6ZmZmkGZmtmaQtmaQ22a222a2/5A6AJA6OpA6ZpBmAJBmOpBmZpBmkJCQkJCQtpCQ25C2/5Db/7ZmALZmOrZmZraQkLa2kLa2tra227a2/7bb/7b//9uQOtuQZtuQkNu2Ztu2kNu2ttvbttvb29vb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAEEALAAAAABXABEAAAf+gEGCg4SFhoeIiYqLjI2Oj5CRkj0UOpKXmJmGMA+FOwCgoQAZmoU+EQAELoZAJ6klgqeviD8SpIhAHy+GOwK7QUAbsKWCQBoYQTMFloPGpDC+QByrPQy/hD8UNA3Mhj4thyadQStBNd2IPQeiob6EPdzAwoi9Lz8jgzLXgycZPquQfkCANYPUDWKDdiwTZOJWISAdOgWzoAMIi0LqQBmQBKPdPkUZ2QFwNwjGRobjCJkA4KCZhgEUDcFD58hYpx8VBOFAKMjkIHGITFqi4eLUQkKcLvVAAAvITiAgaGZSyKyhsY0WBanL0ONWK4fANIB95BMbPp4z5Q0TtCMArK2COxzGfZfgYyNnGBe4q3YgZSRjF5IdLRZiJ7QX1Vb5mLCvrFYGEQhEcBsu1OAYGObaQGEXkixVrDykAshDwSxBNXKIJWTjRAkYGHisbcR5R1MRPDX9mKAiXjPcKXScg5Saw64eJHJrMkFgdpAeI4DgXnHwkcBbspVrlw09mHPt4LUHAgA7\" width=\"88\" height=\"16\" vspace=\"1\" hspace=\"0\" border=\"0\">                       (4.4-8)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 286,
+        "title": "4.4.8 허용지압응력",
+        "level": 4,
+        "label": "(3)",
+        "contents": "<p>(3) 식 (4.4-8)은 응력이 작용하는 부분과 작용하지 않는 부분의 가장자리 간격이 적어도 응력이 작용하는 부분의 평행방향치수의 1/4 이상일 때 적용된다. 지압면적이 1/3보다 크고 전면적보다 작을 때 식 (4.4-7)과 식 (4.4-8)을 직선보간하여 사용한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 287,
+        "title": "4.4.9 휨과 축력의 조합하중, 압축응력",
+        "level": 3,
+        "label": "4.4.9",
+        "contents": "<p>4.4.9 휨과 축력의 조합하중, 압축응력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 288,
+        "title": "4.4.9 휨과 축력의 조합하중, 압축응력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 휨과 축력의 조합하중에 의한 압축응력은 4.4.4를 만족시켜야 한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 289,
+        "title": "4.4.10 벽과 기둥의 압축력",
+        "level": 3,
+        "label": "4.4.10",
+        "contents": "<p>4.4.10 벽과 기둥의 압축력</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 290,
+        "title": "4.4.10 벽과 기둥의 압축력",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 압축력에 의한 벽과 기둥의 응력은 4.3.5와 같이 산정한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 291,
+        "title": "4.4.11 휨모멘트 설계",
+        "level": 3,
+        "label": "4.4.11",
+        "contents": "<p>4.4.11 휨모멘트 설계</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 292,
+        "title": "4.4.11 휨모멘트 설계",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 식 (4.4-9)로 산정된 휨모멘트에 의한 응력은 4.1.2, 4.4.3, 그리고 4.4.5에 주어진 값을 넘지 못한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 293,
+        "title": "4.4.11 휨모멘트 설계",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                               <img src=\"data:image/gif;base64,R0lGODlhOgAkAPUAAAAAAAAAOgAAZgA6OgA6ZgA6kABmtjoAADoAOjoAZjo6ADo6Ojo6kDqQ22YAAGYAOmYAZmY6OmY6ZmZmkGaQtmaQ22a222a2/5A6AJA6ZpBmkJCQtpCQ25C2/5Db/7ZmALZmOrZmZraQOraQkLa2kLbb/7b//9uQOtuQZtuQkNu2kNu2ttvbkNvb/9v/29v///+2Zv+2kP/bkP/btv//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADYALAAAAAA6ACQAAAb+QJtwSCwaj8ikcslsOp/Q6BAGADSKp+pFyk3GFAZiLBLumo0jUdkmo2C257iNxjmVaxsZ4yWPpzwnBXwjLx9XfWZ4NjCCKB40Dx6IZjIdiwUslox8k1wpJosDFUKGnVwzE3ybbBCgplAfVWE1LzUYVQGSIAFwr2cwDTC9vl0hrsRnxjMtyGYwB8NHNBHRzU80Eyp71lIgFzMl3FAyB7JK5FXpVQLHr3qcfTQO6vT16uxYh0LMRuj1+L5s9aqhAZ64JDISHKNzkIkdIjIWAPSVpYqgIytcvCGCwoKwZjAmFqEhgcS2IcZgSEJWKskHAiuHZMzQzhSkmNceVOsUyGAbwyW29P1kIgMBzqFKHiJlInCpElvphDqdiiwIADs=\" width=\"60\" height=\"35\" vspace=\"1\" hspace=\"0\" border=\"0\">                         (4.4-9)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 294,
+        "title": "4.4.11 휨모멘트 설계",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhDgAPAPUAAAAAAAAAOgA6kABmtjoAADpmtjqQ22YAZmY6ZmY6kGZmtmaQtma2/5A6AJA6ZpBmOpCQOpCQkJCQ25C2/5DbtpDb/7ZmOrZmZraQkLaQtra227b//9uQOtuQZtu2kNv/ttv///+2Zv+2kP/bkP/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAACcALAAAAAAOAA8AAAZdwJNwSCwaj0MOYDAcEQQgoulREJos1WIpkvVAGEYRRXEqaRwbI+ZDzrCNJUkp4amEDMbRpIRYnCwVRh0VJQcbc1F/ASYNAAIfGk5LJ3chSEMXaZdCmSSblARgn0JBADs=\" width=\"15\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：휨부재의 휨모멘트(N·mm)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 295,
+        "title": "4.4.11 휨모멘트 설계",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhBAANAPMAAAAAADqQ22YAAGZmtma2/5A6AJA6ZpBmkJDb/7ZmZrb//9uQZv+2Zv//tv//2////yH5BAAAAA8ALAAAAAAEAA0AAAQY8MlJm5hsJumObIPEENKCPI6hOAUQUFQEADs=\" width=\"5\" height=\"12\" vspace=\"1\" hspace=\"0\" border=\"0\">  ：단면 중립축에서의 단면2차모멘트(mm<sup>4</sup>)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 296,
+        "title": "4.4.11 휨모멘트 설계",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCQAPAPQAAAAAAAAAZgBmtjoAADpmtjqQ22YAOmYAZmY6kGZmkGa222a2/5A6OpA6ZpCQ25Db/7ZmALZmOrZmZra2Zra2kLb//9uQZtu2ttv/29v///+2Zv/bkP/btv//tv//2////yH5BAAAAB8ALAAAAAAJAA8AAAU74CeOZGl+HrOYEkWUW/FlJAQAghk9ZofQnATto5F9Oo4RZPXZDALHQ0VkUWgQE+NHUtGYLphGz8A8hQAAOw==\" width=\"9\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：설계휨하중에 의한 부재 맨 바깥쪽(최대) 휨응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 297,
+        "title": "4.4.12 휨부재와 전단벽의 전단",
+        "level": 3,
+        "label": "4.4.12",
+        "contents": "<p>4.4.12 휨부재와 전단벽의 전단</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 298,
+        "title": "4.4.12 휨부재와 전단벽의 전단",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 휨부재와 전단벽에서의 전단응력은 식 (4.4-10)에 근거하여 산정한다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 299,
+        "title": "4.4.12 휨부재와 전단벽의 전단",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>                               <img src=\"data:image/gif;base64,R0lGODlhOAAkAPUAAAAAAAAAOgAAZgA6kABmtjoAADoAZjo6kDpmtjqQ22YAAGYAOmYAZmY6AGY6kGZmAGaQkGaQ22a2/5A6AJA6OpA6kJCQtpC2/5Db/7ZmALZmOrZmZraQOraQZraQkLaQtra2tra227a2/7bbkLbb/7b/27b//9uQOtu2Ztu2ttu229vb29vb/9v/ttv/29v///+2Zv+2tv/bkP/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAADcALAAAAAA4ACQAAAb9wJtwSCwaj8ikcslsOp/QqKwACGBuU0AiymXKDq9hh9QtJ7/h20xkbhtlBtPNBnLbh3B5Sn6352cXfXc1DCUfgoMLEHyIbTUKEo12NRaSlkw2FJGXZRsjCJxdMgk0ZKFQGQAABEwwqq+qrJYaV6dRNQ5pS66wsUePvcG9AoxYoLZRJ5vITpm1N7guFbrMQyotuUMrIC8p1H0yEUu4HFtDNiE2lY02E+ZKGQPUMhcwy4IpD+9QNQ3yjTVEZNhXLUmdgQWXxJBzgmBCIsBUOXwoxAMfhBSLoAgkBKMQDQHu2WoHQB5JLUJgJLCXEcmGYi2LvJzBIqYRGAVE2kwSBAA7\" width=\"58\" height=\"35\" vspace=\"1\" hspace=\"0\" border=\"0\">                         (4.4-10)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 300,
+        "title": "4.4.12 휨부재와 전단벽의 전단",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>여기서, <img src=\"data:image/gif;base64,R0lGODlhCQANAPQAAAAAAAAAZgA6kDoAADoAOjoAZjo6kGaQ27aQtra2/7bbtrbb/7b//9u2ttv///+2Zv+2tv/bkP//tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABQALAAAAAAJAA0AAAUrICWOZFlGAxAwVDQ+gmPCMgW9MSUluDMhpIjB0aiJIgXF4kQ4mIRGk7QUAgA7\" width=\"9\" height=\"12\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：총 설계전단력(N)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 301,
+        "title": "4.4.12 휨부재와 전단벽의 전단",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhDAAPAPQAAAAAAAAAOgAAZjoAADqQ22Y6Oma2/5A6AJC225Db/7ZmALZmOrZmZra227b//9uQZtuQkNvb2/+2Zv/btv/b2///tv//2////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAABcALAAAAAAMAA8AAAU74CWOZGme4pOg11SsaLPA5uTMpxVd6ikBQIOpghAphCWIw4hcBCwHgFABEDgkBAmLsdw6KCzJAMm6hAAAOw==\" width=\"13\" height=\"14\" vspace=\"1\" hspace=\"0\" border=\"0\"> ：부재의 전체단면적(mm<sup>2</sup>)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 302,
+        "title": "4.4.12 휨부재와 전단벽의 전단",
+        "level": 5,
+        "label": "본문",
+        "contents": "<p>       <img src=\"data:image/gif;base64,R0lGODlhCgAPAPQAAAAAAAA6kABmtjpmtjqQ22YAZmY6AGY6kGa2/5A6OpA6kJCQtpC2/5Db/7ZmALZmOrZmZra2Zra2kLa2tra227b//9u2ttvb29v/29v///+2Zv/bkP//tv//2////wAAACH5BAAAAB4ALAAAAAAKAA8AAAU6oCeOZGmOXYKckDSYG+FlpQMAwvk0J3fQJo3s5Fh5fBjFsVARXSYZyyEy9HQonQWMoTGSOIYA8OQJAQA7\" width=\"10\" height=\"14\" vspace=\"0\" hspace=\"0\" border=\"0\"> ：설계하중에 의한 전단응력(MPa)</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 303,
+        "title": "4.4.13 코벨",
+        "level": 3,
+        "label": "4.4.13",
+        "contents": "<p>4.4.13 코벨</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 304,
+        "title": "4.4.13 코벨",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 무근조적조코벨의 경사부의 기울기(수평면에서 경사면까지의 각도)는 60°보다 작을 수 없다. 벽체의 면에서 코벨의 수평돌출의 최댓값은 허용응력을 넘지 않는 한도이다.</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 305,
+        "title": "4.4.14 통줄눈쌓기",
+        "level": 3,
+        "label": "4.4.14",
+        "contents": "<p>4.4.14 통줄눈쌓기</p>"
+      },
+      {
+        "no": 5041,
+        "sort": 306,
+        "title": "4.4.14 통줄눈쌓기",
+        "level": 4,
+        "label": "(1)",
+        "contents": "<p>(1) 통줄눈쌓기로 구성된 조적조는 최소한 벽체의 수직방향 단면적의 0.00027배의 길이방향 보강이 수평방향으로 가로줄눈이나 연결보에 수직적으로 1,220 mm 이하 간격으로 설치하여야 한다.</p>"
+      }
+    ]
+  }
+]
